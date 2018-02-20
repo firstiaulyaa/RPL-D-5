@@ -47,7 +47,6 @@ Rekayasa Perangkat Lunak project2
 	Anggota : Firmansyah	   (1603097) 
 		  Diyanti 	   (1603094) 
 
-git 
 4. Proses Teknis
 
   4.1	Metode, alat, dan teknik
@@ -61,7 +60,27 @@ git
 	i.	Semua dokumen pendukung proyek akan selesai dalam fase yang sesuai.
 
 
+5. Paket pekerjaan, jadwal, dan budget
 
+  5.1	Paket pekerjaan
+  	Nama | Paket Pekerjaan
+  	---- | ---------------
+  	Fristi Aulya Khusnul Khotimah | Desain
+  	Diyanti | Desain
+  	Firmansyah | Code Program
+  5.2	Ketergantungan/keterkaitan
+  5.3	Kebutuhan sumber daya
+  	i.		personal
+  	ii.		biaya
+  	iii.	perangkat keras
+  	iv.		perangkat lunak
+  			- Windows
+  			- Android Studio
+  			- Balsamiq
+  			- Browser
+  			- Sublime
+  5.4	Alokasi budget dan sumber daya
+  5.5	Jadwal
 
 
 
