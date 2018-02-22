@@ -4,6 +4,47 @@ Firsti Aulya K H (1603098)
 Firmansyah(1603097)
 Diyanti(1603094)
 
+
+
+1.	Pendahuluan
+
+1.1.	Gambaran Proyek
+1.2.	Dokumen-dokumen dalam proyek
+1.3.	Evolusi SPMP
+1.4.	Material acuan
+
+•	Aplikasi pendukung
+
+-	Android Studio
+-	Sublime Text
+-	Balsamiq
+-	MySQL
+
+1.5.	Definisi dan akronim (singkatan)
+
+2.	Organisasi Proyek
+
+2.1.	Model proses
+
+Model proses yang digunakan dalam kelompok kami adalah V-Model.
+
+2.1.1.	Definisi
+
+V-Model merupakan model pengembangan perangkat lunak yang didasarkan pada hubungan antara setiap fase pengembangan siklus hidup yang tercantum dalam model Watterfall yang merupakan pengembangan perangkat lunak dan fase yang terkait pengujian. Bisa dikatakan model ini merupakan perluasan dari model waterfall. Disebut sebagai perluasan karena tahap-tahapnya mirip dengan yang terdapat dalam model waterfall. Jika dalam model waterfall proses dijalankan secara linear, maka dalam model V proses dilakukan bercabang.
+
+2.1.2.	Kelebihan
+
+-	V-Model sangat fleksibel. 
+
+
+2.2.	Struktur organisasi
+
+
+2.3.	Batasan dan antarmuka organisasi
+
+2.4.	Lingkup dan tanggung jawab
+
+
 3. Proses Manajerial 
 3.1 Tujuan dan prioritas manajemen 
 	i. Prioritas jadwal Tujuan dari proyek ini adalah untuk mengenalkan kebudayaan yang ada di Indramayu, menyediakan form pendaftaran bagi peserta yang ingin mendaftar lomba-lomba yang diselenggarakan oleh dinas kebudayaan dan pariwisata kabupaten Indramayu.
