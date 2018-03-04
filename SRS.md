@@ -65,6 +65,7 @@ Pada proyek ini dibuat dengan sistem berbasis Android dimana aplikasi ini bisa d
 Aplikasi ini memungkinkan admin untuk menyebarkan informasi tentang lomba atau event yang diadakan oleh Dinas Kebudayaan dan Pariwisata Kabupaten Indramayu dan informasi seputar pariwisata apa saja yang berada di daerah Indramayu.<br>
 <strong>2.1.1 Antarmuka sistem</strong
 ><br>
+
 ![enter image description here](https://lh3.googleusercontent.com/-CNjbNaTNhmQ/WpuJ5kDQf5I/AAAAAAAAACA/kSVSESncFRQPHkvo011uQkTwp8ULKoktQCJoC/w530-h350-n-rw/Screenshot_10.png)
 <p>
 Sistem Aplikasi Budaya dan Pariwisata ini terdapat 2 aktor yaitu Admin dan User (Pengguna). Admin dan User (Pengguna) mempunyai fungsi yang berbeda dimana admin dapat mengolah data Pariwisata, data Budaya dan data Event juga dapat melihat ratting dari user. sedangkan user hanya dapat melihat data Pariwisata, data Budaya, dan data Event, user (pengguna) juga dapat menginputkan ratting.
