@@ -12,10 +12,11 @@ Kelompok 5 D3TI2D</p>
 <li>Firsti Aulya K. K. (1603098)</li>
 <li>Firmansyah (1603097)</li>
 <li>Diyanti (1603094)<br>
+<li>Rizky Alief Satria (1603111)<br>
 Jurusan D3 Teknik Informatika<br>
 Politeknik Negeri Indramayu</li>
 </ol>
-<p><strong>1. Pendahuluan</strong></p>
+<p><strong>1. PENDAHULUAN</strong></p>
 <p><strong>1.1 Tujuan</strong></p>
 <p>Dokumen ini bertujuan untuk menjelaskan secara detail mengenai aplikasi yang kami buat yang berjudul “Aplikasi Budaya dan Pariwisata Kabupaten Indramayu berbasis Android”,<br>
 pada dokumen ini akan menjelaskan seperti : Mock-up, rancangan sistem, dan lain-lain.</p>
@@ -49,20 +50,27 @@ Pada Proyek ini dibuat sistem berbasis android dimana pengolahan informasi dan d
 <td>Suatu perjalanan yang dilakukan untuk rekreasi atau liburan dan juga persiapan yang dilakukan untuk aktivitas ini.</td>
 </tr>
 <tr>
-<td>Berita</td>
-<td>Informasi baru atau informasi mengenai sesuatu yang sedang terjadi, disajikan lewat bentuk cetak, siaran, Internet, atau dari mulut ke mulut kepada orang ketiga atau orang banyak.</td>
+<td>SRS</td>
+<td> Software Requirements Specification</td>
 </tr>
 </tbody>
 </table><p><strong>1.4 Referensi</strong><br>
 <a href="https://id.wikipedia.org/wiki/Android_(sistem_operasi)">https://id.wikipedia.org/wiki/Android_(sistem_operasi)</a>, <a href="https://id.wikipedia.org/wiki/Berita">https://id.wikipedia.org/wiki/Berita</a>, <a href="https://id.wikipedia.org/wiki/Budaya">https://id.wikipedia.org/wiki/Budaya</a>.</p>
 <p><strong>1.5 Overview</strong><br>
 Dokumen ini dibagi menjadi tiga bagian utama. Bagian pertama berisi penjelasan tentang dokumen SRS yang mencakup tujuan pembuatan dokumen ini, lingkup masalah yang diselesaikan yang dikembangkan oleh kami yaitu definisi, referensi, dan deskripsi umum. Bagian kedua berisi penjelasan secara umum mengenai aplikasi yang akan di kembangkan meliputi fungsi, karakteristik pengguna, batasan dan asumsi yang diambil dalam pengembangan aplikasi.Bagian ke tiga berisi uraian aplikasi secara lebih rinci.</p>
-<p><strong>2. Gambaran Umum</strong><br>
+<p><strong>2. GAMBARAN UMUM</strong><br>
 Aplikasi Budaya dan Pariwisata Kab. Indramayu Berbasis Android adalah aplikasi yang digunakan untuk mempermudah penggunaan dalam pencarian dan informasi seputar budaya dan pariwisata di Kabupaten Indramayu.</p>
 <p><strong>2.1. Perspektif Produk</strong><br>
 Pada proyek ini dibuat dengan sistem berbasis Android dimana aplikasi ini bisa diakses hanya dengan smartphone dengan Sistem operasinya adalah Android. Aplikasi ini dibangun dengan menggunakan aplikasi Android Studio dan Firebase sebagai databasenya.<br>
 Aplikasi ini memungkinkan admin untuk menyebarkan informasi tentang lomba atau event yang diadakan oleh Dinas Kebudayaan dan Pariwisata Kabupaten Indramayu dan informasi seputar pariwisata apa saja yang berada di daerah Indramayu.<br>
-<strong>2.1.1 Antarmuka sistem</strong><br>
+<strong>2.1.1 Antarmuka sistem</strong
+><br>
+![enter image description here](https://lh3.googleusercontent.com/-CNjbNaTNhmQ/WpuJ5kDQf5I/AAAAAAAAACA/kSVSESncFRQPHkvo011uQkTwp8ULKoktQCJoC/w530-h350-n-rw/Screenshot_10.png)
+<p>
+Sistem Aplikasi Budaya dan Pariwisata ini terdapat 2 aktor yaitu Admin dan User (Pengguna). Admin dan User (Pengguna) mempunyai fungsi yang berbeda dimana admin dapat mengolah data Pariwisata, data Budaya dan data Event juga dapat melihat ratting dari user. sedangkan user hanya dapat melihat data Pariwisata, data Budaya, dan data Event, user (pengguna) juga dapat menginputkan ratting.
+</p>
+
+
 <strong>2.1.2 Antarmuka pengguna</strong></p>
 <ul>
 <li>
@@ -140,12 +148,15 @@ Sistem ini diharapkan dapat di gunakan dalam jangka panjang dan sistem ini dapat
 Aplikasi dapat menyediakan backup pada database yang digunakan.<br>
 <strong>2.3.4 Spesifikasi Keamanan</strong><br>
 Keamanan data akan terjaga karena menerapkan validasi pada saat pengguna mulai login.</p>
-<p><strong>2.4. Karakteristik Pengguna</strong> (skip)<br>
+<p><strong>2.4. Karakteristik Pengguna</strong><br></p>
+<p>
+Dengnan adanya aplikasi ini diharapkan dapat membantu admin mengolah data pariwisata, data kebudayaan, data event dan pendaftaran untuk mengikuti event. kemudian bagi pengguna sendiri diharapkan dapat mempermudah pengguna untuk mendapatkan informasi tentang pariwisata, kebudayaan dan event yang di adakan oleh dinas kebudayaan dan pariwisata kabupaten Indramayu menggunakan aplikasi mobile ini.
+</p>
 <strong>2.5. Batasan-batasan</strong><br>
 Pada Aplikasi Budaya dan Pariwisata Kabupaten Indramayu harus menggunakan smartphone denga sistem operasi Android untuk dapat mengaksesnya atau menggunakannya. Pengguna dapat login dengan mendaftar terlebih dahulu.<br>
-<strong>2.6. Asumsi-asumsi Keterkaitan</strong> (skip)<br>
-<strong>2.7. Kebutuhan Penyeimbang</strong> (skip)</p>
 <p><strong>3. Requirement Specification</strong></p>
 <p><strong>3.1 Persyaratan Antarmuka Eksternal</strong><br>
 Salah satu persyaratan untuk mengakses Aplikasi ini adalah dengan mendaftarkan diri dan melengkapi kolom data diri.</p>
+<p><strong>3.2 Functional Reqruitment</strong><br>
 
+<p><strong>3.3 Struktur Detail Kebutuhan Non Functional</strong><br>
