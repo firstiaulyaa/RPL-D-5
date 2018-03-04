@@ -3,22 +3,25 @@
 
 ---
 
-<h1 id="software-requirements-specification">SOFTWARE REQUIREMENTS SPECIFICATION</h1>
+<p align="center"><h1 id="software-requirements-specification">SOFTWARE REQUIREMENTS SPECIFICATION</h1></p>
 <p>VERSION<br>
 22 Februari 2018<br>
 <p align="center">
 <img src="https://lh3.googleusercontent.com/qEHYPVzo0kjd8ikhrCIF4cI_PhR8pmK5vDU14oEp9OPyVT-eA54cVp8C9iyJ8rKDfH8OR1dnT1zv=s300" alt="enter image description here" title="logo">
-Kelompok 5 D3TI2D</p>
+<p align="center">Kelompok 5 D3TI2D</p>
 <ol>
-<li>Firsti Aulya K. K. (1603098)</li>
+<p align="center"><li>Firsti Aulya K. K. (1603098)</li>
 <li>Firmansyah (1603097)</li>
 <li>Diyanti (1603094)<br>
 <li>Rizky Alief Satria (1603111)<br>
-Jurusan D3 Teknik Informatika<br>
-Politeknik Negeri Indramayu</li>
+</p>
+<h2 align="center"><strong>Jurusan D3 Teknik Informatika</strong></h2>
+<h2 align="center"><strong>Politeknik Negeri Indramayu </strong></h2>
+<h2 align="center"><strong>2018</strong></h2>
+</li>
 </ol>
 </p>
-<p><strong>1. PENDAHULUAN</strong></p>
+<p><strong>1. PENDAHULUAN</strong>
 <p><strong>1.1 Tujuan</strong></p>
 <p>Dokumen ini bertujuan untuk menjelaskan secara detail mengenai aplikasi yang kami buat yang berjudul “Aplikasi Budaya dan Pariwisata Kabupaten Indramayu berbasis Android”,<br>
 pada dokumen ini akan menjelaskan seperti : Mock-up, rancangan sistem, dan lain-lain.</p>
@@ -378,9 +381,11 @@ Salah satu persyaratan untuk mengakses Aplikasi ini adalah dengan mendaftarkan d
 <br>
 
 
+
 <p><strong>3.3 Struktur Detail Kebutuhan Non Functional</strong><br>
 <p><strong>3.3.1 Logika Struktur Data</strong><br>
 <p>Struktur data logika pada sistem Aplikasi Budaya dan Pariwisata terdapat struktur Database yang dijelaskan menggunakan ERD.
+
 
 
 ![enter image description here](https://1.bp.blogspot.com/-Wwz2A0ULTEA/Wpu3d82p1NI/AAAAAAAAADg/irPmAVKe5rMZzWTABoXiqvz1jdRIsg7cACLcBGAs/s1600/ERD.jpg)
