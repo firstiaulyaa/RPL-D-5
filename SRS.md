@@ -8,7 +8,7 @@
 22 Februari 2018<br>
 <p align="center">
 <img src="https://lh3.googleusercontent.com/qEHYPVzo0kjd8ikhrCIF4cI_PhR8pmK5vDU14oEp9OPyVT-eA54cVp8C9iyJ8rKDfH8OR1dnT1zv=s300" alt="enter image description here" title="logo">
-<p align="center">Kelompok 5 D3TI2D</p>
+<p>Kelompok 5 D3TI2D</p>
 <ol>
 <p align="center"><li>Firsti Aulya K. K. (1603098)</li>
 <li>Firmansyah (1603097)</li>
@@ -164,6 +164,7 @@ Pada Aplikasi Budaya dan Pariwisata Kabupaten Indramayu harus menggunakan smartp
 <p><strong>3.1 Persyaratan Antarmuka Eksternal</strong><br>
 Salah satu persyaratan untuk mengakses Aplikasi ini adalah dengan mendaftarkan diri dan melengkapi kolom data diri.</p>
 <p><strong>3.2 Functional Reqruitment</strong><br>
+
 <p><strong>3.2.1 Sign In<Strong></p>
 <table>
 <thead>
@@ -202,6 +203,9 @@ Salah satu persyaratan untuk mengakses Aplikasi ini adalah dengan mendaftarkan d
 <tr>
 <td>Exception Push</td>
 <td> Tidak ada koneksi</td>
+</tr>
+</tbody>
+<br>
 
 <p><strong>3.2.2 Register</strong></p>
 </tr>
@@ -246,6 +250,7 @@ Salah satu persyaratan untuk mengakses Aplikasi ini adalah dengan mendaftarkan d
 <td> Tidak ada koneksi</td>
 </tr>
 </tbody>
+<br>
 
 <p><strong>3.2.3 Home</strong></p>
 </tr>
@@ -290,6 +295,7 @@ Salah satu persyaratan untuk mengakses Aplikasi ini adalah dengan mendaftarkan d
 <td> Tidak ada koneksi</td>
 </tr>
 </tbody>
+<br>
 
 <p><strong>3.2.4  Sign In (web)</strong></p>
 </tr>
@@ -333,10 +339,9 @@ Salah satu persyaratan untuk mengakses Aplikasi ini adalah dengan mendaftarkan d
 <td> Tidak ada koneksi</td>
 </tr>
 </tbody>
+<br>
 
 <p><strong>3.2.5  Kategori</strong></p>
-</tr>
-</tbody>
 <table>
 <thead>
 <tr>
@@ -379,7 +384,7 @@ Salah satu persyaratan untuk mengakses Aplikasi ini adalah dengan mendaftarkan d
 </tbody>
 <br>
 <br>
-
+<br>
 
 
 <p><strong>3.3 Struktur Detail Kebutuhan Non Functional</strong><br>
