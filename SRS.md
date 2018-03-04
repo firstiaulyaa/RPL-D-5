@@ -6,7 +6,8 @@
 <h1 id="software-requirements-specification">SOFTWARE REQUIREMENTS SPECIFICATION</h1>
 <p>VERSION<br>
 22 Februari 2018<br>
-<img src="https://lh3.googleusercontent.com/qEHYPVzo0kjd8ikhrCIF4cI_PhR8pmK5vDU14oEp9OPyVT-eA54cVp8C9iyJ8rKDfH8OR1dnT1zv=s300" alt="enter image description here" title="logo"><br>
+<p align="center">
+<img src="https://lh3.googleusercontent.com/qEHYPVzo0kjd8ikhrCIF4cI_PhR8pmK5vDU14oEp9OPyVT-eA54cVp8C9iyJ8rKDfH8OR1dnT1zv=s300" alt="enter image description here" title="logo">
 Kelompok 5 D3TI2D</p>
 <ol>
 <li>Firsti Aulya K. K. (1603098)</li>
@@ -16,6 +17,7 @@ Kelompok 5 D3TI2D</p>
 Jurusan D3 Teknik Informatika<br>
 Politeknik Negeri Indramayu</li>
 </ol>
+</p>
 <p><strong>1. PENDAHULUAN</strong></p>
 <p><strong>1.1 Tujuan</strong></p>
 <p>Dokumen ini bertujuan untuk menjelaskan secara detail mengenai aplikasi yang kami buat yang berjudul “Aplikasi Budaya dan Pariwisata Kabupaten Indramayu berbasis Android”,<br>
@@ -159,5 +161,233 @@ Pada Aplikasi Budaya dan Pariwisata Kabupaten Indramayu harus menggunakan smartp
 <p><strong>3.1 Persyaratan Antarmuka Eksternal</strong><br>
 Salah satu persyaratan untuk mengakses Aplikasi ini adalah dengan mendaftarkan diri dan melengkapi kolom data diri.</p>
 <p><strong>3.2 Functional Reqruitment</strong><br>
+<p><strong>3.2.1 Sign In<Strong></p>
+<table>
+<thead>
+<tr>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Nama Fungsi</td>
+<td>Sign In</td>
+</tr>
+<tr>
+<td>Ref</td>
+<td>Bag 2.1.2 Sign In</td>
+</tr>
+<tr>
+<td>Trigger</td>
+<td>Membuka Aplikasi Budaya dan Pariwisata </td>
+</tr>
+<tr>
+<td>Precondision</td>
+<td>Halaman Utama Aplikasi</td>
+</tr>
+<tr>
+<td>Basic Path</td>
+<td> User membuka aplikasi budaya dan pariwisata </td>
+</tr>
+<tr>
+<td>Alternative</td>
+<td> Tidak ada</td>
+</tr>
+<tr>
+<td>Post Condition</td>
+<td>User dapat login dan dapat mengakses aplikasi budaya dan pariwisata  </td>
+</tr>
+<tr>
+<td>Exception Push</td>
+<td> Tidak ada koneksi</td>
+
+<p><strong>3.2.2 Register</strong></p>
+</tr>
+</tbody>
+<table>
+<thead>
+<tr>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Nama Fungsi</td>
+<td>Register</td>
+</tr>
+<tr>
+<td>Ref</td>
+<td>Bag 2.1.2 Register</td>
+</tr>
+<tr>
+<td>Trigger</td>
+<td>Membuka Aplikasi Budaya dan Pariwisata </td>
+</tr>
+<tr>
+<td>Precondision</td>
+<td>Halaman Utama Aplikasi Budaya dan Pariwisata</td>
+</tr>
+<tr>
+<td>Basic Path</td>
+<td>1. User membuka aplikasi
+<p>2.User klik daftar</p></td>
+</tr>
+<tr>
+<td>Alternative</td>
+<td> Tidak ada</td>
+</tr>
+<tr>
+<td>Post Condition</td>
+<td>User dapat Daftar dan mengakses aplikasi budaya dan pariwisata  </td>
+</tr>
+<tr>
+<td>Exception Push</td>
+<td> Tidak ada koneksi</td>
+</tr>
+</tbody>
+
+<p><strong>3.2.3 Home</strong></p>
+</tr>
+</tbody>
+<table>
+<thead>
+<tr>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Nama Fungsi</td>
+<td>Home</td>
+</tr>
+<tr>
+<td>Ref</td>
+<td>Bag 2.1.2 Home</td>
+</tr>
+<tr>
+<td>Trigger</td>
+<td>Membuka Aplikasi Budaya dan Pariwisata </td>
+</tr>
+<tr>
+<td>Precondision</td>
+<td>Halaman Login atau Daftar</td>
+</tr>
+<tr>
+<td>Basic Path</td>
+<td> 1. Admin mengisi username dan password
+<p>2. Admin klik button Sign In</p></td>
+</tr>
+<tr>
+<td>Alternative</td>
+<td> Tidak ada</td>
+</tr>
+<tr>
+<td>Post Condition</td>
+<td>User dapat memilih menu kategori apa yang ingin di pilih seperti menu Pariwisata, menu Budaya dan menu Event </td>
+</tr>
+<tr>
+<td>Exception Push</td>
+<td> Tidak ada koneksi</td>
+</tr>
+</tbody>
+
+<p><strong>3.2.4  Sign In (web)</strong></p>
+</tr>
+</tbody>
+<table>
+<thead>
+<tr>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Nama Fungsi</td>
+<td>Sign In (web)</td>
+</tr>
+<tr>
+<td>Ref</td>
+<td>Bag 2.1.2 Sign In</td>
+</tr>
+<tr>
+<td>Trigger</td>
+<td>Membuka Aplikasi Budaya dan Pariwisata pada website</td>
+</tr>
+<tr>
+<td>Precondision</td>
+<td>Halaman Login </td>
+</tr>
+<tr>
+<td>Basic Path</td>
+<td> User membuka aplikasi pada website</td>
+</tr>
+<tr>
+<td>Alternative</td>
+<td> Tidak ada</td>
+</tr>
+<tr>
+<td>Post Condition</td>
+<td>Admin dapat login   </td>
+</tr>
+<tr>
+<td>Exception Push</td>
+<td> Tidak ada koneksi</td>
+</tr>
+</tbody>
+
+<p><strong>3.2.5  Kategori</strong></p>
+</tr>
+</tbody>
+<table>
+<thead>
+<tr>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Nama Fungsi</td>
+<td>Kategori</td>
+</tr>
+<tr>
+<td>Ref</td>
+<td>Bag 2.1.2 Kategori</td>
+</tr>
+<tr>
+<td>Trigger</td>
+<td>Membuka Aplikasi Budaya dan Pariwisata pada website</td>
+</tr>
+<tr>
+<td>Precondision</td>
+<td>Halaman Login </td>
+</tr>
+<tr>
+<td>Basic Path</td>
+<td> 1. Admin mengisi username dan password
+<p>2. Admin klik button sign in</td>
+<tr>
+<tr>
+<td>Alternative</td>
+<td> Tidak ada</td>
+</tr>
+<tr>
+<td>Post Condition</td>
+<td>Admin dapat memilih menu apa yang akan di akses pada aplikasi budaya dan pariwisata  </td>
+</tr>
+<tr>
+<td>Exception Push</td>
+<td> Tidak ada koneksi</td>
+</tr>
+</tbody>
+<br>
+<br>
+
 
 <p><strong>3.3 Struktur Detail Kebutuhan Non Functional</strong><br>
+<p><strong>3.3.1 Logika Struktur Data</strong><br>
+<p>Struktur data logika pada sistem Aplikasi Budaya dan Pariwisata terdapat struktur Database yang dijelaskan menggunakan ERD.
+
+
+![enter image description here](https://1.bp.blogspot.com/-Wwz2A0ULTEA/Wpu3d82p1NI/AAAAAAAAADg/irPmAVKe5rMZzWTABoXiqvz1jdRIsg7cACLcBGAs/s1600/ERD.jpg)
+
+<p>Pada ERD terdapat tabel admin, tabel user, tabel pariwisata, tabel budaya, tabel event dan tabel ratting.
+Dimana admin menginputkan data Budaya, data Pariwisata, dan data Event.Admin juga dapat mengolah data Budaya, data Pariwisata dan data Event dan admin juga dapat mengolah data user.
+Sementara User dapat melihat data Budaya, melihat data Pariwisata, dan data Event. User dapat menginputkan ratting untuk memberikan penilaian.</p>
+
+
+
