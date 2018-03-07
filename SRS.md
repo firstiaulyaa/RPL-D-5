@@ -558,6 +558,245 @@ Salah satu persyaratan untuk mengakses Aplikasi ini adalah dengan mendaftarkan d
 </tr>  
 </tbody>   
 </table>
+<p><strong>3.2.6 Admin Login</strong></p>  
+<table>  
+<thead>  
+<tr>  
+</tr>  
+</thead>  
+<tbody>  
+<tr>  
+<td>Nama Fungsi</td>  
+<td>Admin Login</td>  
+</tr>  
+<tr>  
+<td>Ref</td>  
+<td>Bag 2.2.6 Admin Login</td>  
+</tr>  
+<tr>  
+<td>Trigger</td>  
+<td>Membuka Aplikasi Budaya dan Pariwisata </td>  
+</tr>  
+<tr>  
+<td>Precondision</td>  
+<td>Halaman Utama Login</td>  
+</tr>  
+<tr>  
+<td>Basic Path</td>  
+<td>
+<ol>
+<li>Admin mengisi form login dengan username dan password dan mengklik button login</li>
+<li>sistem melakukan validasi login</li>
+<li>bila sukses sistem akan mengarahkan ke halaman utama</li>
+<li>bila gagal sistem akan menampilkan notif peringatan</li>
+</ol>
+</td>  
+</tr>  
+<tr>  
+<td>Alternative</td>  
+<td> Tidak ada</td>  
+</tr>  
+<tr>  
+<td>Post Condition</td>  
+<td>Halaman utama admin</td>  
+</tr>  
+<tr>  
+<td>Exception Push</td>  
+<td> Username dan password salah</td>  
+</tr>  
+</tbody>   
+</table>
+<p><strong>3.2.7 Admin Membuat Artikel</strong></p>  
+<table>  
+<thead>  
+<tr>  
+</tr>  
+</thead>  
+<tbody>  
+<tr>  
+<td>Nama Fungsi</td>  
+<td>Admin Membuat Artikel</td>  
+</tr>  
+<tr>  
+<td>Ref</td>  
+<td>Bag 2.2.7 Admin Membuat Artikel</td>  
+</tr>  
+<tr>  
+<td>Trigger</td>  
+<td>Membuka Aplikasi Budaya dan Pariwisata </td>  
+</tr>  
+<tr>  
+<td>Precondision</td>  
+<td>Halaman Utama Admin</td>  
+</tr>  
+<tr>  
+<td>Basic Path</td>  
+<td>
+<ol>
+<li>Admin memilih menu artikel pada sidebar</li>
+<li>Admin mengklik button tambah</li>
+<li>Admin mengisi form artikel dan mengklik button simpan </li>
+<li>Sistem akan mengirim data ke database</li></ol>
+</td>  
+</tr>  
+<tr>  
+<td>Alternative</td>  
+<td> Tidak ada</td>  
+</tr>  
+<tr>  
+<td>Post Condition</td>  
+<td>Halaman artikel</td>  
+</tr>  
+<tr>  
+<td>Exception Push</td>  
+<td> Tidak ada koneksi</td>  
+</tr>  
+</tbody>   
+</table>
+<p><strong>3.2.8 Admin Mengedit Artikel</strong></p>  
+<table>  
+<thead>  
+<tr>  
+</tr>  
+</thead>  
+<tbody>  
+<tr>  
+<td>Nama Fungsi</td>  
+<td>Admin Mengedit Artikel</td>  
+</tr>  
+<tr>  
+<td>Ref</td>  
+<td>Bag 2.2.8 Admin Mengedit Artikel</td>  
+</tr>  
+<tr>  
+<td>Trigger</td>  
+<td>Membuka Aplikasi Budaya dan Pariwisata </td>  
+</tr>  
+<tr>  
+<td>Precondision</td>  
+<td>Halaman Utama Admin</td>  
+</tr>  
+<tr>  
+<td>Basic Path</td>  
+<td>
+<ol>
+<li>Admin memilih menu artikel pada sidebar</li>
+<li>Admin mengklik button edit</li>
+<li>Admin mengedit form artikel dan mengklik button simpan</li>
+<li>Sistem akan mengirim data ke database</li></ol>
+</td>  
+</tr>  
+<tr>  
+<td>Alternative</td>  
+<td> Tidak ada</td>  
+</tr>  
+<tr>  
+<td>Post Condition</td>  
+<td>Halaman artikel</td>  
+</tr>  
+<tr>  
+<td>Exception Push</td>  
+<td> Tidak ada koneksi</td>  
+</tr>  
+</tbody>   
+</table>
+<p><strong>3.2.9 Admin Menghapus Artikel</strong></p>  
+<table>  
+<thead>  
+<tr>  
+</tr>  
+</thead>  
+<tbody>  
+<tr>  
+<td>Nama Fungsi</td>  
+<td>Admin Menghapus Artikel</td>  
+</tr>  
+<tr>  
+<td>Ref</td>  
+<td>Bag 2.2.8 Admin Menghapus Artikel</td>  
+</tr>  
+<tr>  
+<td>Trigger</td>  
+<td>Membuka Aplikasi Budaya dan Pariwisata </td>  
+</tr>  
+<tr>  
+<td>Precondision</td>  
+<td>Halaman Utama Admin</td>  
+</tr>  
+<tr>  
+<td>Basic Path</td>  
+<td>
+<ol>
+<li>Admin memilih menu artikel pada sidebar</li>
+<li>Admin mengklik button hapus</li>
+<li>Sistem mengirim notif peringatan ke admin dan mengklik button ya</li>
+<li>Sistem akan mengirim data ke database</li></ol>
+</td>  
+</tr>  
+<tr>  
+<td>Alternative</td>  
+<td> Tidak ada</td>  
+</tr>  
+<tr>  
+<td>Post Condition</td>  
+<td>Halaman artikel</td>  
+</tr>  
+<tr>  
+<td>Exception Push</td>  
+<td> Tidak ada koneksi</td>  
+</tr>  
+</tbody>   
+</table>
+<p><strong>3.2.10 Admin Menampilkan Pengaduan</strong></p>  
+<table>  
+<thead>  
+<tr>  
+</tr>  
+</thead>  
+<tbody>  
+<tr>  
+<td>Nama Fungsi</td>  
+<td>Admin Menampilkan Pengaduan</td>  
+</tr>  
+<tr>  
+<td>Ref</td>  
+<td>Bag 2.2.10 Admin Menampilkan Pengaduan</td>  
+</tr>  
+<tr>  
+<td>Trigger</td>  
+<td>Membuka Aplikasi Budaya dan Pariwisata </td>  
+</tr>  
+<tr>  
+<td>Precondision</td>  
+<td>Halaman Utama Admin</td>  
+</tr>  
+<tr>  
+<td>Basic Path</td>  
+<td>
+<ol>
+<li>Admin memilih menu pengaduan pada sidebar</li>
+<li>Admin memilih pengaduan yang ingin ditampilkan</li>
+<li>Admin memilih menu artikel pada sidebar</li>
+<li>Admin mengklik button tambah</li>
+<li>Sistem mengirim notif peringatan ke admin dan mengklik button ya</li>
+<li>Sistem akan mengirim data ke database</li>
+</ol>
+</td>  
+</tr>  
+<tr>  
+<td>Alternative</td>  
+<td> Tidak ada</td>  
+</tr>  
+<tr>  
+<td>Post Condition</td>  
+<td>Halaman Pengaduan</td>  
+</tr>  
+<tr>  
+<td>Exception Push</td>  
+<td> Tidak ada koneksi</td>  
+</tr>  
+</tbody>   
+</table>
 <p><strong>3.3 Struktur Detail Kebutuhan Non Functional</strong><br>  
 </p><p><strong>3.3.1 Logika Struktur Data</strong><br>  
 </p><p>Struktur data logika pada sistem Aplikasi Budaya dan Pariwisata terdapat struktur Database yang dijelaskan menggunakan ERD.  
