@@ -713,7 +713,7 @@ Salah satu persyaratan untuk mengakses Aplikasi ini adalah dengan mendaftarkan d
 </tr>  
 <tr>  
 <td>Ref</td>  
-<td>Bag 2.2.8 Admin Menghapus Artikel</td>  
+<td>Bag 2.2.9 Admin Menghapus Artikel</td>  
 </tr>  
 <tr>  
 <td>Trigger</td>  
