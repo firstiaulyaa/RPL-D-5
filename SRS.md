@@ -558,252 +558,255 @@ Salah satu persyaratan untuk mengakses Aplikasi ini adalah dengan mendaftarkan d
 </tr>  
 </tbody>   
 </table>
-<p><strong>3.2.6 Admin Login</strong></p>  
-<table>  
-<thead>  
-<tr>  
-</tr>  
-</thead>  
-<tbody>  
-<tr>  
-<td>Nama Fungsi</td>  
-<td>Admin Login</td>  
-</tr>  
-<tr>  
-<td>Ref</td>  
-<td>Bag 2.2.6 Admin Login</td>  
-</tr>  
-<tr>  
-<td>Trigger</td>  
-<td>Membuka Aplikasi Budaya dan Pariwisata </td>  
-</tr>  
-<tr>  
-<td>Precondision</td>  
-<td>Halaman Utama Login</td>  
-</tr>  
-<tr>  
-<td>Basic Path</td>  
-<td>
-<ol>
-<li>Admin mengisi form login dengan username dan password dan mengklik button login</li>
-<li>sistem melakukan validasi login</li>
-<li>bila sukses sistem akan mengarahkan ke halaman utama</li>
-<li>bila gagal sistem akan menampilkan notif peringatan</li>
-</ol>
-</td>  
-</tr>  
-<tr>  
-<td>Alternative</td>  
-<td> Tidak ada</td>  
-</tr>  
-<tr>  
-<td>Post Condition</td>  
-<td>Halaman utama admin</td>  
-</tr>  
-<tr>  
-<td>Exception Push</td>  
-<td> Username dan password salah</td>  
-</tr>  
-</tbody>   
-</table>
-<p><strong>3.2.7 Admin Membuat Artikel</strong></p>  
-<table>  
-<thead>  
-<tr>  
-</tr>  
-</thead>  
-<tbody>  
-<tr>  
-<td>Nama Fungsi</td>  
-<td>Admin Membuat Artikel</td>  
-</tr>  
-<tr>  
-<td>Ref</td>  
-<td>Bag 2.2.7 Admin Membuat Artikel</td>  
-</tr>  
-<tr>  
-<td>Trigger</td>  
-<td>Membuka Aplikasi Budaya dan Pariwisata </td>  
-</tr>  
-<tr>  
-<td>Precondision</td>  
-<td>Halaman Utama Admin</td>  
-</tr>  
-<tr>  
-<td>Basic Path</td>  
-<td>
-<ol>
-<li>Admin memilih menu artikel pada sidebar</li>
-<li>Admin mengklik button tambah</li>
-<li>Admin mengisi form artikel dan mengklik button simpan </li>
-<li>Sistem akan mengirim data ke database</li></ol>
-</td>  
-</tr>  
-<tr>  
-<td>Alternative</td>  
-<td> Tidak ada</td>  
-</tr>  
-<tr>  
-<td>Post Condition</td>  
-<td>Halaman artikel</td>  
-</tr>  
-<tr>  
-<td>Exception Push</td>  
-<td> Tidak ada koneksi</td>  
-</tr>  
-</tbody>   
-</table>
-<p><strong>3.2.8 Admin Mengedit Artikel</strong></p>  
-<table>  
-<thead>  
-<tr>  
-</tr>  
-</thead>  
-<tbody>  
-<tr>  
-<td>Nama Fungsi</td>  
-<td>Admin Mengedit Artikel</td>  
-</tr>  
-<tr>  
-<td>Ref</td>  
-<td>Bag 2.2.8 Admin Mengedit Artikel</td>  
-</tr>  
-<tr>  
-<td>Trigger</td>  
-<td>Membuka Aplikasi Budaya dan Pariwisata </td>  
-</tr>  
-<tr>  
-<td>Precondision</td>  
-<td>Halaman Utama Admin</td>  
-</tr>  
-<tr>  
-<td>Basic Path</td>  
-<td>
-<ol>
-<li>Admin memilih menu artikel pada sidebar</li>
-<li>Admin mengklik button edit</li>
-<li>Admin mengedit form artikel dan mengklik button simpan</li>
-<li>Sistem akan mengirim data ke database</li></ol>
-</td>  
-</tr>  
-<tr>  
-<td>Alternative</td>  
-<td> Tidak ada</td>  
-</tr>  
-<tr>  
-<td>Post Condition</td>  
-<td>Halaman artikel</td>  
-</tr>  
-<tr>  
-<td>Exception Push</td>  
-<td> Tidak ada koneksi</td>  
-</tr>  
-</tbody>   
-</table>
-<p><strong>3.2.9 Admin Menghapus Artikel</strong></p>  
-<table>  
-<thead>  
-<tr>  
-</tr>  
-</thead>  
-<tbody>  
-<tr>  
-<td>Nama Fungsi</td>  
-<td>Admin Menghapus Artikel</td>  
-</tr>  
-<tr>  
-<td>Ref</td>  
-<td>Bag 2.2.9 Admin Menghapus Artikel</td>  
-</tr>  
-<tr>  
-<td>Trigger</td>  
-<td>Membuka Aplikasi Budaya dan Pariwisata </td>  
-</tr>  
-<tr>  
-<td>Precondision</td>  
-<td>Halaman Utama Admin</td>  
-</tr>  
-<tr>  
-<td>Basic Path</td>  
-<td>
-<ol>
-<li>Admin memilih menu artikel pada sidebar</li>
-<li>Admin mengklik button hapus</li>
-<li>Sistem mengirim notif peringatan ke admin dan mengklik button ya</li>
-<li>Sistem akan mengirim data ke database</li></ol>
-</td>  
-</tr>  
-<tr>  
-<td>Alternative</td>  
-<td> Tidak ada</td>  
-</tr>  
-<tr>  
-<td>Post Condition</td>  
-<td>Halaman artikel</td>  
-</tr>  
-<tr>  
-<td>Exception Push</td>  
-<td> Tidak ada koneksi</td>  
-</tr>  
-</tbody>   
-</table>
-<p><strong>3.2.10 Admin Menampilkan Pengaduan</strong></p>  
-<table>  
-<thead>  
-<tr>  
-</tr>  
-</thead>  
-<tbody>  
-<tr>  
-<td>Nama Fungsi</td>  
-<td>Admin Menampilkan Pengaduan</td>  
-</tr>  
-<tr>  
-<td>Ref</td>  
-<td>Bag 2.2.10 Admin Menampilkan Pengaduan</td>  
-</tr>  
-<tr>  
-<td>Trigger</td>  
-<td>Membuka Aplikasi Budaya dan Pariwisata </td>  
-</tr>  
-<tr>  
-<td>Precondision</td>  
-<td>Halaman Utama Admin</td>  
-</tr>  
-<tr>  
-<td>Basic Path</td>  
-<td>
-<ol>
-<li>Admin memilih menu pengaduan pada sidebar</li>
-<li>Admin memilih pengaduan yang ingin ditampilkan</li>
-<li>Admin memilih menu artikel pada sidebar</li>
-<li>Admin mengklik button tambah</li>
-<li>Sistem mengirim notif peringatan ke admin dan mengklik button ya</li>
-<li>Sistem akan mengirim data ke database</li>
-</ol>
-</td>  
-</tr>  
-<tr>  
-<td>Alternative</td>  
-<td> Tidak ada</td>  
-</tr>  
-<tr>  
-<td>Post Condition</td>  
-<td>Halaman Pengaduan</td>  
-</tr>  
-<tr>  
-<td>Exception Push</td>  
-<td> Tidak ada koneksi</td>  
-</tr>  
-</tbody>   
-</table>
 <p><strong>3.3 Struktur Detail Kebutuhan Non Functional</strong><br>  
 </p><p><strong>3.3.1 Logika Struktur Data</strong><br>  
 </p><p>Struktur data logika pada sistem Aplikasi Budaya dan Pariwisata terdapat struktur Database yang dijelaskan menggunakan ERD.  
 </p><p>
 
-![enter image description here](https://2.bp.blogspot.com/-oHNJmz4bqIU/Wp_vwODHFFI/AAAAAAAAAEQ/p7xITowij_cWG7QfqIYlJmuO2WckR423gCLcBGAs/s1600/ERD222.jpg)
+![enter image description here](https://4.bp.blogspot.com/-5CPrUWuVlSQ/Wp_zSWD91VI/AAAAAAAAAEc/bmOCDNb3UQsMeRuBP8Zy9P22M8LIWHr2gCLcBGAs/s1600/ERDDDDDDDD.jpg)
 
-<p>Pada ERD terdapat tabel admin, tabel user, tabel pariwisata, tabel budaya, tabel event dan tabel pengaduan.</p>
+<p>Pada ERD terdapat tabel admin, tabel user, tabel pariwisata, tabel budaya, tabel event dan tabel ratting.  </p>
+
+<ul>
+<li>
+<p><strong>Tabel admin</strong></p>
+</li>
+</ul>
+<table>
+<tr>  
+<td><strong>Data Item</strong></td>  
+<td><strong>Type</strong></td>  
+<td><strong>Deskripsi</strong></td>
+</tr>  
+<tr>  
+<td>Id_admin</td>  
+<td>Integer</td>  
+<td>Nomor auto increment Id_admin</td>    
+</tr>  
+<tr>  
+<td>Username</td>  
+</td> 
+<td>Varchar</td>   
+<td>Nama atau nomor untuk dapat mengakses aplikasi</td>   
+</tr>  
+<tr>  
+<td>Password</td>  
+</td> 
+<td>Varchar</td>   
+<td>Berisi password untuk dapat mengakses aplikasi </td>   
+</tr>  
+<tr>  
+<td>Nama admin</td>  
+</td> 
+<td>Varchar</td>   
+<td>Untuk login dan mengetahui nama admin </td>   
+</tr>   
+</table>
+
+<ul>
+<li>
+<p><strong>Tabel User</strong></p>
+</li>
+</ul>
+<table>
+<tr>  
+<td><strong>Data Item</strong></td>  
+<td><strong>Type</strong></td>  
+<td><strong>Deskripsi</strong></td>
+</tr>  
+<tr>  
+<td>Id_user</td>  
+<td>Integer</td>  
+<td>Nomor auto increment Id_user</td>    
+</tr>  
+<tr>  
+<td>Username</td>  
+</td> 
+<td>Varchar</td>   
+<td>Berisi Nama atau nomor untuk dapat mengakses aplikasi</td>   
+</tr>  
+<tr>  
+<td>Password</td>  
+</td> 
+<td>Varchar</td>   
+<td>Berisi password untuk dapat mengakses aplikasi </td>   
+</tr>  
+<tr>  
+<td>Nama user</td>  
+</td> 
+<td>Varchar</td>   
+<td>Untuk login dan mendaftar aplikasi </td>   
+</tr>   
+<tr>  
+<td>Email</td>  
+</td> 
+<td>Varchar</td>   
+<td>Berisi alamat email user  </td>   
+</tr>   
+</table>
+
+<ul>
+<li>
+<p><strong>Tabel Budaya</strong></p>
+</li>
+</ul>
+<table>
+<tr>  
+<td><strong>Data Item</strong></td>  
+<td><strong>Type</strong></td>  
+<td><strong>Deskripsi</strong></td>
+</tr>  
+<tr>  
+<td>Id_budaya</td>  
+<td>Integer</td>  
+<td>Nomor auto increment Id_budaya</td>    
+</tr>    
+<tr>  
+<td>Nama Budaya</td>  
+</td> 
+<td>Varchar</td>   
+<td>Berisi nama budaya </td>   
+</tr>   
+<tr>  
+<td>Deskripsi</td>  
+</td> 
+<td>Varchar</td>   
+<td>Berisi deskripsi tentang budaya  </td>   
+</tr>   
+<tr>  
+<td>Gambar</td>  
+</td> 
+<td>Varchar</td>   
+<td>Berisi gambar kebudayaan  </td>   
+</tr>   
+</table>
+
+<ul>
+<li>
+<p><strong>Tabel Pariwisata</strong></p>
+</li>
+</ul>
+<table>
+<tr>  
+<td><strong>Data Item</strong></td>  
+<td><strong>Type</strong></td>  
+<td><strong>Deskripsi</strong></td>
+</tr>  
+<tr>  
+<td>Id_pariwisata</td>  
+<td>Integer</td>  
+<td>Nomor auto increment Id_pariwisata</td>    
+</tr>    
+<tr>  
+<td>Nama Pariwisata</td>  
+</td> 
+<td>Varchar</td>   
+<td>Berisi nama pariwisata </td>   
+</tr>   
+<tr>  
+<td>Deskripsi pariwisata</td>  
+</td> 
+<td>Varchar</td>   
+<td>Berisi deskripsi tentang pariwisata  </td>   
+</tr>   
+<tr>  
+<td>Gambar pariwisata</td>  
+</td> 
+<td>Varchar</td>   
+<td>Berisi gambar pariwisata  </td>   
+</tr>  
+<tr>  
+<td>id_Jenis</td>  
+</td> 
+<td>Integer</td>   
+<td>Sebagai foreign key pada tabel pariwisata  </td>   
+</tr>   
+</table>
+
+
+<ul>
+<li>
+<p><strong>Tabel Jenis Pariwisata</strong></p>
+</li>
+</ul>
+<table>
+<tr>  
+<td><strong>Data Item</strong></td>  
+<td><strong>Type</strong></td>  
+<td><strong>Deskripsi</strong></td>
+</tr>  
+<tr>
+<td>id_Jenis</td>  
+<td>Integer</td>   
+<td> Nomor auto increment pada tabel jenis pariwisata  </td>   
+</tr>  
+<tr>
+<td>Nama Jenis</td>  
+<td>Varchar</td>   
+<td>Sebagai foreign key pada tabel pariwisata </td>   
+</tr>   
+</table>
+
+<ul>
+<li>
+<p><strong>Tabel Event</strong></p>
+</li>
+</ul>
+<table>
+<tr>  
+<td><strong>Data Item</strong></td>  
+<td><strong>Type</strong></td>  
+<td><strong>Deskripsi</strong></td>
+</tr>  
+<tr>  
+<td>Id_Event</td>  
+<td>Integer</td>  
+<td>Nomor auto increment Id_event</td>    
+</tr>    
+<tr>  
+<td>Nama Event</td>  
+</td> 
+<td>Varchar</td>   
+<td>Berisi nama event </td>   
+</tr>   
+<tr>  
+<td>Deskripsi event</td>  
+</td> 
+<td>Varchar</td>   
+<td>Berisi deskripsi tentang event</td>   
+</tr>   
+<tr>  
+<td>Tanggal</td>  
+</td> 
+<td>Date</td>   
+<td>Berisi tanggal di adakannnya event  </td>   
+</tr>   
+</table>
+
+
+<ul>
+<li>
+<p><strong>Tabel Pengaduan</strong></p>
+</li>
+</ul>
+<table>
+<tr>  
+<td><strong>Data Item</strong></td>  
+<td><strong>Type</strong></td>  
+<td><strong>Deskripsi</strong></td>
+</tr>  
+<tr>  
+<td>Id_Pengaduan</td>  
+<td>Integer</td>  
+<td>Nomor auto increment Id_pengaduan</td>    
+</tr>    
+<tr>  
+<td>Isi pengaduan</td>  
+</td> 
+<td>Varchar</td>   
+<td>Berisi pengaduan dari user</td>   
+</tr>   
+</table>
+
 
 
