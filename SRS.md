@@ -1,8 +1,3 @@
----
-
-
----
-
 <h1 align="center" id="software-requirements-specification">SOFTWARE REQUIREMENTS SPECIFICATION</h1>  
 <p align="center"><strong>Version 1.0<br>  
 22 Februari 2018</strong><br>  
