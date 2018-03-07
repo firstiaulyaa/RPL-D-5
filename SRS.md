@@ -4,20 +4,19 @@
 ---
 
 <h1 align="center" id="software-requirements-specification">SOFTWARE REQUIREMENTS SPECIFICATION</h1>  
-<p align="center"><strong>VERSION<br>  
+<p align="center"><strong>Version 1.0<br>  
 22 Februari 2018</strong><br>  
 </p><p align="center">  
 <img src="https://lh3.googleusercontent.com/qEHYPVzo0kjd8ikhrCIF4cI_PhR8pmK5vDU14oEp9OPyVT-eA54cVp8C9iyJ8rKDfH8OR1dnT1zv=s300" alt="enter image description here" title="logo">  
-</p><p align="center"><strong>Kelompok 5 D3TI2D</strong></p>    
+</p><p align="center"><strong>Kelompok 5 D3TI2D</strong></p>  
 <p align="center"><strong>Firsti Aulya K. K. (1603098)<br>  
-Firmansyah (1603097) <br>
+Firmansyah (1603097) <br>  
 Diyanti (1603094)<br>  
 Rizky Alief Satria (1603111)</strong><br>  
 </p>  
 <h2 align="center"><strong>Jurusan D3 Teknik Informatika</strong></h2>  
 <h2 align="center"><strong>Politeknik Negeri Indramayu </strong></h2>  
-<h2 align="center"><strong>2018</strong></h2> 
-  
+<h2 align="center"><strong>2018</strong></h2>  
 <p><strong>1. PENDAHULUAN</strong>  
 </p><p><strong>1.1 Tujuan</strong></p>  
 <p>Dokumen ini bertujuan untuk menjelaskan secara detail mengenai aplikasi yang kami buat yang berjudul “Aplikasi Budaya dan Pariwisata Kabupaten Indramayu berbasis Android”,<br>  
@@ -56,21 +55,20 @@ Pada Proyek ini dibuat sistem berbasis android dimana pengolahan informasi dan d
 </tr>  
 </tbody>  
 </table><p><strong>1.4 Referensi</strong><br>  
-<a href="https://id.wikipedia.org/wiki/Android_(sistem\_operasi)">https://id.wikipedia.org/wiki/Android\_(sistem_operasi)</a>, <a href="https://id.wikipedia.org/wiki/Berita">https://id.wikipedia.org/wiki/Berita</a>, <a href="https://id.wikipedia.org/wiki/Budaya">https://id.wikipedia.org/wiki/Budaya</a>.</p>  
+<a href="https://id.wikipedia.org/wiki/Android_(sistem\\\_operasi)">https://id.wikipedia.org/wiki/Android\\\_(sistem_operasi)</a>, <a href="https://id.wikipedia.org/wiki/Berita">https://id.wikipedia.org/wiki/Berita</a>, <a href="https://id.wikipedia.org/wiki/Budaya">https://id.wikipedia.org/wiki/Budaya</a>.</p>  
 <p><strong>1.5 Overview</strong><br>  
 Dokumen ini dibagi menjadi tiga bagian utama. Bagian pertama berisi penjelasan tentang dokumen SRS yang mencakup tujuan pembuatan dokumen ini, lingkup masalah yang diselesaikan yang dikembangkan oleh kami yaitu definisi, referensi, dan deskripsi umum. Bagian kedua berisi penjelasan secara umum mengenai aplikasi yang akan di kembangkan meliputi fungsi, karakteristik pengguna, batasan dan asumsi yang diambil dalam pengembangan aplikasi.Bagian ke tiga berisi uraian aplikasi secara lebih rinci.</p>  
 <p><strong>2. GAMBARAN UMUM</strong><br>  
-<p>Aplikasi Budaya dan Pariwisata Kab. Indramayu Berbasis Android adalah aplikasi yang digunakan untuk mempermudah penggunaan dalam pencarian dan informasi seputar budaya dan pariwisata di Kabupaten Indramayu.</p>  
+</p><p>Aplikasi Budaya dan Pariwisata Kab. Indramayu Berbasis Android adalah aplikasi yang digunakan untuk mempermudah penggunaan dalam pencarian dan informasi seputar budaya dan pariwisata di Kabupaten Indramayu.</p>  
 <p><strong>2.1. Perspektif Produk</strong><br>  
 Pada proyek ini dibuat dengan sistem berbasis Android dimana aplikasi ini bisa diakses hanya dengan smartphone dengan Sistem operasinya adalah Android. Aplikasi ini dibangun dengan menggunakan aplikasi Android Studio dan Firebase sebagai databasenya.<br>  
 Aplikasi ini memungkinkan admin untuk menyebarkan informasi tentang lomba atau event yang diadakan oleh Dinas Kebudayaan dan Pariwisata Kabupaten Indramayu dan informasi seputar pariwisata apa saja yang berada di daerah Indramayu.<br>  
-<p><strong>2.1.1 Antarmuka sistem</strong></p><br>  
-
-![enter image description here](https://4.bp.blogspot.com/-80n_0OxZZ_w/Wp-lcm-mUII/AAAAAAAAAEA/dLxdDnG38Z8zyk7PNIP3hgChXTJiDFZ4gCLcBGAs/s1600/sistem.png)
+</p><p><strong>2.1.1 Antarmuka sistem</strong></p><br>  
+<p><img src="https://4.bp.blogspot.com/-80n_0OxZZ_w/Wp-lcm-mUII/AAAAAAAAAEA/dLxdDnG38Z8zyk7PNIP3hgChXTJiDFZ4gCLcBGAs/s1600/sistem.png" alt="enter image description here"></p>
 <p>  
 Sistem Aplikasi Budaya dan Pariwisata ini terdapat 2 aktor yaitu Admin dan User (Pengguna). Admin dan User (Pengguna) mempunyai fungsi yang berbeda dimana admin dapat mengolah data Pariwisata, data Budaya dan data Event juga dapat melihat ratting dari user. sedangkan user hanya dapat melihat data Pariwisata, data Budaya, dan data Event, user (pengguna) juga dapat menginputkan Pengaduan.  
 </p>  
-<p><strong>2.1.2 Antarmuka pengguna</strong></p>
+<p><strong>2.1.2 Antarmuka pengguna</strong></p>  
 <ul>  
 <li>  
 <p>User (Android)</p>  
@@ -125,10 +123,10 @@ Button tersebut adalah Budaya, Pariwisata, Event, Berita, Profil Saya, Data Admi
 Sistem aplikasi ini memiliki 2 User yang aktif, yaitu Admin dan User. User dapat mengakses aplikasi melalui smartphone yang memiliki sistem operasi Android. Aplikasi ini bisa digunakan apabila terhubung ke internet. Data-data pada aplikasi ini selanjutnya disimpan di database (Server) dan selanjutnya dikelola oleh Admin.</p>  
 <p><strong>2.1.4 Antarmuka perangkat lunak</strong><br>  
 Untuk dapat menggunakan aplikasi budaya dan pariwisata Kabupaten Indramayu kita dapat mengakses lewat browser.<br>  
-<p><strong>2.1.5 Antarmuka Komunikasi</strong></p>
+</p><p><strong>2.1.5 Antarmuka Komunikasi</strong></p>  
 <p>Aplikasi ini bekerja sama dengan Dinas Kebudayaan dan Pariwisata Kabupaten Indramayu.</p><br>  
-<p><strong>2.1.6 Batasan memori</strong></p><br> 
-<p>Memori yang digunakan untuk aplikasi di usahakan tidak melebihi 100MB</p> 
+<p><strong>2.1.6 Batasan memori</strong></p><br>  
+<p>Memori yang digunakan untuk aplikasi di usahakan tidak melebihi 100MB</p>  
 <strong>2.1.7 Operasi-operasi</strong><br>  
 <table>  
 <thead>  
@@ -151,35 +149,146 @@ Untuk dapat menggunakan aplikasi budaya dan pariwisata Kabupaten Indramayu kita 
 <tr>  
 <td>Input Data</td>  
 <td>Digunakan untuk memasukkan data</td>  
-</tr> 
+</tr>  
 <tr>  
 <td>Edit</td>  
 <td>Digunakan untuk mengubah data</td>  
-</tr> 
+</tr>  
 <tr>  
 <td>Hapus</td>  
 <td>Digunakan untuk menghapus data</td>  
-</tr>   
+</tr>  
 <tr>  
 <td>View</td>  
 <td>Digunakan untuk menampilkan data</td>  
-</tr>   
+</tr>  
 <tr>  
 <td>Simpan</td>  
 <td>Digunakan untuk menyimpan data</td>  
-</tr> 
+</tr>  
 <tr>  
 <td>Kembali</td>  
 <td>Digunakan untuk kembali ke halaman sebelumnya</td>  
-</tr> 
-<td>Pengaduan</td>  
+</tr>  
+<tr><td>Pengaduan</td>  
 <td>Digunakan untuk keluhan dan komentar pengguna</td>  
-</tr> 
-
-
-<p><strong>2.1.8 Kebutuhan adaptasi</strong></p>  
+  
+</tr></tbody></table><p><strong>2.1.8 Kebutuhan adaptasi</strong></p>  
 <p><strong>2.2. Spesifikasi Kebutuhan Fungsional</strong><br>  
-<img src="https://lh3.googleusercontent.com/aq2ARLrncTWCZ4ZOEiLrj4bwxnRXCzYJZO25W3-RsnjAoRAHMA29QJpLzSyrEcZYctmNToCazYsB" alt="usecase" title="usecase keseluruhan"><br>  
+<img src="https://lh3.googleusercontent.com/aq2ARLrncTWCZ4ZOEiLrj4bwxnRXCzYJZO25W3-RsnjAoRAHMA29QJpLzSyrEcZYctmNToCazYsB" alt="usecase" title="usecase keseluruhan"><br>
+</p><p><strong>2.2.1 User Login</strong></p>  
+<p>Use Case: Login<br>
+Diagram:</p>
+<p><img src="https://lh3.googleusercontent.com/i-F1NFPY-xV7ejGrqxV7QLFH83dROOfA2xJqVtyiXEPTgO2c0V6Gz1Co9XBAEHNUzIm7t0Yf7NGR" alt="enter image description here"></p>
+<p>Deskripsi singkat user melakukan login sebelum masuk ke halaman utama:</p>
+<ol>
+<li>User melakukan login dengan username dan password.</li>
+<li>Sistem melakukan validasi.</li>
+<li>Bila user benar memasukkan username dan password maka sistem akan mengarahkan user ke halamanutama</li>
+<li>Bila user salah memasukkan username dan password maka sistem akan menampilkan eror</li>
+</ol>
+<strong>2.2.2 User Melihat Budaya</strong><br>
+<p>Use case: melihat budaya<br>
+Diagram:</p>
+<p><img src="https://lh3.googleusercontent.com/aJvMtPpo98MB3LB-uN9TY421p30GDaX0DbHimOQdhrf--_M6iH8vhxwdiRbT5rThn4ZtLHXggco7" alt="enter image description here" title="userbudaya"></p>
+<p>Deskripsi singkat ketika user melihat budaya:
+</p><ol>
+<li>Sistem menampilkan halaman utama yang berisi button budaya</li>
+<li>User dapat mengklik tombol button budaya</li>
+<li>Sistem menampilkan data budaya</li>
+</ol><p></p>
+<strong>2.2.3 User Melihat Wisata</strong><br>
+<p>Use case: melihat wisata<br>
+Diagram:</p>
+<p><img src="https://lh3.googleusercontent.com/kDGYT_tryNcLBWRvT2ahCJJGpUWXkjcivLp50wzawgjyPO4ZWHJoSjIt1RXTwFyuZEmyqNgnCXan" alt="enter image description here" title="userlihatwisata"></p>
+<p>Deskripsi singkat ketika user melihat wisata:
+</p><ol>
+<li>Sistem menampilkan halaman utama yang berisi button wisata</li>
+<li>User dapat mengklik tombol button wisata</li>
+<li>Sistem menampilkan data wisata</li>
+</ol><p></p>
+<strong>2.2.4 User Melihat Event</strong><br>
+<p>Use case: melihat event<br>
+Diagram:</p>
+<p><img src="https://lh3.googleusercontent.com/rIO3jYt1ySvRwEriG3NPsP0rGrPABFj_P8QFuhuXkwDVJEjL8nMNhxfCriQ6qaIknL7lm31h1zdN" alt="enter image description here" title="userevent"></p>
+<p>Deskripsi singkat ketika user melihat event:
+</p><ol>
+<li>Sistem menampilkan halaman utama yang berisi button event</li>
+<li>User dapat mengklik tombol button event</li>
+<li>Sistem menampilkan data event</li>
+</ol><p></p>
+<strong>2.2.5 User Mengajukan Pengaduan</strong><br>
+<p>Use case: mengajukan pengaduan<br>
+Diagram:</p>
+<p><img src="https://lh3.googleusercontent.com/9fkLEPEU73UZRVCxTIV5mGCjmx48yOGGocaACpASJA6sDRdbDfSdAauKa9abyHyiQd2T98XXJB-5" alt="enter image description here" title="userpengaduan"></p>
+<p>Deskripsi singkat ketika user mengajukan pengaduan:
+</p><ol>
+<li>Sistem menampilkan halaman utama yang berisi button pengaduan</li>
+<li>User dapat mengklik tombol button pengaduan</li>
+<li>User mengisi form pengaduan ke sistem</li>
+<li>Sistem akan mengirim ke admin</li>
+</ol><p></p>
+<strong>2.2.6 Admin Login</strong><br>
+<p>Use case: login<br>
+Diagram:</p>
+<p><img src="https://lh3.googleusercontent.com/hySM59sWo0DwaotyC5t4Zqr3lyXxRaGe6CwzzNccqkQ5Si8n612LfM22MnORBzA7sXNlqHVCHFNE" alt="enter image description here"></p>
+<p>Deskripsi singkat ketika admin login:
+</p><ol>
+<li>Admin melakukan login dengan username dan password.</li>
+<li>Sistem melakukan validasi.</li>
+<li>Bila admin benar memasukkan username dan password maka sistem akan mengarahkan user ke halaman utama</li>
+<li>Bila admin salah memasukkan username dan password maka sistem akan menampilkan eror</li>
+</ol><p></p>
+<strong>2.2.7 Admin Membuat Artikel</strong><br>
+<p>Use case: membuat artikel<br>
+Diagram:</p>
+<p><img src="https://lh3.googleusercontent.com/ovjoU2qy8-T6pJpf-0GogYPbkewd5rWeaPnNWZ0-GM1v04x_rvoqkTWUhS0NYnhlWNcO098rmfcW" alt="enter image description here" title="adminbuat"></p>
+<p>Deskripsi singkat ketika admin membuat artikel:
+</p><ol>
+<li>Sistem menampilkan dasboard admin</li>
+<li>Admin memilih menu artikel pada sidebar</li>
+<li>Admin mengklik button tambah</li>
+<li>Admin mengisi form artikel dan mengklik button simpan </li>
+<li>Sistem akan mengirim data ke database</li>
+</ol><p></p>
+<strong>2.2.8 Admin Mengedit Artikel</strong><br>
+<p>Use case: mengedit artikel<br>
+Diagram:</p>
+<p><img src="https://lh3.googleusercontent.com/0hjIhyUnQIBgGJnFvcIZIu2CbXcXjA1tFFqKl-LwYrEjW4Ov2axVfLDJlxq65MiYxu9wZq2Zkld2" alt="enter image description here" title="adminedit"></p>
+<p>Deskripsi singkat ketika admin mengedit artikel:
+</p><ol>
+<li>Sistem menampilkan dasboard admin</li>
+<li>Admin memilih menu artikel pada sidebar</li>
+<li>Admin mengklik button edit</li>
+<li>Admin mengedit form artikel  dan mengklik button simpan </li>
+<li>Sistem akan mengirim data ke database</li>
+</ol><p></p>
+<strong>2.2.8 Admin Menghapus Artikel</strong><br>
+<p>Use case: menghapus artikel<br>
+Diagram:</p>
+<p><img src="https://lh3.googleusercontent.com/yYRKH_rWIGBDhoof0hqCEU94pN6nh-caz2LOTOvLtBd4mZHo-BtnopkiUojKG1z6UHBHs5JmGIiq" alt="enter image description here" title="adminhapus"></p>
+<p>Deskripsi singkat ketika admin menghapus artikel:
+</p><ol>
+<li>Sistem menampilkan dasboard admin</li>
+<li>Admin memilih menu artikel pada sidebar</li>
+<li>Admin mengklik button hapus</li>
+<li>Sistem mengirim notif peringatan ke admin dan mengklik button ya</li>
+<li>Sistem akan mengirim data ke database</li>
+</ol><p></p>
+<strong>2.2.9 Admin Menampilkan Pengaduan</strong><br>
+<p>Use case: menampilkan pengaduan<br>
+Diagram:</p>
+<p><img src="https://lh3.googleusercontent.com/6-fbcLQWgRGQYrUb10NttqaazmythuCsACa7CtpuWeT3v4uo9PzEwW7KzFEjzOJLK0c-jeaHB03O" alt="enter image description here" title="adminpengaduan"></p>
+<p>Deskripsi singkat ketika admin menampilkan pengaduan:
+</p><ol>
+<li>Sistem menampilkan dasboard admin</li>
+<li>Admin memilih menu pengaduan pada sidebar</li>
+<li>Admin memilih pengaduan yang ingin ditampilkan</li>
+<li>Admin memilih menu artikel pada sidebar</li>
+<li>Admin mengklik button tambah</li>
+<li>Sistem mengirim notif peringatan ke admin dan mengklik button ya</li>
+<li>Sistem akan mengirim data ke database</li>
+</ol><p></p>
 <strong>2.3. Spesifikasi Kebutuhan Non-fungsional</strong><br>  
 <strong>2.3.1 Spesifikasi User Interface</strong><br>  
 User Interface yang ada pada aplikasi harus user-friendly, dan mudah untuk digunakan.<br>  
@@ -188,7 +297,7 @@ Sistem ini diharapkan dapat di gunakan dalam jangka panjang dan sistem ini dapat
 <strong>2.3.3 Ketersediaan dan Keandalan</strong><br>  
 Aplikasi dapat menyediakan backup pada database yang digunakan.<br>  
 <strong>2.3.4 Spesifikasi Keamanan</strong><br>  
-Keamanan data akan terjaga karena menerapkan validasi pada saat pengguna mulai login.</p>  
+Keamanan data akan terjaga karena menerapkan validasi pada saat pengguna mulai login.  
 <p><strong>2.4. Karakteristik Pengguna</strong><br></p>  
 <p>  
 Dengan adanya aplikasi ini diharapkan dapat membantu admin mengolah data pariwisata, data kebudayaan, data event dan pendaftaran untuk mengikuti event. kemudian bagi pengguna sendiri diharapkan dapat mempermudah pengguna untuk mendapatkan informasi tentang pariwisata, kebudayaan dan event yang di adakan oleh dinas kebudayaan dan pariwisata kabupaten Indramayu menggunakan aplikasi mobile ini.  
@@ -224,10 +333,10 @@ Salah satu persyaratan untuk mengakses Aplikasi ini adalah dengan mendaftarkan d
 </tr>  
 <tr>  
 <td>Basic Path</td>  
-<td> 1. User membuka aplikasi budaya dan pariwisata
-<p>2. Sistem merespon </p>
-<p>3. Sistem menampilkan proses pembukaan aplikasi</p>
-<p>4. Sistem menampilkan menu login</p>
+<td> 1. User membuka aplikasi budaya dan pariwisata  
+<p>2. Sistem merespon </p>  
+<p>3. Sistem menampilkan proses pembukaan aplikasi</p>  
+<p>4. Sistem menampilkan menu login</p>  
 </td>  
 </tr>  
 <tr>  
@@ -243,11 +352,9 @@ Salah satu persyaratan untuk mengakses Aplikasi ini adalah dengan mendaftarkan d
 <td> Tidak ada koneksi</td>  
 </tr>  
 </tbody>  
-  
-</table>
+</table>  
 <p><strong>3.2.2 Register</strong></p>  
-    
-<br>
+<br>  
 <table>  
 <thead>  
 <tr>  
@@ -288,10 +395,9 @@ Salah satu persyaratan untuk mengakses Aplikasi ini adalah dengan mendaftarkan d
 <td> Tidak ada koneksi</td>  
 </tr>  
 </tbody>  
-  </table>
-  <p><strong>3.2.3 Home</strong></p>  
-    
-<br>
+</table>  
+<p><strong>3.2.3 Home</strong></p>  
+<br>  
 <table>  
 <thead>  
 <tr>  
@@ -332,11 +438,9 @@ Salah satu persyaratan untuk mengakses Aplikasi ini adalah dengan mendaftarkan d
 <td> Tidak ada koneksi</td>  
 </tr>  
 </tbody>  
-  </table>
-
+</table>  
 <p><strong>3.2.4 Sign In (web)</strong></p>  
-    
-<br>
+<br>  
 <table>  
 <thead>  
 <tr>  
@@ -376,8 +480,7 @@ Salah satu persyaratan untuk mengakses Aplikasi ini adalah dengan mendaftarkan d
 <td> Tidak ada koneksi</td>  
 </tr>  
 </tbody>  
-  </table>
-
+</table>  
 <p><strong>3.2.5 Kategori</strong></p>  
 <br><br><br><table>  
 <thead>  
@@ -419,13 +522,10 @@ Salah satu persyaratan untuk mengakses Aplikasi ini adalah dengan mendaftarkan d
 <td> Tidak ada koneksi</td>  
 </tr>  
 </tbody>  
-  
-  
-  
 </table><p><strong>3.3 Struktur Detail Kebutuhan Non Functional</strong><br>  
 </p><p><strong>3.3.1 Logika Struktur Data</strong><br>  
 </p><p>Struktur data logika pada sistem Aplikasi Budaya dan Pariwisata terdapat struktur Database yang dijelaskan menggunakan ERD.  
-</p><p><img src="https://1.bp.blogspot.com/-Wwz2A0ULTEA/Wpu3d82p1NI/AAAAAAAAADg/irPmAVKe5rMZzWTABoXiqvz1jdRIsg7cACLcBGAs/s1600/ERD.jpg" alt="enter image description here"></p>
+</p><p><img src="https://1.bp.blogspot.com/-Wwz2A0ULTEA/Wpu3d82p1NI/AAAAAAAAADg/irPmAVKe5rMZzWTABoXiqvz1jdRIsg7cACLcBGAs/s1600/ERD.jpg" alt="enter image description here"></p>  
 <p>Pada ERD terdapat tabel admin, tabel user, tabel pariwisata, tabel budaya, tabel event dan tabel ratting.  
 Dimana admin menginputkan data Budaya, data Pariwisata, dan data Event.Admin juga dapat mengolah data Budaya, data Pariwisata dan data Event dan admin juga dapat mengolah data user.  
 Sementara User dapat melihat data Budaya, melihat data Pariwisata, dan data Event. User dapat menginputkan ratting untuk memberikan penilaian.</p>
