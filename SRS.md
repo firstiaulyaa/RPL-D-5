@@ -55,7 +55,10 @@ Pada Proyek ini dibuat sistem berbasis android dimana pengolahan informasi dan d
 </tr>  
 </tbody>  
 </table><p><strong>1.4 Referensi</strong><br>  
-<a href="https://id.wikipedia.org/wiki/Android_(sistem\\\_operasi)">https://id.wikipedia.org/wiki/Android\\\_(sistem_operasi)</a>, <a href="https://id.wikipedia.org/wiki/Berita">https://id.wikipedia.org/wiki/Berita</a>, <a href="https://id.wikipedia.org/wiki/Budaya">https://id.wikipedia.org/wiki/Budaya</a>.</p>  
+</p><ul><li><a href="https://id.wikipedia.org/wiki/Android_(sistem\\\_operasi)">https://id.wikipedia.org/wiki/Android\\\_(sistem_operasi)</a>,</li>
+<li><a href="https://id.wikipedia.org/wiki/Berita">https://id.wikipedia.org/wiki/Berita</a>, </li>
+<li><a href="https://id.wikipedia.org/wiki/Budaya">https://id.wikipedia.org/wiki/Budaya</a>.</li>
+<li>IEEE. IEEE Std 830-1998 IEEE Recommended Practice for Software Requirements Specifications. IEEE Computer Society, 1998. 1.5 Overview</li><ul></ul></ul><p></p>  
 <p><strong>1.5 Overview</strong><br>  
 Dokumen ini dibagi menjadi tiga bagian utama. Bagian pertama berisi penjelasan tentang dokumen SRS yang mencakup tujuan pembuatan dokumen ini, lingkup masalah yang diselesaikan yang dikembangkan oleh kami yaitu definisi, referensi, dan deskripsi umum. Bagian kedua berisi penjelasan secara umum mengenai aplikasi yang akan di kembangkan meliputi fungsi, karakteristik pengguna, batasan dan asumsi yang diambil dalam pengembangan aplikasi.Bagian ke tiga berisi uraian aplikasi secara lebih rinci.</p>  
 <p><strong>2. GAMBARAN UMUM</strong><br>  
@@ -171,7 +174,7 @@ Untuk dapat menggunakan aplikasi budaya dan pariwisata Kabupaten Indramayu kita 
 <td>Digunakan untuk kembali ke halaman sebelumnya</td>  
 </tr>  
 <tr><td>Pengaduan</td>  
-<td>Digunakan untuk keluhan dan komentar pengguna</td>  
+<td>Digunakan untuk pengaduan pengguna</td>  
   
 </tr></tbody></table><p><strong>2.1.8 Kebutuhan adaptasi</strong></p>  
 <p><strong>2.2. Spesifikasi Kebutuhan Fungsional</strong><br>  
