@@ -1,5 +1,4 @@
-﻿<p>SOFTWARE PROJECT MANAGEMENT PLAN<br>
----
+﻿<p>SOFTWARE PROJECT MANAGEMENT PLAN<p><br>
 Kelompok 5 | Project 2 | D3TI.2D<br>
 Rekayasa Perangkat Lunak<br>
 
@@ -154,7 +153,7 @@ Ketua : Firsti Aulya Khusnul K. (1603098)<br>
 Anggota : <br>
 Firmansyah (1603097)<br>
 Diyanti (1603094)<br>
-Rizky Alief Satria<br><br></p>
+Rizky Alief Satria (1603111)<br><br></p>
 <p>4. Proses Teknis<br><br>
 4.1 Metode, alat, dan teknik Proyek ini akan diimplementasikan dengan memanfaatkan metodologi V Model. Teknik analisis berorientasi objek akan di gunakan untuk menyelesaikan proyek.</p>
 <p>4.2 Dokumentasi perangkat lunak Dokumentasi seperti piagam proyek, Dokumentasi Kebutuhan Bisnis, Dokumentasi Spesifikasi Fungsional, Analisis Manfaat Biaya, dokumen Spesifikasi Teknis, detail design dokumen, Rencana Pelaksanaan, dan dokumen Realisasi Manfaat.</p>
@@ -187,7 +186,7 @@ Rizky Alief Satria<br><br></p>
 <td>Code Program (Web)</td>
 </tr>
 </tbody>
-</table><p>Jadwal</p>
+</table><p>5.2 Jadwal</p>
 
 <table>
 <thead>
@@ -220,7 +219,7 @@ Rizky Alief Satria<br><br></p>
 </tr>
 </tbody>
 </table>
-<br><p>5.2 Ketergantungan/keterkaitan<br>
+<br><p>5.3 Ketergantungan/keterkaitan<br>
 kebutuhan ketertarikan:</p>
 <ol>
 <li>Penentuan Ide dan rumusan masalah</li>
@@ -231,11 +230,11 @@ kebutuhan ketertarikan:</p>
 <li>Perbaikan</li>
 <li>Laporan</li>
 </ol>
-<p>5.3 Kebutuhan sumber daya</p>
-<p>5.3.1. Perangkat keras<br>
+<p>5.4 Kebutuhan sumber daya</p>
+<p>5.4.1. Perangkat keras<br>
 - Laptop<br>
 - Handphone dengan sistem operasi Android<br><br>
-5.3.2. Perangkat lunak<br>
+5.4.2. Perangkat lunak<br>
 - Windows<br>
 - Android Studio<br>
 - Balsamiq<br>
@@ -243,7 +242,7 @@ kebutuhan ketertarikan:</p>
 - Sublime<br>
 - Mockplus <br>
 - Photoshop <br><br>
-5.3.3. Budget</p>
+5.4.3. Budget</p>
 
 <table>
 <thead>
