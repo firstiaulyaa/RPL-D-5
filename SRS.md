@@ -9,9 +9,9 @@ Firmansyah (1603097) <br>
 Diyanti (1603094)<br>  
 Rizky Alief Satria (1603111)</strong><br>  
 </p>  
-<h2 align="center"><strong>Jurusan D3 Teknik Informatika</strong></h2>  
-<h2 align="center"><strong>Politeknik Negeri Indramayu </strong></h2>  
-<h2 align="center"><strong>2018</strong></h2>  
+<p align="center"><strong>Jurusan D3 Teknik Informatika</strong></p>  
+<p align="center"><strong>Politeknik Negeri Indramayu </strong></p>  
+<p align="center"><strong>2018</strong></p>  
 <p><strong>1. PENDAHULUAN</strong>  
 </p><p><strong>1.1 Tujuan</strong></p>  
 <p>Dokumen ini bertujuan untuk menjelaskan secara detail mengenai aplikasi yang kami buat yang berjudul “Aplikasi Budaya dan Pariwisata Kabupaten Indramayu berbasis Android”,<br>  
