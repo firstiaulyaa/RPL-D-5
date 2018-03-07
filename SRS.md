@@ -183,13 +183,14 @@ Untuk dapat menggunakan aplikasi budaya dan pariwisata Kabupaten Indramayu kita 
 <p>Use Case: Login<br>
 Diagram:</p>
 <p><img src="https://lh3.googleusercontent.com/i-F1NFPY-xV7ejGrqxV7QLFH83dROOfA2xJqVtyiXEPTgO2c0V6Gz1Co9XBAEHNUzIm7t0Yf7NGR" alt="enter image description here"></p>
-<p>Deskripsi singkat user melakukan login sebelum masuk ke halaman utama:</p>
-<ol>
+<p>Deskripsi singkat user melakukan login sebelum masuk ke halaman utama:
+</p><ol>
 <li>User melakukan login dengan username dan password.</li>
 <li>Sistem melakukan validasi.</li>
 <li>Bila user benar memasukkan username dan password maka sistem akan mengarahkan user ke halamanutama</li>
 <li>Bila user salah memasukkan username dan password maka sistem akan menampilkan eror</li>
 </ol>
+Xref: Bagian 3.2.1, User login<p></p>
 <strong>2.2.2 User Melihat Budaya</strong><br>
 <p>Use case: melihat budaya<br>
 Diagram:</p>
@@ -199,7 +200,8 @@ Diagram:</p>
 <li>Sistem menampilkan halaman utama yang berisi button budaya</li>
 <li>User dapat mengklik tombol button budaya</li>
 <li>Sistem menampilkan data budaya</li>
-</ol><p></p>
+</ol>
+Xref: Bagian 3.2.2, User lihat budaya<p></p>
 <strong>2.2.3 User Melihat Wisata</strong><br>
 <p>Use case: melihat wisata<br>
 Diagram:</p>
@@ -209,7 +211,8 @@ Diagram:</p>
 <li>Sistem menampilkan halaman utama yang berisi button wisata</li>
 <li>User dapat mengklik tombol button wisata</li>
 <li>Sistem menampilkan data wisata</li>
-</ol><p></p>
+</ol>
+Xref: Bagian 3.2.3, User lihat wisata<p></p>
 <strong>2.2.4 User Melihat Event</strong><br>
 <p>Use case: melihat event<br>
 Diagram:</p>
@@ -219,7 +222,8 @@ Diagram:</p>
 <li>Sistem menampilkan halaman utama yang berisi button event</li>
 <li>User dapat mengklik tombol button event</li>
 <li>Sistem menampilkan data event</li>
-</ol><p></p>
+</ol>
+Xref: Bagian 3.2.4, User lihat event<p></p>
 <strong>2.2.5 User Mengajukan Pengaduan</strong><br>
 <p>Use case: mengajukan pengaduan<br>
 Diagram:</p>
@@ -230,7 +234,8 @@ Diagram:</p>
 <li>User dapat mengklik tombol button pengaduan</li>
 <li>User mengisi form pengaduan ke sistem</li>
 <li>Sistem akan mengirim ke admin</li>
-</ol><p></p>
+</ol>
+Xref: Bagian 3.2.5, User mengajukan pengaduan<p></p>
 <strong>2.2.6 Admin Login</strong><br>
 <p>Use case: login<br>
 Diagram:</p>
@@ -241,7 +246,8 @@ Diagram:</p>
 <li>Sistem melakukan validasi.</li>
 <li>Bila admin benar memasukkan username dan password maka sistem akan mengarahkan user ke halaman utama</li>
 <li>Bila admin salah memasukkan username dan password maka sistem akan menampilkan eror</li>
-</ol><p></p>
+</ol>
+Xref: Bagian 3.2.6, Admin login<p></p>
 <strong>2.2.7 Admin Membuat Artikel</strong><br>
 <p>Use case: membuat artikel<br>
 Diagram:</p>
@@ -253,7 +259,8 @@ Diagram:</p>
 <li>Admin mengklik button tambah</li>
 <li>Admin mengisi form artikel dan mengklik button simpan </li>
 <li>Sistem akan mengirim data ke database</li>
-</ol><p></p>
+</ol>
+Xref: Bagian 3.2.7, Admin membuat artikel<p></p>
 <strong>2.2.8 Admin Mengedit Artikel</strong><br>
 <p>Use case: mengedit artikel<br>
 Diagram:</p>
@@ -265,8 +272,9 @@ Diagram:</p>
 <li>Admin mengklik button edit</li>
 <li>Admin mengedit form artikel  dan mengklik button simpan </li>
 <li>Sistem akan mengirim data ke database</li>
-</ol><p></p>
-<strong>2.2.8 Admin Menghapus Artikel</strong><br>
+</ol>
+Xref: Bagian 3.2.8, Admin mengedit artikel<p></p>
+<strong>2.2.9 Admin Menghapus Artikel</strong><br>
 <p>Use case: menghapus artikel<br>
 Diagram:</p>
 <p><img src="https://lh3.googleusercontent.com/yYRKH_rWIGBDhoof0hqCEU94pN6nh-caz2LOTOvLtBd4mZHo-BtnopkiUojKG1z6UHBHs5JmGIiq" alt="enter image description here" title="adminhapus"></p>
@@ -277,8 +285,9 @@ Diagram:</p>
 <li>Admin mengklik button hapus</li>
 <li>Sistem mengirim notif peringatan ke admin dan mengklik button ya</li>
 <li>Sistem akan mengirim data ke database</li>
-</ol><p></p>
-<strong>2.2.9 Admin Menampilkan Pengaduan</strong><br>
+</ol>
+Xref: Bagian 3.2.9, Admin menghapus artikel<p></p>
+<strong>2.2.10 Admin Menampilkan Pengaduan</strong><br>
 <p>Use case: menampilkan pengaduan<br>
 Diagram:</p>
 <p><img src="https://lh3.googleusercontent.com/6-fbcLQWgRGQYrUb10NttqaazmythuCsACa7CtpuWeT3v4uo9PzEwW7KzFEjzOJLK0c-jeaHB03O" alt="enter image description here" title="adminpengaduan"></p>
@@ -291,7 +300,8 @@ Diagram:</p>
 <li>Admin mengklik button tambah</li>
 <li>Sistem mengirim notif peringatan ke admin dan mengklik button ya</li>
 <li>Sistem akan mengirim data ke database</li>
-</ol><p></p>
+</ol>
+Xref: Bagian 3.2.10, Admin menampilkan artikel<p></p>
 <strong>2.3. Spesifikasi Kebutuhan Non-fungsional</strong><br>  
 <strong>2.3.1 Spesifikasi User Interface</strong><br>  
 User Interface yang ada pada aplikasi harus user-friendly, dan mudah untuk digunakan.<br>  
@@ -311,8 +321,8 @@ Pada Aplikasi Budaya dan Pariwisata Kabupaten Indramayu harus menggunakan smartp
 <p><strong>3.1 Persyaratan Antarmuka Eksternal</strong><br>  
 Salah satu persyaratan untuk mengakses Aplikasi ini adalah dengan mendaftarkan diri dan melengkapi kolom data diri.</p>  
 <p><strong>3.2 Functional Requirnment</strong><br>  
-</p><p><strong>3.2.1 Sign In<strong></strong></strong></p>  
-<br><table>  
+</p><p><strong>3.2.1 User Login</strong></p>  
+<table>  
 <thead>  
 <tr>  
 </tr>  
@@ -320,11 +330,11 @@ Salah satu persyaratan untuk mengakses Aplikasi ini adalah dengan mendaftarkan d
 <tbody>  
 <tr>  
 <td>Nama Fungsi</td>  
-<td>Sign In</td>  
+<td>User Login</td>  
 </tr>  
 <tr>  
 <td>Ref</td>  
-<td>Bag 2.1.2 Sign In</td>  
+<td>Bag 2.2.1 User Login</td>  
 </tr>  
 <tr>  
 <td>Trigger</td>  
@@ -332,14 +342,17 @@ Salah satu persyaratan untuk mengakses Aplikasi ini adalah dengan mendaftarkan d
 </tr>  
 <tr>  
 <td>Precondision</td>  
-<td>Halaman Utama Aplikasi</td>  
+<td>Halaman Utama Login</td>  
 </tr>  
 <tr>  
 <td>Basic Path</td>  
-<td> 1. User membuka aplikasi budaya dan pariwisata  
-<p>2. Sistem merespon </p>  
-<p>3. Sistem menampilkan proses pembukaan aplikasi</p>  
-<p>4. Sistem menampilkan menu login</p>  
+<td>
+<ol>
+<li>User mengisi form login dengan username dan password dan mengklik button login</li>
+<li>sistem melakukan validasi login</li>
+<li>bila sukses sistem akan mengarahkan ke halaman utama</li>
+<li>bila gagal sistem akan menampilkan notif peringatan</li>
+</ol>
 </td>  
 </tr>  
 <tr>  
@@ -352,12 +365,11 @@ Salah satu persyaratan untuk mengakses Aplikasi ini adalah dengan mendaftarkan d
 </tr>  
 <tr>  
 <td>Exception Push</td>  
-<td> Tidak ada koneksi</td>  
+<td>Username dan password salah</td>  
 </tr>  
 </tbody>  
 </table>  
-<p><strong>3.2.2 Register</strong></p>  
-<br>  
+<p><strong>3.2.2 User Melihat Budaya</strong></p>  
 <table>  
 <thead>  
 <tr>  
@@ -366,11 +378,11 @@ Salah satu persyaratan untuk mengakses Aplikasi ini adalah dengan mendaftarkan d
 <tbody>  
 <tr>  
 <td>Nama Fungsi</td>  
-<td>Register</td>  
+<td>User Melihat Budaya</td>  
 </tr>  
 <tr>  
 <td>Ref</td>  
-<td>Bag 2.1.2 Register</td>  
+<td>Bag 2.2.2 User Melihat Budaya</td>  
 </tr>  
 <tr>  
 <td>Trigger</td>  
@@ -378,12 +390,17 @@ Salah satu persyaratan untuk mengakses Aplikasi ini adalah dengan mendaftarkan d
 </tr>  
 <tr>  
 <td>Precondision</td>  
-<td>Halaman Utama Aplikasi Budaya dan Pariwisata</td>  
+<td>Halaman Utama Login</td>  
 </tr>  
 <tr>  
 <td>Basic Path</td>  
-<td>1. User membuka aplikasi  
-<p>2.User klik daftar</p></td>  
+<td>
+<ol>
+<li>Sistem menampilkan halaman utama</li>
+<li>User mengklik button budaya</li>
+<li>Sistem menampilkan data budaya</li>
+</ol>
+</td>  
 </tr>  
 <tr>  
 <td>Alternative</td>  
@@ -391,16 +408,15 @@ Salah satu persyaratan untuk mengakses Aplikasi ini adalah dengan mendaftarkan d
 </tr>  
 <tr>  
 <td>Post Condition</td>  
-<td>User dapat Daftar dan mengakses aplikasi budaya dan pariwisata </td>  
+<td>User melihat budaya</td>  
 </tr>  
 <tr>  
 <td>Exception Push</td>  
 <td> Tidak ada koneksi</td>  
 </tr>  
-</tbody>  
-</table>  
-<p><strong>3.2.3 Home</strong></p>  
-<br>  
+</tbody>   
+</table>
+<p><strong>3.2.3 User Melihat Wisata</strong></p>  
 <table>  
 <thead>  
 <tr>  
@@ -409,11 +425,11 @@ Salah satu persyaratan untuk mengakses Aplikasi ini adalah dengan mendaftarkan d
 <tbody>  
 <tr>  
 <td>Nama Fungsi</td>  
-<td>Home</td>  
+<td>User Melihat Wisata</td>  
 </tr>  
 <tr>  
 <td>Ref</td>  
-<td>Bag 2.1.2 Home</td>  
+<td>Bag 2.2.3 User Melihat Wisata</td>  
 </tr>  
 <tr>  
 <td>Trigger</td>  
@@ -421,12 +437,17 @@ Salah satu persyaratan untuk mengakses Aplikasi ini adalah dengan mendaftarkan d
 </tr>  
 <tr>  
 <td>Precondision</td>  
-<td>Halaman Login atau Daftar</td>  
+<td>Halaman Utama Login</td>  
 </tr>  
 <tr>  
 <td>Basic Path</td>  
-<td> 1. Admin mengisi username dan password  
-<p>2. Admin klik button Sign In</p></td>  
+<td>
+<ol>
+<li>Sistem menampilkan halaman utama</li>
+<li>User mengklik button wisata</li>
+<li>Sistem menampilkan data wisata</li>
+</ol>
+</td>  
 </tr>  
 <tr>  
 <td>Alternative</td>  
@@ -434,16 +455,15 @@ Salah satu persyaratan untuk mengakses Aplikasi ini adalah dengan mendaftarkan d
 </tr>  
 <tr>  
 <td>Post Condition</td>  
-<td>User dapat memilih menu kategori apa yang ingin di pilih seperti menu Pariwisata, menu Budaya dan menu Event </td>  
+<td>User melihat wisata</td>  
 </tr>  
 <tr>  
 <td>Exception Push</td>  
 <td> Tidak ada koneksi</td>  
 </tr>  
-</tbody>  
-</table>  
-<p><strong>3.2.4 Sign In (web)</strong></p>  
-<br>  
+</tbody>   
+</table>
+<p><strong>3.2.4 User Melihat Event</strong></p>  
 <table>  
 <thead>  
 <tr>  
@@ -452,23 +472,29 @@ Salah satu persyaratan untuk mengakses Aplikasi ini adalah dengan mendaftarkan d
 <tbody>  
 <tr>  
 <td>Nama Fungsi</td>  
-<td>Sign In (web)</td>  
+<td>User Melihat Event</td>  
 </tr>  
 <tr>  
 <td>Ref</td>  
-<td>Bag 2.1.2 Sign In</td>  
+<td>Bag 2.2.4 User Melihat Event</td>  
 </tr>  
 <tr>  
 <td>Trigger</td>  
-<td>Membuka Aplikasi Budaya dan Pariwisata pada website</td>  
+<td>Membuka Aplikasi Budaya dan Pariwisata </td>  
 </tr>  
 <tr>  
 <td>Precondision</td>  
-<td>Halaman Login </td>  
+<td>Halaman Utama Login</td>  
 </tr>  
 <tr>  
 <td>Basic Path</td>  
-<td> User membuka aplikasi pada website</td>  
+<td>
+<ol>
+<li>Sistem menampilkan halaman utama</li>
+<li>User mengklik button event</li>
+<li>Sistem menampilkan data event</li>
+</ol>
+</td>  
 </tr>  
 <tr>  
 <td>Alternative</td>  
@@ -476,16 +502,16 @@ Salah satu persyaratan untuk mengakses Aplikasi ini adalah dengan mendaftarkan d
 </tr>  
 <tr>  
 <td>Post Condition</td>  
-<td>Admin dapat login </td>  
+<td>User melihat event</td>  
 </tr>  
 <tr>  
 <td>Exception Push</td>  
 <td> Tidak ada koneksi</td>  
 </tr>  
-</tbody>  
-</table>  
-<p><strong>3.2.5 Kategori</strong></p>  
-<br><br><br><table>  
+</tbody>   
+</table>
+<p><strong>3.2.5 User Mengajukan Pengaduan</strong></p>  
+<table>  
 <thead>  
 <tr>  
 </tr>  
@@ -493,39 +519,46 @@ Salah satu persyaratan untuk mengakses Aplikasi ini adalah dengan mendaftarkan d
 <tbody>  
 <tr>  
 <td>Nama Fungsi</td>  
-<td>Kategori</td>  
+<td>User Mengajukan Pengaduan</td>  
 </tr>  
 <tr>  
 <td>Ref</td>  
-<td>Bag 2.1.2 Kategori</td>  
+<td>Bag 2.2.5 User Mengajukan Pengaduan</td>  
 </tr>  
 <tr>  
 <td>Trigger</td>  
-<td>Membuka Aplikasi Budaya dan Pariwisata pada website</td>  
+<td>Membuka Aplikasi Budaya dan Pariwisata </td>  
 </tr>  
 <tr>  
 <td>Precondision</td>  
-<td>Halaman Login </td>  
+<td>Halaman Utama Login</td>  
 </tr>  
 <tr>  
 <td>Basic Path</td>  
-<td> 1. Admin mengisi username dan password  
-<p>2. Admin klik button sign in</p></td>  
-</tr><tr>  
-</tr><tr>  
+<td>
+<ol>
+<li>Sistem menampilkan halaman utama</li>
+<li>User mengklik button pengaduan</li>
+<li>User mengisi form pengaduan dan mengklik button kirim</li>
+<li>Sistem mengirim data ke admin</li>
+</ol>
+</td>  
+</tr>  
+<tr>  
 <td>Alternative</td>  
 <td> Tidak ada</td>  
 </tr>  
 <tr>  
 <td>Post Condition</td>  
-<td>Admin dapat memilih menu apa yang akan di akses pada aplikasi budaya dan pariwisata </td>  
+<td>Halaman pengaduan</td>  
 </tr>  
 <tr>  
 <td>Exception Push</td>  
 <td> Tidak ada koneksi</td>  
 </tr>  
-</tbody>  
-</table><p><strong>3.3 Struktur Detail Kebutuhan Non Functional</strong><br>  
+</tbody>   
+</table>
+<p><strong>3.3 Struktur Detail Kebutuhan Non Functional</strong><br>  
 </p><p><strong>3.3.1 Logika Struktur Data</strong><br>  
 </p><p>Struktur data logika pada sistem Aplikasi Budaya dan Pariwisata terdapat struktur Database yang dijelaskan menggunakan ERD.  
 </p><p><img src="https://1.bp.blogspot.com/-Wwz2A0ULTEA/Wpu3d82p1NI/AAAAAAAAADg/irPmAVKe5rMZzWTABoXiqvz1jdRIsg7cACLcBGAs/s1600/ERD.jpg" alt="enter image description here"></p>  
