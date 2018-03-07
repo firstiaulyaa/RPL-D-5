@@ -3,23 +3,20 @@
 
 ---
 
-<p align="center"></p><h1 id="software-requirements-specification">SOFTWARE REQUIREMENTS SPECIFICATION</h1><p></p>  
-<p align="center">VERSION<br>  
-22 Februari 2018<br>  
+<h1 align="center" id="software-requirements-specification">SOFTWARE REQUIREMENTS SPECIFICATION</h1>  
+<p align="center"><strong>VERSION<br>  
+22 Februari 2018</strong><br>  
 </p><p align="center">  
 <img src="https://lh3.googleusercontent.com/qEHYPVzo0kjd8ikhrCIF4cI_PhR8pmK5vDU14oEp9OPyVT-eA54cVp8C9iyJ8rKDfH8OR1dnT1zv=s300" alt="enter image description here" title="logo">  
-</p><p align="center">Kelompok 5 D3TI2D</p>  
-<ol>  
-<p align="center"></p><li>Firsti Aulya K. K. (1603098)</li>  
-<li>Firmansyah (1603097)</li>  
-<li>Diyanti (1603094)<br>  
-</li><li>Rizky Alief Satria (1603111)<br>  
-</li><p></p>  
+</p><p align="center"><strong>Kelompok 5 D3TI2D</strong></p>    
+<p align="center"><strong>Firsti Aulya K. K. (1603098)<br>  
+Firmansyah (1603097) <br>
+Diyanti (1603094)<br>  
+Rizky Alief Satria (1603111)</strong><br>  
+</p>  
 <h2 align="center"><strong>Jurusan D3 Teknik Informatika</strong></h2>  
 <h2 align="center"><strong>Politeknik Negeri Indramayu </strong></h2>  
-<h2 align="center"><strong>2018</strong></h2>  
-  
-</ol>  
+<h2 align="center"><strong>2018</strong></h2> 
   
 <p><strong>1. PENDAHULUAN</strong>  
 </p><p><strong>1.1 Tujuan</strong></p>  
