@@ -65,9 +65,10 @@ Aplikasi Budaya dan Pariwisata Kab. Indramayu Berbasis Android adalah aplikasi y
 Pada proyek ini dibuat dengan sistem berbasis Android dimana aplikasi ini bisa diakses hanya dengan smartphone dengan Sistem operasinya adalah Android. Aplikasi ini dibangun dengan menggunakan aplikasi Android Studio dan Firebase sebagai databasenya.<br>  
 Aplikasi ini memungkinkan admin untuk menyebarkan informasi tentang lomba atau event yang diadakan oleh Dinas Kebudayaan dan Pariwisata Kabupaten Indramayu dan informasi seputar pariwisata apa saja yang berada di daerah Indramayu.<br>  
 <strong>2.1.1 Antarmuka sistem</strong><br>  
-</p><p><img src="https://lh3.googleusercontent.com/-CNjbNaTNhmQ/WpuJ5kDQf5I/AAAAAAAAACA/kSVSESncFRQPHkvo011uQkTwp8ULKoktQCJoC/w530-h350-n-rw/Screenshot_10.png" alt="enter image description here"></p>
+
+![enter image description here](https://4.bp.blogspot.com/-80n_0OxZZ_w/Wp-lcm-mUII/AAAAAAAAAEA/dLxdDnG38Z8zyk7PNIP3hgChXTJiDFZ4gCLcBGAs/s1600/sistem.png)
 <p>  
-Sistem Aplikasi Budaya dan Pariwisata ini terdapat 2 aktor yaitu Admin dan User (Pengguna). Admin dan User (Pengguna) mempunyai fungsi yang berbeda dimana admin dapat mengolah data Pariwisata, data Budaya dan data Event juga dapat melihat ratting dari user. sedangkan user hanya dapat melihat data Pariwisata, data Budaya, dan data Event, user (pengguna) juga dapat menginputkan ratting.  
+Sistem Aplikasi Budaya dan Pariwisata ini terdapat 2 aktor yaitu Admin dan User (Pengguna). Admin dan User (Pengguna) mempunyai fungsi yang berbeda dimana admin dapat mengolah data Pariwisata, data Budaya dan data Event juga dapat melihat ratting dari user. sedangkan user hanya dapat melihat data Pariwisata, data Budaya, dan data Event, user (pengguna) juga dapat menginputkan Pengaduan.  
 </p>  
 <p><strong>2.1.2 Antarmuka pengguna</strong></p>
 <ul>  
@@ -126,14 +127,56 @@ Sistem aplikasi ini memiliki 2 User yang aktif, yaitu Admin dan User. User dapat
 Untuk dapat menggunakan aplikasi budaya dan pariwisata Kabupaten Indramayu kita dapat mengakses lewat browser.<br>  
 <strong>2.1.5 Antarmuka Komunikasi</strong><br>  
 Aplikasi ini bekerja sama dengan Dinas Kebudayaan dan Pariwisata Kabupaten Indramayu.<br>  
-<strong>2.1.6 Batasan memori</strong> (skip)<br>  
+<strong>2.1.6 Batasan memori</strong><br> 
+<p>Memori yang digunakan untuk aplikasi di usahakan tidak melebihi 100MB</p> 
 <strong>2.1.7 Operasi-operasi</strong><br>  
-Perangkat lunak yang dibutuhkan adalah :</p>  
-<ul>  
-<li>Sistem Operasi : Microsoft Windows 10</li>  
-<li>DBMS : Firebase</li>  
-<li>Bahasa pemrograman : Java, Php</li>  
-</ul>  
+<table>  
+<thead>  
+<tr>  
+</tr>  
+</thead>  
+<tbody>  
+<tr>  
+<td><strong>Operasi</strong></td>  
+<td><strong>Fungsi</strong></td>  
+</tr>  
+<tr>  
+<td>Daftar</td>  
+<td>Digunakan bagi user untuk mendaftar </td>  
+</tr>  
+<tr>  
+<td>Login</td>  
+<td>Digunakan untuk mengakses aplikasi </td>  
+</tr>  
+<tr>  
+<td>Input Data</td>  
+<td>Digunakan untuk memasukkan data</td>  
+</tr> 
+<tr>  
+<td>Edit</td>  
+<td>Digunakan untuk mengubah data</td>  
+</tr> 
+<tr>  
+<td>Hapus</td>  
+<td>Digunakan untuk menghapus data</td>  
+</tr>   
+<tr>  
+<td>View</td>  
+<td>Digunakan untuk menampilkan data</td>  
+</tr>   
+<tr>  
+<td>Simpan</td>  
+<td>Digunakan untuk menyimpan data</td>  
+</tr> 
+<tr>  
+<td>Kembali</td>  
+<td>Digunakan untuk kembali ke halaman sebelumnya</td>  
+</tr> 
+<td>Pengaduan</td>  
+<td>Digunakan untuk keluhan dan komentar pengguna</td>  
+</tr> 
+
+
 <p><strong>2.1.8 Kebutuhan adaptasi</strong> (skip)</p>  
 <p><strong>2.2. Spesifikasi Kebutuhan Fungsional</strong><br>  
 <img src="https://lh3.googleusercontent.com/aq2ARLrncTWCZ4ZOEiLrj4bwxnRXCzYJZO25W3-RsnjAoRAHMA29QJpLzSyrEcZYctmNToCazYsB" alt="usecase" title="usecase keseluruhan"><br>  
