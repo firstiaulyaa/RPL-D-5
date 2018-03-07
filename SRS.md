@@ -561,8 +561,10 @@ Salah satu persyaratan untuk mengakses Aplikasi ini adalah dengan mendaftarkan d
 <p><strong>3.3 Struktur Detail Kebutuhan Non Functional</strong><br>  
 </p><p><strong>3.3.1 Logika Struktur Data</strong><br>  
 </p><p>Struktur data logika pada sistem Aplikasi Budaya dan Pariwisata terdapat struktur Database yang dijelaskan menggunakan ERD.  
-</p><p><img src="https://1.bp.blogspot.com/-Wwz2A0ULTEA/Wpu3d82p1NI/AAAAAAAAADg/irPmAVKe5rMZzWTABoXiqvz1jdRIsg7cACLcBGAs/s1600/ERD.jpg" alt="enter image description here"></p>  
-<p>Pada ERD terdapat tabel admin, tabel user, tabel pariwisata, tabel budaya, tabel event dan tabel ratting.  
-Dimana admin menginputkan data Budaya, data Pariwisata, dan data Event.Admin juga dapat mengolah data Budaya, data Pariwisata dan data Event dan admin juga dapat mengolah data user.  
-Sementara User dapat melihat data Budaya, melihat data Pariwisata, dan data Event. User dapat menginputkan ratting untuk memberikan penilaian.</p>
+</p><p>
+
+![enter image description here](https://2.bp.blogspot.com/-oHNJmz4bqIU/Wp_vwODHFFI/AAAAAAAAAEQ/p7xITowij_cWG7QfqIYlJmuO2WckR423gCLcBGAs/s1600/ERD222.jpg)
+
+<p>Pada ERD terdapat tabel admin, tabel user, tabel pariwisata, tabel budaya, tabel event dan tabel pengaduan.</p>
+
 
