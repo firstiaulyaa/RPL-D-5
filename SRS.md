@@ -60,11 +60,11 @@ Pada Proyek ini dibuat sistem berbasis android dimana pengolahan informasi dan d
 <p><strong>1.5 Overview</strong><br>  
 Dokumen ini dibagi menjadi tiga bagian utama. Bagian pertama berisi penjelasan tentang dokumen SRS yang mencakup tujuan pembuatan dokumen ini, lingkup masalah yang diselesaikan yang dikembangkan oleh kami yaitu definisi, referensi, dan deskripsi umum. Bagian kedua berisi penjelasan secara umum mengenai aplikasi yang akan di kembangkan meliputi fungsi, karakteristik pengguna, batasan dan asumsi yang diambil dalam pengembangan aplikasi.Bagian ke tiga berisi uraian aplikasi secara lebih rinci.</p>  
 <p><strong>2. GAMBARAN UMUM</strong><br>  
-Aplikasi Budaya dan Pariwisata Kab. Indramayu Berbasis Android adalah aplikasi yang digunakan untuk mempermudah penggunaan dalam pencarian dan informasi seputar budaya dan pariwisata di Kabupaten Indramayu.</p>  
+<p>Aplikasi Budaya dan Pariwisata Kab. Indramayu Berbasis Android adalah aplikasi yang digunakan untuk mempermudah penggunaan dalam pencarian dan informasi seputar budaya dan pariwisata di Kabupaten Indramayu.</p>  
 <p><strong>2.1. Perspektif Produk</strong><br>  
 Pada proyek ini dibuat dengan sistem berbasis Android dimana aplikasi ini bisa diakses hanya dengan smartphone dengan Sistem operasinya adalah Android. Aplikasi ini dibangun dengan menggunakan aplikasi Android Studio dan Firebase sebagai databasenya.<br>  
 Aplikasi ini memungkinkan admin untuk menyebarkan informasi tentang lomba atau event yang diadakan oleh Dinas Kebudayaan dan Pariwisata Kabupaten Indramayu dan informasi seputar pariwisata apa saja yang berada di daerah Indramayu.<br>  
-<strong>2.1.1 Antarmuka sistem</strong><br>  
+<p><strong>2.1.1 Antarmuka sistem</strong></p><br>  
 
 ![enter image description here](https://4.bp.blogspot.com/-80n_0OxZZ_w/Wp-lcm-mUII/AAAAAAAAAEA/dLxdDnG38Z8zyk7PNIP3hgChXTJiDFZ4gCLcBGAs/s1600/sistem.png)
 <p>  
@@ -121,13 +121,13 @@ Button tersebut adalah Budaya, Pariwisata, Event, Berita, Profil Saya, Data Admi
 </li>  
 </ul>  
 <p><strong>2.1.3 Antarmuka perangkat keras</strong><br>  
-<img src="https://lh3.googleusercontent.com/X0547VB1z0t-vmZLOnlvdFPOPRxi0gGhFNuIcLjDgQCUg8taYVmNEcdEvKxQey7bWaY6_co0WVQ=s300" alt="2.3"><br>  
+<br><img src="https://lh3.googleusercontent.com/X0547VB1z0t-vmZLOnlvdFPOPRxi0gGhFNuIcLjDgQCUg8taYVmNEcdEvKxQey7bWaY6_co0WVQ=s300" alt="2.3"><br>  
 Sistem aplikasi ini memiliki 2 User yang aktif, yaitu Admin dan User. User dapat mengakses aplikasi melalui smartphone yang memiliki sistem operasi Android. Aplikasi ini bisa digunakan apabila terhubung ke internet. Data-data pada aplikasi ini selanjutnya disimpan di database (Server) dan selanjutnya dikelola oleh Admin.</p>  
 <p><strong>2.1.4 Antarmuka perangkat lunak</strong><br>  
 Untuk dapat menggunakan aplikasi budaya dan pariwisata Kabupaten Indramayu kita dapat mengakses lewat browser.<br>  
-<strong>2.1.5 Antarmuka Komunikasi</strong><br>  
-Aplikasi ini bekerja sama dengan Dinas Kebudayaan dan Pariwisata Kabupaten Indramayu.<br>  
-<strong>2.1.6 Batasan memori</strong><br> 
+<p><strong>2.1.5 Antarmuka Komunikasi</strong></p>
+<p>Aplikasi ini bekerja sama dengan Dinas Kebudayaan dan Pariwisata Kabupaten Indramayu.</p><br>  
+<p><strong>2.1.6 Batasan memori</strong></p><br> 
 <p>Memori yang digunakan untuk aplikasi di usahakan tidak melebihi 100MB</p> 
 <strong>2.1.7 Operasi-operasi</strong><br>  
 <table>  
@@ -177,7 +177,7 @@ Aplikasi ini bekerja sama dengan Dinas Kebudayaan dan Pariwisata Kabupaten Indra
 </tr> 
 
 
-<p><strong>2.1.8 Kebutuhan adaptasi</strong> (skip)</p>  
+<p><strong>2.1.8 Kebutuhan adaptasi</strong></p>  
 <p><strong>2.2. Spesifikasi Kebutuhan Fungsional</strong><br>  
 <img src="https://lh3.googleusercontent.com/aq2ARLrncTWCZ4ZOEiLrj4bwxnRXCzYJZO25W3-RsnjAoRAHMA29QJpLzSyrEcZYctmNToCazYsB" alt="usecase" title="usecase keseluruhan"><br>  
 <strong>2.3. Spesifikasi Kebutuhan Non-fungsional</strong><br>  
@@ -191,14 +191,14 @@ Aplikasi dapat menyediakan backup pada database yang digunakan.<br>
 Keamanan data akan terjaga karena menerapkan validasi pada saat pengguna mulai login.</p>  
 <p><strong>2.4. Karakteristik Pengguna</strong><br></p>  
 <p>  
-Dengnan adanya aplikasi ini diharapkan dapat membantu admin mengolah data pariwisata, data kebudayaan, data event dan pendaftaran untuk mengikuti event. kemudian bagi pengguna sendiri diharapkan dapat mempermudah pengguna untuk mendapatkan informasi tentang pariwisata, kebudayaan dan event yang di adakan oleh dinas kebudayaan dan pariwisata kabupaten Indramayu menggunakan aplikasi mobile ini.  
+Dengan adanya aplikasi ini diharapkan dapat membantu admin mengolah data pariwisata, data kebudayaan, data event dan pendaftaran untuk mengikuti event. kemudian bagi pengguna sendiri diharapkan dapat mempermudah pengguna untuk mendapatkan informasi tentang pariwisata, kebudayaan dan event yang di adakan oleh dinas kebudayaan dan pariwisata kabupaten Indramayu menggunakan aplikasi mobile ini.  
 </p>  
 <strong>2.5. Batasan-batasan</strong><br>  
 Pada Aplikasi Budaya dan Pariwisata Kabupaten Indramayu harus menggunakan smartphone denga sistem operasi Android untuk dapat mengaksesnya atau menggunakannya. Pengguna dapat login dengan mendaftar terlebih dahulu.<br>  
 <p><strong>3. Requirement Specification</strong></p>  
 <p><strong>3.1 Persyaratan Antarmuka Eksternal</strong><br>  
 Salah satu persyaratan untuk mengakses Aplikasi ini adalah dengan mendaftarkan diri dan melengkapi kolom data diri.</p>  
-<p><strong>3.2 Functional Reqruitment</strong><br>  
+<p><strong>3.2 Functional Requirnment</strong><br>  
 </p><p><strong>3.2.1 Sign In<strong></strong></strong></p>  
 <br><table>  
 <thead>  
@@ -224,7 +224,11 @@ Salah satu persyaratan untuk mengakses Aplikasi ini adalah dengan mendaftarkan d
 </tr>  
 <tr>  
 <td>Basic Path</td>  
-<td> User membuka aplikasi budaya dan pariwisata </td>  
+<td> 1. User membuka aplikasi budaya dan pariwisata
+<p>2. Sistem merespon </p>
+<p>3. Sistem menampilkan proses pembukaan aplikasi</p>
+<p>4. Sistem menampilkan menu login</p>
+</td>  
 </tr>  
 <tr>  
 <td>Alternative</td>  
@@ -240,10 +244,11 @@ Salah satu persyaratan untuk mengakses Aplikasi ini adalah dengan mendaftarkan d
 </tr>  
 </tbody>  
   
-</table><p><strong>3.2.2 Register</strong></p>  
-  
-  
-<br><table>  
+</table>
+<p><strong>3.2.2 Register</strong></p>  
+    
+<br>
+<table>  
 <thead>  
 <tr>  
 </tr>  
@@ -283,11 +288,11 @@ Salah satu persyaratan untuk mengakses Aplikasi ini adalah dengan mendaftarkan d
 <td> Tidak ada koneksi</td>  
 </tr>  
 </tbody>  
-  
-</table><p><strong>3.2.3 Home</strong></p>  
-  
-  
-<br><table>  
+  </table>
+  <p><strong>3.2.3 Home</strong></p>  
+    
+<br>
+<table>  
 <thead>  
 <tr>  
 </tr>  
@@ -327,11 +332,12 @@ Salah satu persyaratan untuk mengakses Aplikasi ini adalah dengan mendaftarkan d
 <td> Tidak ada koneksi</td>  
 </tr>  
 </tbody>  
-  
-</table><p><strong>3.2.4 Sign In (web)</strong></p>  
-  
-  
-<br><table>  
+  </table>
+
+<p><strong>3.2.4 Sign In (web)</strong></p>  
+    
+<br>
+<table>  
 <thead>  
 <tr>  
 </tr>  
@@ -370,8 +376,9 @@ Salah satu persyaratan untuk mengakses Aplikasi ini adalah dengan mendaftarkan d
 <td> Tidak ada koneksi</td>  
 </tr>  
 </tbody>  
-  
-</table><p><strong>3.2.5 Kategori</strong></p>  
+  </table>
+
+<p><strong>3.2.5 Kategori</strong></p>  
 <br><br><br><table>  
 <thead>  
 <tr>  
