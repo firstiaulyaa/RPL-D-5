@@ -1,4 +1,4 @@
-﻿<h1 align="center" id="software-requirements-specification">SOFTWARE PROJECT MANAGEMENT PLAN</h1>  
+<h1 align="center" id="software-requirements-specification">SOFTWARE PROJECT MANAGEMENT PLAN</h1>  
 <p align="center"><strong>Version 1.0<br>  
 22 Februari 2018</strong><br>  
 </p><p align="center">  
@@ -9,9 +9,9 @@ Firmansyah (1603097) <br>
 Diyanti (1603094)<br>  
 Rizky Alief Satria (1603111)</strong><br>  
 </p>  
-<h2 align="center"><strong>Jurusan D3 Teknik Informatika</strong></h2>  
-<h2 align="center"><strong>Politeknik Negeri Indramayu </strong></h2>  
-<h2 align="center"><strong>2018</strong></h2>  
+<p align="center"><strong>Jurusan D3 Teknik Informatika<br>
+Politeknik Negeri Indramayu<br>
+2018</strong></p>  
 <p><strong>1. PENDAHULUAN</strong>  
 <p><strong>1.1. Gambaran Proyek</strong></p>
 Aplikasi Budaya dan Pariwisata Indramayu adalah salah satu aplikasi berbasis android yang digunakan untuk seluruh masyarakat, khususnya masyarakat yang berada di daerah Indramayu untuk mengetahui kebudayaan yang ada di Indramayu dan event atau lomba yang akan diselenggarakan oleh Dinas Kebudayaan dan Pariwisata Kabupaten Indramayu.<br>
