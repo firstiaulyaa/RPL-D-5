@@ -1,4 +1,4 @@
-<h1 align="center" id="software-requirements-specification">SDD</h1>  
+<h1 align="center" id="software-requirements-specification">SOFTWARE DESIGN DESCRIPTION</h1>  
 <p align="center"><strong>Version 1.0<br>  </strong><br>  
 </p><p align="center">  
 <img src="https://lh3.googleusercontent.com/qEHYPVzo0kjd8ikhrCIF4cI_PhR8pmK5vDU14oEp9OPyVT-eA54cVp8C9iyJ8rKDfH8OR1dnT1zv=s300" alt="enter image description here" title="logo">  
@@ -23,13 +23,19 @@ pada dokumen ini akan menjelaskan DFD dan lain-lain.</p>
 <p>Aplikasi Budaya dan Pariwisata Indramayu adalah salah satu aplikasi berbasis android yang digunakan untuk seluruh masyarakat, khususnya masyarakat yang berada di daerah Indramayu untuk mengetahui kebudayaan yang ada di Indramayu dan event atau lomba yang akan diselenggarakan oleh Dinas Kebudayaan dan Pariwisata Kabupaten Indramayu.<br>  
 Pada Proyek ini dibuat sistem berbasis android dimana pengolahan informasi dan data diakses melalui smartphone dengan sistem operasi android.</p>  
 
+<p><strong>1.3 Audien yang dituju</strong></p>
+<p>Aplikasi ini dibuat berdasarkan study kasus pada Dinas Kebudayaan dan pariwisata 
+kab. Indramayu yang ditujukan untuk masyarakat. dimana aplikasi ini mempunyai fungsi 
+untuk menyebarkan informasi kepada masyarakat luas agar informasi dapat tersampaikan.
+selain itu pengguna juga dapat mengirimkan pengaduan.</p>
+
+<p><strong>1.4 Kesesuaian</strong></p>
+<p>SDD ini mengacu pada IEEE-P1016-d50</p>
+
 
 <p><strong>2. REFERENSI</strong></p>
 
-</p><ul><li><a href="https://id.wikipedia.org/wiki/Android_(sistem\\\_operasi)">https://id.wikipedia.org/wiki/Android\\\_(sistem_operasi)</a>,</li>
-<li><a href="https://id.wikipedia.org/wiki/Berita">https://id.wikipedia.org/wiki/Berita</a>, </li>
-<li><a href="https://id.wikipedia.org/wiki/Budaya">https://id.wikipedia.org/wiki/Budaya</a>.</li>
-<li>IEEE. IEEE Std 830-1998 IEEE Recommended Practice for Software Requirements Specifications. IEEE Computer Society, 1998. 1.5 Overview</li><ul></ul></ul><p></p>  
+<li>IEEE-P1016-d50</li><ul></ul></ul><p></p>  
 
 <p><strong>3. PENJELASAN DEKOMPOSISI</strong></p>
 <P><strong>3.1 Dekomposisi Model</strong></P>
