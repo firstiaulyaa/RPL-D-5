@@ -30,12 +30,14 @@ untuk menyebarkan informasi kepada masyarakat luas agar informasi dapat tersampa
 selain itu pengguna juga dapat mengirimkan pengaduan.</p>
 
 <p><strong>1.4 Kesesuaian</strong></p>
-<p>SDD ini mengacu pada IEEE-P1016-d50</p>
+<p>SDD ini mengacu pada IEEE Draft Standard for Software Design Descriptions. IEEE P1 01 6/D5.0; 1 2 December 2005</p>
 
 
 <p><strong>2. REFERENSI</strong></p>
 
-<li>IEEE-P1016-d50</li><ul></ul></ul><p></p>  
+<p>IEEE, IEEE Draft Standard for Software Design Descriptions. IEEE P1 01 6/D5.0; 1 2 December 2005</p>
+
+<p>Eka Ismantohadi & Moh. Yani, Software Design Document (SDD). 2018</p>  
 
 <p><strong>3. PENJELASAN DEKOMPOSISI</strong></p>
 <P><strong>3.1 Dekomposisi Model</strong></P>
