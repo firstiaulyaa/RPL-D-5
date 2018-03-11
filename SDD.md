@@ -13,7 +13,7 @@ Rizky Alief Satria (1603111)</strong><br>
 </p>  
 <p align="center"><strong>Jurusan D3 Teknik Informatika<br>
 Politeknik Negeri Indramayu<br>
-2018</strong></p> 
+2018</strong></p>
 
 
 <P><strong>1. PENDAHULUAN</strong></P>
@@ -83,6 +83,5 @@ DFD Level 1 : Proses 4 merupakan penjelasan dari DFD Level 0  dan berisi tentang
 <p><strong>3.2.2 Diagram Level 1 : Proses 5</strong></p>
 DFD Level 1 : Proses 5 merupakan penjelasan dari DFD Level 0  dan berisi tentang Data Event.<br><br>
 <img src="https://lh3.googleusercontent.com/-hpxFAPf263M/WqTmYgxitXI/AAAAAAAAAMs/WnmpDJF8k8c5aR173xKDyuRj9oNjUEedACL0BGAs/w530-d-h378-n/DFD%2Blevel%2B5.png=s300" alt="enter image description here" title="diagram level 1 : proses 5">  
-</p><p align="center">
-
+</p>
 <p><strong>3.3 Dekomposisi Data</strong></p>
