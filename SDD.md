@@ -86,5 +86,3 @@ DFD Level 1 : Proses 5 merupakan penjelasan dari DFD Level 0  dan berisi tentang
 </p><p align="center">
 
 <p><strong>3.3 Dekomposisi Data</strong></p>
-<p><strong>3.3.1 Deskripsi Entri Data 1</strong></p>
-<p><strong>3.3.2 Deskripsi Entri Data 2</strong></p>
