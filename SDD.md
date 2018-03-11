@@ -1,4 +1,4 @@
-<h1 align="center" id="software-requirements-specification">SOFTWARE DESIGN DESCRIPTION</h1>  
+﻿<h1 align="center" id="software-requirements-specification">SOFTWARE DESIGN DESCRIPTION</h1>  
 <p align="center"><strong>Version 1.0<br>  </strong><br>  
 </p><p align="center">  
 <img src="https://lh3.googleusercontent.com/qEHYPVzo0kjd8ikhrCIF4cI_PhR8pmK5vDU14oEp9OPyVT-eA54cVp8C9iyJ8rKDfH8OR1dnT1zv=s300" alt="enter image description here" title="logo">  
@@ -40,12 +40,50 @@ selain itu pengguna juga dapat mengirimkan pengaduan.</p>
 <p>Eka Ismantohadi & Moh. Yani, Software Design Document (SDD). 2018</p>  
 
 <p><strong>3. PENJELASAN DEKOMPOSISI</strong></p>
-<P><strong>3.1 Dekomposisi Model</strong></P>
-<p><strong>3.1.1 Deskripsi Model 1</strong></p>
-<p><strong>3.1.2 Deskripsi Modul 2</strong></p>
+<p><strong>3.1 Dekomposisi Model</strong></p>
+<p><strong>3.1.1 Diagram Konteks</strong></p>
+
+ </p><p align="center">  
+<img src="https://lh3.googleusercontent.com/-L6CJeZHFHZQ/WqTi-IVUFZI/AAAAAAAAAKc/j44KbgZwpywg3PX7kgJXQlybxX4hodvXQCL0BGAs/w530-d-h288-n/diagram%2Bkonteks.png=s300" alt="enter image description here" title="diagram konteks">  
+</p><p align="center">
+
+Diagram konteks merupakan tingkatan tertinggi dalam diagram aliran data dan hanya memuat satu proses, menunjukkan sistem secara keseluruhan. 
+
+
+<p><strong>3.1.2 Diagram 0</strong></p>
+
+ </p><p align="center">  
+<img src="https://lh3.googleusercontent.com/-uJQdK9TG0Xk/WqTkVDn1R0I/AAAAAAAAALI/VaB0lUHIxukYPXhI8QwXtxMW_az3pFWMwCJoC/w530-h292-n/DFD%2Blevel%2B0.png=s300" alt="enter image description here" title="diagram 0">  
+</p><p align="center">
+
+Diagram 0 adalah diagram yang menggambarkan proses dari data flow diagram. Diagram 0 memberikan pandangan secara menyeluruh mengenai sistem yang ditangani, menunjukkan tentang fungsi-fungsi utama atau proses yang ada, aliran data, dan eksternal entity.
+
 <p><strong>3.2 Dekompoaisi Proses Konkuren</strong></p>
-<p><strong>3.2.1 Deskripsi Proses 1</strong></p>
-<p><strong>3.2.2 Deskripsi Proses</strong></p>
+<p><strong>3.2.1 Diagram Level 1 : Proses 1</strong></p>
+
+<img src="https://lh3.googleusercontent.com/-jX7pTjEGTEQ/WqTllEI1HdI/AAAAAAAAALk/5J0pTSAvwPMeKa7Ph6vikJg4yqVeBYjsgCJoC/w530-h411-n/DFD%2Blevel%2B1.png=s300" alt="enter image description here" title="diagram level 1 : proses 1">  
+</p><p align="center">
+
+<p><strong>3.2.2 Diagram Level 1 : Proses 2</strong></p>
+
+<img src="https://lh3.googleusercontent.com/-1zlSSVSXvqo/WqTmR7-hZxI/AAAAAAAAAMc/OVyx7lwIKJws0yAWZS8kYDlyacGN-3sSgCL0BGAs/w530-d-h379-n/DFD%2Blevel%2B2.png=s300" alt="enter image description here" title="diagram level 1 : proses 2">  
+</p><p align="center">
+
+<p><strong>3.2.2 Diagram Level 1 : Proses 3</strong></p>
+
+<img src="https://lh3.googleusercontent.com/-6nHSyQrtoMA/WqTmGfmbaHI/AAAAAAAAAL8/Z35gIr2jFtUbtZ_P_EX4Xv3fzeTXFJ3FACL0BGAs/w530-d-h380-n/DFD%2Blevel%2B3.png.png=s300" alt="enter image description here" title="diagram level 1 : proses 3">  
+</p><p align="center">
+
+<p><strong>3.2.2 Diagram Level 1 : Proses 4</strong></p>
+
+<img src="https://lh3.googleusercontent.com/-WWTNI6O3UaQ/WqTmMuVPvdI/AAAAAAAAAMM/1yCrun850wY6mjPBRodXWN9XGfBNJod3wCL0BGAs/w530-d-h381-n/DFD%2Blevel%2B4.pngpng=s300" alt="enter image description here" title="diagram level 1 : proses 4">  
+</p><p align="center">
+
+<p><strong>3.2.2 Diagram Level 1 : Proses 5</strong></p>
+
+<img src="https://lh3.googleusercontent.com/-hpxFAPf263M/WqTmYgxitXI/AAAAAAAAAMs/WnmpDJF8k8c5aR173xKDyuRj9oNjUEedACL0BGAs/w530-d-h378-n/DFD%2Blevel%2B5.png=s300" alt="enter image description here" title="diagram level 1 : proses 5">  
+</p><p align="center">
+
 <p><strong>3.3 Dekomposisi Data</strong></p>
 <p><strong>3.3.1 Deskripsi Entri Data 1</strong></p>
 <p><strong>3.3.2 Deskripsi Entri Data 2</strong></p>
