@@ -85,3 +85,23 @@ DFD Level 1 : Proses 5 merupakan penjelasan dari DFD Level 0  dan berisi tentang
 <img src="https://lh3.googleusercontent.com/-hpxFAPf263M/WqTmYgxitXI/AAAAAAAAAMs/WnmpDJF8k8c5aR173xKDyuRj9oNjUEedACL0BGAs/w530-d-h378-n/DFD%2Blevel%2B5.png=s300" alt="enter image description here" title="diagram level 1 : proses 5">  
 </p>
 <p><strong>3.3 Dekomposisi Data</strong></p>
+<p><strong>3.3.1 Deskripsi Entri Data 1</strong></p>
+<p><strong>3.3.2 Deskripsi Entri Data 2</strong></p>
+<p><strong><h3>4. Deskripsi Ketergantungan / Keterkaitan</h3></strong></p>
+<p><strong>4.1 Keterkaitan Inter Modul</strong></p>
+<p><strong>4.2 Keterkaitan Inter Proses</strong></p>
+<p><strong>4.3 Keterkaitan Data</strong></p>
+<p><strong><h3>5. Deskripsi Antarmuka</h3></strong></p>
+<p><strong>5.1 Antarmuka Modul</strong></p>
+<p><strong>5.1.1 Deskripsi Modul 1</strong></p>
+<p><strong>5.1.2 Deskripsi Modul 2</strong></p>
+<p><strong>5.2 Antarmuka Proses</strong></p>
+<p><strong>5.2.1 Deskripsi Proses 1</strong></p>
+<p><strong>5.2.2 Deskripsi Proses 2</strong></p>
+<p><strong><h3>6. Desain Detil/Rinci</h3></strong></p>
+<p><strong>6.1 Rinci Modul</strong></p>
+<p><strong>6.1.1 Rinci Modul 1</strong></p>
+<p><strong>6.1.2 Rinci Modul 2</strong></p>
+<p><strong>6.2 Desain Data Secara Rinci</strong></p>
+<p><strong>6.2.1 Rinci Entiti Data 1</strong></p>
+<p><strong>6.2.2 Rinci Entiti Data 2</strong></p>
