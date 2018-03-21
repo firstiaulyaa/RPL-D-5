@@ -17,32 +17,61 @@ Politeknik Negeri Indramayu<br>
 
 
 <P><h3><strong>1. PENDAHULUAN</strong></h3></P>
-<P><strong>1.1 Tujuan</strong></P>
+<P><strong>1.1 Tujuan Penulisan Dokumen</strong></P>
 <p>Dokumen ini bertujuan untuk menjelaskan secara detail mengenai aplikasi yang kami buat yang berjudul “Aplikasi Budaya dan Pariwisata Kabupaten Indramayu berbasis Android". Pada dokumen ini akan menjelaskan tentang DFD dan lain-lain.</p>  
 
 
-<p><strong>1.2 Lingkup</strong></p>
+<p><strong>1.2 Lingkup Masalah</strong></p>
 <p>Aplikasi Budaya dan Pariwisata Indramayu adalah salah satu aplikasi berbasis android yang digunakan untuk seluruh masyarakat, khususnya masyarakat yang berada di daerah Indramayu untuk mengetahui kebudayaan yang ada di Indramayu dan event atau lomba yang akan diselenggarakan oleh Dinas Kebudayaan dan Pariwisata Kabupaten Indramayu.<br>  
 Pada Proyek ini dibuat sistem berbasis android dimana pengolahan informasi dan data diakses melalui smartphone dengan sistem operasi android.</p>  
 
-<p><strong>1.3 Audien yang dituju</strong></p>
-<p>Aplikasi ini dibuat berdasarkan studi kasus pada Dinas Kebudayaan dan pariwisata Kab. Indramayu yang ditujukan untuk masyarakat, dimana aplikasi ini mempunyai fungsi 
-untuk menyebarkan informasi kepada masyarakat luas agar informasi dapat tersampaikan.
-selain itu pengguna juga dapat mengirimkan pengaduan.</p>
+<p><strong>1.3 Definisi dan Istilah</strong></p>
+<p><table>  
+<thead>  
+<tr>  
+<th>Istilah</th>  
+<th>Definisi</th>  
+</tr>  
+</thead>  
+<tbody>  
+<tr>  
+<td>Android</td>  
+<td>sistem operasi berbasis Linux yang dirancang untuk perangkat bergerak layar sentuh seperti telepon pintar dan komputer tablet</td>  
+</tr>  
+<tr>  
+<td>Event</td>  
+<td>sebuah rangkaian kegiatan / acara dalam rangka tujuan tertentu yang diadakan oleh pihak tertentu dalam waktu tertentu dan tempat tertentu dengan biaya tertentu</td>  
+</tr>  
+<tr>  
+<td>Budaya</td>  
+<td>Hal-hal yang berkaitan dengan budi, dan akal manusia.</td>  
+</tr>  
+<tr>  
+<td>Pariwisata</td>  
+<td>Suatu perjalanan yang dilakukan untuk rekreasi atau liburan dan juga persiapan yang dilakukan untuk aktivitas ini.</td>  
+</tr>  
+<tr>  
+<td>SRS</td>  
+<td> Software Requirements Specification</td>  
+</tr>  
+</tbody>  </p>
 
-<p><strong>1.4 Kesesuaian</strong></p>
-<p>SDD ini mengacu pada IEEE Draft Standard for Software Design Descriptions. IEEE P1 01 6/D5.0; 1 2 December 2005</p>
-
+<p><strong>1.4 AturanPenamaan dan Penomoran</strong></p>
 <br>
-<p><h3><strong>2. REFERENSI</strong></h3></p>
+<p><h3><strong>1.5 Referensi</strong></h3></p>
 
  - <p>IEEE, IEEE Draft Standard for Software Design Descriptions. IEEE
    P1 01 6/D5.0; 1 2 December 2005</p>
    
  - <p>Eka Ismantohadi & Moh. Yani, Software Design Document (SDD).
    2018</p>
-
+<p><strong>1.6 Ikhtisar Dokumen</strong></p>
 <br>
+<p><strong><h3>2. DESKRIPSI PERANCANGAN GLOBAL</h3></strong></p>
+
+<p><strong>2.1 Rancangan Lingkungan Implementasi</strong></p>
+<p><strong>2.2 Deskripsi Data</strong></p>
+
 <p><h3><strong>3. PENJELASAN DEKOMPOSISI</strong></h3></p>
 <p><strong>3.1 Dekomposisi Model</strong></p>
 <p><strong>3.1.1 Diagram Konteks</strong></p>
@@ -143,4 +172,4 @@ DFD Level 2 : Merupakan penjelasan dari DFD Level 1 (Pariwisata) dan berisi tent
 <p><strong>6.1.2 Rinci Modul 2</strong></p>
 <p><strong>6.2 Desain Data Secara Rinci</strong></p>
 <p><strong>6.2.1 Rinci Entiti Data 1</strong></p>
-<p><strong>6.2.2 Rinci Entiti Data 2</strong></p>
+<p><strong>6.2.2 Rinci Entiti Data 2</strong></p> 
