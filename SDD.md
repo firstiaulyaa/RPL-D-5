@@ -1,6 +1,6 @@
 ﻿<h1 align="center" id="software-requirements-specification">SOFTWARE DESIGN DOCUMENT</h1>  
 <p align="center"><strong>Version 1.0</strong><br> 
-<p align="center"><strong>11 Maret 2018<br>  </strong><br>
+<p align="center"><strong> 15 Maret 2018<br>  </strong><br>
 <p align="center"><strong>"APLIKASI BUDAYA DAN PARIWISATA KABUPATEN INDRAMAYU BERRBASIS ANDROID"<br><br></strong></p> 
 </p><p align="center">  
 <img src="https://lh3.googleusercontent.com/qEHYPVzo0kjd8ikhrCIF4cI_PhR8pmK5vDU14oEp9OPyVT-eA54cVp8C9iyJ8rKDfH8OR1dnT1zv=s300" alt="enter image description here" title="logo">  
@@ -59,17 +59,16 @@ Pada Proyek ini dibuat sistem berbasis android dimana pengolahan informasi dan d
 <td> Berisi pengaduan dari user (Pengguna)</td>  
 </tr>  
 </tbody>  </p>
-
-<p><strong>1.4 AturanPenamaan dan Penomoran</strong></p>
 <br>
-<p><h3><strong>1.5 Referensi</strong></h3></p>
+
+<p><strong>1.4 Referensi</strong></p>
 
  - <p>IEEE, IEEE Draft Standard for Software Design Descriptions. IEEE
    P1 01 6/D5.0; 1 2 December 2005</p>
    
  - <p>Eka Ismantohadi & Moh. Yani, Software Design Document (SDD).
    2018</p>
-<p><strong>1.6 Ikhtisar Dokumen</strong></p>
+<p><strong>1.5 Ikhtisar Dokumen</strong></p>
 <strong>Bab I Pendahuluan, terdiri dari :</strong><br>
 1.1 Tujuan Penulisan Dokumen<br>
 1.2 Lingkup Masalah<br>
@@ -158,6 +157,8 @@ Pada Proyek ini dibuat sistem berbasis android dimana pengolahan informasi dan d
 </tr>  
 </thead>
 </table>
+<br>
+
 
 <p><strong>2.2 Deskripsi Data</strong></p>
 
