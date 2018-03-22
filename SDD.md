@@ -26,6 +26,7 @@ Politeknik Negeri Indramayu<br>
 Pada Proyek ini dibuat sistem berbasis android dimana pengolahan informasi dan data diakses melalui smartphone dengan sistem operasi android.</p>  
 
 <p><strong>1.3 Definisi dan Istilah</strong></p>
+
 <p><table>  
 <thead>  
 <tr>  
@@ -51,8 +52,11 @@ Pada Proyek ini dibuat sistem berbasis android dimana pengolahan informasi dan d
 <td>Suatu perjalanan yang dilakukan untuk rekreasi atau liburan dan juga persiapan yang dilakukan untuk aktivitas ini.</td>  
 </tr>  
 <tr>  
-<td>SRS</td>  
-<td> Software Requirements Specification</td>  
+<td>SDD</td>  
+<td> Software Design Description</td>  
+</tr>  
+<td>Pengaduan</td>  
+<td> Berisi pengaduan dari user (Pengguna)</td>  
 </tr>  
 </tbody>  </p>
 
@@ -66,11 +70,308 @@ Pada Proyek ini dibuat sistem berbasis android dimana pengolahan informasi dan d
  - <p>Eka Ismantohadi & Moh. Yani, Software Design Document (SDD).
    2018</p>
 <p><strong>1.6 Ikhtisar Dokumen</strong></p>
-<br>
+<strong>Bab I Pendahuluan, terdiri dari :</strong><br>
+1.1 Tujuan Penulisan Dokumen<br>
+1.2 Lingkup Masalah<br>
+1.3 Definisi dan Istilah<br>
+1.4 Referensi<br>
+1.5 Ikhtisar Dokumen<br>
+
+<strong>Bab II Deskripsi Perancangan Global</strong>
+2.1 Rancangan Lingkungan Implementasi
+
+2.2 Deskripsi Data
+2.2.1 Definisi Domain/type
+2.2.2 Conceptual Data Model
+2.2.3 Physical Data Model
+2.2.4 Daftar Tabel Aplikasi
+2.3 Deskripsi Modul
+
+<strong>Bab III Deskripsi Perancangan Rinci</strong>
+3.1 Diagram Konteks
+3.1.1 DFD Level 0
+3.1.2 DFD Level 1 Proses M
+3.1.3 DFD Level 1 Proses N
+
+3.2 Deskripsi Rinci Tabel
+3.2.1 Table A
+3.2.2 Table B
+
+3.3 Deskripsi Rinci Modul
+3.3.1 D Modul
+3.3.1.1 Fungsi Modul
+3.3.1.2 Spesifikasi Layar Utama
+3.3.1.3 Spesifikasi Query
+3.3.1.4 Spesifikasi Field Data Layar
+3.3.1.5 Spesifikasi Obyek Pada Layer
+3.3.1.6 Spesifikasi Proses/Algoritma
+3.4 Matriks Keturunan
+
+
 <p><strong><h3>2. DESKRIPSI PERANCANGAN GLOBAL</h3></strong></p>
 
 <p><strong>2.1 Rancangan Lingkungan Implementasi</strong></p>
+
+<p><table>  
+<thead>  
+<tr>  
+<th>No.</th>  
+<th>Rancangan Lingkungan Implementasi</th>  
+<th>Keterangan</th>  
+</tr>  
+<tbody>  
+<tr>  
+<td>1.</td>  
+<td>Sistem Operasi</td>
+<td>
+<ul>
+<li>Pada Aplikasi Server menggunakan Sublime Text untuk membuat web</li>
+<li>Pada Aplikasi client menggunakan Android Studio untuk membuat aplikasi berbasis mobile</li>
+<li>Pembuatan proposal menggunakan aplikasi Microsoft Word 2010</li>
+</ul>
+</td>
+</tr>  
+<tr>  
+<td>2.</td>  
+<td>DBMS</td>
+<td>
+<ul>
+<li>Firebase</li>
+</ul>
+</td>
+</tr>  
+<tr>  
+<td>3.</td>  
+<td>Filling System</td>
+<td>
+</td>
+</tr>
+<tr>  
+<td>4.</td>  
+<td>Bahasa Pemrograman</td>
+<td>
+<ul>
+<li>Java untuk bahasa pemrograman yang digunakan pada platfom android</li>
+<li>Php untuk bahasa pemrograman yang digunakan pada web</li>
+</ul>
+</td>
+</tr>  
+</thead>
+</table>
+
 <p><strong>2.2 Deskripsi Data</strong></p>
+
+<ul>
+<li>
+<p><strong>Tabel User</strong></p>
+</li>
+</ul>
+<table>
+<tr>  
+<td><strong>Data Item</strong></td>  
+<td><strong>Type</strong></td>  
+<td><strong>Deskripsi</strong></td>
+</tr>  
+<tr>  
+<td>Id_user</td>  
+<td>Integer</td>  
+<td>Nomor auto increment Id_user</td>    
+</tr>  
+<tr>  
+<td>Username</td>  
+</td> 
+<td>Varchar</td>   
+<td>Berisi Nama atau nomor untuk dapat mengakses aplikasi</td>   
+</tr>  
+<tr>  
+<td>Password</td>  
+</td> 
+<td>Varchar</td>   
+<td>Berisi password untuk dapat mengakses aplikasi </td>   
+</tr>  
+<tr>  
+<td>Nama user</td>  
+</td> 
+<td>Varchar</td>   
+<td>Untuk login dan mendaftar aplikasi </td>   
+</tr>   
+<tr>  
+<td>Email</td>  
+</td> 
+<td>Varchar</td>   
+<td>Berisi alamat email user  </td>   
+</tr>   
+<tr>  
+<td>Kategori</td>  
+</td> 
+<td>Varchar</td>   
+<td>Berisi kategori siapa yang akan login  apakah user atau admin</td>   
+</tr>   
+</table>
+
+<ul>
+<li>
+<p><strong>Tabel Budaya</strong></p>
+</li>
+</ul>
+<table>
+<tr>  
+<td><strong>Data Item</strong></td>  
+<td><strong>Type</strong></td>  
+<td><strong>Deskripsi</strong></td>
+</tr>  
+<tr>  
+<td>Id_budaya</td>  
+<td>Integer</td>  
+<td>Nomor auto increment Id_budaya</td>    
+</tr>    
+<tr>  
+<td>Nama Budaya</td>  
+</td> 
+<td>Varchar</td>   
+<td>Berisi nama budaya </td>   
+</tr>   
+<tr>  
+<td>Deskripsi</td>  
+</td> 
+<td>Varchar</td>   
+<td>Berisi deskripsi tentang budaya  </td>   
+</tr>   
+<tr>  
+<td>Gambar</td>  
+</td> 
+<td>Varchar</td>   
+<td>Berisi gambar kebudayaan  </td>   
+</tr>   
+</table>
+
+<ul>
+<li>
+<p><strong>Tabel Pariwisata</strong></p>
+</li>
+</ul>
+<table>
+<tr>  
+<td><strong>Data Item</strong></td>  
+<td><strong>Type</strong></td>  
+<td><strong>Deskripsi</strong></td>
+</tr>  
+<tr>  
+<td>Id_pariwisata</td>  
+<td>Integer</td>  
+<td>Nomor auto increment Id_pariwisata</td>    
+</tr>    
+<tr>  
+<td>Nama Pariwisata</td>  
+</td> 
+<td>Varchar</td>   
+<td>Berisi nama pariwisata </td>   
+</tr>   
+<tr>  
+<td>Deskripsi pariwisata</td>  
+</td> 
+<td>Varchar</td>   
+<td>Berisi deskripsi tentang pariwisata  </td>   
+</tr>   
+<tr>  
+<td>Gambar pariwisata</td>  
+</td> 
+<td>Varchar</td>   
+<td>Berisi gambar pariwisata  </td>   
+</tr>  
+<tr>  
+<td>id_Jenis</td>  
+</td> 
+<td>Integer</td>   
+<td>Sebagai foreign key pada tabel pariwisata  </td>   
+</tr>   
+</table>
+
+
+<ul>
+<li>
+<p><strong>Tabel Jenis Pariwisata</strong></p>
+</li>
+</ul>
+<table>
+<tr>  
+<td><strong>Data Item</strong></td>  
+<td><strong>Type</strong></td>  
+<td><strong>Deskripsi</strong></td>
+</tr>  
+<tr>
+<td>id_Jenis</td>  
+<td>Integer</td>   
+<td> Nomor auto increment pada tabel jenis pariwisata  </td>   
+</tr>  
+<tr>
+<td>Nama Jenis</td>  
+<td>Varchar</td>   
+<td>Sebagai foreign key pada tabel pariwisata </td>   
+</tr>   
+</table>
+
+<ul>
+<li>
+<p><strong>Tabel Event</strong></p>
+</li>
+</ul>
+<table>
+<tr>  
+<td><strong>Data Item</strong></td>  
+<td><strong>Type</strong></td>  
+<td><strong>Deskripsi</strong></td>
+</tr>  
+<tr>  
+<td>Id_Event</td>  
+<td>Integer</td>  
+<td>Nomor auto increment Id_event</td>    
+</tr>    
+<tr>  
+<td>Nama Event</td>  
+</td> 
+<td>Varchar</td>   
+<td>Berisi nama event </td>   
+</tr>   
+<tr>  
+<td>Deskripsi event</td>  
+</td> 
+<td>Varchar</td>   
+<td>Berisi deskripsi tentang event</td>   
+</tr>   
+<tr>  
+<td>Tanggal</td>  
+</td> 
+<td>Date</td>   
+<td>Berisi tanggal di adakannnya event  </td>   
+</tr>   
+</table>
+
+
+<ul>
+<li>
+<p><strong>Tabel Pengaduan</strong></p>
+</li>
+</ul>
+<table>
+<tr>  
+<td><strong>Data Item</strong></td>  
+<td><strong>Type</strong></td>  
+<td><strong>Deskripsi</strong></td>
+</tr>  
+<tr>  
+<td>Id_Pengaduan</td>  
+<td>Integer</td>  
+<td>Nomor auto increment Id_pengaduan</td>    
+</tr>    
+<tr>  
+<td>Isi pengaduan</td>  
+</td> 
+<td>Varchar</td>   
+<td>Berisi pengaduan dari user</td>   
+</tr>   
+</table>
+
 
 <p><h3><strong>3. PENJELASAN DEKOMPOSISI</strong></h3></p>
 <p><strong>3.1 Dekomposisi Model</strong></p>
@@ -152,24 +453,3 @@ DFD Level 2 : Merupakan penjelasan dari DFD Level 1 (Pariwisata) dan berisi tent
 
 ![enter image description here](https://1.bp.blogspot.com/-rASx0Mw4IaU/WrHRGaQUREI/AAAAAAAAAFU/4Y3x1oZYmtI_n62zZPLgMwKQHIaH-IZcQCLcBGAs/s1600/level+2+daftar+pariwisata.png)
 
-<p><strong>3.3 Dekomposisi Data</strong></p>
-<p><strong>3.3.1 Deskripsi Entri Data 1</strong></p>
-<p><strong>3.3.2 Deskripsi Entri Data 2</strong></p>
-<p><strong><h3>4. DESKRIPSI KETERGANTUNGAN / KETERKAITAN</h3></strong></p>
-<p><strong>4.1 Keterkaitan Inter Modul</strong></p>
-<p><strong>4.2 Keterkaitan Inter Proses</strong></p>
-<p><strong>4.3 Keterkaitan Data</strong></p>
-<p><strong><h3>5. DESKRIPSI ANTARMUKA</h3></strong></p>
-<p><strong>5.1 Antarmuka Modul</strong></p>
-<p><strong>5.1.1 Deskripsi Modul 1</strong></p>
-<p><strong>5.1.2 Deskripsi Modul 2</strong></p>
-<p><strong>5.2 Antarmuka Proses</strong></p>
-<p><strong>5.2.1 Deskripsi Proses 1</strong></p>
-<p><strong>5.2.2 Deskripsi Proses 2</strong></p>
-<p><strong><h3>6. DESAIN DETIL/RINCI</h3></strong></p>
-<p><strong>6.1 Rinci Modul</strong></p>
-<p><strong>6.1.1 Rinci Modul 1</strong></p>
-<p><strong>6.1.2 Rinci Modul 2</strong></p>
-<p><strong>6.2 Desain Data Secara Rinci</strong></p>
-<p><strong>6.2.1 Rinci Entiti Data 1</strong></p>
-<p><strong>6.2.2 Rinci Entiti Data 2</strong></p> 
