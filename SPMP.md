@@ -64,7 +64,7 @@ Penyesuaian yang cepat pada projek yang baru<br>
 </tr>
 <tr>
 <td>Diyanti</td>
-<td>Database, Documentation</td>
+<td>Documentation, Database</td>
 </tr>
 <tr>
 <td>Firmansyah</td>
@@ -77,7 +77,7 @@ Penyesuaian yang cepat pada projek yang baru<br>
 </tbody>
 </table>
 <br>
-<p><strong>2.3. Lingkup dan tanggung jawab</strong></p>
+<p><strong>2.3. Lingkup dan Tanggung jawab</strong></p>
 
 <table>
 <thead>
