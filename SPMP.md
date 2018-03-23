@@ -29,6 +29,7 @@ Aplikasi pendukung yang digunakan dalam proyek ini adalah :</p>
 <li>Android Studio</li>
 <li>Sublime Text</li>
 <li>Balsamiq</li>
+<li>Mockplus</li>
 <li>Firebase</li>
 </ul>
 <br>
