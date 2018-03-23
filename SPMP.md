@@ -60,15 +60,15 @@ Penyesuaian yang cepat pada projek yang baru<br>
 <tbody>
 <tr>
 <td>Firsti Aulya K K</td>
-<td>Manager Project,Design Mockup</td>
+<td>Manager Project, Design</td>
 </tr>
 <tr>
 <td>Diyanti</td>
-<td>Database, FLowchart, DFD, Analyst</td>
+<td>Database, Documentation</td>
 </tr>
 <tr>
 <td>Firmansyah</td>
-<td>Android Development, Project Plan</td>
+<td>Android Development</td>
 </tr>
 <tr>
 <td>Rizky Alief Satria</td>
