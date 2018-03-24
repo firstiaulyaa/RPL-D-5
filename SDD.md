@@ -388,7 +388,7 @@ Diagram 0 adalah diagram yang menggambarkan proses dari data flow diagram. Diagr
 
  </p><p align="center">  
  
-![Diagram Nol](https://3.bp.blogspot.com/-7TnuFmK9hmw/WrHLCM9DPgI/AAAAAAAAAEs/QVVbAmTI4r4i0W__SemA-ccKZDUmnH4qQCLcBGAs/s1600/diagram+nol.png)
+![enter image description here](https://3.bp.blogspot.com/-hNd4NI8q9H0/WrYO9X72pqI/AAAAAAAAAGA/vLy5oHTnjo8t5ru4H_zpE2DAsbkwbX3QACLcBGAs/s1600/nol.png)
 
 </p><p align="center">
 
@@ -426,7 +426,9 @@ DFD Level 1 : Merupakan penjelasan dari DFD Level 0  dan berisi tentang Data Bud
 </ul>
 DFD Level 1 : Merupakan penjelasan dari DFD Level 0  dan berisi tentang Data Pariwisata.<br><br>
 
-![enter image description here](https://1.bp.blogspot.com/-rASx0Mw4IaU/WrHRGaQUREI/AAAAAAAAAFU/4Y3x1oZYmtI_n62zZPLgMwKQHIaH-IZcQCLcBGAs/s1600/level+2+daftar+pariwisata.png)
+
+![enter image description here](https://1.bp.blogspot.com/-oIDmo9ECu4E/WrYPgYN70lI/AAAAAAAAAGI/UiAjccjFbN8TVkEYdLGu6VIZaBYtAZXaQCLcBGAs/s1600/1+pariwisata.png)
+
 </p><p align="center">
 
 <p><strong>3.2.5 Diagram Level 1 </strong></p>
