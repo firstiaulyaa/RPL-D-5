@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 ﻿<h1 align="center" id="software-requirements-specification">SOFTWARE REQUIREMENTS SPECIFICATION</h1>  
 <p align="center"><strong>Version 2.0<br>  
+=======
+﻿
+<h1 align="center" id="software-requirements-specification">SOFTWARE REQUIREMENTS SPECIFICATION</h1>  
+<p align="center"><strong>Version 1.0<br>  
+>>>>>>> 43002d9388453e61c7245aaa469a975ebddca65b
 22 Februari 2018</strong><br>  
 </p><p align="center">  
 <img src="https://lh3.googleusercontent.com/qEHYPVzo0kjd8ikhrCIF4cI_PhR8pmK5vDU14oEp9OPyVT-eA54cVp8C9iyJ8rKDfH8OR1dnT1zv=s300" alt="enter image description here" title="logo">  
@@ -220,7 +226,7 @@ Untuk dapat menggunakan aplikasi budaya dan pariwisata Kabupaten Indramayu kita 
   
 </tr></tbody></table><p><strong>2.1.8 Kebutuhan adaptasi</strong></p>  
 <p><strong>2.2. Spesifikasi Kebutuhan Fungsional</strong><br>  
-<img src="https://lh3.googleusercontent.com/aq2ARLrncTWCZ4ZOEiLrj4bwxnRXCzYJZO25W3-RsnjAoRAHMA29QJpLzSyrEcZYctmNToCazYsB" alt="usecase" title="usecase keseluruhan"><br>
+<img src="https://lh3.googleusercontent.com/cVttEmlca1kO4bxDHvMb6T0A4DfEhNfaxFL1maDZCn6K72hgqtSsQKoDDqJEOmdpFbT_wEP2Kb6_gPEIBD4QVM0017u6PTvpNSIIoPtzPdvdFP8Z0YSgtDyXSnHqs1MQDgja8RtxyuQDacMaWdrO7coGSWfiRltkDKljNxP9iqimyGYWTtuU__7aqUshSP6sltos1QmykIx9WSIwwvgRgREEL0L9RLwrzB-IcPFGmbaK8Uf_9bHXO43XNdNipDtB0qi1SSBe3PNozpGvDEI536OtpfLs6d8cE6A2tnuWllydhhGSEOA0-DfC9DDnZqgbKFfOryj-p0j21jamt5lk1h6pM6-KeK37MCiey5SgT_yQn-F_xEWd3jQnyvbcNA9rE_SySpLRTPB8_Snr5cPfG5WRjNIaonqsYEIMxVfuVa61H2-VaMHL2w7q7msKCHMEhHLqITtzjEhSrneadDvGHIyf6Lybe7RJdxdm_TiABrpNtH04iIBEenJ-gUH3AkuyNiVSFSXFmjlu1FU6y68t8yMLUJzBvwOLZGtJWqUJvb92OsnFf4aLnu1WgusbBTk49DdOzFBQJ1flOThz3Q-3wvqanBMQNGCtDg2O17o=w816-h637-no" alt="usecase" title="usecase keseluruhan"><br>
 </p><p><strong>2.2.1 User Login</strong></p>  
 <p>Use Case: Login<br>
 Diagram:</p>
@@ -290,60 +296,66 @@ Diagram:</p>
 <li>Bila admin salah memasukkan username dan password maka sistem akan menampilkan eror</li>
 </ol>
 Xref: Bagian 3.2.6, Admin login<p></p>
-<strong>2.2.7 Admin Membuat Artikel</strong><br>
-<p>Use case: membuat artikel<br>
+<strong>2.2.7 Admin Mengelola Budaya</strong><br>
+<p>Use case: mengelola budaya<br>
 Diagram:</p>
-<p><img src="https://lh3.googleusercontent.com/ovjoU2qy8-T6pJpf-0GogYPbkewd5rWeaPnNWZ0-GM1v04x_rvoqkTWUhS0NYnhlWNcO098rmfcW" alt="enter image description here" title="adminbuat"></p>
-<p>Deskripsi singkat ketika admin membuat artikel:
+<p><img src="https://lh3.googleusercontent.com/oxV-MqM49qhcPS9TpUT7qO6YMX3lST1bNgWDD_gBby0FFmvRoUs8QZTFB8J2-f7xcpZvaImv0ekpZo9U11UneZnlZSEcjIKLMYzaTxB0Xz43sn_PuhVXknLjbbKM_QPG5mie9RXnR0Bqs-6Yif8zKjGyBg2lwFpRcT9S0asEpE0Knv7oUNi9dZIyltTrPCYiK9OKBBoS_8JW2LfjYDMbGL_67ZeryIBbjX_T3qBs5TSD5gDt3q4ciHkDuMFilak5T96N6GDiGHMvOyzHfZcfzgvfx9VwEnCFPPKpzrG1sF60oCW2qMWgcL3uwozNM7Bmr3BvRF_zpUboiUCKsFPjYEkU23nsqPP6kMOz14IHPrTL3kHiuXsKRwWbJy8rdk4x0gGPLGrJN0sQjNiVjnkP74bSlvWr-unWsMbPZ21vENv2bSXtKeXsSa5tj5-f66GL0Ges3X_tPICm1kYfrG2Sm0reB3MKVqxH77sL6ih_ARLuRpSQNqZ7lNIfeW4NTeBD86UafaG0cZWsVP91l0L1ePLx8ydVOCXed3efrwheTBjzazyUu2EKxMOyGu5TkSTItCQy0KW6eAycxxlTee8lL1mbis6oChFWGmOqnl4=w162-h94-no" alt="enter image description here" title="adminbuat"></p>
+<p>Deskripsi singkat ketika admin mengelola budaya:
 </p><ol>
 <li>Sistem menampilkan dasboard admin</li>
-<li>Admin memilih menu artikel pada sidebar</li>
-<li>Admin mengklik button tambah</li>
-<li>Admin mengisi form artikel dan mengklik button simpan </li>
+<li>Admin memilih menu budaya pada sidebar</li>
+<li>Admin mengelola data budaya</li>
 <li>Sistem akan mengirim data ke database</li>
 </ol>
-Xref: Bagian 3.2.7, Admin membuat artikel<p></p>
-<strong>2.2.8 Admin Mengedit Artikel</strong><br>
-<p>Use case: mengedit artikel<br>
+Xref: Bagian 3.2.7, Admin mengelola budaya<p></p>
+<strong>2.2.8 Admin Mengelola Pariwisata</strong><br>
+<p>Use case: mengelola pariwisata<br>
 Diagram:</p>
-<p><img src="https://lh3.googleusercontent.com/0hjIhyUnQIBgGJnFvcIZIu2CbXcXjA1tFFqKl-LwYrEjW4Ov2axVfLDJlxq65MiYxu9wZq2Zkld2" alt="enter image description here" title="adminedit"></p>
-<p>Deskripsi singkat ketika admin mengedit artikel:
+<p><img src="https://lh3.googleusercontent.com/_mz-RDKhSUY0IA24GVsBDYiSWDoZ7Kfr_VBNQLMeMez2BjsiGVG-J5rdn-4Ya0kn0QPY4GR8Gq9l5ZTDjUyunu5qBAsiQImmuHPLuKDz9g_ZQxzIOs5PeMBhX9Yf2QHakorw-RXGc5SoIiLGlp-qJllI6bq1haPbR7zM0yY6BlrD0kdqPnunZ8MxmUubUV0LOUCCrQAvg1C_ysFE3f11Tmom7Frh69pFhrBlRSsOJ8ojeR8nSNjn6uhuhxDU9uA4wdMgRQWeekZBpR3PvzoVMH3NJP_BrSoT9zvNYkAJKT9JkQUoUG-Hj5snPFMSFvo9bg1YdxUpyrz_X44IqHbPJpqXfjif2pfycMuoR8dk4DW83zLVpwM3puq15e7LChGOKwDy0QKZup-fa6oEytfjAoJPN_IfF3uOw9RCkFgNrORmKjxJNTuTMefJ7uh5OZhxCVP5wXIAxNV6myaVgKwZ1gOJiLMl-MT27iOA1Suln_3ZaAwHYecRH66_ucyMzSVoNGWt9N3PuP3VJe2ZusGQsTGwk7QfeVMZrkpszFBPiNR7nn-dhgHLmzd5n7yvvh3nqtlWYMWz6CnfpDO2Pa75Hcno6Qd-g4fS-_CoD-c=w169-h99-no" alt="enter image description here" title="adminedit"></p>
+<p>Deskripsi singkat ketika admin mengelola pariwisata:
 </p><ol>
 <li>Sistem menampilkan dasboard admin</li>
-<li>Admin memilih menu artikel pada sidebar</li>
-<li>Admin mengklik button edit</li>
-<li>Admin mengedit form artikel  dan mengklik button simpan </li>
+<li>Admin memilih menu pariwisata pada sidebar</li>
+<li>Admin mengelola data pariwisata</li>
 <li>Sistem akan mengirim data ke database</li>
 </ol>
-Xref: Bagian 3.2.8, Admin mengedit artikel<p></p>
-<strong>2.2.9 Admin Menghapus Artikel</strong><br>
-<p>Use case: menghapus artikel<br>
+Xref: Bagian 3.2.8, Admin Mengelola Pariwisata<p></p>
+<strong>2.2.9 Admin Mengelola Kegiatan</strong><br>
+<p>Use case: mengelola kegiatan<br>
 Diagram:</p>
-<p><img src="https://lh3.googleusercontent.com/yYRKH_rWIGBDhoof0hqCEU94pN6nh-caz2LOTOvLtBd4mZHo-BtnopkiUojKG1z6UHBHs5JmGIiq" alt="enter image description here" title="adminhapus"></p>
-<p>Deskripsi singkat ketika admin menghapus artikel:
+<p><img src="https://lh3.googleusercontent.com/edlkmlqnFj0A7vsuHXFVnkTCUVMaFW3pU5s0oSIvUDksTJrlLkcPuntfBIGiuDEJKQo0KLtPaOrlndm8dGxtzbnT4pYMxf1Tcfhh2SRvxAzs4ymi62ZM8yOP2m7oHi2zlB7o9kuxkfUONAl8q6P-g1LUXrDWbUKmF9dWo3fKoWXeHB2NEDn9OBDisTDsud6JydVSi9GX66nph5a-NMP7vSEU6X-sh-6iCJ8PmICOT-E2HrnoRqC6jPVs2oDG5319xZ-tQ1u3XCgIthmODR5t9fpkyikuCpLJBSuFg2wyymc3tfL7E3a6HmbWVL45frLiERGNxIcxJK6nOs8ikdfJ8zGR4wGVL_Oc9gptx31j_-BNc71qPHtkoM4km16zT7_MqzY1ThZpE8WQywlRPASkPueIo65fGlcvICCe1iX9wS9tj25McLXBCmkmcR6gnZXNoRgF2Cug3R_y5hLjy1gZca24CP7b1I8t337sw2x3WY3FynJiUlwwpSBF8PZvG5Yn47xURHsrSLMcd9D1Gelme8cyzQVJNYvUhivl3KxqJYIuq3dUh8P0w17yRzY-eDAFVAx88XcT3ZqWaU_G54oekAfuy2xih22X2aiKJQQ=w174-h94-no" alt="enter image description here" title="adminhapus"></p>
+<p>Deskripsi singkat ketika admin mengelola kegiatan:
 </p><ol>
 <li>Sistem menampilkan dasboard admin</li>
-<li>Admin memilih menu artikel pada sidebar</li>
-<li>Admin mengklik button hapus</li>
-<li>Sistem mengirim notif peringatan ke admin dan mengklik button ya</li>
+<li>Admin memilih menu kegiatan pada sidebar</li>
+<li>Admin mengelola data kegiatan</li>
 <li>Sistem akan mengirim data ke database</li>
 </ol>
-Xref: Bagian 3.2.9, Admin menghapus artikel<p></p>
-<strong>2.2.10 Admin Menampilkan Pengaduan</strong><br>
-<p>Use case: menampilkan pengaduan<br>
+Xref: Bagian 3.2.9, Admin mengelola kegiatan<p></p>
+<strong>2.2.10 Admin Mengelola Pengaduan</strong><br>
+<p>Use case: mengelola pengaduan<br>
 Diagram:</p>
-<p><img src="https://lh3.googleusercontent.com/6-fbcLQWgRGQYrUb10NttqaazmythuCsACa7CtpuWeT3v4uo9PzEwW7KzFEjzOJLK0c-jeaHB03O" alt="enter image description here" title="adminpengaduan"></p>
-<p>Deskripsi singkat ketika admin menampilkan pengaduan:
+<p><img src="https://lh3.googleusercontent.com/GlpVAaHE6_EQM3cjPAMMDl80KGzyc0iiH0UrNXZYH91JBZ4LjixBWXQrYMOjGAmRn9y9KV7icINruKwbA8_t8-3FQXtk8_zfse61uDGjqY8_NyKdHHN49FqO4wwX2wmFz2RsWMmO4fwFqy6TOd-y0cwEn6GuLFVzjjYQKQPApePiEf_QWa4lwzRC4LtCWnffNnAM7r8XHsRZHQ2knDSiE6CCDrWL3JhVkXJT4VwzgzJ7vIa8GAdB1WhHzsP41UpDYtz-BdmApVJv6J66rcQ2Bweu2xFEOF95bW3Wgu8IwT56CNSePiWac4mOong4-IaEyW5hWmLkP-pMBPbZ6P2gIvMBXD-ECWnMWksoNE_xTBbPMCZpeASgAz1Pm66DWKIXEMUZcEGQSD3a6fe9DE_MqzxtIvaxVxqZIhk9vOdpHSlhCGKtpPmjoeCNvuhDvoLxtVgWBB0rBD9xNO0JSRZbZ9lggLm3SWjSQaEugKWTuXgWzZxL_o1N-adkpQfQUyKuyvL7W8MWBppYT4APIyIXYbPSwXGpxPZNxpNRNEWjpUdD0LX0nPbN42CM_CEdoO_opBqu2GT0tPpFEJzbElywxe_osj-5PqgmahZWKfg=w173-h98-no" alt="enter image description here" title="adminpengaduan"></p>
+<p>Deskripsi singkat ketika admin mengelola pengaduan:
 </p><ol>
 <li>Sistem menampilkan dasboard admin</li>
 <li>Admin memilih menu pengaduan pada sidebar</li>
-<li>Admin memilih pengaduan yang ingin ditampilkan</li>
-<li>Admin memilih menu artikel pada sidebar</li>
-<li>Admin mengklik button tambah</li>
-<li>Sistem mengirim notif peringatan ke admin dan mengklik button ya</li>
+<li>Admin mengelola data pengaduan</li>
 <li>Sistem akan mengirim data ke database</li>
 </ol>
-Xref: Bagian 3.2.10, Admin menampilkan artikel<p></p>
+Xref: Bagian 3.2.10, Admin mengelola pengaduan<p></p>
+<strong>2.2.10 Admin Mengelola Pengaduan</strong><br>
+<p>Use case: mengelola pengaduan<br>
+Diagram:</p>
+<p><img src="https://lh3.googleusercontent.com/Rej0OVjGwh3zr60xSnjRhLo2teUAMS3sx3LBZT73mKy093YC-wqnyRNNUGjIRa6rBKOh-UTMUsSH_2RBxUiDg6NrFQRlO3aFZbN8jbGgjbunwnuhw_8u-x6Zw5zZUs4mP8M3fWOMA4ZxdFn6hYc10zzTWA-5Ze1NkFBfesm4upZqsX2QFkmfQhwqPFad-n9hhTczDMFBXRo_g96go8LgZlTaNhjLTvuhYR-5tlOh0GVRvRtlE5_gioNQ1kW4DamVGG9Qr6WaxnxJDUiavONnhkDM3yscXgo38hlELA2AAP8XC0he-u7lhr592VKFBoggSH3eTni_2EWxTF0aEKipV6f1GBvjPhw1P2Ii2Sgcyl0qF7yXXukRZIbqfwle-j6GoI7RXEPB7neDaMogvHkeKcrew5h37FncYOaAdjg4s5tgNpGBOuCFUi47-ja0-MNECVHxhumf9Rt9UOLdnMww1xIRceHa90-ucm5lfa44xX6Cl2g0DWmLUz-4gaLcNf_lgIHCSJOszDS4y7Rpu_qUya5rhSZMM60VqX39h0HYGpjxaqJ0RorpBKkhcEVIqLCV0VAz1ZRRLFVJnb5t6rbWg-Tv8mmh35deFViuXyM=w191-h104-no" title="adminmengelolauser"></p>
+<p>Deskripsi singkat ketika admin mengelola user:
+</p><ol>
+<li>Sistem menampilkan dasboard admin</li>
+<li>Admin memilih menu user pada sidebar</li>
+<li>Admin mengelola data user</li>
+<li>Sistem akan mengirim data ke database</li>
+</ol>
+Xref: Bagian 3.2.11, Admin mengelola user<p></p>
 <strong>2.3. Spesifikasi Kebutuhan Non-fungsional</strong><br>  
 <strong>2.3.1 Spesifikasi User Interface</strong><br>  
 User Interface yang ada pada aplikasi harus user-friendly, dan mudah untuk digunakan.<br>  
