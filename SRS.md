@@ -1,4 +1,4 @@
-<h1 align="center" id="software-requirements-specification">SOFTWARE REQUIREMENTS SPECIFICATION</h1>  
+﻿<h1 align="center" id="software-requirements-specification">SOFTWARE REQUIREMENTS SPECIFICATION</h1>  
 <p align="center"><strong>Version 1.0<br>  
 22 Februari 2018</strong><br>  
 </p><p align="center">  
@@ -67,38 +67,26 @@ Aplikasi ini memungkinkan admin untuk menyebarkan informasi tentang lomba atau e
 Sistem Aplikasi Budaya dan Pariwisata ini terdapat 2 aktor yaitu Admin dan User (Pengguna). Admin dan User (Pengguna) mempunyai fungsi yang berbeda dimana admin dapat mengolah data Pariwisata, data Budaya dan data Event juga dapat melihat ratting dari user. sedangkan user hanya dapat melihat data Pariwisata, data Budaya, dan data Event, user (pengguna) juga dapat menginputkan Pengaduan.  
 </p>  
 <p><strong>2.1.2 Antarmuka pengguna</strong></p>  
-<ul>  
-<li>  
-<p>User (Android)</p>  
-<ul>  
-<li>  
-<p>Start<br>  
-<img src="https://lh3.googleusercontent.com/HAA09bkpYRhpoUKShgOB0Evi84PyQ-h0aWChqPBP2wN7us7MhDjDTzAqD0rd0pAoPX5IVyf-q8I=s200" alt="Start"><br>  
-Tampilan Start hanya berupa gambar yang berfungsi sebagai tampilan awal pada saat membuka aplikasi.<br>  
-Gambar yang ditampilkan berupa logo dan nama aplikasi.</p>  
-</li>  
-<li>  
-<p>Sign In<br>  
-<img src="https://lh3.googleusercontent.com/rpqP6jtwvm97wTBkkYBHty64W69Va2eQ4LONtGwQiuS-lMgxPnKakehUQgILa3kwQqx3y-z4SA4=s200" alt="SignIn" title="SignIn"><br>  
-Tampilan Sign In merupakan tampilan bagi User untuk masuk ke aplikasi. Sign In berisi input text (username dan password) dan button Masuk.<br>  
-Lalu terdapat link “Register disini” dan link “Lupa Password”.</p>  
-</li>  
-<li>  
-<p>Register<br>  
-<img src="https://lh3.googleusercontent.com/bfHffQ6CzGj72jtXyT_DawTfsENzn8y2iobnkn1apRT5uyroX05DXOnkVQpLLQCAcMJgJ_n-WGM=s200" alt="Register"><br>  
-Tampilan Register merupakan tampilan untuk membuat User baru. Register berisi input text (username, e-mail, password, dan confirm password),<br>  
-button Daftar, dan button berbentuk X yang terletak di pojok kiri atas.</p>  
-</li>  
-<li>  
-<p>Home<br>  
-<img src="https://lh3.googleusercontent.com/NwRFvTpGCi-5vlKvLpax2t3st6C9BFY8UmiQeo0pENDvJmZjwuJ99ng-9wwdkAszisvgz_EPg9E=s200" alt="HomeUser"><br>  
-Tampilan Home merupakan tampilan utama pada aplikasi ini. Home berisi navigasi yang terletak di pojok kiri atas, input text “Cari Budaya/Pariwisata”,<br>  
-dan menu yang terdiri dari beberapa button yang tersusun secara grid. Button tersebut adalah Budaya, Pariwisata, Event,<br>  
-Berita, Profil Saya, dan Tentang Kami.</p>  
-</li>  
-</ul>  
-</li>  
-<li>  
+<tr>
+<td> 
+<img src="https://lh3.googleusercontent.com/-v-t8IV4jr_8/WrxeBxxT9XI/AAAAAAAAFHw/4-hoVJHvdnsy-sYFAI50M9rJBzh_xTbAACL0BGAs/w323-d-h574-n-rw/login.PNG=s200" alt="Start">
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://lh3.googleusercontent.com/-Aok2SDQOz7A/WrxeGLffE3I/AAAAAAAAFII/lPAFORL5QgoBw70FcvM6gUsTjiY3Bi3mgCL0BGAs/w321-d-h571-n-rw/register.PNG=s200" alt="SignIn" title="SignIn">
+</td>
+</tr>
+<tr>
+<td>  
+<img src="https://lh3.googleusercontent.com/-G3t4tU0M-vY/WrxeLkfMMlI/AAAAAAAAFIg/NtfvaM9x4BgQp9xg72zZk2tNG627BMhegCL0BGAs/w324-d-h576-n-rw/menupariwisata.PNG=s200" alt="Register">
+</td>
+</tr>
+<tr>
+<td>  
+<img src="https://lh3.googleusercontent.com/NwRFvTpGCi-5vlKvLpax2t3st6C9BFY8UmiQeo0pENDvJmZjwuJ99ng-9wwdkAszisvgz_EPg9E=s200" alt="Home">
+</td>
+</tr> 
 <p>Admin (Web)</p>  
 <ul>  
 <li>  
