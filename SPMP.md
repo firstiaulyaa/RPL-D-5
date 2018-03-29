@@ -30,7 +30,7 @@ Aplikasi pendukung yang digunakan dalam proyek ini adalah :</p>
 <li>Sublime Text</li>
 <li>Balsamiq</li>
 <li>Mockplus</li>
-<li>Firebase</li>
+<li>Mysql</li>
 </ul>
 <br>
 <p><strong>2. Organisasi Proyek</strong></p>
@@ -65,15 +65,15 @@ Penyesuaian yang cepat pada projek yang baru<br>
 </tr>
 <tr>
 <td>Diyanti</td>
-<td>Documentation, Database</td>
+<td> Database, Documentation</td>
 </tr>
 <tr>
 <td>Firmansyah</td>
-<td>Android Development</td>
+<td>Android Developer</td>
 </tr>
 <tr>
 <td>Rizky Alief Satria</td>
-<td>Web Development</td>
+<td>Web Developer</td>
 </tr>
 </tbody>
 </table>
@@ -96,30 +96,30 @@ Penyesuaian yang cepat pada projek yang baru<br>
 </tr>
 <tr>
 <td>2.</td>
-<td>Android Development</td>
+<td>Documentation</td>
+<td>Membuat pelaporan, mendokumentasikan setiap kegiatan.</td>
+</tr>
+<tr>
+<td>2.</td>
+<td>Android Developer</td>
 <td>Penerapan Mockup Ke halaman Interface dan proses fungsi lain di Android Java</td>
 </tr>
 <tr>
 <td>3.</td>
-<td>Web Development</td>
+<td>Web Developer</td>
 <td>Penerapan Mockup Ke halaman Interface dan proses fungsi lain di PHP, HTML, CSS</td>
 </tr>
 <tr>
 <td>4.</td>
-<td>Database Administrator</td>
+<td>Database </td>
 <td>Pengguna yang memiliki kewenangan sebagai pusat pengendali seluruh sistem baik basis data maupun program-program yang mengaksesnya, menentukan pola struktur basis data, memodifikasi, membagi tugas pengolahan dan memberikan orientasi tertentu, dan sebagainya</td>
 </tr>
 <tr>
 <td>5.</td>
-<td>Desain Mockup</td>
+<td>Desain </td>
 <td>Membuat desain aplikasi secara keseluruhan (output, input, proses, dan interface), berkoordinasi dengan analis dan developer, membuat dokumentasi hasil desain</td>
 </tr>
-<tr>
 <td>6.</td>
-<td>Analisment</td>
-<td>Merupakan orang yang bertugas menganalisa sistem yang akan diimplementasikan, mulai dari menganalisa sistem yang ada, kelebihan dan kekurangannya, sampai studi kelayakan dan desain sistem yang akan dikembangkan  
-</tr>
-<td>7.</td>
 <td>Manager Project</td>
 <td>Mengintegrasikan beberapa kegiatan yang berbeda untuk mencapai tujuan tertentu, berperan untuk mengambil keputusan yang menjadi wewenangnya, sebagai seorang komunikator, dan merupakan seorang enterpreuneur yang harus berusaha untuk melakukan pengadaan dana, fasilitas dan orang agar proyek dapat berjalan.</td>
 </tr>
@@ -187,11 +187,11 @@ Semua dokumen pendukung proyek akan selesai dalam fase yang sesuai.<br><br>
 <tbody>
 <tr>
 <td>Firsti Aulya Khusnul Khotimah</td>
-<td>Desain</td>
+<td>Mamanger Projec, Design</td>
 </tr>
 <tr>
 <td>Diyanti</td>
-<td>Database</td>
+<td>Database, Dokumentasi</td>
 </tr>
 <tr>
 <td>Firmansyah</td>
