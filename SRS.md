@@ -1,4 +1,5 @@
 ﻿
+
 <h1 align="center" id="software-requirements-specification">SOFTWARE REQUIREMENTS SPECIFICATION</h1>  
 <p align="center"><strong>Version 1.0<br>  
 22 Februari 2018</strong><br>  
@@ -253,17 +254,17 @@ Diagram:</p>
 <li>Sistem menampilkan data wisata</li>
 </ol>
 Xref: Bagian 3.2.3, User lihat wisata<p></p>
-<strong>2.2.4 User Melihat Event</strong><br>
-<p>Use case: melihat event<br>
+<strong>2.2.4 User Melihat Kegiatan</strong><br>
+<p>Use case: melihat kegiatan<br>
 Diagram:</p>
-<p><img src="https://lh3.googleusercontent.com/rIO3jYt1ySvRwEriG3NPsP0rGrPABFj_P8QFuhuXkwDVJEjL8nMNhxfCriQ6qaIknL7lm31h1zdN" alt="enter image description here" title="userevent"></p>
-<p>Deskripsi singkat ketika user melihat event:
+<p><img src="https://lh3.googleusercontent.com/VX9Vqc030KkyvzhaZBFPAx1buYvuTEu6lnK6X3CaLb007EG_n8coFCK_jfM40ZyqfIVs_ROgOrGlqy9XzfjYXYUZKpnbFBDDm2i8aXjyMFqWdisCREgDlcGfhL9IARo4u31Edv-Wv6SbveCny5H6KzNBz3FZcpVZCqLuJk3zlHdekW213AJI5jS0dh667iHpdXXoJamiMHQIfCE-4mPbNNxVN0FjVdaixjzIzQ67u-EbEjWBrB4oZZKo08XiTFbSP6e0h1mTPgZjXN4pD6mhZcqaTh2mIdliSVAioJoyHziYAgJpD8qY5lveLBPUgE4GXt1lsDd1fkXnje3cLHZc3D7naQ0ZV9PVQ8OnRgPVDZRiheOne-XH0tmpDz56Pjy86Dr0KCJyhYEo1_rIToqHF4WWBkAJcLEmLk5i0J-h1EfkaXGNHW1pD_5AeOoh6yaQiYZ0aRgdZCCb8EMvpa_qwus74MzqkH8TIsCQYHCffK5NxwN8G0Pi8QnFLB8e7yJQLScLIplFphtqV8HeiqVAX3hH_QNDJcLzkdHvltlbFCSkhbediTH76MOS6s6iwhBxbUDN1eUsPYCvsED9oAwXWXOnVn9TU8cVU9aZ_j8=w179-h105-no" title="userkegiatan"></p>
+<p>Deskripsi singkat ketika user melihat kegiatan:
 </p><ol>
-<li>Sistem menampilkan halaman utama yang berisi button event</li>
-<li>User dapat mengklik tombol button event</li>
-<li>Sistem menampilkan data event</li>
+<li>Sistem menampilkan halaman utama yang berisi button kegiatan</li>
+<li>User dapat mengklik tombol button kegiatan</li>
+<li>Sistem menampilkan data kegiatan</li>
 </ol>
-Xref: Bagian 3.2.4, User lihat event<p></p>
+Xref: Bagian 3.2.4, User lihat kegiatan<p></p>
 <strong>2.2.5 User Mengajukan Pengaduan</strong><br>
 <p>Use case: mengajukan pengaduan<br>
 Diagram:</p>
@@ -336,8 +337,8 @@ Diagram:</p>
 <li>Sistem akan mengirim data ke database</li>
 </ol>
 Xref: Bagian 3.2.10, Admin mengelola pengaduan<p></p>
-<strong>2.2.10 Admin Mengelola Pengaduan</strong><br>
-<p>Use case: mengelola pengaduan<br>
+<strong>2.2.11 Admin Mengelola user</strong><br>
+<p>Use case: mengelola user<br>
 Diagram:</p>
 <p><img src="https://lh3.googleusercontent.com/Rej0OVjGwh3zr60xSnjRhLo2teUAMS3sx3LBZT73mKy093YC-wqnyRNNUGjIRa6rBKOh-UTMUsSH_2RBxUiDg6NrFQRlO3aFZbN8jbGgjbunwnuhw_8u-x6Zw5zZUs4mP8M3fWOMA4ZxdFn6hYc10zzTWA-5Ze1NkFBfesm4upZqsX2QFkmfQhwqPFad-n9hhTczDMFBXRo_g96go8LgZlTaNhjLTvuhYR-5tlOh0GVRvRtlE5_gioNQ1kW4DamVGG9Qr6WaxnxJDUiavONnhkDM3yscXgo38hlELA2AAP8XC0he-u7lhr592VKFBoggSH3eTni_2EWxTF0aEKipV6f1GBvjPhw1P2Ii2Sgcyl0qF7yXXukRZIbqfwle-j6GoI7RXEPB7neDaMogvHkeKcrew5h37FncYOaAdjg4s5tgNpGBOuCFUi47-ja0-MNECVHxhumf9Rt9UOLdnMww1xIRceHa90-ucm5lfa44xX6Cl2g0DWmLUz-4gaLcNf_lgIHCSJOszDS4y7Rpu_qUya5rhSZMM60VqX39h0HYGpjxaqJ0RorpBKkhcEVIqLCV0VAz1ZRRLFVJnb5t6rbWg-Tv8mmh35deFViuXyM=w191-h104-no" title="adminmengelolauser"></p>
 <p>Deskripsi singkat ketika admin mengelola user:
@@ -348,6 +349,20 @@ Diagram:</p>
 <li>Sistem akan mengirim data ke database</li>
 </ol>
 Xref: Bagian 3.2.11, Admin mengelola user<p></p>
+<strong>2.2.12 User Mengedit User</strong><br>
+<p>Use case: mengedit user<br>
+Diagram:</p>
+<p><img src="https://lh3.googleusercontent.com/M-nVX_YBuyMHit2tInEH9GgxDFJUY9RqNh1gWueyaCaN1MRDkj1Y9w00E6S2_U7i44tGlrmMSUwIZRgr7Gt7klnpxPNt8SmCzW5J0E5nXdgSZCtjsgUbVp4HxznayCxaPgTPSMUnAGg7DvoOSibbAR6nathYlLl8TJ4Q1IhuHPaYLAFPRTKvkF50KO_XV7VDoGzZqkpeGTj3EkGpQNu0cwkKa_OUNjXqExXIcGBUa_2sgmcvSUE1L_RMCtcmNUJNCfdj0OTx1Iyuxd6kMfahK37kuu2sLscjs-sGZfYC5mgwiuY0gCvwGHRAGpsqr5Z08hk2P22mgpm3swuPwb0euyLzaHpJv_14tSEIYsHY4RCsAy1C9IQDXgO7OT0BSCYzoMaca_HBmcS2uzqX5R6SfHs5tgT7WWq7MtQNgXnYlZiq2t5T01d-A_WhUNZstbQgjEIh2WtM-k7YnUPt0crQKvtZOeeZL89OwzeuSYdAq0PmRiiDrkyZRfatHCs895hqL3IELztg_ah6QQQvpdoLhelVCsQ5D2jNHCwFFmX4Su6QSkwzOXTSm7ThX6O1MF7j2R-o2-RrU_Dz9p0uy5Si0FJvphxgfKbXd4FcjUA=w190-h102-no" title="adminmengelolauser"></p>
+<p>Deskripsi singkat ketika user mengedit user:
+</p><ol>
+<li>Sistem menampilkan halaman utama yang berisi button budaya</li>
+<li>user menekan tombol navigasi</li>
+<li>User memilih profil saya</li>
+<li>User memilih ubah profil</li>
+<li>User mengedit dat profil</li>
+<li>Sistem akan mengirim data ke database</li>
+</ol>
+Xref: Bagian 3.2.12, user mengedit user<p></p>
 <strong>2.3. Spesifikasi Kebutuhan Non-fungsional</strong><br>  
 <strong>2.3.1 Spesifikasi User Interface</strong><br>  
 User Interface yang ada pada aplikasi harus user-friendly, dan mudah untuk digunakan.<br>  
