@@ -1,3 +1,4 @@
+
 <<<<<<< HEAD
 ﻿<h1 align="center" id="software-requirements-specification">SOFTWARE REQUIREMENTS SPECIFICATION</h1>  
 <p align="center"><strong>Version 2.0<br>  
@@ -532,7 +533,7 @@ Salah satu persyaratan untuk mengakses Aplikasi ini adalah dengan mendaftarkan d
 </tr>  
 </tbody>   
 </table>
-<p><strong>3.2.4 User Melihat Event</strong></p>  
+<p><strong>3.2.4 User Melihat Kegiatan</strong></p>  
 <table>  
 <thead>  
 <tr>  
@@ -541,11 +542,11 @@ Salah satu persyaratan untuk mengakses Aplikasi ini adalah dengan mendaftarkan d
 <tbody>  
 <tr>  
 <td>Nama Fungsi</td>  
-<td>User Melihat Event</td>  
+<td>User Melihat Kegiatan</td>  
 </tr>  
 <tr>  
 <td>Ref</td>  
-<td>Bag 2.2.4 User Melihat Event</td>  
+<td>Bag 2.2.4 User Melihat Kegiatan</td>  
 </tr>  
 <tr>  
 <td>Trigger</td>  
@@ -560,8 +561,8 @@ Salah satu persyaratan untuk mengakses Aplikasi ini adalah dengan mendaftarkan d
 <td>
 <ol>
 <li>Sistem menampilkan halaman utama</li>
-<li>User mengklik button event</li>
-<li>Sistem menampilkan data event</li>
+<li>User mengklik button kegiatan</li>
+<li>Sistem menampilkan data kegiatan</li>
 </ol>
 </td>  
 </tr>  
@@ -571,7 +572,7 @@ Salah satu persyaratan untuk mengakses Aplikasi ini adalah dengan mendaftarkan d
 </tr>  
 <tr>  
 <td>Post Condition</td>  
-<td>User melihat event</td>  
+<td>User melihat kegiatan</td>  
 </tr>  
 <tr>  
 <td>Exception Push</td>  
