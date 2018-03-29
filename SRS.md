@@ -155,12 +155,17 @@ Sistem Aplikasi Budaya dan Pariwisata ini terdapat 2 aktor yaitu Admin dan User 
 <p>Admin (Web)</p>  
 <ul>  
 <li>  
-<img src="https://lh3.googleusercontent.com/d9TdPqt4UcURXiaXZKX8mClUUkcG4YmTHKNrrKHQ-u8-yP_15HD9av5ztIw--DzLDxYKwiYUn1w=s300" alt="HomeAdmin"> 
+
+![enter image description here](https://1.bp.blogspot.com/-nvGn9mg6Xuk/Wrx7p98XJ5I/AAAAAAAAAGg/mCrwzN3lrcQuy-bTpMZM-1Nq2sKIXOqfwCLcBGAs/s1600/mockup+admin.png)
+
 </li>  
 <li>   
-<img src="https://lh3.googleusercontent.com/h5s6GlIMPaKigo69-pO4TvHAfERMPhrkyfhuHAjPDD9j_n6mjkNeV88KNavWoVcos2x8Qg4ixXA=s300" alt="KategoriAdmin">
-</li>  
-</ul>  
+
+![enter image description here](https://3.bp.blogspot.com/-hyHUGcT59XU/Wrx7u8FvvoI/AAAAAAAAAGk/_T1XweYaAlYEw311WQIE53sUayoeRf3OACLcBGAs/s1600/mock+up+admin+register.png)
+
+
+![enter image description here](https://3.bp.blogspot.com/-GTj7yXPAFgc/Wrx7zAmpQaI/AAAAAAAAAGo/eEUwwlL_oFQstjThwmNzkWhZ13l5CyDGgCLcBGAs/s1600/mock+up+admin+dashboard.png)
+
 </li>  
 </ul>  
 <p><strong>2.1.3 Antarmuka perangkat keras</strong><br>  
@@ -329,7 +334,9 @@ Xref: Bagian 3.2.9, Admin mengelola kegiatan<p></p>
 <strong>2.2.10 Admin Mengelola Pengaduan</strong><br>
 <p>Use case: mengelola pengaduan<br>
 Diagram:</p>
+
 <p><img src="https://lh3.googleusercontent.com/GlpVAaHE6_EQM3cjPAMMDl80KGzyc0iiH0UrNXZYH91JBZ4LjixBWXQrYMOjGAmRn9y9KV7icINruKwbA8_t8-3FQXtk8_zfse61uDGjqY8_NyKdHHN49FqO4wwX2wmFz2RsWMmO4fwFqy6TOd-y0cwEn6GuLFVzjjYQKQPApePiEf_QWa4lwzRC4LtCWnffNnAM7r8XHsRZHQ2knDSiE6CCDrWL3JhVkXJT4VwzgzJ7vIa8GAdB1WhHzsP41UpDYtz-BdmApVJv6J66rcQ2Bweu2xFEOF95bW3Wgu8IwT56CNSePiWac4mOong4-IaEyW5hWmLkP-pMBPbZ6P2gIvMBXD-ECWnMWksoNE_xTBbPMCZpeASgAz1Pm66DWKIXEMUZcEGQSD3a6fe9DE_MqzxtIvaxVxqZIhk9vOdpHSlhCGKtpPmjoeCNvuhDvoLxtVgWBB0rBD9xNO0JSRZbZ9lggLm3SWjSQaEugKWTuXgWzZxL_o1N-adkpQfQUyKuyvL7W8MWBppYT4APIyIXYbPSwXGpxPZNxpNRNEWjpUdD0LX0nPbN42CM_CEdoO_opBqu2GT0tPpFEJzbElywxe_osj-5PqgmahZWKfg=w173-h98-no" alt="enter image description here" title="adminpengaduan"></p>
+
 <p>Deskripsi singkat ketika admin mengelola pengaduan:
 </p><ol>
 <li>Sistem menampilkan dasboard admin</li>
@@ -625,7 +632,8 @@ Salah satu persyaratan untuk mengakses Aplikasi ini adalah dengan mendaftarkan d
 </p><p>Struktur data logika pada sistem Aplikasi Budaya dan Pariwisata terdapat struktur Database yang dijelaskan menggunakan ERD.  
 </p><p>
 
-![enter image description here](https://4.bp.blogspot.com/-5CPrUWuVlSQ/Wp_zSWD91VI/AAAAAAAAAEc/bmOCDNb3UQsMeRuBP8Zy9P22M8LIWHr2gCLcBGAs/s1600/ERDDDDDDDD.jpg)
+![enter image description here](https://2.bp.blogspot.com/-hfelCSzK5rI/Wrx6v882vbI/AAAAAAAAAGY/B5uJQnEl3QcOlqK3IpiNAGmo0CLzY0yYgCLcBGAs/s1600/ERD00000000.jpg)
+
 
 <p>Pada ERD terdapat tabel admin, tabel user, tabel pariwisata, tabel budaya, tabel event dan tabel ratting.  </p>
 
