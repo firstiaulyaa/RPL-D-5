@@ -71,10 +71,12 @@ Sistem Aplikasi Budaya dan Pariwisata ini terdapat 2 aktor yaitu Admin dan User 
 <td> 
 <img src="https://lh3.googleusercontent.com/-v-t8IV4jr_8/WrxeBxxT9XI/AAAAAAAAFHw/4-hoVJHvdnsy-sYFAI50M9rJBzh_xTbAACL0BGAs/w323-d-h574-n-rw/login.PNG=s200" alt="Start">
 </td>
-</tr>
-<tr>
 <td>
 <img src="https://lh3.googleusercontent.com/-Aok2SDQOz7A/WrxeGLffE3I/AAAAAAAAFII/lPAFORL5QgoBw70FcvM6gUsTjiY3Bi3mgCL0BGAs/w321-d-h571-n-rw/register.PNG=s200" alt="SignIn" title="SignIn">
+</td>
+</tr>
+<td>  
+<img src="https://lh3.googleusercontent.com/-G3t4tU0M-vY/WrxeLkfMMlI/AAAAAAAAFIg/NtfvaM9x4BgQp9xg72zZk2tNG627BMhegCL0BGAs/w324-d-h576-n-rw/menupariwisata.PNG=s200" alt="Register">
 </td>
 </tr>
 <tr>
@@ -82,11 +84,6 @@ Sistem Aplikasi Budaya dan Pariwisata ini terdapat 2 aktor yaitu Admin dan User 
 <img src="https://lh3.googleusercontent.com/-G3t4tU0M-vY/WrxeLkfMMlI/AAAAAAAAFIg/NtfvaM9x4BgQp9xg72zZk2tNG627BMhegCL0BGAs/w324-d-h576-n-rw/menupariwisata.PNG=s200" alt="Register">
 </td>
 </tr>
-<tr>
-<td>  
-<img src="https://lh3.googleusercontent.com/NwRFvTpGCi-5vlKvLpax2t3st6C9BFY8UmiQeo0pENDvJmZjwuJ99ng-9wwdkAszisvgz_EPg9E=s200" alt="Home">
-</td>
-</tr> 
 <p>Admin (Web)</p>  
 <ul>  
 <li>  
