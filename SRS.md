@@ -67,7 +67,9 @@ Aplikasi ini memungkinkan admin untuk menyebarkan informasi tentang lomba atau e
 <p>  
 Sistem Aplikasi Budaya dan Pariwisata ini terdapat 2 aktor yaitu Admin dan User (Pengguna). Admin dan User (Pengguna) mempunyai fungsi yang berbeda dimana admin dapat mengolah data Pariwisata, data Budaya dan data Event juga dapat melihat ratting dari user. sedangkan user hanya dapat melihat data Pariwisata, data Budaya, dan data Event, user (pengguna) juga dapat menginputkan Pengaduan.  
 </p>  
-<p><strong>2.1.2 Antarmuka pengguna</strong></p>  
+<p><strong>2.1.2 Antarmuka pengguna</strong></p>
+<tabel>
+<tbody>  
 <tr>
 <td> 
 <img src="https://lh3.googleusercontent.com/-GF5X8JEZvEY/WrxhRrLdV_I/AAAAAAAAFKI/52M_V6KIwSENMvP472aaXQbFr7FW-jxQgCL0BGAs/w328-d-h583-n-rw/animasipembuka.PNG=s200" alt="Start">
@@ -100,6 +102,48 @@ Sistem Aplikasi Budaya dan Pariwisata ini terdapat 2 aktor yaitu Admin dan User 
 <img src="https://lh3.googleusercontent.com/-D1sIPNSm-JQ/Wrxi6Zcq0aI/AAAAAAAAFN8/EEvClA8HMlQRNVq87xH1polstTeWfvTvgCL0BGAs/w327-d-h581-n-rw/kegiatan.PNG=s200" alt="Register">
 </td>
 </tr>
+<tr>
+<td>  
+<img src="https://lh3.googleusercontent.com/-oby_ANNDw8w/WrxltglVRUI/AAAAAAAAFO0/_pqT3PkayrEP-QXLuEgNLURQE7RGskW7ACL0BGAs/w326-d-h580-n-rw/kuliner.PNG=s200" alt="Register">
+</td>
+<td>  
+<img src="https://lh3.googleusercontent.com/-lpI_4v-I_pU/Wrxl8iwBXSI/AAAAAAAAFPs/6EbnVw0Jw3AndgNA4ob0xvB0nGYHIIvZQCL0BGAs/w326-d-h580-n-rw/restodankafe.PNG=s200" alt="Register">
+</td>
+</tr>
+<tr>
+<td>  
+<img src="https://lh3.googleusercontent.com/-P2tbYWIjrf0/WrxmS7TBTEI/AAAAAAAAFRA/9qNvn9OpF-cfmqow1hBzkZAxQV0QSBeUgCL0BGAs/w325-d-h578-n-rw/wisatabuatan.PNG=s200" alt="Register">
+</td>
+<td>  
+<img src="https://lh3.googleusercontent.com/-2ngpR7mOoc4/WrxmNYgl8GI/AAAAAAAAFQg/vUdVJzR0kFELpXSNi1j-bGa1RvGGNqzYgCL0BGAs/w325-d-h578-n-rw/wisataalam.PNG=s200" alt="Register">
+</td>
+</tr>
+<tr>
+<td>  
+<img src="https://lh3.googleusercontent.com/-fWT3tYKw-Nw/WrxlylWm78I/AAAAAAAAFPM/yfsT-UNYVpYaz7u65_TDLYYD2aBwOfgcQCL0BGAs/w318-d-h565-n-rw/navbar.PNG=s200" alt="Register">
+</td>
+<td>  
+<img src="https://lh3.googleusercontent.com/-EoUFpmLvacY/WrxhsuuVHrI/AAAAAAAAFLo/I5Xf6THB_fon0PMwuUkSdX1av-uMegn2gCL0BGAs/w325-d-h578-n-rw/lihatdetail.PNG=s200" alt="Register">
+</td>
+</tr>
+<tr>
+<td>  
+<img src="https://lh3.googleusercontent.com/-7qe8DcuSU1o/Wrxhi6RtElI/AAAAAAAAFLQ/FeT-6TXupZsXBoaCm29vi4p6b9eCK-G-ACL0BGAs/w324-d-h576-n-rw/disbudpar.PNG=s200" alt="Register">
+</td>
+<td>  
+<img src="https://lh3.googleusercontent.com/-03pj6Uh6_Jg/WrxoM7jYqOI/AAAAAAAAFTM/3UoYbmZd9I02RV3hl7jKLalskjggS6M6gCL0BGAs/w324-d-h576-n-rw/profilsaya.PNG=s200" alt="Register">
+</td>
+</tr>
+<tr>
+<td>  
+<img src="https://lh3.googleusercontent.com/-QULfNIB-2FQ/WrxoVVed3TI/AAAAAAAAFTk/wMe6Wrxa9bIIOioT37w3UKM93bvOaRn9QCL0BGAs/w328-d-h583-n-rw/ubahprofil.PNG=s200" alt="Register">
+</td>
+<td>  
+<img src="https://lh3.googleusercontent.com/-v8Clqxh99Xc/Wrxoe-pMQ4I/AAAAAAAAFT8/RIvKjn6m1psm5kC4BQIY3_x3-8xbBLXegCL0BGAs/w326-d-h580-n-rw/pengaduan.PNG=s200" alt="Register">
+</td>
+</tr>
+</tbody>
+</tabel>
 <p>Admin (Web)</p>  
 <ul>  
 <li>  
