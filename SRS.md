@@ -1,7 +1,12 @@
+<<<<<<< HEAD
+﻿<h1 align="center" id="software-requirements-specification">SOFTWARE REQUIREMENTS SPECIFICATION</h1>  
+<p align="center"><strong>Version 2.0<br>  
+=======
 ﻿
 
 <h1 align="center" id="software-requirements-specification">SOFTWARE REQUIREMENTS SPECIFICATION</h1>  
 <p align="center"><strong>Version 1.0<br>  
+>>>>>>> 43002d9388453e61c7245aaa469a975ebddca65b
 22 Februari 2018</strong><br>  
 </p><p align="center">  
 <img src="https://lh3.googleusercontent.com/qEHYPVzo0kjd8ikhrCIF4cI_PhR8pmK5vDU14oEp9OPyVT-eA54cVp8C9iyJ8rKDfH8OR1dnT1zv=s300" alt="enter image description here" title="logo">  
@@ -19,7 +24,7 @@ Politeknik Negeri Indramayu<br>
 <p>Dokumen ini bertujuan untuk menjelaskan secara detail mengenai aplikasi yang kami buat yang berjudul “Aplikasi Budaya dan Pariwisata Kabupaten Indramayu berbasis Android”,<br>  
 pada dokumen ini akan menjelaskan seperti : Mock-up, rancangan sistem, dan lain-lain.</p>  
 <p><strong>1.2 Lingkup Masalah</strong></p>  
-<p>Aplikasi Budaya dan Pariwisata Indramayu adalah salah satu aplikasi berbasis android yang digunakan untuk seluruh masyarakat, khususnya masyarakat yang berada di daerah Indramayu untuk mengetahui kebudayaan yang ada di Indramayu dan event atau lomba yang akan diselenggarakan oleh Dinas Kebudayaan dan Pariwisata Kabupaten Indramayu.<br>  
+<p>BUSAYU (Aplikasi Budaya dan Pariwisata Kab, Indramayu) adalah salah satu aplikasi berbasis android yang digunakan untuk seluruh masyarakat, khususnya masyarakat yang berada di daerah Indramayu untuk mengetahui kebudayaan yang ada di Indramayu dan event atau lomba yang akan diselenggarakan oleh Dinas Kebudayaan dan Pariwisata Kabupaten Indramayu.<br>  
 Pada Proyek ini dibuat sistem berbasis android dimana pengolahan informasi dan data diakses melalui smartphone dengan sistem operasi android.</p>  
 <p><strong>1.3 Definisi, Akronim, Singkatan</strong></p>  
 <table>  
@@ -49,7 +54,11 @@ Pada Proyek ini dibuat sistem berbasis android dimana pengolahan informasi dan d
 <tr>  
 <td>SRS</td>  
 <td> Software Requirements Specification</td>  
-</tr>  
+</tr> 
+<tr>  
+<td>BUSAYU</td>  
+<td> Aplikasi Budaya dan Pariwisata kab. Indramayu</td>  
+</tr>   
 </tbody>  
 </table><p><strong>1.4 Referensi</strong><br>  
 </p><ul><li><a href="https://id.wikipedia.org/wiki/Android_(sistem\\\_operasi)">https://id.wikipedia.org/wiki/Android\\\_(sistem_operasi)</a>,</li>
@@ -143,21 +152,20 @@ Sistem Aplikasi Budaya dan Pariwisata ini terdapat 2 aktor yaitu Admin dan User 
 <img src="https://lh3.googleusercontent.com/-v8Clqxh99Xc/Wrxoe-pMQ4I/AAAAAAAAFT8/RIvKjn6m1psm5kC4BQIY3_x3-8xbBLXegCL0BGAs/w326-d-h580-n-rw/pengaduan.PNG=s200" alt="Register">
 </td>
 </tr>
+<tr>
+<td>  
+<img src="https://lh3.googleusercontent.com/-DJV9QCIrW9s/WrxmfRy3IBI/AAAAAAAAFRc/D_aZiy0fzQ0mwAFmt1HR_mCG2-zQVKZNwCL0BGAs/w319-d-h567-n-rw/travel.PNG=s200" alt="Register">
+</td>
+</tr>
 </tbody>
 </tabel>
 <p>Admin (Web)</p>  
 <ul>  
 <li>  
-<p>Sign In<br>  
-<img src="https://lh3.googleusercontent.com/d9TdPqt4UcURXiaXZKX8mClUUkcG4YmTHKNrrKHQ-u8-yP_15HD9av5ztIw--DzLDxYKwiYUn1w=s300" alt="HomeAdmin"><br>  
-Tampilan Sign In merupakan tampilan bagi Admin untuk masuk ke web. Sign In berisi input text (username dan password) dan button Masuk.<br>  
-Lalu terdapat link “Lupa Password” yang terletak di bawah button masuk.</p>  
+<img src="https://lh3.googleusercontent.com/d9TdPqt4UcURXiaXZKX8mClUUkcG4YmTHKNrrKHQ-u8-yP_15HD9av5ztIw--DzLDxYKwiYUn1w=s300" alt="HomeAdmin"> 
 </li>  
-<li>  
-<p>Kategori<br>  
-<img src="https://lh3.googleusercontent.com/h5s6GlIMPaKigo69-pO4TvHAfERMPhrkyfhuHAjPDD9j_n6mjkNeV88KNavWoVcos2x8Qg4ixXA=s300" alt="KategoriAdmin"><br>  
-Tampilan Kategori merupakan tampilan bagi Admin untuk melihat menu. Kategori terdiri dari beberapa button yang tersusun secara grid.<br>  
-Button tersebut adalah Budaya, Pariwisata, Event, Berita, Profil Saya, Data Admin, Data User, dan Lihat Komentar.</p>  
+<li>   
+<img src="https://lh3.googleusercontent.com/h5s6GlIMPaKigo69-pO4TvHAfERMPhrkyfhuHAjPDD9j_n6mjkNeV88KNavWoVcos2x8Qg4ixXA=s300" alt="KategoriAdmin">
 </li>  
 </ul>  
 </li>  
@@ -640,24 +648,24 @@ Salah satu persyaratan untuk mengakses Aplikasi ini adalah dengan mendaftarkan d
 <td><strong>Deskripsi</strong></td>
 </tr>  
 <tr>  
-<td>Id_admin</td>  
+<td>id_admin</td>  
 <td>Integer</td>  
 <td>Nomor auto increment Id_admin</td>    
 </tr>  
 <tr>  
-<td>Username</td>  
+<td>username</td>  
 </td> 
 <td>Varchar</td>   
 <td>Nama atau nomor untuk dapat mengakses aplikasi</td>   
 </tr>  
 <tr>  
-<td>Password</td>  
+<td>password</td>  
 </td> 
 <td>Varchar</td>   
 <td>Berisi password untuk dapat mengakses aplikasi </td>   
 </tr>  
 <tr>  
-<td>Nama admin</td>  
+<td>nama_admin</td>  
 </td> 
 <td>Varchar</td>   
 <td>Untuk login dan mengetahui nama admin </td>   
@@ -676,30 +684,30 @@ Salah satu persyaratan untuk mengakses Aplikasi ini adalah dengan mendaftarkan d
 <td><strong>Deskripsi</strong></td>
 </tr>  
 <tr>  
-<td>Id_user</td>  
+<td>id_user</td>  
 <td>Integer</td>  
 <td>Nomor auto increment Id_user</td>    
 </tr>  
 <tr>  
-<td>Username</td>  
+<td>username</td>  
 </td> 
 <td>Varchar</td>   
 <td>Berisi Nama atau nomor untuk dapat mengakses aplikasi</td>   
 </tr>  
 <tr>  
-<td>Password</td>  
+<td>password</td>  
 </td> 
 <td>Varchar</td>   
 <td>Berisi password untuk dapat mengakses aplikasi </td>   
 </tr>  
 <tr>  
-<td>Nama user</td>  
+<td>nama_user</td>  
 </td> 
 <td>Varchar</td>   
 <td>Untuk login dan mendaftar aplikasi </td>   
 </tr>   
 <tr>  
-<td>Email</td>  
+<td>email</td>  
 </td> 
 <td>Varchar</td>   
 <td>Berisi alamat email user  </td>   
@@ -718,24 +726,24 @@ Salah satu persyaratan untuk mengakses Aplikasi ini adalah dengan mendaftarkan d
 <td><strong>Deskripsi</strong></td>
 </tr>  
 <tr>  
-<td>Id_budaya</td>  
+<td>id_budaya</td>  
 <td>Integer</td>  
 <td>Nomor auto increment Id_budaya</td>    
 </tr>    
 <tr>  
-<td>Nama Budaya</td>  
+<td>nama</td>  
 </td> 
 <td>Varchar</td>   
 <td>Berisi nama budaya </td>   
 </tr>   
 <tr>  
-<td>Deskripsi</td>  
+<td>deskripsi</td>  
 </td> 
 <td>Varchar</td>   
 <td>Berisi deskripsi tentang budaya  </td>   
 </tr>   
 <tr>  
-<td>Gambar</td>  
+<td>gambar</td>  
 </td> 
 <td>Varchar</td>   
 <td>Berisi gambar kebudayaan  </td>   
@@ -754,30 +762,30 @@ Salah satu persyaratan untuk mengakses Aplikasi ini adalah dengan mendaftarkan d
 <td><strong>Deskripsi</strong></td>
 </tr>  
 <tr>  
-<td>Id_pariwisata</td>  
+<td>id_pariwisata</td>  
 <td>Integer</td>  
 <td>Nomor auto increment Id_pariwisata</td>    
 </tr>    
 <tr>  
-<td>Nama Pariwisata</td>  
+<td>nama</td>  
 </td> 
 <td>Varchar</td>   
 <td>Berisi nama pariwisata </td>   
 </tr>   
 <tr>  
-<td>Deskripsi pariwisata</td>  
+<td>deskripsi</td>  
 </td> 
 <td>Varchar</td>   
 <td>Berisi deskripsi tentang pariwisata  </td>   
 </tr>   
 <tr>  
-<td>Gambar pariwisata</td>  
+<td>gambar</td>  
 </td> 
 <td>Varchar</td>   
 <td>Berisi gambar pariwisata  </td>   
 </tr>  
 <tr>  
-<td>id_Jenis</td>  
+<td>id_jenis</td>  
 </td> 
 <td>Integer</td>   
 <td>Sebagai foreign key pada tabel pariwisata  </td>   
@@ -797,12 +805,12 @@ Salah satu persyaratan untuk mengakses Aplikasi ini adalah dengan mendaftarkan d
 <td><strong>Deskripsi</strong></td>
 </tr>  
 <tr>
-<td>id_Jenis</td>  
+<td>id_jenis</td>  
 <td>Integer</td>   
 <td> Nomor auto increment pada tabel jenis pariwisata  </td>   
 </tr>  
 <tr>
-<td>Nama Jenis</td>  
+<td>nama</td>  
 <td>Varchar</td>   
 <td>Sebagai foreign key pada tabel pariwisata </td>   
 </tr>   
@@ -820,24 +828,24 @@ Salah satu persyaratan untuk mengakses Aplikasi ini adalah dengan mendaftarkan d
 <td><strong>Deskripsi</strong></td>
 </tr>  
 <tr>  
-<td>Id_Event</td>  
+<td>Id_event</td>  
 <td>Integer</td>  
 <td>Nomor auto increment Id_event</td>    
 </tr>    
 <tr>  
-<td>Nama Event</td>  
+<td>nama</td>  
 </td> 
 <td>Varchar</td>   
 <td>Berisi nama event </td>   
 </tr>   
 <tr>  
-<td>Deskripsi event</td>  
+<td>deskripsi</td>  
 </td> 
 <td>Varchar</td>   
 <td>Berisi deskripsi tentang event</td>   
 </tr>   
 <tr>  
-<td>Tanggal</td>  
+<td>tanggal</td>  
 </td> 
 <td>Date</td>   
 <td>Berisi tanggal di adakannnya event  </td>   
@@ -857,12 +865,12 @@ Salah satu persyaratan untuk mengakses Aplikasi ini adalah dengan mendaftarkan d
 <td><strong>Deskripsi</strong></td>
 </tr>  
 <tr>  
-<td>Id_Pengaduan</td>  
+<td>id_pengaduan</td>  
 <td>Integer</td>  
 <td>Nomor auto increment Id_pengaduan</td>    
 </tr>    
 <tr>  
-<td>Isi pengaduan</td>  
+<td>isi</td>  
 </td> 
 <td>Varchar</td>   
 <td>Berisi pengaduan dari user</td>   
