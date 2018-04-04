@@ -371,7 +371,7 @@ Diagram:</p>
 <li>User mengedit dat profil</li>
 <li>Sistem akan mengirim data ke database</li>
 </ol>
-Xref: Bagian 3.2.12, user mengedit user<p></p>
+Xref: Bagian 3.2.12, User Mengedit User<p></p>
 <strong>2.3. Spesifikasi Kebutuhan Non-fungsional</strong><br>  
 <strong>2.3.1 Spesifikasi User Interface</strong><br>  
 User Interface yang ada pada aplikasi harus user-friendly, dan mudah untuk digunakan.<br>  
@@ -580,6 +580,7 @@ Salah satu persyaratan untuk mengakses Aplikasi ini adalah dengan mendaftarkan d
 </tr>  
 </tbody>   
 </table>
+
 <p><strong>3.2.5 User Mengajukan Pengaduan</strong></p>  
 <table>  
 <thead>  
@@ -621,6 +622,352 @@ Salah satu persyaratan untuk mengakses Aplikasi ini adalah dengan mendaftarkan d
 <tr>  
 <td>Post Condition</td>  
 <td>Halaman pengaduan</td>  
+</tr>  
+<tr>  
+<td>Exception Push</td>  
+<td> Tidak ada koneksi</td>  
+</tr>  
+</tbody>   
+</table>
+<p><strong>3.2.6 Admin Login</strong></p>  
+<table>  
+<thead>  
+<tr>  
+</tr>  
+</thead>  
+<tbody>  
+<tr>  
+<td>Nama Fungsi</td>  
+<td>Admin Login</td>  
+</tr>  
+<tr>  
+<td>Ref</td>  
+<td>Bag 2.2.6 Admin Login</td>  
+</tr>  
+<tr>  
+<td>Trigger</td>  
+<td>Membuka Aplikasi Budaya dan Pariwisata </td>  
+</tr>  
+<tr>  
+<td>Precondision</td>  
+<td>Halaman Utama Login</td>  
+</tr>  
+<tr>  
+<td>Basic Path</td>  
+<td>
+</p><ol>
+<li>Sistem menampilkan dasboard admin</li>
+<li>Admin memilih menu budaya pada sidebar</li>
+<li>Admin mengelola data budaya</li>
+<li>Sistem akan mengirim data ke database</li>
+</ol>
+</ol>
+</td>  
+</tr>  
+<tr>  
+<td>Alternative</td>  
+<td> Tidak ada</td>  
+</tr>  
+<tr>  
+<td>Post Condition</td>  
+<td>Halaman Dashboard Admin</td>  
+</tr>  
+<tr>  
+<td>Exception Push</td>  
+<td> Tidak ada koneksi</td>  
+</tr>  
+</tbody>   
+</table>
+<p><strong>3.2.7 Admin Mengelola Budaya</strong></p>  
+<table>  
+<thead>  
+<tr>  
+</tr>  
+</thead>  
+<tbody>  
+<tr>  
+<td>Nama Fungsi</td>  
+<td>Admin Mengelola Budaya</td>  
+</tr>  
+<tr>  
+<td>Ref</td>  
+<td>Bag 2.2.7 Admin Mengelola Budaya</td>  
+</tr>  
+<tr>  
+<td>Trigger</td>  
+<td>Admin masuk Aplikasi Budaya dan Pariwisata </td>  
+</tr>  
+<tr>  
+<td>Precondision</td>  
+<td>Halaman Dashboard Admin</td>  
+</tr>  
+<tr>  
+<td>Basic Path</td>  
+<td>
+<p><ol>
+<li>Sistem menampilkan dasboard admin</li>
+<li>Admin memilih menu pariwisata pada sidebar</li>
+<li>Admin mengelola data pariwisata</li>
+<li>Sistem akan mengirim data ke database</li>
+</ol>
+</ol>
+</td>  
+</tr>  
+<tr>  
+<td>Alternative</td>  
+<td> Tidak ada</td>  
+</tr>  
+<tr>  
+<td>Post Condition</td>  
+<td>Mengklik menu Budaya</td>  
+</tr>  
+<tr>  
+<td>Exception Push</td>  
+<td> Tidak ada koneksi</td>  
+</tr>  
+</tbody>   
+</table>
+<p><strong>3.2.8 Admin Mengelola Pariwisata</strong></p>  
+<table>  
+<thead>  
+<tr>  
+</tr>  
+</thead>  
+<tbody>  
+<tr>  
+<td>Nama Fungsi</td>  
+<td>Admin Mengelola Pariwisata</td>  
+</tr>  
+<tr>  
+<td>Ref</td>  
+<td>Bag 2.2.8 Admin Mengelola Pariwisata</td>  
+</tr>  
+<tr>  
+<td>Trigger</td>  
+<td>Admin masuk Aplikasi Budaya dan Pariwisata </td>  
+</tr>  
+<tr>  
+<td>Precondision</td>  
+<td>Halaman Dashboard Admin</td>  
+</tr>  
+<tr>  
+<td>Basic Path</td>  
+<td>
+</p><ol>
+<li>Sistem menampilkan dasboard admin</li>
+<li>Admin memilih menu kegiatan pada sidebar</li>
+<li>Admin mengelola data kegiatan</li>
+<li>Sistem akan mengirim data ke database</li>
+</ol>
+</ol>
+</td>  
+</tr>  
+<tr>  
+<td>Alternative</td>  
+<td> Tidak ada</td>  
+</tr>  
+<tr>  
+<td>Post Condition</td>  
+<td>Mengklik menu Pariwisata</td>  
+</tr>  
+<tr>  
+<td>Exception Push</td>  
+<td> Tidak ada koneksi</td>  
+</tr>  
+</tbody>   
+</table>
+<p><strong>3.2.9 Admin Mengelola Kegiatan</strong></p>  
+<table>  
+<thead>  
+<tr>  
+</tr>  
+</thead>  
+<tbody>  
+<tr>  
+<td>Nama Fungsi</td>  
+<td>Admin Mengelola Kegiatan</td>  
+</tr>  
+<tr>  
+<td>Ref</td>  
+<td>Bag 2.2.9 Admin Mengelola Kegiatan</td>  
+</tr>  
+<tr>  
+<td>Trigger</td>  
+<td>Admin masuk Aplikasi Budaya dan Pariwisata </td>  
+</tr>  
+<tr>  
+<td>Precondision</td>  
+<td>Halaman Dashboard Admin</td>  
+</tr>  
+<tr>  
+<td>Basic Path</td>  
+<td>
+</p><ol>
+<li>Sistem menampilkan dasboard admin</li>
+<li>Admin memilih menu kegiatan pada sidebar</li>
+<li>Admin mengelola data kegiatan</li>
+<li>Sistem akan mengirim data ke database</li>
+</ol>
+</ol>
+</td>  
+</tr>  
+<tr>  
+<td>Alternative</td>  
+<td> Tidak ada</td>  
+</tr>  
+<tr>  
+<td>Post Condition</td>  
+<td>Mengklik menu Kegiatan</td>  
+</tr>  
+<tr>  
+<td>Exception Push</td>  
+<td> Tidak ada koneksi</td>  
+</tr>  
+</tbody>   
+</table>
+
+<p><strong>3.2.10 Admin Mengelola Pengaduan</strong></p>  
+<table>  
+<thead>  
+<tr>  
+</tr>  
+</thead>  
+<tbody>  
+<tr>  
+<td>Nama Fungsi</td>  
+<td>Admin Mengelola Pengaduan</td>  
+</tr>  
+<tr>  
+<td>Ref</td>  
+<td>Bag 2.2.10 Admin Mengelola Pengaduan</td>  
+</tr>  
+<tr>  
+<td>Trigger</td>  
+<td>Admin masuk Aplikasi Budaya dan Pariwisata </td>  
+</tr>  
+<tr>  
+<td>Precondision</td>  
+<td>Halaman Dashboard Admin</td>  
+</tr>  
+<tr>  
+<td>Basic Path</td>  
+<td>
+</p><ol>
+<li>Sistem menampilkan dasboard admin</li>
+<li>Admin memilih menu pengaduan pada sidebar</li>
+<li>Admin mengelola data pengaduan</li>
+<li>Sistem akan mengirim data ke database</li>
+</ol>
+</ol>
+</td>  
+</tr>  
+<tr>  
+<td>Alternative</td>  
+<td> Tidak ada</td>  
+</tr>  
+<tr>  
+<td>Post Condition</td>  
+<td>Mengklik menu Pengaduan</td>  
+</tr>  
+<tr>  
+<td>Exception Push</td>  
+<td> Tidak ada koneksi</td>  
+</tr>  
+</tbody>   
+</table>
+<p><strong>3.2.11 Admin Mengelola User</strong></p>  
+<table>  
+<thead>  
+<tr>  
+</tr>  
+</thead>  
+<tbody>  
+<tr>  
+<td>Nama Fungsi</td>  
+<td>Admin Mengelola User</td>  
+</tr>  
+<tr>  
+<td>Ref</td>  
+<td>Bag 2.2.11 Admin Mengelola User</td>  
+</tr>  
+<tr>  
+<td>Trigger</td>  
+<td>Admin masuk Aplikasi Budaya dan Pariwisata </td>  
+</tr>  
+<tr>  
+<td>Precondision</td>  
+<td>Halaman Dashboard Admin</td>  
+</tr>  
+<tr>  
+<td>Basic Path</td>  
+<td>
+</p><ol>
+<li>Sistem menampilkan dasboard admin</li>
+<li>Admin memilih menu user pada sidebar</li>
+<li>Admin mengelola data user</li>
+<li>Sistem akan mengirim data ke database</li>
+</ol>
+</ol>
+</td>  
+</tr>  
+<tr>  
+<td>Alternative</td>  
+<td> Tidak ada</td>  
+</tr>  
+<tr>  
+<td>Post Condition</td>  
+<td>Mengklik menu User</td>  
+</tr>  
+<tr>  
+<td>Exception Push</td>  
+<td> Tidak ada koneksi</td>  
+</tr>  
+</tbody>   
+</table>
+<p><strong>3.2.12 User Mengedit User </strong></p>  
+<table>  
+<thead>  
+<tr>  
+</tr>  
+</thead>  
+<tbody>  
+<tr>  
+<td>Nama Fungsi</td>  
+<td>User Mengedit User</td>  
+</tr>  
+<tr>  
+<td>Ref</td>  
+<td>Bag 2.2.12 User Mengedit User</td>  
+</tr>  
+<tr>  
+<td>Trigger</td>  
+<td>Admin masuk Aplikasi Budaya dan Pariwisata </td>  
+</tr>  
+<tr>  
+<td>Precondision</td>  
+<td>Halaman Dashboard</td>  
+</tr>  
+<tr>  
+<td>Basic Path</td>  
+<td>
+</p><ol>
+<li>Sistem menampilkan halaman utama yang berisi button budaya</li>
+<li>user menekan tombol navigasi</li>
+<li>User memilih profil saya</li>
+<li>User memilih ubah profil</li>
+<li>User mengedit dat profil</li>
+<li>Sistem akan mengirim data ke database</li>
+</ol>
+</ol>
+</td>  
+</tr>  
+<tr>  
+<td>Alternative</td>  
+<td> Tidak ada</td>  
+</tr>  
+<tr>  
+<td>Post Condition</td>  
+<td>Mengklik menu User</td>  
 </tr>  
 <tr>  
 <td>Exception Push</td>  
@@ -877,7 +1224,7 @@ Salah satu persyaratan untuk mengakses Aplikasi ini adalah dengan mendaftarkan d
 <td>Varchar</td>   
 <td>Berisi pengaduan dari user</td>   
 </tr>   
-</table>
+</table> 
 
 
 
