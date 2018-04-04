@@ -14,15 +14,17 @@ Politeknik Negeri Indramayu<br>
 2018</strong></p>  
 <p><strong>1. PENDAHULUAN</strong>  
 <p><strong>1.1. Gambaran Proyek</strong></p>
-Aplikasi Budaya dan Pariwisata Indramayu adalah salah satu aplikasi berbasis android yang digunakan untuk seluruh masyarakat, khususnya masyarakat yang berada di daerah Indramayu untuk mengetahui kebudayaan yang ada di Indramayu dan event atau lomba yang akan diselenggarakan oleh Dinas Kebudayaan dan Pariwisata Kabupaten Indramayu.<br>
-Pada Proyek ini dibuat sistem berbasis android dimana pengolahan informasi dan data diakses melalui smartphone dengan sistem operasi android.<br><br>
+BUSAYU (Aplikasi Budaya dan Pariwisata Kab. Indramayu) adalah salah satu aplikasi berbasis Android yang digunakan untuk seluruh masyarakat, khususnya masyarakat yang berada di daerah Indramayu untuk mengetahui kebudayaan yang ada di Indramayu dan event atau lomba yang akan diselenggarakan oleh Dinas Kebudayaan dan Pariwisata Kabupaten Indramayu.<br>
+Pada Proyek ini dibuat sistem berbasis Android dimana pengolahan informasi dan data diakses melalui smartphone dengan sistem operasi Android.<br><br>
 <p><strong>1.2. Dokumen-dokumen dalam proyek</strong></p>
 1. Proposal Pengajuan<br>
 2. MoU dengan mitra<br>
 3. Logbook<br>
-4. Laporan<br><br>
+4. Laporan<br>
+5. SRS<br>
+6. SDD<br>
 <p><strong>1.3. Evolusi SPMP</strong></p>
-pada proyek ini ditujukan untuk masing-masing anggota dan harus bertanggung jawab pada dokumen projek yang dibuat, setiap personal harus mampu mempertanggung jawabkan setiap jobdesk yang ditentukan.<br><br>
+pada proyek ini ditujukan untuk masing-masing anggota dan harus bertanggung jawab pada dokumen projek yang dibuat, setiap personal harus mampu mempertanggung jawabkan setiap job desk yang ditentukan.<br><br>
 <p><strong>1.4. Material acuan</strong></p>
 Aplikasi pendukung yang digunakan dalam proyek ini adalah :</p>
 <ul>
@@ -30,7 +32,7 @@ Aplikasi pendukung yang digunakan dalam proyek ini adalah :</p>
 <li>Sublime Text</li>
 <li>Balsamiq</li>
 <li>Mockplus</li>
-<li>Firebase</li>
+<li>XAMPP</li>
 </ul>
 <br>
 <p><strong>2. Organisasi Proyek</strong></p>
@@ -65,7 +67,7 @@ Penyesuaian yang cepat pada projek yang baru<br>
 </tr>
 <tr>
 <td>Diyanti</td>
-<td>Documentation, Database</td>
+<td>Documentation, Database, Analisment</td>
 </tr>
 <tr>
 <td>Firmansyah</td>
@@ -127,7 +129,7 @@ Penyesuaian yang cepat pada projek yang baru<br>
 </table><br>
 <p><strong>3. Proses Manajerial</strong></p>
 <p><strong>3.1 Tujuan dan prioritas manajemen</strong></p>
-Tujuan dari proyek ini adalah untuk mengenalkan kebudayaan yang ada di Indramayu, menyediakan form pendaftaran bagi peserta yang ingin mendaftar lomba-lomba yang diselenggarakan oleh dinas kebudayaan dan pariwisata kabupaten Indramayu.</p>
+Tujuan dari proyek ini adalah untuk mengenalkan kebudayaan dan pariwisata yang ada di Indramayu, serta pengguna bisa mengajukan pengaduan tentang kebudayaan dan pariwisata yang ada di Indramayu.</p>
 <p><strong>3.2 Asumsi, keterkaitan, dan batasan</strong></p>
  Asumsi proyek adalah sebagai berikut :</p>
 <ul>
@@ -136,7 +138,7 @@ Tujuan dari proyek ini adalah untuk mengenalkan kebudayaan yang ada di Indramayu
 <li>Persetujuan pendanaan<br><br>
 
 Substansi Proyek adalah sebagai berikut :<br>
-- Aplikasi ini menyediakan form untuk pendaftaran mengikuti lomba yang di selenggarakan oleh dinas kebudayaan dan pariwisata kabupaten Indramayu. <br>
+- Aplikasi ini bisa mengajukan pengaduan tentang kebudayaan dan pariwisata yang ada di Indramayu. <br>
 - Tersedianya keahlian pokok dalam sistem yang akan dipakai<br>
 
 Kendala proyek adalah sebagai berikut : <br>
