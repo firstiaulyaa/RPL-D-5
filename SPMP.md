@@ -17,22 +17,16 @@ Politeknik Negeri Indramayu<br>
 BUSAYU (Aplikasi Budaya dan Pariwisata Kab. Indramayu) adalah salah satu aplikasi berbasis Android yang digunakan untuk seluruh masyarakat, khususnya masyarakat yang berada di daerah Indramayu untuk mengetahui kebudayaan yang ada di Indramayu dan event atau lomba yang akan diselenggarakan oleh Dinas Kebudayaan dan Pariwisata Kabupaten Indramayu.<br>
 Pada Proyek ini dibuat sistem berbasis Android dimana pengolahan informasi dan data diakses melalui smartphone dengan sistem operasi Android.<br><br>
 <p><strong>1.2. Dokumen-dokumen dalam proyek</strong></p>
-1. Proposal Pengajuan<br>
-2. MoU dengan mitra<br>
-3. Logbook<br>
-4. Laporan<br>
-5. SRS<br>
-6. SDD<br>
+<ol>
+<li>SPMP (Software Project Management Plant)</li>
+<li>SRS (Software Reqruitments Specification</li>
+<li>SDD (Software Design Document)</li>
+</ol>
 <p><strong>1.3. Evolusi SPMP</strong></p>
 pada proyek ini ditujukan untuk masing-masing anggota dan harus bertanggung jawab pada dokumen projek yang dibuat, setiap personal harus mampu mempertanggung jawabkan setiap job desk yang ditentukan.<br><br>
 <p><strong>1.4. Material acuan</strong></p>
-Aplikasi pendukung yang digunakan dalam proyek ini adalah :</p>
 <ul>
-<li>Android Studio</li>
-<li>Sublime Text</li>
-<li>Balsamiq</li>
-<li>Mockplus</li>
-<li>XAMPP</li>
+<li> </li>
 </ul>
 <br>
 <p><strong>2. Organisasi Proyek</strong></p>
@@ -52,36 +46,45 @@ Penyesuaian yang cepat pada projek yang baru<br>
 
 <br>
 <p><strong>2.2. Struktur organisasi</strong></p>
-
 <table>
 <thead>
 <tr>
+<th>No</th>
+<th>NIM</th>
 <th>Nama</th>
-<th>Tugas</th>
+<th>Jabatan</th>
 </tr>
 </thead>
 <tbody>
 <tr>
+<td>1</td>
+<td>1603098</td>
 <td>Firsti Aulya K K</td>
-<td>Manager Project, Design</td>
+<td>Project Manager, UI/UX Designer</td>
 </tr>
 <tr>
+<td>2</td>
+<td>1603094</td>
 <td>Diyanti</td>
-<td>Documentation, Database, Analisment</td>
+<td>Database Engineer, System Analysment</td>
 </tr>
 <tr>
+<td>3</td>
+<td>1603097</td>
 <td>Firmansyah</td>
-<td>Android Development</td>
+<td>Android Developer</td>
 </tr>
 <tr>
-<td>Rizky Alief Satria</td>
-<td>Web Development</td>
+<td>4</td>
+<td>1603111</td>
+<td>Rizky Alief S</td>
+<td>Web Developer</td>
 </tr>
 </tbody>
 </table>
 <br>
-<p><strong>2.3. Lingkup dan Tanggung jawab</strong></p>
 
+<p><strong>2.3. Lingkup dan Tanggung jawab</strong></p>
 <table>
 <thead>
 <tr>
@@ -92,36 +95,32 @@ Penyesuaian yang cepat pada projek yang baru<br>
 </thead>
 <tbody>
 <tr>
-<td>1.</td>
-<td>Project Plan</td>
-<td>Mengatur Perancangan Sistem (Alur Mockup,Flowchart, dan DFD)</td>
-</tr>
 <tr>
-<td>2.</td>
-<td>Android Development</td>
+<td>1.</td>
+<td>Android Developer</td>
 <td>Penerapan Mockup Ke halaman Interface dan proses fungsi lain di Android Java</td>
 </tr>
 <tr>
-<td>3.</td>
-<td>Web Development</td>
+<td>2.</td>
+<td>Web Developer</td>
 <td>Penerapan Mockup Ke halaman Interface dan proses fungsi lain di PHP, HTML, CSS</td>
 </tr>
 <tr>
-<td>4.</td>
-<td>Database Administrator</td>
+<td>3.</td>
+<td>Database Engineer</td>
 <td>Pengguna yang memiliki kewenangan sebagai pusat pengendali seluruh sistem baik basis data maupun program-program yang mengaksesnya, menentukan pola struktur basis data, memodifikasi, membagi tugas pengolahan dan memberikan orientasi tertentu, dan sebagainya</td>
 </tr>
 <tr>
-<td>5.</td>
-<td>Desain Mockup</td>
+<td>4.</td>
+<td>UI/UX Designer </td>
 <td>Membuat desain aplikasi secara keseluruhan (output, input, proses, dan interface), berkoordinasi dengan analis dan developer, membuat dokumentasi hasil desain</td>
 </tr>
 <tr>
-<td>6.</td>
-<td>Analisment</td>
+<td>5.</td>
+<td>System Analysment</td>
 <td>Merupakan orang yang bertugas menganalisa sistem yang akan diimplementasikan, mulai dari menganalisa sistem yang ada, kelebihan dan kekurangannya, sampai studi kelayakan dan desain sistem yang akan dikembangkan  
 </tr>
-<td>7.</td>
+<td>6.</td>
 <td>Manager Project</td>
 <td>Mengintegrasikan beberapa kegiatan yang berbeda untuk mencapai tujuan tertentu, berperan untuk mengambil keputusan yang menjadi wewenangnya, sebagai seorang komunikator, dan merupakan seorang enterpreuneur yang harus berusaha untuk melakukan pengadaan dana, fasilitas dan orang agar proyek dapat berjalan.</td>
 </tr>
