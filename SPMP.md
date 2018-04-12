@@ -26,7 +26,9 @@ Pada Proyek ini dibuat sistem berbasis Android dimana pengolahan informasi dan d
 pada proyek ini ditujukan untuk masing-masing anggota dan harus bertanggung jawab pada dokumen projek yang dibuat, setiap personal harus mampu mempertanggung jawabkan setiap job desk yang ditentukan.<br><br>
 <p><strong>1.4. Material acuan</strong></p>
 <ul>
-<li> </li>
+<li>Materi yang menjadi acuan dalam pembuatan projek ini menggunakan standarIEEE, karena menyediakan kerangka kerja  yang menggabungkan seluruh  spektrumproses siklus hidup perangkat lunak. Dan juga standar IEEE untuk membentukmodel yang diakui secara internasional dari kehidupan perangkat lunak umum,siklus proses yang dapat direferensikan oleh industri perangkat lunak diseluruhdunia, untuk mempromosikan pemahaman diantara pihak bisnis dengan aplikasiumum serta mengakui proses, kegiatan dan  tugas.IEEE adalah sebuah organisasi profesi nirlaba yang terdiri dari banyak ahlidibidang teknik yang mempromosikan pengembangan standar-standar danbertindak sebagai pihak yang mempercepat teknologi- teknologi baru dalam semuaaspek dalam industry  dan rekayasa (engineering), yang mencakup telekomunikasi, jaringan komputer, kelistrikan, antariksa, dan elektronika. Tujuan inti IEEE adalahmendorong inovasi teknologi dan kesempurnaan untuk kepentingankemanusiaan.Visi IEEE adalah akan menjadi penting untuk masyarakat teknisglobal dan professional teknis dimana-mana dan dikenal secara universal untukkontribusi teknologi dan teknis yang professional dalam meningkatkan kondisiperkembangan global. Standar dalam IEEE adalah mengatur fungsi, kemampuandan interoperabilitas dari berbagai macam  produk dan layanan yang mengubah caraorang hidup, bekerja dan  berkomunikasi.</li>
+<li>https://www1.in.tum.de/stars.globalse.org/stars1/docs/SPMP/Examples/Examples.html</li>
+
 </ul>
 <br>
 <p><strong>2. Organisasi Proyek</strong></p>
@@ -148,13 +150,61 @@ Kendala proyek adalah sebagai berikut : <br>
 </ul>
 
 <p><strong>3.3 Manajemen Resiko</strong></p>
-<ul>
-<li>Resiko Pasar</li>
-<li>Resiko keuangan</li>
-<li>Resiko teknologi</li>
-<li>Resiko peminat</li>
-<li>Proses</li>
-</ul>
+<table>
+<thead>
+<tr>
+<th>Resiko</th>
+<th>Manajemen Resiko</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Estimasi Biaya dan waktu</td>
+<td>Menganalisa proyek yang akan dibuat
+Membuat spesifikasi yang formal<br>
+Mengembangkan software yang salah<br>
+Survei pengguna<br>
+Membuat Prototype<br>
+</td>
+</tr>
+<tr>
+<td>Terlambat membangun kebutuhan software</td>
+<td>Mengubah prosedur kendali<br>
+Membatasi perubahan yang terlalu banyak<br>
+Meningkatkan pengembangan
+</td>
+</tr>
+<tr>
+<td>Kegagalan pada komponen-komponen</td>
+<td>Analisis project yang akan dibuat<br>
+Keterbatasan alat dan bahan
+</td>
+</tr>
+<tr>
+<td>Kegagalan kinerja real time</td>
+<td>Prosedur jaminan kualitas<br>
+Desain yang kompetitif<br>
+Membangun tim<br>
+Kesungguhan dalam tim
+</td>
+</tr>
+<tr><td>Pengembangan yang terlalu sulit karena teknis</td>
+<td>Analisa Teknis<br>
+Analisa biaya<br>
+Analisa manfaat<br>
+Analisa Software<br>
+Simulasi Software
+</td>
+</tr>
+<tr><td>Kegagalan menjalankan tugas ekstenal</td>
+<td>Benchmarking<br>
+Simulation<br>
+Tuning<br>
+</td>
+</tr>
+</tbody>
+</table>
+
 <p><strong>3.4 Mekanisme pemantauan dan pengendalian</strong></p>
 <ul>
 <li>Rapat proyek mingguan</li>
@@ -206,37 +256,9 @@ Semua dokumen pendukung proyek akan selesai dalam fase yang sesuai.<br><br>
 </table>
 <p><strong>5.2 Jadwal</strong></p>
 
-<table>
-<thead>
-<tr>
-<th>No.</th>
-<th>Waktu</th>
-<th>Keterangan</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>1.</td>
-<td>Minggu ke-1 s/d 2</td>
-<td>Penentuan Ide, rumusan masalah, Mitra</td>
-</tr>
-<tr>
-<td>2.</td>
-<td>Minggu ke-3 s/d 4</td>
-<td>Pembuatan rancangan sistem (DFD, ERD, Mockup)</td>
-</tr>
-<tr>
-<td>3.</td>
-<td>Minggu ke-5 s/d 9</td>
-<td>Pembuatan sistem aplikasi (Rancangan Sistem)</td>
-</tr>
-<tr>
-<td>4</td>
-<td>Minggu ke-10 s/d 12</td>
-<td>Implementasi dan Laporan</td>
-</tr>
-</tbody>
-</table>
+![enter image description here](https://3.bp.blogspot.com/-T2AnCId5O14/Ws8beW0YtBI/AAAAAAAAAHU/7vPABqGAx9cjsARs1O8kMEQk_BoQt_ewgCLcBGAs/s1600/TIMELINEEE.png)
+
+
 <br>
 <p><strong>5.3 Ketergantungan/keterkaitan</strong></p>
 kebutuhan ketertarikan:<br>
@@ -264,7 +286,7 @@ kebutuhan ketertarikan:<br>
 - Mockplus <br>
 - Photoshop <br>
 
-5.4.3. Budget
+<strong>5.5 Budget</strong>
 
 <table>
 <thead>
