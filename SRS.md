@@ -1,4 +1,4 @@
-
+﻿
 <h1 align="center" id="software-requirements-specification">SOFTWARE REQUIREMENTS SPECIFICATION</h1>  
 <p align="center"><strong>Version 1.3<br> 
 29 Maret 2018</strong><br>  
@@ -72,88 +72,88 @@ Aplikasi ini memungkinkan pengguna untuk mengajukan pengaduan tentang kebudayaan
 <p>  
 Sistem Aplikasi Budaya dan Pariwisata ini terdapat 2 aktor yaitu Admin dan User (Pengguna). Admin dan User (Pengguna) mempunyai fungsi yang berbeda dimana admin dapat mengolah data Pariwisata, data Budaya dan data Kegiatan juga dapat melihat rating dari user. Sedangkan user hanya dapat melihat data Pariwisata, data Budaya, dan data Kegiatan, user (pengguna) juga dapat menginputkan Pengaduan.  
 </p>  
+
 <p><strong>2.1.2 Antarmuka pengguna</strong></p>
 <tabel>
-<tbody>  
+
 <tr>
-<td> 
-<img src="https://lh3.googleusercontent.com/-GF5X8JEZvEY/WrxhRrLdV_I/AAAAAAAAFKI/52M_V6KIwSENMvP472aaXQbFr7FW-jxQgCL0BGAs/w328-d-h583-n-rw/animasipembuka.PNG=s200" alt="Start">
-</td>
-<td>
-<img src="https://lh3.googleusercontent.com/-v-t8IV4jr_8/WrxeBxxT9XI/AAAAAAAAFHw/4-hoVJHvdnsy-sYFAI50M9rJBzh_xTbAACL0BGAs/w323-d-h574-n-rw/login.PNG=s200" alt="SignIn" title="SignIn">
-</td>
+	<td> 
+		<img src="https://lh3.googleusercontent.com/-v-t8IV4jr_8/WrxeBxxT9XI/AAAAAAAAFHw/4-hoVJHvdnsy-sYFAI50M9rJBzh_xTbAACL0BGAs/w323-d-h574-n-rw/login.PNG=s50" alt="Login">
+	</td>
+	<td>
+		<img src="https://lh3.googleusercontent.com/-Aok2SDQOz7A/WrxeGLffE3I/AAAAAAAAFII/lPAFORL5QgoBw70FcvM6gUsTjiY3Bi3mgCL0BGAs/w321-d-h571-n-rw/register.PNG=50" alt="Register">
+	</td>
+	<td>  
+		<img src="https://lh3.googleusercontent.com/-MC1SiWHzI_I/WrxhLHgv5iI/AAAAAAAAFJw/B8SgdKkuQVA633uc4oOXAfpCsYBSsgM9gCL0BGAs/w321-d-h571-n-rw/home.PNG=s50" alt="Home">
+	</td>
 </tr>
+
+
 <tr>
-<td>  
-<img src="https://lh3.googleusercontent.com/-Aok2SDQOz7A/WrxeGLffE3I/AAAAAAAAFII/lPAFORL5QgoBw70FcvM6gUsTjiY3Bi3mgCL0BGAs/w321-d-h571-n-rw/register.PNG=s200" alt="Register">
-</td>
-<td>  
-<img src="https://lh3.googleusercontent.com/-MC1SiWHzI_I/WrxhLHgv5iI/AAAAAAAAFJw/B8SgdKkuQVA633uc4oOXAfpCsYBSsgM9gCL0BGAs/w321-d-h571-n-rw/home.PNG=s200" alt="Register">
-</td>
+	<td>  
+		<img src="https://lh3.googleusercontent.com/-G3t4tU0M-vY/WrxeLkfMMlI/AAAAAAAAFIg/NtfvaM9x4BgQp9xg72zZk2tNG627BMhegCL0BGAs/w324-d-h576-n-rw/menupariwisata.PNG=s50" alt="Menu Pariwisata">
+	</td>
+	<td>  
+		<img src="https://lh3.googleusercontent.com/-P2tbYWIjrf0/WrxmS7TBTEI/AAAAAAAAFRA/9qNvn9OpF-cfmqow1hBzkZAxQV0QSBeUgCL0BGAs/w325-d-h578-n-rw/wisatabuatan.PNG=s50" alt="Wisata Buatan">
+	</td>
+	<td>  
+		<img src="https://lh3.googleusercontent.com/-2ngpR7mOoc4/WrxmNYgl8GI/AAAAAAAAFQg/vUdVJzR0kFELpXSNi1j-bGa1RvGGNqzYgCL0BGAs/w325-d-h578-n-rw/wisataalam.PNG=s50" alt="Wisata Alam">
+	</td>
 </tr>
+
+
 <tr>
-<td>  
-<img src="https://lh3.googleusercontent.com/-G3t4tU0M-vY/WrxeLkfMMlI/AAAAAAAAFIg/NtfvaM9x4BgQp9xg72zZk2tNG627BMhegCL0BGAs/w324-d-h576-n-rw/menupariwisata.PNG=s200" alt="Register">
-</td>
-<td>  
-<img src="https://lh3.googleusercontent.com/-cOUIct6zf1g/WrxhYXMbvUI/AAAAAAAAFKg/N-PMpAzALIUhMZCpjNryO1h9V1pSXaFTwCL0BGAs/w325-d-h578-n-rw/budaya.PNG=s200" alt="Register">
-</td>
+	<td>  
+		<img src="https://lh3.googleusercontent.com/-oby_ANNDw8w/WrxltglVRUI/AAAAAAAAFO0/_pqT3PkayrEP-QXLuEgNLURQE7RGskW7ACL0BGAs/w326-d-h580-n-rw/kuliner.PNG=s50" alt="Kuliner">
+	</td>
+	<td>  
+		<img src="https://lh3.googleusercontent.com/-lpI_4v-I_pU/Wrxl8iwBXSI/AAAAAAAAFPs/6EbnVw0Jw3AndgNA4ob0xvB0nGYHIIvZQCL0BGAs/w326-d-h580-n-rw/restodankafe.PNG=s50" alt="Resto Kafe">
+	</td>
+	<td>  
+		<img src="https://lh3.googleusercontent.com/-DJV9QCIrW9s/WrxmfRy3IBI/AAAAAAAAFRc/D_aZiy0fzQ0mwAFmt1HR_mCG2-zQVKZNwCL0BGAs/w319-d-h567-n-rw/travel.PNG=s50" alt="Travel">
+	</td>
 </tr>
+
+
 <tr>
-<td>  
-<img src="https://lh3.googleusercontent.com/-sz7Xx08oNQ0/WrxiFPC0j_I/AAAAAAAAFMI/wtOVuxiKMtoT9xQJIcjEek4UfuNnvSdLACL0BGAs/w325-d-h578-n-rw/hotel.PNG=s200" alt="Register">
-</td>
-<td>  
-<img src="https://lh3.googleusercontent.com/-D1sIPNSm-JQ/Wrxi6Zcq0aI/AAAAAAAAFN8/EEvClA8HMlQRNVq87xH1polstTeWfvTvgCL0BGAs/w327-d-h581-n-rw/kegiatan.PNG=s200" alt="Register">
-</td>
+	<td>  
+		<img src="https://lh3.googleusercontent.com/-sz7Xx08oNQ0/WrxiFPC0j_I/AAAAAAAAFMI/wtOVuxiKMtoT9xQJIcjEek4UfuNnvSdLACL0BGAs/w325-d-h578-n-rw/hotel.PNG=s50" alt="Hotel">
+	</td>
+	<td>  
+		<img src="https://lh3.googleusercontent.com/-cOUIct6zf1g/WrxhYXMbvUI/AAAAAAAAFKg/N-PMpAzALIUhMZCpjNryO1h9V1pSXaFTwCL0BGAs/w325-d-h578-n-rw/budaya.PNG=s50" alt="Budaya">
+	</td>
+	<td>  
+		<img src="https://lh3.googleusercontent.com/-D1sIPNSm-JQ/Wrxi6Zcq0aI/AAAAAAAAFN8/EEvClA8HMlQRNVq87xH1polstTeWfvTvgCL0BGAs/w327-d-h581-n-rw/kegiatan.PNG=s50" alt="Kegiatan">
+	</td>
 </tr>
+
+
 <tr>
-<td>  
-<img src="https://lh3.googleusercontent.com/-oby_ANNDw8w/WrxltglVRUI/AAAAAAAAFO0/_pqT3PkayrEP-QXLuEgNLURQE7RGskW7ACL0BGAs/w326-d-h580-n-rw/kuliner.PNG=s200" alt="Register">
-</td>
-<td>  
-<img src="https://lh3.googleusercontent.com/-lpI_4v-I_pU/Wrxl8iwBXSI/AAAAAAAAFPs/6EbnVw0Jw3AndgNA4ob0xvB0nGYHIIvZQCL0BGAs/w326-d-h580-n-rw/restodankafe.PNG=s200" alt="Register">
-</td>
+	<td>  
+		<img src="https://lh3.googleusercontent.com/-fWT3tYKw-Nw/WrxlylWm78I/AAAAAAAAFPM/yfsT-UNYVpYaz7u65_TDLYYD2aBwOfgcQCL0BGAs/w318-d-h565-n-rw/navbar.PNG=s50" alt="Navbar">
+	</td>
+	<td>  
+		<img src="https://lh3.googleusercontent.com/-EoUFpmLvacY/WrxhsuuVHrI/AAAAAAAAFLo/I5Xf6THB_fon0PMwuUkSdX1av-uMegn2gCL0BGAs/w325-d-h578-n-rw/lihatdetail.PNG=s50" alt="Lihat Detail">
+	</td>
+	<td>  
+		<img src="https://lh3.googleusercontent.com/-7qe8DcuSU1o/Wrxhi6RtElI/AAAAAAAAFLQ/FeT-6TXupZsXBoaCm29vi4p6b9eCK-G-ACL0BGAs/w324-d-h576-n-rw/disbudpar.PNG=s50" alt="Disbudpar">
+	</td>
 </tr>
+
+
 <tr>
-<td>  
-<img src="https://lh3.googleusercontent.com/-P2tbYWIjrf0/WrxmS7TBTEI/AAAAAAAAFRA/9qNvn9OpF-cfmqow1hBzkZAxQV0QSBeUgCL0BGAs/w325-d-h578-n-rw/wisatabuatan.PNG=s200" alt="Register">
-</td>
-<td>  
-<img src="https://lh3.googleusercontent.com/-2ngpR7mOoc4/WrxmNYgl8GI/AAAAAAAAFQg/vUdVJzR0kFELpXSNi1j-bGa1RvGGNqzYgCL0BGAs/w325-d-h578-n-rw/wisataalam.PNG=s200" alt="Register">
-</td>
+	<td>  
+		<img src="https://lh3.googleusercontent.com/-03pj6Uh6_Jg/WrxoM7jYqOI/AAAAAAAAFTM/3UoYbmZd9I02RV3hl7jKLalskjggS6M6gCL0BGAs/w324-d-h576-n-rw/profilsaya.PNG=s50" alt="Profil User">
+	</td>
+	<td>  
+		<img src="https://lh3.googleusercontent.com/-QULfNIB-2FQ/WrxoVVed3TI/AAAAAAAAFTk/wMe6Wrxa9bIIOioT37w3UKM93bvOaRn9QCL0BGAs/w328-d-h583-n-rw/ubahprofil.PNG=s50" alt="Ubah Profil">
+	</td>
+	<td>  
+		<img src="https://lh3.googleusercontent.com/-v8Clqxh99Xc/Wrxoe-pMQ4I/AAAAAAAAFT8/RIvKjn6m1psm5kC4BQIY3_x3-8xbBLXegCL0BGAs/w326-d-h580-n-rw/pengaduan.PNG=s50" alt="Pengaduan">
+	</td>
 </tr>
-<tr>
-<td>  
-<img src="https://lh3.googleusercontent.com/-fWT3tYKw-Nw/WrxlylWm78I/AAAAAAAAFPM/yfsT-UNYVpYaz7u65_TDLYYD2aBwOfgcQCL0BGAs/w318-d-h565-n-rw/navbar.PNG=s200" alt="Register">
-</td>
-<td>  
-<img src="https://lh3.googleusercontent.com/-EoUFpmLvacY/WrxhsuuVHrI/AAAAAAAAFLo/I5Xf6THB_fon0PMwuUkSdX1av-uMegn2gCL0BGAs/w325-d-h578-n-rw/lihatdetail.PNG=s200" alt="Register">
-</td>
-</tr>
-<tr>
-<td>  
-<img src="https://lh3.googleusercontent.com/-7qe8DcuSU1o/Wrxhi6RtElI/AAAAAAAAFLQ/FeT-6TXupZsXBoaCm29vi4p6b9eCK-G-ACL0BGAs/w324-d-h576-n-rw/disbudpar.PNG=s200" alt="Register">
-</td>
-<td>  
-<img src="https://lh3.googleusercontent.com/-03pj6Uh6_Jg/WrxoM7jYqOI/AAAAAAAAFTM/3UoYbmZd9I02RV3hl7jKLalskjggS6M6gCL0BGAs/w324-d-h576-n-rw/profilsaya.PNG=s200" alt="Register">
-</td>
-</tr>
-<tr>
-<td>  
-<img src="https://lh3.googleusercontent.com/-QULfNIB-2FQ/WrxoVVed3TI/AAAAAAAAFTk/wMe6Wrxa9bIIOioT37w3UKM93bvOaRn9QCL0BGAs/w328-d-h583-n-rw/ubahprofil.PNG=s200" alt="Register">
-</td>
-<td>  
-<img src="https://lh3.googleusercontent.com/-v8Clqxh99Xc/Wrxoe-pMQ4I/AAAAAAAAFT8/RIvKjn6m1psm5kC4BQIY3_x3-8xbBLXegCL0BGAs/w326-d-h580-n-rw/pengaduan.PNG=s200" alt="Register">
-</td>
-</tr>
-<tr>
-<td>  
-<img src="https://lh3.googleusercontent.com/-DJV9QCIrW9s/WrxmfRy3IBI/AAAAAAAAFRc/D_aZiy0fzQ0mwAFmt1HR_mCG2-zQVKZNwCL0BGAs/w319-d-h567-n-rw/travel.PNG=s200" alt="Register">
-</td>
-</tr>
-</tbody>
 </tabel>
+
 <p>Admin (Web)</p>  
 <ul>  
 <li>  
