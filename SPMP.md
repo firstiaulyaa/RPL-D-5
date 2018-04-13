@@ -1,6 +1,6 @@
 <h1 align="center" id="software-requirements-specification">SOFTWARE PROJECT MANAGEMENT PLAN</h1>  
-<p align="center"><strong>Version 1.0<br>  
-22 Februari 2018</strong><br>  
+<p align="center"><strong>Version 1.2<br>  
+13 April  2018</strong><br>  
 </p><p align="center">  
 <img src="https://lh3.googleusercontent.com/qEHYPVzo0kjd8ikhrCIF4cI_PhR8pmK5vDU14oEp9OPyVT-eA54cVp8C9iyJ8rKDfH8OR1dnT1zv=s300" alt="enter image description here" title="logo">  
 </p><p align="center"><strong>Kelompok 5 D3TI2D</strong></p>  
@@ -176,13 +176,35 @@ Tuning<br>
 <li>Survei ke Mitra (Dinas Kebudayaan dan Pariwisata Kabupaten Indramayu)</li>
 </ul>
 <p><strong>3.5 Perencanaan Staf</strong></p>
-Ketua : Firsti Aulya Khusnul K. (1603098)<br>
-Anggota : <br>
-
- - Firmansyah (1603097)<br> 
- - Diyanti (1603094)<br>
- - Rizky Alief Satria (1603111)<br><br>
-
+<table>
+<thead>
+<tr>
+<th>Nama</th>
+<th>Job</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Firsti Aulya K K</td>
+<td>Project Manager<br>
+ UI/UX Designer</td>
+</tr>
+<tr>
+<td>Diyanti</td>
+<td>Database Engineer<br>
+System Analysment</td>
+</tr>
+<tr>
+<td>Firmansyah</td>
+<td>Android Developer</td>
+</tr>
+<tr>
+<td>Rizky Alief S</td>
+<td>Web Developer</td>
+</tr>
+</tbody>
+</table>
+<br>
 <p><strong>4. Proses Teknis</strong></p>
 <p><strong>4.1 Metode, alat, dan teknik </strong></p>
 Proyek ini akan diimplementasikan dengan memanfaatkan metodologi V Model. Teknik analisis berorientasi objek akan di gunakan untuk menyelesaikan proyek.</p>
@@ -198,7 +220,7 @@ Semua dokumen pendukung proyek akan selesai dalam fase yang sesuai.<br><br>
 <th>No</th>
 <th>NIM</th>
 <th>Nama</th>
-<th>Jabatan</th>
+<th>Job</th>
 </tr>
 </thead>
 <tbody>
@@ -237,16 +259,44 @@ Semua dokumen pendukung proyek akan selesai dalam fase yang sesuai.<br><br>
 
 <br>
 <p><strong>5.3 Ketergantungan/keterkaitan</strong></p>
-kebutuhan ketertarikan:<br>
-<ol>
-<li>Penentuan Ide dan rumusan masalah</li>
-<li>Pembuatan rancangan sistem</li>
-<li>Pembuatan sistem aplikasi Website</li>
-<li>Pembuatan sistem aplikasi Android</li>
-<li>Implementasi</li>
-<li>Perbaikan</li>
-<li>Laporan</li>
-</ol>
+<table>
+<thead>
+<tr>
+<th>Dari</th>
+<th>Kepada</th>
+<th>Kaitan</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Manager/td>
+<td>Anggota</td>
+ <td>Manager menjadi pengawas anggotanya jika anggota lalai dengan tugasnya maka manager berhak menegur anggotanya, tetapi manager juga tidak berhak semena-mena dengan jabatannya</td>
+</tr>
+<tr>
+<td>Programmer</td>
+<td>System Analys</td>
+<td>Pada saat programmer melakukan kesalahan dalam proses pembuatan program, Analys memiliki tanggung jawab untuk mengecek kembali kesalahan dalam program</td>
+</tr>
+<tr>
+<td>System Analys</td>
+<td>Programmer</td>
+<td>Bertugas untuk memberi gambaran projek dan alur program kepada programmer</td>
+</tr>
+<tr>
+<td>Design </td>
+<td>Programmer</td>
+<td>Bertugas mendesain tampilan aplikasi dan di tunjukan kepada programmer   </td>
+</tr>
+<tr>
+<td>Programmer </td>
+<td>Database Engineer</td>
+<td>Memberikan tugas untuk membuat perancangan sistem database </td>
+</tr>
+
+</tbody>
+</table>
+
 <p><strong>5.4 Kebutuhan sumber daya</strong></p>
 <p>5.4.1. Perangkat keras<br>
 
@@ -269,8 +319,8 @@ kebutuhan ketertarikan:<br>
 <tr>
 <th>No.</th>
 <th>Kebutuhan</th>
-<th>banyak</th>
-<th>biaya</th>
+<th>Banyak</th>
+<th>Biaya</th>
 </tr>
 </thead>
 <tbody>
