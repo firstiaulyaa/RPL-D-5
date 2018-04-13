@@ -27,8 +27,9 @@ pada proyek ini ditujukan untuk masing-masing anggota dan harus bertanggung jawa
 <p><strong>1.4. Material acuan</strong></p>
 <ul>
 <li>Materi yang menjadi acuan dalam pembuatan projek ini menggunakan standarIEEE, karena menyediakan kerangka kerja  yang menggabungkan seluruh  spektrumproses siklus hidup perangkat lunak. Dan juga standar IEEE untuk membentukmodel yang diakui secara internasional dari kehidupan perangkat lunak umum,siklus proses yang dapat direferensikan oleh industri perangkat lunak diseluruhdunia, untuk mempromosikan pemahaman diantara pihak bisnis dengan aplikasiumum serta mengakui proses, kegiatan dan  tugas.IEEE adalah sebuah organisasi profesi nirlaba yang terdiri dari banyak ahlidibidang teknik yang mempromosikan pengembangan standar-standar danbertindak sebagai pihak yang mempercepat teknologi- teknologi baru dalam semuaaspek dalam industry  dan rekayasa (engineering), yang mencakup telekomunikasi, jaringan komputer, kelistrikan, antariksa, dan elektronika. Tujuan inti IEEE adalahmendorong inovasi teknologi dan kesempurnaan untuk kepentingankemanusiaan.Visi IEEE adalah akan menjadi penting untuk masyarakat teknisglobal dan professional teknis dimana-mana dan dikenal secara universal untukkontribusi teknologi dan teknis yang professional dalam meningkatkan kondisiperkembangan global. Standar dalam IEEE adalah mengatur fungsi, kemampuandan interoperabilitas dari berbagai macam  produk dan layanan yang mengubah caraorang hidup, bekerja dan  berkomunikasi.</li>
-<li>https://www1.in.tum.de/stars.globalse.org/stars1/docs/SPMP/Examples/Examples.html</li>
-
+<li>https://www1.in.tum.de/stars.globalse.org/stars1/docs/SPMP/Examples/Examples.html diakese pada tanggal 12 April 2018 pukul 14.00</li>
+<li>
+https://www.slideshare.net/ttchenok/spmp-18728488 diakses pada tanggal 12 April 2018 pukul 14.30</li>
 </ul>
 <br>
 <p><strong>2. Organisasi Proyek</strong></p>
@@ -48,44 +49,7 @@ Penyesuaian yang cepat pada projek yang baru<br>
 
 <br>
 <p><strong>2.2. Struktur organisasi</strong></p>
-<table>
-<thead>
-<tr>
-<th>No</th>
-<th>NIM</th>
-<th>Nama</th>
-<th>Jabatan</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>1</td>
-<td>1603098</td>
-<td>Firsti Aulya K K</td>
-<td>Project Manager, UI/UX Designer</td>
-</tr>
-<tr>
-<td>2</td>
-<td>1603094</td>
-<td>Diyanti</td>
-<td>Database Engineer, System Analysment</td>
-</tr>
-<tr>
-<td>3</td>
-<td>1603097</td>
-<td>Firmansyah</td>
-<td>Android Developer</td>
-</tr>
-<tr>
-<td>4</td>
-<td>1603111</td>
-<td>Rizky Alief S</td>
-<td>Web Developer</td>
-</tr>
-</tbody>
-</table>
-<br>
-
+Bagan
 <p><strong>2.3. Lingkup dan Tanggung jawab</strong></p>
 <table>
 <thead>
@@ -231,29 +195,41 @@ Semua dokumen pendukung proyek akan selesai dalam fase yang sesuai.<br><br>
 <table>
 <thead>
 <tr>
+<th>No</th>
+<th>NIM</th>
 <th>Nama</th>
-<th>Paket Pekerjaan</th>
+<th>Jabatan</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>Firsti Aulya Khusnul Khotimah</td>
-<td>Desain</td>
+<td>1</td>
+<td>1603098</td>
+<td>Firsti Aulya K K</td>
+<td>Project Manager, UI/UX Designer</td>
 </tr>
 <tr>
+<td>2</td>
+<td>1603094</td>
 <td>Diyanti</td>
-<td>Database</td>
+<td>Database Engineer, System Analysment</td>
 </tr>
 <tr>
+<td>3</td>
+<td>1603097</td>
 <td>Firmansyah</td>
-<td>Code Program (Android)</td>
+<td>Android Developer</td>
 </tr>
 <tr>
-<td>Rizky Alief Satria</td>
-<td>Code Program (Web)</td>
+<td>4</td>
+<td>1603111</td>
+<td>Rizky Alief S</td>
+<td>Web Developer</td>
 </tr>
 </tbody>
 </table>
+<br>
+
 <p><strong>5.2 Jadwal</strong></p>
 
 ![enter image description here](https://3.bp.blogspot.com/-T2AnCId5O14/Ws8beW0YtBI/AAAAAAAAAHU/7vPABqGAx9cjsARs1O8kMEQk_BoQt_ewgCLcBGAs/s1600/TIMELINEEE.png)
