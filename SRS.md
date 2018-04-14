@@ -18,7 +18,7 @@ Rizky Alief Satria (1603111)</strong><br>
 Politeknik Negeri Indramayu<br>
 2018</strong></p>
 
-<p><strong>1. PENDAHULUAN</strong></p>
+<h2><strong>1. PENDAHULUAN</strong></p></h2>
 <p><strong>1.1 Tujuan</strong></p>  
 <p>Tujuan dibuatnya dokumen SRS ini adalah untuk menjelaskan tentang spesifikasi kebutuhan apa saja yang digunakan pada Aplikasi BUSAYU (Budaya dan Pariwisata Kab. Indramayu) seperti Rancangan Sistem, Mockup, dan lain-lain.</p>
 
@@ -73,9 +73,9 @@ Politeknik Negeri Indramayu<br>
 </ul>
 
 <p><strong>1.5 Overview</strong><br></p>  
-<p>Dokumen ini dibagi menjadi tiga bagian utama. Bagian pertama berisi penjelasan tentang dokumen SRS yang mencakup tujuan pembuatan dokumen ini, lingkup masalah yang diselesaikan yang dikembangkan oleh kami yaitu definisi, referensi, dan deskripsi umum. Bagian kedua berisi penjelasan secara umum mengenai aplikasi yang akan di kembangkan meliputi fungsi, karakteristik pengguna, batasan dan asumsi yang diambil dalam pengembangan aplikasi.Bagian ke tiga berisi uraian aplikasi secara lebih rinci.</p>
+<p>Dokumen ini dibagi menjadi tiga bagian utama. Bagian pertama berisi penjelasan tentang dokumen SRS yang mencakup tujuan pembuatan dokumen ini, lingkup masalah yang diselesaikan yang dikembangkan oleh kami yaitu definisi, referensi, dan deskripsi umum. Bagian kedua berisi penjelasan secara umum mengenai aplikasi yang akan di kembangkan meliputi fungsi, karakteristik pengguna, batasan dan asumsi yang diambil dalam pengembangan aplikasi.Bagian ke tiga berisi uraian aplikasi secara lebih rinci.<br><br></p>
 
-<p><strong>2. GAMBARAN UMUM</strong><br></p>
+<h2><strong>2. GAMBARAN UMUM</strong><br></h2>
 <p>BUSAYU (Aplikasi Budaya dan Pariwisata Kab. Indramayu) Berbasis Android adalah aplikasi yang digunakan untuk mempermudah pengguna dalam pencarian informasi seputar kebudayaan, pariwisata, dan kegiatan di Kabupaten Indramayu.</p>
 
 <p><strong>2.1. Perspektif Produk</strong><br></p>  
@@ -88,6 +88,7 @@ Politeknik Negeri Indramayu<br>
 </p>  
 
 <p><strong>2.1.2 Antarmuka pengguna</strong></p>
+<ul>User (Android)</ul>
 <table>
 <tr>
 	<td> 
@@ -192,7 +193,7 @@ Politeknik Negeri Indramayu<br>
 </tr>
 </table>
 
-<p>Admin (Web)</p>  
+<ul>Admin (Web)</ul>  
 <p> Tahap revisi <p>
 
 
@@ -285,9 +286,9 @@ Diagram:</p>
 <p><img src="https://lh3.googleusercontent.com/aJvMtPpo98MB3LB-uN9TY421p30GDaX0DbHimOQdhrf--_M6iH8vhxwdiRbT5rThn4ZtLHXggco7" alt="enter image description here" title="userbudaya"></p>
 <p>Deskripsi singkat ketika user melihat budaya:</p>
 <ol>
-<li>Sistem menampilkan halaman utama yang berisi button budaya</li>
-<li>User dapat mengklik tombol button budaya</li>
-<li>Sistem menampilkan data budaya</li>
+	<li>Sistem menampilkan halaman utama yang berisi button budaya</li>
+	<li>User dapat mengklik tombol button budaya</li>
+	<li>Sistem menampilkan data budaya</li>
 </ol>
 Xref: Bagian 3.2.2, User lihat budaya<p></p>
 
@@ -1036,7 +1037,7 @@ Xref: Bagian 3.2.12, User Mengedit User<p></p>
 	</tbody>   
 </table>
 
-<p><strong>3.3 Struktur Detail Kebutuhan Non Functional</strong><br></p>
+<h2><br><br><strong>3.3 Struktur Detail Kebutuhan Non Functional</strong><br></h2>
 <p><strong>3.3.1 Logika Struktur Data</strong><br></p>
 <p>Struktur data logika pada sistem Aplikasi Budaya dan Pariwisata terdapat struktur Database yang dijelaskan menggunakan ERD.  
 </p><p>
