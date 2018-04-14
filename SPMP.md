@@ -1,6 +1,6 @@
 <h1 align="center" id="software-requirements-specification">SOFTWARE PROJECT MANAGEMENT PLAN</h1>  
-<p align="center"><strong>Version 1.2<br>  
-13 April  2018</strong><br>  
+<p align="center"><strong>Version 1.3<br>  
+14 April  2018</strong><br>  
 </p><p align="center">  
 <img src="https://lh3.googleusercontent.com/qEHYPVzo0kjd8ikhrCIF4cI_PhR8pmK5vDU14oEp9OPyVT-eA54cVp8C9iyJ8rKDfH8OR1dnT1zv=s300" alt="enter image description here" title="logo">  
 </p><p align="center"><strong>Kelompok 5 D3TI2D</strong></p>  
@@ -49,7 +49,9 @@ Penyesuaian yang cepat pada projek yang baru<br>
 
 <br>
 <p><strong>2.2. Struktur organisasi</strong></p>
-Bagan
+
+![enter image description here](https://3.bp.blogspot.com/-pao8NZzzRe4/WtGlvvivoEI/AAAAAAAAAH4/83A1g9mUqjo7zhC12A6j2Moj-9KfNUfFgCLcBGAs/s1600/BAGAN.png)
+
 <p><strong>2.3. Lingkup dan Tanggung jawab</strong></p>
 <table>
 <thead>
@@ -298,22 +300,58 @@ Semua dokumen pendukung proyek akan selesai dalam fase yang sesuai.<br><br>
 </table>
 
 <p><strong>5.4 Kebutuhan sumber daya</strong></p>
-<p>5.4.1. Perangkat keras<br>
-
-- Laptop<br>
-- Handphone dengan sistem operasi Android<br><br>
-
-5.4.2. Perangkat lunak<br>
-- Windows<br>
-- Android Studio<br>
-- Balsamiq<br>
-- Browser<br>
-- Sublime<br>
-- Mockplus <br>
-- Photoshop <br>
+<table>
+<thead>
+<tr>
+<th>Sumber Daya</th>
+<th>Jenis Kebutuhan</th>
+<th>Alasan</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Sumber daya manusia</td>
+<td>4 Orang anggota pekerja projek</td>
+ <td>Dengan jumlah tersebut untuk keseimbangan antara pengerjaan projek, dokumen-dokumen dan pencarian masukan dari pasar, dengan demikian kita dapat mempercepat proses pekerjaan projek</td>
+</tr>
+<tr>
+<td>Sumber daya software</td>
+<td>Sublime text 3</td>
+<td>Digunakan untuk membuat web pada admin
+</td>
+</tr>
+<tr>
+<td>
+<td>Mysql</td>
+</td>
+<td>Software ini digunakan untuk pembuatan database</td>
+</tr>
+<tr>
+<td>
+<td>Android Studio</td>
+</td>
+<td>Software android studio dikarenakan pengerjaan projek menggunakan bahasa pemrograman Java dan agar pengerjaan dapat lebih efisien</td>
+</tr>
+<tr>
+<td>
+<td>JDK dan Plugin</td>
+</td>
+<td>Digunakan untuk pembuatan sistem capturing images</td>
+</tr>
+<tr>
+<td>Sumber daya Hardware</td>
+<td>Perangkat komputer</td>
+<td>Perangkat induk yang digunakan dalam pengerjaan projek</td>
+</tr>
+<tr>
+<td></td>
+<td>Mobile</td>
+<td>Perangkat yang digunakan untuk uji coba aplikasi</td>
+</tr>
+</tbody>
+</table>
 
 <strong>5.5 Budget</strong>
-
 <table>
 <thead>
 <tr>
@@ -343,10 +381,16 @@ Semua dokumen pendukung proyek akan selesai dalam fase yang sesuai.<br><br>
 <td>Rp.1.000.000</td>
 </tr>
 <tr>
+<td>4.</td>
+<td>Konsumsi</td>
+<td>Rp.100.000 (per hari) x 120 hari</td>
+<td>Rp.12.000.000</td>
+</tr>
+<tr>
 <td>–</td>
 <td>–</td>
 <td>Total</td>
-<td>Rp.28.000.000</td>
+<td>Rp.40.000.000</td>
 </tr>
 </tbody>
 </table>
