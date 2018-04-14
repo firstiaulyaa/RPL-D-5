@@ -1,4 +1,5 @@
 ﻿
+
 <h1 align="center" id="software-requirements-specification">SOFTWARE REQUIREMENTS SPECIFICATION</h1>  
 <p align="center"><strong>Version 1.3<br> 
 29 Maret 2018</strong><br>  
@@ -227,7 +228,7 @@ Untuk dapat menggunakan aplikasi budaya dan pariwisata Kabupaten Indramayu kita 
   
 </tr></tbody></table><p><strong>2.1.8 Kebutuhan adaptasi</strong></p>  
 <p><strong>2.2. Spesifikasi Kebutuhan Fungsional</strong><br>  
-<img src="https://lh3.googleusercontent.com/qHbSNhifQtnbAYEzaRg8fYzvNKHmEfEtnHb8MKIXMReTBzwjHRbLylEwW9sbkDV6V6nAUiRE7sozCMoX1osMVSFMndeLArHerA389u24GxOFBoEifToCQkvm8iVmAVxu1bvi54loLX7DbSuUh8vN9M2OQpkgjVBph9_hQg270kOCBsv_C9tbVQHcbhU0k4VPKYYdP2l6Oz-PecNhicWWTeGFCoq1-u0JidJhKa79BN8OSCReWthx0lTu6OzwV7az6W3RwCHS-SWUcDpmq1uc9bedSz8vf7R8srtIOEEt2gZCzcN4DJlNoWdSX8Nz8fwzvMd6t28CpIq3XySrrYEcA_m59WlkklRzMA9K_JmkDE4sUbBHsYTeajU6fnx1zdKnhNZsMktR6wt0fnmnfZyeEIfJnlglKlqULDLldLQXnv-gFKu8NiOuEMAhR4BZ7rT9nRnN-s2bu1u9de25mNR1T-gk9nv296iuA5fL0Q52ADLZYPHR3xjwEyJmKioq6sLXcbiVyfO9MI3YCHBDNXbEEVMoub5jqL8lzlViGg5Rk_9S19du67-HNUjECWjwDx7bl2h_4Ksw7YcZhFaLnSnhn3ccsQUNl9z7sJ4MOYw=w816-h637-no" alt="usecase" title="usecase keseluruhan"><br>
+<img src="https://lh3.googleusercontent.com/ehBEvX4NdXWCtnGhlGEnP_VxTDyeZNUbVIH75Y9GSg-HNMU90e8VDJGy9wCEH2Vzhj53agFiIi_55FuT4-jV_eV8nK5O2M0A6NB7gDmm4XrjH3ujSIkk1R3z7ByJquaLrZ5WPwkTkuLcJSGrb00r1For9J9Ha0kjh2ug8HMb1spHZquslruF3r0YHco6DSvO8HhFR8hAJdvJEw3GNYPI_iz66tgx__A0hh_rmO-IDbAJm2k03PICacQ84109dqHZquiRu3HvA3xOA4UQ9l3wzcbhDEIn_n2fGA8vPEj5dsh0ZVl6zEFrT3Qdap5mZxyRV2rqTfRGakG4X-TvLkxSZCYY-5Jf5QAMZuf3D7ZDOvHzuHjs34fviX_a6kmRovCdqVETHIjlh7678H_LGtsOmyYZ8U6XRkmnoRQo7VLlMXPwaYnDtNku80w-vcrXWnYPs8tPwjDyid2vQH-Z71y61_9X7WvMPYwNwEHUuhkN5Rdb6rlrk0qiRuEx_g_F7jJ-ZjgSNgeeRs_2QMg5P-WbY0VUw1AWRPqLegZvL2oGwsvt_B9Oeg6p5IQzQZfqcFZTEHbF-EGiXfx4tgMyMD-eYqWMKinBVW_pKP0rz-k=w848-h662-no" alt="usecase" title="usecase keseluruhan"><br>
 </p><p><strong>2.2.1 User Login</strong></p>  
 <p>Use Case: Login<br>
 Diagram:</p>
