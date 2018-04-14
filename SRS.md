@@ -442,10 +442,10 @@ Xref: Bagian 3.2.12, User Mengedit User<p></p>
 <p>  Dengan adanya aplikasi ini diharapkan dapat membantu admin mengolah data pariwisata, data kebudayaan, data event dan pendaftaran untuk mengikuti event. kemudian bagi pengguna sendiri diharapkan dapat mempermudah pengguna untuk mendapatkan informasi tentang pariwisata, kebudayaan dan event yang di adakan oleh dinas kebudayaan dan pariwisata kabupaten Indramayu menggunakan aplikasi mobile ini.</p>
 
 <p><strong>2.5. Batasan-batasan</strong><br></p>  
-<p>Pada Aplikasi Budaya dan Pariwisata Kabupaten Indramayu harus menggunakan smartphone denga sistem operasi Android untuk dapat mengaksesnya atau menggunakannya. Pengguna dapat login dengan mendaftar terlebih dahulu.<br></p>
+<p>Pada Aplikasi Budaya dan Pariwisata Kabupaten Indramayu harus menggunakan smartphone denga sistem operasi Android untuk dapat mengaksesnya atau menggunakannya. Pengguna dapat login dengan mendaftar terlebih dahulu.<br><br><br></p>
 
 
-<p><strong>3. Requirement Specification</strong></p>  
+<h2><strong>3. Requirement Specification</strong></h2>  
 <p><strong>3.1 Persyaratan Antarmuka Eksternal</strong><br>  
 <p>Salah satu persyaratan untuk mengakses Aplikasi ini adalah dengan mendaftarkan diri dan melengkapi kolom data diri.</p> 
 
@@ -1037,7 +1037,7 @@ Xref: Bagian 3.2.12, User Mengedit User<p></p>
 	</tbody>   
 </table>
 
-<h2><br><br><strong>3.3 Struktur Detail Kebutuhan Non Functional</strong><br></h2>
+<p><br><strong>3.3 Struktur Detail Kebutuhan Non Functional</strong><br></p>
 <p><strong>3.3.1 Logika Struktur Data</strong><br></p>
 <p>Struktur data logika pada sistem Aplikasi Budaya dan Pariwisata terdapat struktur Database yang dijelaskan menggunakan ERD.  
 </p><p>
