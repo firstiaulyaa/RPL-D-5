@@ -93,17 +93,17 @@ Politeknik Negeri Indramayu<br>
 <table>
 <tr>
 	<td>
-		<ul><li>Login</li></ul> 
+		<ul><li><strong>Login</strong></li></ul> 
 		<img src="https://lh3.googleusercontent.com/-v-t8IV4jr_8/WrxeBxxT9XI/AAAAAAAAFHw/4-hoVJHvdnsy-sYFAI50M9rJBzh_xTbAACL0BGAs/w323-d-h574-n-rw/login.PNG=s50" alt="Login">
 		<p>Ini merupakan mockup dari halaman Login, dimana User harus menginputkan username dan password agar bisa Log In</p>
 	</td>
 	<td>
-		<ul><li>Register</li></ul>
+		<ul><li><strong>Register</strong></li></ul>
 		<img src="https://lh3.googleusercontent.com/-Aok2SDQOz7A/WrxeGLffE3I/AAAAAAAAFII/lPAFORL5QgoBw70FcvM6gUsTjiY3Bi3mgCL0BGAs/w321-d-h571-n-rw/register.PNG=s50" alt="Register">
 		<p>Ini merupakan mockup dari halaman Register, dimana jika User belum memiliki akun maka harus mengisi form Registrasi.</p>
 	</td>
 	<td>
-		<ul><li>Home</li></ul>  
+		<ul><li><strong>Home</strong></li></ul>  
 		<img src="https://lh3.googleusercontent.com/-MC1SiWHzI_I/WrxhLHgv5iI/AAAAAAAAFJw/B8SgdKkuQVA633uc4oOXAfpCsYBSsgM9gCL0BGAs/w321-d-h571-n-rw/home.PNG=s50" alt="Home">
 		<p>Ini merupakan mockup dari halaman Home. Pada halama ini terdapat enam menu dan juga navigasi.</p>
 	</td>
@@ -112,17 +112,17 @@ Politeknik Negeri Indramayu<br>
 
 <tr>
 	<td> 
-		<ul><li>Menu Pariwisata</li></ul> 
+		<ul><li><strong>Menu Pariwisata</strong></li></ul> 
 		<img src="https://lh3.googleusercontent.com/-G3t4tU0M-vY/WrxeLkfMMlI/AAAAAAAAFIg/NtfvaM9x4BgQp9xg72zZk2tNG627BMhegCL0BGAs/w324-d-h576-n-rw/menupariwisata.PNG=s50" alt="Menu Pariwisata">
 		<p>Ini merupakan mockup dari halaman Menu Pariwisata. Pada halaman ini terdapat 6 menu dan juga navigasi.</p>
 	</td>
 	<td>
-		<ul><li>Wisata Buatan</li></ul>  
+		<ul><li><strong>Wisata Buatan</strong></li></ul>  
 		<img src="https://lh3.googleusercontent.com/-P2tbYWIjrf0/WrxmS7TBTEI/AAAAAAAAFRA/9qNvn9OpF-cfmqow1hBzkZAxQV0QSBeUgCL0BGAs/w325-d-h578-n-rw/wisatabuatan.PNG=s50" alt="Wisata Buatan">
 		<p>Ini merupakan mockup dari halaman Wisata Buatan. Pada halaman ini menampilkan wisata buatan apa saja yang ada di Indramayu.</p>
 	</td>
 	<td>
-		<ul><li>Wisata Alam</li></ul>  
+		<ul><li><strong>Wisata Alam</strong></li></ul>  
 		<img src="https://lh3.googleusercontent.com/-2ngpR7mOoc4/WrxmNYgl8GI/AAAAAAAAFQg/vUdVJzR0kFELpXSNi1j-bGa1RvGGNqzYgCL0BGAs/w325-d-h578-n-rw/wisataalam.PNG=s50" alt="Wisata Alam">
 		<p>Ini merupakan mockup dari halaman Wisata Alam. Pada halaman ini menampilkan wisata alam apa saja yang ada di Indramayu.</p>
 	</td>
@@ -131,17 +131,17 @@ Politeknik Negeri Indramayu<br>
 
 <tr>
 	<td>
-		<ul><li>Kuliner</li></ul>  
+		<ul><li><strong>Kuliner</strong></li></ul>  
 		<img src="https://lh3.googleusercontent.com/-oby_ANNDw8w/WrxltglVRUI/AAAAAAAAFO0/_pqT3PkayrEP-QXLuEgNLURQE7RGskW7ACL0BGAs/w326-d-h580-n-rw/kuliner.PNG=s50" alt="Kuliner">
 		<p>Ini merupakan mockup dari halaman Kuliner. Pada halaman ini menampilkan kuliner apa saja yang ada di Indramayu.</p>
 	</td>
 	<td>
-		<ul><li>Resto & Kafe</li></ul>  
+		<ul><li><strong>Resto & Kafe</strong></li></ul>  
 		<img src="https://lh3.googleusercontent.com/-lpI_4v-I_pU/Wrxl8iwBXSI/AAAAAAAAFPs/6EbnVw0Jw3AndgNA4ob0xvB0nGYHIIvZQCL0BGAs/w326-d-h580-n-rw/restodankafe.PNG=s50" alt="Resto Kafe">
 		<p>Ini merupakan mockup dari halaman Resto & Kafe. Pada halaman ini menampilkan resto dan kafe apa saja yang ada di Indramayu.</p>
 	</td>
 	<td>  
-		<ul><li>Travel</li></ul>
+		<ul><li><strong>Travel</strong></li></ul>
 		<img src="https://lh3.googleusercontent.com/-DJV9QCIrW9s/WrxmfRy3IBI/AAAAAAAAFRc/D_aZiy0fzQ0mwAFmt1HR_mCG2-zQVKZNwCL0BGAs/w319-d-h567-n-rw/travel.PNG=s50" alt="Travel">
 		<p>Ini merupakan mockup dari halaman Travel. Pada halaman ini menampilkan travel apa saja yang ada di Indramayu.</p>
 	</td>
@@ -150,17 +150,17 @@ Politeknik Negeri Indramayu<br>
 
 <tr>
 	<td>
-		<ul><li>Hotel</li></ul>  
+		<ul><li><strong>Hotel</strong></li></ul>  
 		<img src="https://lh3.googleusercontent.com/-sz7Xx08oNQ0/WrxiFPC0j_I/AAAAAAAAFMI/wtOVuxiKMtoT9xQJIcjEek4UfuNnvSdLACL0BGAs/w325-d-h578-n-rw/hotel.PNG=s50" alt="Hotel">
 		<p>Ini merupakan mockup dari halaman Hotel. Pada halaman ini menampilkan hotel apa saja yang ada di Indramayu.</p>
 	</td>
 	<td>
-		<ul><li>Budaya</li></ul>  
+		<ul><li><strong>Budaya</strong></li></ul>  
 		<img src="https://lh3.googleusercontent.com/-cOUIct6zf1g/WrxhYXMbvUI/AAAAAAAAFKg/N-PMpAzALIUhMZCpjNryO1h9V1pSXaFTwCL0BGAs/w325-d-h578-n-rw/budaya.PNG=s50" alt="Budaya">
 		<p>Ini merupakan mockup dari halaman Budaya. Pada halaman ini menampilkan budaya apa saja yang ada di Indramayu.</p>
 	</td>
 	<td>
-		<ul><li>Kegiatan</li></ul>
+		<ul><li><strong>Kegiatan</strong></li></ul>
 		<img src="https://lh3.googleusercontent.com/-D1sIPNSm-JQ/Wrxi6Zcq0aI/AAAAAAAAFN8/EEvClA8HMlQRNVq87xH1polstTeWfvTvgCL0BGAs/w327-d-h581-n-rw/kegiatan.PNG=s50" alt="Kegiatan">
 		<p>Ini merupakan mockup dari halaman Kegiatan. Pada halaman ini menampilkan kegiatan apa saja yang ada di Indramayu.</p>
 	</td>
@@ -169,17 +169,17 @@ Politeknik Negeri Indramayu<br>
 
 <tr>
 	<td> 
-		 <ul><li>Navigtion Bar</li></ul>
+		 <ul><li><strong>Navigtion Bar</strong></li></ul>
 		<img src="https://lh3.googleusercontent.com/-fWT3tYKw-Nw/WrxlylWm78I/AAAAAAAAFPM/yfsT-UNYVpYaz7u65_TDLYYD2aBwOfgcQCL0BGAs/w318-d-h565-n-rw/navbar.PNG=s50" alt="Navbar">
 		<p>Ini merupakan mockup dari Navigtion Bar, dimana terdapat Username serta button Profil Saya untuk melihat profil user dan button Log Out untuk keluar dari akun yang sedang digunakan.</p>
 	</td>
 	<td>
-		<ul><li>Lihat Detail</li></ul>  
+		<ul><li><strong>Lihat Detail</strong></li></ul>  
 		<img src="https://lh3.googleusercontent.com/-EoUFpmLvacY/WrxhsuuVHrI/AAAAAAAAFLo/I5Xf6THB_fon0PMwuUkSdX1av-uMegn2gCL0BGAs/w325-d-h578-n-rw/lihatdetail.PNG=s50" alt="Lihat Detail">
 		<p>Ini merupakan mockup dari halaman Lihat Detail, dimana dalam halaman ini ditampilkan secara rinci tentang konten yang dipilih. Halaman ini merupakan salah satu contoh dari Lihat Detail pada Budaya.</p>
 	</td>
 	<td> 
-		<ul><li>Pengaduan</li></ul>  
+		<ul><li><strong>Pengaduan</strong></li></ul>  
 		<img src="https://lh3.googleusercontent.com/-8xZsmNVuW0A/WtNW7XPDAaI/AAAAAAAAF4c/LnxpJS5TttAypV_iPUIodwFYHvTNDpz_QCL0BGAs/w318-d-h565-n-rw/pengaduan.PNG=s50" alt="Pengaduan">
 		<p>Ini merupakan mockup dari halaman Pengaduan, dimana dalam halaman ini User dapat mengajukan pengaduan melalui form yang harus diisi. Data pengaduan yang telah terisi lalu terkirim ke Admin (Website).</p>
 	</td>
@@ -188,27 +188,25 @@ Politeknik Negeri Indramayu<br>
 
 <tr>
 	<td>
-		<ul><li>Profil Saya</li></ul>   
+		<ul><li><strong>Profil Saya</strong></li></ul>   
 		<img src="https://lh3.googleusercontent.com/-03pj6Uh6_Jg/WrxoM7jYqOI/AAAAAAAAFTM/3UoYbmZd9I02RV3hl7jKLalskjggS6M6gCL0BGAs/w324-d-h576-n-rw/profilsaya.PNG=s50" alt="Profil User">
 		<p>Ini merupakan mockup dari halaman Profil Saya, dimana dalam halaman ini ditampilkan informasi tentang User.</p>
 	</td>
 	<td>
-		<td>
-			<ul><li>Ubah Profil</li></ul>   
-			<img src="https://lh3.googleusercontent.com/-QULfNIB-2FQ/WrxoVVed3TI/AAAAAAAAFTk/wMe6Wrxa9bIIOioT37w3UKM93bvOaRn9QCL0BGAs/w328-d-h583-n-rw/ubahprofil.PNG=s50" alt="Ubah Profil">
+		<ul><li><strong>Ubah Profil</strong></li></ul>   
+		<img src="https://lh3.googleusercontent.com/-QULfNIB-2FQ/WrxoVVed3TI/AAAAAAAAFTk/wMe6Wrxa9bIIOioT37w3UKM93bvOaRn9QCL0BGAs/w328-d-h583-n-rw/ubahprofil.PNG=s50" alt="Ubah Profil">
 		<p>Ini merupakan mockup dari halaman Ubah Profil, dimana dalam halaman ini User dapat mengelola data profil.</p>
 	</td>
 	<td> 
-		<td>
-			<ul><li>Tetang Disbudpar</li></ul>  
-			<img src="https://lh3.googleusercontent.com/-7qe8DcuSU1o/Wrxhi6RtElI/AAAAAAAAFLQ/FeT-6TXupZsXBoaCm29vi4p6b9eCK-G-ACL0BGAs/w324-d-h576-n-rw/disbudpar.PNG=s50" alt="Disbudpar">
-			<p>Ini merupakan mockup dari halaman Tetang Disbudpar, dimana dalam halaman ini ditampilkan informasi mengenai Dinas Kebudayaan dan Pariwisata Kabupaten Indramayu.</p>
+		<ul><li><strong>Tetang Disbudpar</strong></li></ul>  
+		<img src="https://lh3.googleusercontent.com/-7qe8DcuSU1o/Wrxhi6RtElI/AAAAAAAAFLQ/FeT-6TXupZsXBoaCm29vi4p6b9eCK-G-ACL0BGAs/w324-d-h576-n-rw/disbudpar.PNG=s50" alt="Disbudpar">
+		<p>Ini merupakan mockup dari halaman Tetang Disbudpar, dimana dalam halaman ini ditampilkan informasi mengenai Dinas Kebudayaan dan Pariwisata Kabupaten Indramayu.</p>
 	</td>
 </tr>
 
 <tr>
 	<td>
-		<ul><li>Tetang Kami</li></ul>
+		<ul><li><strong>Tetang Kami</strong></li></ul>
 		<img src="https://lh3.googleusercontent.com/-qTLl_LVRI_c/Wrxhchx9rFI/AAAAAAAAFNM/UvtrnvuQVMcTFdFoFAHtsMEhz98IFT3tACJoC/w323-h574-n-rw/busayu.PNG">
 		<p>Ini merupakan mockup dari halaman Tetang Kami, dimana dalam halaman ini ditampilkan informasi mengenai profil Aplikasi Busayu</p>
 	</td>
@@ -219,12 +217,12 @@ Politeknik Negeri Indramayu<br>
 <table>
 <tr>
 	<td>
-		<ul><li>Login</li></ul> 
+		<ul><li><strong>Login</strong></li></ul> 
 		<img src="https://lh3.googleusercontent.com/-V5CSPnKtScY/WtNAclDqyCI/AAAAAAAAFuI/XWnLvGqlw-g_MuclX5XPTd2_ySPotN0sQCL0BGAs/w530-d-h352-n-rw/login.PNG=s100" alt="Login">
 		<p>Ini merupakan mockup dari halaman Login, dimana Admin harus menginputkan username dan password agar bisa Log in</p>
 	</td>
 	<td>
-		<ul><li>Dashboard</li></ul> 
+		<ul><li><strong>Dashboard</strong></li></ul> 
 		<img src="https://lh3.googleusercontent.com/-EKiX7NcnRcA/WtNAEvrJnFI/AAAAAAAAFsM/sCvuETFqCCM2q-z7CPwpirOzm6Wf7-mmACL0BGAs/w530-d-h399-n-rw/dashboard.PNG=s100" alt="Dashboard">
 		<p>Ini merupakan mockup dari Dashboard, dimana terdapat navigasi yang terletak di sebelah kiri. Jika ingin melihat data maka memilih menu yang ada di navigasi. Lalu di pojok kanan atas terdapat 2 icon yaitu icon Notifikasi untuk Pengaduan yang masuk dari User dan icon user admin yang berisi menu Tambah Admin dan Logout </p>
 	</td>
@@ -232,12 +230,12 @@ Politeknik Negeri Indramayu<br>
 
 <tr>
 	<td>
-		<ul><li>Data Budaya</li></ul>   
+		<ul><li><strong>Data Budaya</strong></li></ul>   
 		<img src="https://lh3.googleusercontent.com/-1sY_KfUhHao/WtM_9NS24OI/AAAAAAAAFr0/JvlgyB3WaNIMEC6wF0ecV8dIy_5SFBwKgCL0BGAs/w530-d-h332-n-rw/budaya.PNG=s100" alt="Budaya">
 		<p>Ini merupakan mockup dari halaman Data Budaya. Pada halaman ini terdapat tabel data budaya, button refresh, tambah data, edit, hapus, dan pencarian.</p>
 	</td>
 	<td> 
-		<ul><li>Data Wisata Alam</li></ul> 
+		<ul><li><strong>Data Wisata Alam</strong></li></ul> 
 		<img src="https://lh3.googleusercontent.com/-rSN5o6Yedfs/WtNBAvegvrI/AAAAAAAAFxQ/FU2vjsiHzPAUv-SHuDkoPh1MBHZE8flVwCL0BGAs/w530-d-h456-n-rw/wisata%2Balam.PNG=s100" alt="wisata alam">
 		<p>Ini merupakan mockup dari halaman Pariwisata > Wisata Alam. Pada halaman ini terdapat tabel data wisata alam, button refresh, tambah data, edit, hapus, dan pencarian.</p>
 	</td>
@@ -245,12 +243,12 @@ Politeknik Negeri Indramayu<br>
 
 <tr>
 	<td>
-		<ul><li>Data Wisata Buatan</li></ul>  
+		<ul><li><strong>Data Wisata Buatan</strong></li></ul>  
 		<img src="https://lh3.googleusercontent.com/-KS91S4f42Ds/WtNBFrBHzEI/AAAAAAAAFx0/vulwYrMMJKERNc7cd2SR5_R6P_Sn76KOgCL0BGAs/w530-d-h449-n-rw/wisata%2Bbuatan.PNG=s100" alt="Wisata Buatan">
 		<p>Ini merupakan mockup dari halaman Pariwisata > Wisata Buatan. Pada halaman ini terdapat tabel data wisata buatan, button refresh, tambah data, edit, hapus, dan pencarian.</p>
 	</td>
 	<td>
-		<ul><li>Data Kuliner</li></ul>   
+		<ul><li><strong>Data Kuliner</strong></li></ul>   
 		<img src="https://lh3.googleusercontent.com/-JwwmIeyHtW4/WtNAYafsqNI/AAAAAAAAFts/LTYNWZh7rBQlfaphv_02VY8H7DBjP99BwCL0BGAs/w530-d-h455-n-rw/kuliner.PNG=s100" alt="kuliner">
 		<p>Ini merupakan mockup dari halaman Pariwisata > Kuliner. Pada halaman ini terdapat tabel data kuliner, button refresh, tambah data, edit, hapus, dan pencarian.</p>
 	</td>
@@ -259,12 +257,12 @@ Politeknik Negeri Indramayu<br>
 
 <tr>
 	<td>
-		<ul><li>Data Resto & Kafe</li></ul>  
+		<ul><li><strong>Data Resto & Kafe</strong></li></ul>  
 		<img src="https://lh3.googleusercontent.com/-DiZKwnSmFVk/WtNAhZFq39I/AAAAAAAAFug/VulQcbXsYzUXh7jDID3d-eBQL-KxL2VfwCL0BGAs/w530-d-h452-n-rw/restokafe.PNG=s100" alt="restokafe">
 		<p>Ini merupakan mockup dari halaman Pariwisata > Resto & Kafe. Pada halaman ini terdapat tabel data resto & kafe, button refresh, tambah data, edit, dan hapus.</p>
 	</td>
 	<td>  
-		<ul><li>Data Hotel</li></ul> 
+		<ul><li><strong>Data Hotel</strong></li></ul> 
 		<img src="https://lh3.googleusercontent.com/-tLJZp8_z1IM/WtNAPMx57iI/AAAAAAAAFs8/4oY1IFbdI_gXRyGRU7gjFr0_reDoOkKlQCL0BGAs/w530-d-h455-n-rw/hotel.PNG=s100" alt="hotel">
 		<p>Ini merupakan mockup dari halaman Pariwisata > Hotel. Pada halaman ini terdapat tabel data hotel, button refresh, tambah data, edit, hapus, dan pencarian.</p>
 	</td>
@@ -272,12 +270,12 @@ Politeknik Negeri Indramayu<br>
 
 <tr>
 	<td> 
-		<ul><li>Data Travel</li></ul> 
+		<ul><li><strong>Data Travel</strong></li></ul> 
 		<img src="https://lh3.googleusercontent.com/-JlQYkY2TTWs/WtNA7EfeKmI/AAAAAAAAFwo/lxcRWm0Keb8EDJEaNnCggwsVhVGXwPwwgCL0BGAs/w530-d-h446-n-rw/travel.PNG=s100" alt="Travel">
 		<p>Ini merupakan mockup dari halaman Pariwisata > Travel. Pada halaman ini terdapat tabel data travel, button refresh, tambah data, edit, hapus, dan pencarian.</p>
 	</td>
 	<td>
-		<ul><li>Data Travel</li></ul>  
+		<ul><li><strong>Data Travel</strong></li></ul>  
 		<img src="https://lh3.googleusercontent.com/--M8_QqOVQ4c/WtNFTZ-o8jI/AAAAAAAAF1E/pfrnjLOCnk48Nbr-nSdhGD6F7njpV-pxACL0BGAs/w530-d-h327-n-rw/kegiatan.PNG=s100" alt="kegiatan">
 		<p>Ini merupakan mockup dari halaman Kegiatan. Pada halaman ini terdapat tabel data kegiatan, button refresh, tambah data, edit, hapus, dan pencarian.</p>
 	</td>
@@ -285,12 +283,12 @@ Politeknik Negeri Indramayu<br>
 
 <tr>
 	<td>
-		<ul><li>Data User</li></ul>  
+		<ul><li><strong>Data User</strong></li></ul>  
 		<img src="https://lh3.googleusercontent.com/-pRfDTiQRJog/WtNWhEx1YPI/AAAAAAAAF4E/Yu98fdyMqjAoYOPGmg-oynOUhTgelFZrwCL0BGAs/w530-d-h332-n-rw/data%2Buser.PNG=s100" alt="data user">
 		<p>Ini merupakan mockup dari halaman User. Pada halaman ini terdapat tabel data user. Untuk data admin dan user dijadikan dalam satu tabel. Admin hanya bisa melihat data user dan admin.</p>
 	</td>
 	<td>
-		<ul><li>Data Pengaduan</li></ul>   
+		<ul><li><strong>Data Pengaduan</strong></li></ul>   
 		<img src="https://lh3.googleusercontent.com/-hj3EoEM1Dco/WtNJtTd6lcI/AAAAAAAAF3E/qVeGj3LtbuwdwnZ_HZ2_G0R8NgEEavW4ACL0BGAs/w530-d-h327-n-rw/pengaduan.PNG=s100" alt="pengaduan">
 		<p>Ini merupakan mockup dari halaman Pengaduan. Pada halaman ini terdapat tabel data pengaduan. Data pengaduan yang dikirim User melalui aplikasi Android terkirim dan tersimpan di data pengaduan yang ada di web (Admin).</p>
 	</td>
@@ -298,12 +296,12 @@ Politeknik Negeri Indramayu<br>
 
 <tr>
 	<td>
-		<ul><li>Tambah Admin</li></ul>   
+		<ul><li><strong>Tambah Admin</strong></li></ul>   
 		<img src="https://lh3.googleusercontent.com/-CbWNz5BGRKw/WtNAmGlSmlI/AAAAAAAAFu4/61UnLVQMRw8IF99Y-DBJDgHqkZr_BeWtQCL0BGAs/w530-d-h342-n-rw/tambah%2Badmin.PNG=s100" alt="tambah admin">
 		<p>Ini merupakan mockup dari halaman Tambah Admin. Pada halaman ini terdapat form untuk menambahkan admin. Dan juga terdapat button Simpan untuk menyimpan data dan Batal untuk kembali ke Data User</p>
 	</td>
 	<td>  
-		<ul><li>Tambah Data Pariwisata</li></ul>
+		<ul><li><strong>Tambah Data Pariwisata</strong></li></ul>
 		<img src="https://lh3.googleusercontent.com/-Y7YlxHNsT7w/WtNA18JZsRI/AAAAAAAAFwM/c8WfJAr7xrUEQ98ggLs19Xy-hBQ5xYaewCL0BGAs/w530-d-h350-n-rw/tambah%2Bpariwisata.PNG=s100" alt="tambah pariwisata">
 		<p>Ini merupakan mockup dari halaman Tambah Data Pariwisata. Pada halaman ini terdapat form untuk menambahkan pariwisata. Dan juga terdapat button Simpan untuk menyimpan data dan Batal untuk kembali ke halaman sebelumnya</p>
 	</td>
@@ -311,12 +309,12 @@ Politeknik Negeri Indramayu<br>
 
 <tr>
 	<td> 
-		<ul><li>Tambah Data Budaya</li></ul> 
+		<ul><li><strong>Tambah Data Budaya</strong></li></ul> 
 		<img src="https://lh3.googleusercontent.com/-P_hkx-GffVs/WtNArO9ATkI/AAAAAAAAFvU/CMyGQ_SjKI4svHlYgzbMftDd0uw7a6qJQCL0BGAs/w530-d-h349-n-rw/tambah%2Bbudaya.PNG=s100" alt="tambah budaya">
 		<p>Ini merupakan mockup dari halaman Tambah Data Budaya. Pada halaman ini terdapat form untuk menambahkan budaya. Dan juga terdapat button Simpan untuk menyimpan data dan Batal untuk kembali ke halaman sebelumnya</p>
 	</td>
 	<td>
-		<ul><li>Tambah Data Kegiatan</li></ul>  
+		<ul><li><strong>Tambah Data Kegiatan</strong></li></ul>  
 		<img src="https://lh3.googleusercontent.com/-rU4MBt3qe44/WtNAwxU5w5I/AAAAAAAAFvw/NxQfp4G2RWQ1pLxMYO0HXwaKmjuJ3e0cgCL0BGAs/w530-d-h352-n-rw/tambah%2Bkegiatan.PNG=s100" alt="tambah kegiatan">
 		<p>Ini merupakan mockup dari halaman Tambah Data Kegiatan. Pada halaman ini terdapat form untuk menambahkan kegiatan. Dan juga terdapat button Simpan untuk menyimpan data dan Batal untuk kembali ke halaman sebelumnya.</p>
 	</td>
