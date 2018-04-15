@@ -1,5 +1,6 @@
 ﻿
 
+
 <h1 align="center" id="software-requirements-specification">SOFTWARE DESIGN DOCUMENT</h1>  
 <p align="center"><strong>Version 1.1</strong><br> 
 <p align="center"><strong> 15 Maret 2018<br>  </strong><br>
@@ -603,10 +604,7 @@ Politeknik Negeri Indramayu<br>
 ![enter image description here](https://1.bp.blogspot.com/-rASx0Mw4IaU/WrHRGaQUREI/AAAAAAAAAFU/4Y3x1oZYmtI_n62zZPLgMwKQHIaH-IZcQCLcBGAs/s1600/level+2+daftar+pariwisata.png)
 </p><p align="center">
 
-<<<<<<< HEAD
-<h4><br><strong>3.3 Modul </strong></br></h4>
-=======
-<h4><br><strong>3.3 Modul</strong></br></h4>
+<h4><strong>3.3 Modul</strong></br></h4>
 <h4><strong>3.3.1 Modul Budaya</strong></h4>
 <h4><strong>3.3.1.1 Fungsi Modul</strong></h4>
 <table>
@@ -757,7 +755,71 @@ Politeknik Negeri Indramayu<br>
 </table>
 <h4><strong>3.3.2.2 Spesifikasi Layar Utama</strong></h4>
 <h4><strong>3.3.2.3 Spesifikasi Query</strong></h4>
+<table>
+<tr>
+<th>ID Query</th>
+<th>Deskripsi</th>
+<th>Ekspresi Query</th>
+<tr>
+<tr>
+<td>QRY-01</td>
+<td>Input Data Pariwisata</td>
+<td>INSERT INTO pariwisata "$id_budaya", "$judul", "$deskripsi", "$gambar";</td>
+</tr>
+<tr>
+<td>QRY-02</td>
+<td>Delete Data pariwisata</td>
+<td>Delete from pariwisata where id_pariwisata="$id_pariwisata";</td>
+</tr>
+<tr>
+<td>QRY-03</td>
+<td>Update Data Pariwisata</td>
+<td>Update Pariwisata SET;</td>
+</tr>
+<tr>
+<td>QRY-04</td>
+<td>Tampil Data Pariwisata</td>
+<td>Select * from pariwisata;</td>
+</tr>
+</table>
 <h4><strong>3.3.2.4 Spesifikasi Field Data Layar</strong></h4>
+<table>
+<tr>
+<th>Label</th>
+<th>Field</th>
+<th>Tabel/Query</th>
+<th>Validasi</th>
+<th>Keterangan</th>
+<tr>
+<tr>
+<td>id_pariwisata</td>
+<td>id_pariwisata</td>
+<td>pariwisata</td>
+<td>-</td>
+<td>primary key dan input otomatis sistem</td>
+</tr>
+<tr>
+<td>judul</td>
+<td>judul</td>
+<td>pariwisata</td>
+<td>-</td>
+<td>judul input manual admin</td>
+</tr>
+<tr>
+<td>deskripsi</td>
+<td>deskripsi</td>
+<td>pariwisata</td>
+<td>-</td>
+<td>deskripsi input manual admin</td>
+</tr>
+<tr>
+<td>gambar</td>
+<td>gambar</td>
+<td>pariwisata</td>
+<td>-</td>
+<td>gambar input manual admin</td>
+</tr>
+</table>
 <h4><strong>3.3.2.5 Spesifikasi Objek-Objek pada Layar</strong></h4>
 <h4><strong>3.3.2.6 Spesifikasi Proses/Algoritma</strong></h4>
 
@@ -802,7 +864,71 @@ Politeknik Negeri Indramayu<br>
 </table>
 <h4><strong>3.3.3.2 Spesifikasi Layar Utama</strong></h4>
 <h4><strong>3.3.3.3 Spesifikasi Query</strong></h4>
+<table>
+<tr>
+<th>ID Query</th>
+<th>Deskripsi</th>
+<th>Ekspresi Query</th>
+<tr>
+<tr>
+<td>QRY-01</td>
+<td>Input Data Kegiatan</td>
+<td>INSERT INTO kegiatan "$id_budaya", "$judul", "$deskripsi", "$gambar";</td>
+</tr>
+<tr>
+<td>QRY-02</td>
+<td>Delete Data Kegiatan</td>
+<td>Delete from kegiatan where id_kegiatan="$id_kegiatan";</td>
+</tr>
+<tr>
+<td>QRY-03</td>
+<td>Update Data Pariwisata</td>
+<td>Update Pariwisata SET;</td>
+</tr>
+<tr>
+<td>QRY-04</td>
+<td>Tampil Data Kegiatan</td>
+<td>Select * from kegiatan;</td>
+</tr>
+</table>
 <h4><strong>3.3.3.4 Spesifikasi Field Data Layar</strong></h4>
+<table>
+<tr>
+<th>Label</th>
+<th>Field</th>
+<th>Tabel/Query</th>
+<th>Validasi</th>
+<th>Keterangan</th>
+<tr>
+<tr>
+<td>id_kegiatan</td>
+<td>id_kegiatan</td>
+<td>kegiatan</td>
+<td>-</td>
+<td>primary key dan input otomatis sistem</td>
+</tr>
+<tr>
+<td>judul</td>
+<td>judul</td>
+<td>kegiatan</td>
+<td>-</td>
+<td>judul input manual admin</td>
+</tr>
+<tr>
+<td>deskripsi</td>
+<td>deskripsi</td>
+<td>pariwisata</td>
+<td>-</td>
+<td>deskripsi input manual admin</td>
+</tr>
+<tr>
+<td>gambar</td>
+<td>gambar</td>
+<td>kegiatan</td>
+<td>-</td>
+<td>gambar input manual admin</td>
+</tr>
+</table>
 <h4><strong>3.3.3.5 Spesifikasi Objek-Objek pada Layar</strong></h4>
 <h4><strong>3.3.3.6 Spesifikasi Proses/Algoritma</strong></h4>
 
@@ -835,5 +961,3 @@ Politeknik Negeri Indramayu<br>
 <h4><strong>3.3.4.4 Spesifikasi Field Data Layar</strong></h4>
 <h4><strong>3.3.4.5 Spesifikasi Objek-Objek pada Layar</strong></h4>
 <h4><strong>3.3.4.6 Spesifikasi Proses/Algoritma</strong></h4>
->>>>>>> b77fbfe196bdded1bfc14b8f4e84c675d846d59d
-
