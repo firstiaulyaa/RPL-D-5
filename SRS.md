@@ -19,14 +19,14 @@ Politeknik Negeri Indramayu<br>
 2018</strong></p>
 
 <h2><strong>1. PENDAHULUAN</strong></p></h2>
-<p><strong>1.1 Tujuan</strong></p>  
-<p>Tujuan dibuatnya dokumen SRS ini adalah untuk menjelaskan tentang spesifikasi kebutuhan apa saja yang digunakan pada Aplikasi BUSAYU (Budaya dan Pariwisata Kab. Indramayu) seperti Rancangan Sistem, Mockup, dan lain-lain.</p>
+<h3><strong>1.1 Tujuan</strong></h3>  
+<p>Tujuan dibuatnya dokumen SRS ini adalah untuk menjelaskan tentang spesifikasi kebutuhan apa saja yang digunakan pada Aplikasi BUSAYU (Budaya dan Pariwisata Kab. Indramayu) seperti Rancangan Sistem, Mockup, dan lain-lain.<br></p>
 
-<p><strong>1.2 Lingkup Masalah</strong></p>  
+<h3><strong>1.2 Lingkup Masalah</strong></h3>  
 <p>Sistem dari perangkat lunak ini akan menjadi Aplikasi Publik, yaitu aplikasi yang akan digunakan oleh masyarakat khusunya masyarakat Kab. Indramayu. Sistem dari BUSAYU (Aplikasi Budaya dan Pariwisata Kab, Indramayu) adalah salah satu aplikasi berbasis Android yang dirancang untuk mengetahui dan mempermudah pengguna untuk mencari informasi tentang kebudayaan, pariwisata, dan kegiatan yang ada di Indramayu. Lalu pengguna juga bisa mengajukan pengaduan tentang kebudayaan dan pariwisata di Indramayu.<br>  
 </p> 
 
-<p><strong>1.3 Definisi, Akronim, Singkatan</strong></p>  
+<h3><strong>1.3 Definisi, Akronim, Singkatan</strong></h3>  
 <table>  
 <thead>  
 <tr>  
@@ -61,34 +61,34 @@ Politeknik Negeri Indramayu<br>
 </tr>
 <tr>  
 <td>IEEE</td>  
-<td> </td>  
+<td>(Singkatan : Institute of Electrical and Electronics Engineers) Sebuah organisasi profesi nirlaba yang terdiri dari banyak ahli di bidang teknik yang mempromosikan pengembangan standar-standar dan bertindak sebagai pihak yang mempercepat teknologi-teknologi baru dalam semua aspek dalam industri dan rekayasa (engineering), yang mencakup telekomunikasi, jaringan komputer, kelistrikan, antariksa, dan elektronika.</td>  
 </tr>    
 </tbody>  
 </table>
 
-<p><strong>1.4 Referensi</strong><br></p>
+<h3><strong>1.4 Referensi</strong><br></h3>
 <ul>
 	<li>IEEE. IEEE Std 830-1998 IEEE Recommended Practice for Software Requirements Specifications. IEEE Computer Society, 1998. 1.5 Overview
 	</li>
 </ul>
 
-<p><strong>1.5 Overview</strong><br></p>  
+<h3><strong>1.5 Overview</strong><br></h3>  
 <p>Dokumen ini dibagi menjadi tiga bagian utama. Bagian pertama berisi penjelasan tentang dokumen SRS yang mencakup tujuan pembuatan dokumen ini, lingkup masalah yang diselesaikan yang dikembangkan oleh kami yaitu definisi, referensi, dan deskripsi umum. Bagian kedua berisi penjelasan secara umum mengenai aplikasi yang akan di kembangkan meliputi fungsi, karakteristik pengguna, batasan dan asumsi yang diambil dalam pengembangan aplikasi.Bagian ke tiga berisi uraian aplikasi secara lebih rinci.<br><br></p>
 
 <h2><strong>2. GAMBARAN UMUM</strong><br></h2>
 <p>BUSAYU (Aplikasi Budaya dan Pariwisata Kab. Indramayu) Berbasis Android adalah aplikasi yang digunakan untuk mempermudah pengguna dalam pencarian informasi seputar kebudayaan, pariwisata, dan kegiatan di Kabupaten Indramayu.</p>
 
-<p><strong>2.1. Perspektif Produk</strong><br></p>  
+<h3><strong>2.1. Perspektif Produk</strong><br></h3>  
 <p>Pada proyek ini dibuat dengan sistem berbasis Android dimana aplikasi ini bisa diakses hanya dengan smartphone dengan sistem operasinya adalah Android. Aplikasi ini dibangun dengan menggunakan Android Studio untuk aplikasi Android, Sublime Text untuk aplikasi web, dan XAMPP sebagai databasenya.<br></p>
 
-<p><strong>2.1.1 Antarmuka sistem</strong><br></p>  
+<h4><strong>2.1.1 Antarmuka sistem</strong><br></h4>  
 <p>
 	<img src="https://4.bp.blogspot.com/-80n_0OxZZ_w/Wp-lcm-mUII/AAAAAAAAAEA/dLxdDnG38Z8zyk7PNIP3hgChXTJiDFZ4gCLcBGAs/s1600/sistem.png" alt="enter image description here"></p>
 <p>Sistem dari perangkat lunak ini memiliki 2 aktor yaitu Admin dan User (Pengguna). Admin mengeloa aplikasi web sedangkan User menggunakan aplikasi Android. Setiap aktor mempunyai fungsi yang berbeda, dimana aplikasi web digunakan oleh Admin untuk mengelola data kebudayaan, pariwisata, kegiatan, dan lain-lain. Sedangkan Aplikasi Android digunakan oleh User untuk memperoleh informasi tentang kebudayaan, pariwisata, dan kegiatan serta mengajukan pengaduan.<br></p>  
 </p>  
 
-<p><strong>2.1.2 Antarmuka pengguna</strong></p>
-<ul>User (Android)</ul>
+<h4><strong>2.1.2 Antarmuka pengguna</strong></h4>
+<ul><li><strong>User (Android)</strong></li></ul>
 <table>
 <tr>
 	<td> 
@@ -193,26 +193,26 @@ Politeknik Negeri Indramayu<br>
 </tr>
 </table>
 
-<ul>Admin (Web)</ul>  
+<ul><li><strong>Admin (Web)</strong></li></ul>  
 <p> Tahap revisi <p>
 
 
-<p><strong>2.1.3 Antarmuka perangkat keras</strong><br></p>  
+<h4><strong>2.1.3 Antarmuka perangkat keras</strong><br></h4>  
 <p>
 	<img src="https://lh3.googleusercontent.com/X0547VB1z0t-vmZLOnlvdFPOPRxi0gGhFNuIcLjDgQCUg8taYVmNEcdEvKxQey7bWaY6_co0WVQ=s300" alt="2.3">
 </p>
 <p>Sistem aplikasi ini memiliki 2 User yang aktif, yaitu Admin dan User. User dapat mengakses aplikasi melalui smartphone yang memiliki sistem operasi Android dan Admin dapat mengakses aplikasi web melalui browse. Aplikasi ini bisa digunakan apabila terhubung ke internet. Data-data pada aplikasi ini selanjutnya disimpan di database (Server) dan selanjutnya dikelola oleh Admin.</p>
 
-<p><strong>2.1.4 Antarmuka perangkat lunak</strong><br></p>  
+<h4><strong>2.1.4 Antarmuka perangkat lunak</strong><br></h4>  
 <p>Untuk dapat menggunakan aplikasi budaya dan pariwisata Kabupaten Indramayu kita dapat mengakses lewat browser.<br></p>
 
-<p><strong>2.1.5 Antarmuka Komunikasi</strong></p>  
+<h4><strong>2.1.5 Antarmuka Komunikasi</strong></h4>  
 <p>Aplikasi ini bekerja sama dengan Dinas Kebudayaan dan Pariwisata Kabupaten Indramayu.<br></p>
 
-<p><strong>2.1.6 Batasan memori</strong><br></p> 
+<h4><strong>2.1.6 Batasan memori</strong><br></h4> 
 <p>Memori yang digunakan untuk aplikasi di usahakan tidak melebihi 100MB</p>  
 
-<p><strong>2.1.7 Operasi-operasi</strong><br></p>  
+<h4><strong>2.1.7 Operasi-operasi</strong><br></h4>  
 <table> 
 	<thead>  
 		<tr>  
@@ -262,12 +262,13 @@ Politeknik Negeri Indramayu<br>
   	</tbody>
 </table>
 
+<h4><strong>2.1.8 Kebutuhan adaptasi</strong></h4>
+<p>Tidak ada.</p>
 
-<p><strong>2.1.8 Kebutuhan adaptasi</strong></p>  
-<p><strong>2.2. Spesifikasi Kebutuhan Fungsional</strong><br></p>  
+<h3><strong>2.2. Spesifikasi Kebutuhan Fungsional</strong><br></h3>  
 <p><img src="https://lh3.googleusercontent.com/ehBEvX4NdXWCtnGhlGEnP_VxTDyeZNUbVIH75Y9GSg-HNMU90e8VDJGy9wCEH2Vzhj53agFiIi_55FuT4-jV_eV8nK5O2M0A6NB7gDmm4XrjH3ujSIkk1R3z7ByJquaLrZ5WPwkTkuLcJSGrb00r1For9J9Ha0kjh2ug8HMb1spHZquslruF3r0YHco6DSvO8HhFR8hAJdvJEw3GNYPI_iz66tgx__A0hh_rmO-IDbAJm2k03PICacQ84109dqHZquiRu3HvA3xOA4UQ9l3wzcbhDEIn_n2fGA8vPEj5dsh0ZVl6zEFrT3Qdap5mZxyRV2rqTfRGakG4X-TvLkxSZCYY-5Jf5QAMZuf3D7ZDOvHzuHjs34fviX_a6kmRovCdqVETHIjlh7678H_LGtsOmyYZ8U6XRkmnoRQo7VLlMXPwaYnDtNku80w-vcrXWnYPs8tPwjDyid2vQH-Z71y61_9X7WvMPYwNwEHUuhkN5Rdb6rlrk0qiRuEx_g_F7jJ-ZjgSNgeeRs_2QMg5P-WbY0VUw1AWRPqLegZvL2oGwsvt_B9Oeg6p5IQzQZfqcFZTEHbF-EGiXfx4tgMyMD-eYqWMKinBVW_pKP0rz-k=w848-h662-no" alt="usecase" title="usecase keseluruhan"><br></p>
 
-<p><strong>2.2.1 User Login</strong></p>  
+<h4><strong>2.2.1 User Login</strong></h4>  
 <p>Use Case: Login<br>
 Diagram:</p>
 <p><img src="https://lh3.googleusercontent.com/i-F1NFPY-xV7ejGrqxV7QLFH83dROOfA2xJqVtyiXEPTgO2c0V6Gz1Co9XBAEHNUzIm7t0Yf7NGR" alt="enter image description here"></p>
@@ -280,7 +281,7 @@ Diagram:</p>
 </ol>
 Xref: Bagian 3.2.1, User login</p></p>
 
-<p><strong>2.2.2 User Melihat Budaya</strong><br></p>
+<h4><strong>2.2.2 User Melihat Budaya</strong><br></h4>
 <p>Use case: melihat budaya<br>
 Diagram:</p>
 <p><img src="https://lh3.googleusercontent.com/aJvMtPpo98MB3LB-uN9TY421p30GDaX0DbHimOQdhrf--_M6iH8vhxwdiRbT5rThn4ZtLHXggco7" alt="enter image description here" title="userbudaya"></p>
@@ -292,7 +293,7 @@ Diagram:</p>
 </ol>
 Xref: Bagian 3.2.2, User lihat budaya<p></p>
 
-<p><strong>2.2.3 User Melihat Wisata</strong><br></p>
+<h4><strong>2.2.3 User Melihat Wisata</strong><br></h4>
 <p>Use case: melihat wisata<br>
 Diagram:</p>
 <p><img src="https://lh3.googleusercontent.com/kDGYT_tryNcLBWRvT2ahCJJGpUWXkjcivLp50wzawgjyPO4ZWHJoSjIt1RXTwFyuZEmyqNgnCXan" alt="enter image description here" title="userlihatwisata"></p>
@@ -304,7 +305,7 @@ Diagram:</p>
 </ol>
 Xref: Bagian 3.2.3, User lihat wisata<p></p>
 
-<p><strong>2.2.4 User Melihat Kegiatan</strong><br></p>
+<h4><strong>2.2.4 User Melihat Kegiatan</strong><br></h4>
 <p>Use case: melihat kegiatan<br>
 Diagram:</p>
 <p><img src="https://lh3.googleusercontent.com/lyNCYrzxpvZ9qBUOtZ3yco75f11lEAJOpGd_Pjv9Vn8dB_k9dOTs-zE1xoZzhM2jXTREY0eQVwVBPnuPcfGyPwQL-0S6m7g53b2YADKt2K275vFQAktXWB6HMDVL0l51Z2CPftd2ighvId3JJM2gSYMKWg-sPjj2tp7Vzc5Wf3WLZifNjzSwfUo5_S2zZ0tCiJiX2XZR0oYJ3f89Fu_dHPSir1_9uDZWtlQ6ndKwp5xt6SDdatPon2f-ewlhgAv2uN3RyFIiEYz14bjueTfsq_E4RkUbACBBpVPqkalcq2WwN0YYXAtXic3oXvmt2ZaqcNNoxqpszSSL6SGXLnHNdc8DfZ4MFkDeyprzZZOwVhUkk2K_ZACFMvwKtHgZ6YZbaUudHG_KdC1GEndSDT2l3jg5BmNS9fyPanNQRspZHC3aSJxvD9Ha6vPt6gjR0f39NTBdRn1sD9TYOs9VyNtgq3xJw2IDgdbj-nbsVOoK4QXca-xQp4oORrxAE5TVmFXwk6M1ZVWZkLsACFa4IkA8YU-9MxOHmkrwBdTMG6afi2NMpAmPWMQ-MuMPd5H8OoEFnFUTWMoQdK4vRgH-ilJg3G41itKYI35Fdd2pyfM=w179-h105-no" title="userkegiatan">
@@ -317,7 +318,7 @@ Diagram:</p>
 </ol>
 Xref: Bagian 3.2.4, User lihat kegiatan<p></p>
 
-<p><strong>2.2.5 User Mengajukan Pengaduan</strong><br></p>
+<h4><strong>2.2.5 User Mengajukan Pengaduan</strong><br></h4>
 <p>Use case: mengajukan pengaduan<br>
 Diagram:</p>
 <p><img src="https://lh3.googleusercontent.com/9fkLEPEU73UZRVCxTIV5mGCjmx48yOGGocaACpASJA6sDRdbDfSdAauKa9abyHyiQd2T98XXJB-5" alt="enter image description here" title="userpengaduan"></p>
@@ -330,7 +331,7 @@ Diagram:</p>
 </ol>
 Xref: Bagian 3.2.5, User mengajukan pengaduan<p></p>
 
-<p><strong>2.2.6 Admin Login</strong><br></p>
+<h4><strong>2.2.6 Admin Login</strong><br></h4>
 <p>Use case: login<br>
 Diagram:</p>
 <p><img src="https://lh3.googleusercontent.com/hySM59sWo0DwaotyC5t4Zqr3lyXxRaGe6CwzzNccqkQ5Si8n612LfM22MnORBzA7sXNlqHVCHFNE" alt="enter image description here"></p>
@@ -343,7 +344,7 @@ Diagram:</p>
 </ol>
 Xref: Bagian 3.2.6, Admin login<p></p>
 
-<p><strong>2.2.7 Admin Mengelola Budaya</strong><br></p>
+<h4><strong>2.2.7 Admin Mengelola Budaya</strong><br></h4>
 <p>Use case: mengelola budaya<br>
 Diagram:</p>
 <p><img src="https://lh3.googleusercontent.com/xSS8q_wIeplS5M-OcYlWfEq271VOWEf4cHrRfzlNdmubHjA9ddjss8Znh9fbJF-t2SXqK3Jcd1TDrJn-3scsylV6ClVY3D9sebCiwPlTko_vQ14GETwd94c3mx5r-HHv3_GfUYursL4j7cpq8Q3f9YYhepnEGx8vR0Otkvc6Nt0A_kqewV9QyYxyWUBRiamm6MFUJyu-ARPg4tZYyQHJH-Rk81XFJiLZNlWYZkzlDVMqKNNO_EC0MWVOe9wi8htgYglPnh9Upu-VCW8i-Z75VhTVK8xWUbNBUJonCtkOoFaz_4N8cjQVEyOODB5BtPEYC53xKkSMUvTdnIfmccn2ud0QMghCBHehWvMf-GYVKmPkk-ic1jZbkCd5J7RWd6MBIWclMoZmYL0OAhGMRo0hORaGT9o65E1IHkAjuUvDTEy1WmLIFTtsFe7t5wXXBZLLS3moOIHFxNr6p4zpUtWahmbuZhlkiR_SgW1iQPL4o9JpdE76_aVVmBuscvpor-OyyZ63N9izyK6LCrQnDeyh1qJKzuetZK3pbup0U7xhPNK8HPev3rIILayGc9fjW141XUpv4foFy1F3lu6OdeKK4oiGGWJKjfAhSP0vt4E=w162-h94-no" alt="enter image description here" title="adminbuat"></p>
@@ -356,7 +357,7 @@ Diagram:</p>
 </ol>
 Xref: Bagian 3.2.7, Admin mengelola budaya<p></p>
 
-<p><strong>2.2.8 Admin Mengelola Pariwisata</strong><br>
+<h4><strong>2.2.8 Admin Mengelola Pariwisata</strong><br></h4>
 <p>Use case: mengelola pariwisata<br>
 Diagram:</p>
 <p><img src="https://lh3.googleusercontent.com/B2XfAkVd4a5v2kGHOJ4MXapAhDcALgrCNxIcNHMk5-AG8j91rQUYhc5YDVYceK4M-CUt4bMu-K48wBvHDJeA9Ozlei-d-jJGpvLftS_wseE_yK4034IxX38iJkrJ6eleKSrDtHDpE3Q09-Bg9NtwMWn-1f0harkuaaQnnAvYV6glIpEMmMxyx4_G0mH6tgpM5J198m6yeeK9UvWc00H7cTJI18EpCCMHwPtAt_TFyGMEWc5gJNHovoO3e3DuZKoG9H7_1Kgr6RyEm1WEh6rUfvvH-zKfMb882kMfBV8RfBuFX8scaD1_Is5jN7Hh2z3vUlTnLLWTycC6D4FZKwv-MclvsCQM58SMG1Hua260U9qxI9BOplLs2cHgM-7ka1vdVrH36NMO6Kl7-JL3Mi2bdRRyPkozfIOglY-_2inbcQafUuGUE_VLxiVyfDQjYsg5ixlodpRxeZSRx_i4VUy3fKyMdjB38nGtmeDUg0Ru4Hn3F3eRr16NCNl2QWSjdblJIcU8D04UUxoz_t93JYuvEhg30MS6Fu6YIV6tRkhS8RFw-s4eplwePWUfQCPXuNGNgzCQ9oGNkdji363Q_RoTuZwZs2PzbScVqrcJv88=w169-h99-no" alt="enter image description here" title="adminedit"></p>
@@ -369,7 +370,7 @@ Diagram:</p>
 </ol>
 Xref: Bagian 3.2.8, Admin Mengelola Pariwisata<p></p>
 
-<p><strong>2.2.9 Admin Mengelola Kegiatan</strong><br></p>
+<h4><strong>2.2.9 Admin Mengelola Kegiatan</strong><br></h4>
 <p>Use case: mengelola kegiatan<br>
 Diagram:</p>
 <p><img src="https://lh3.googleusercontent.com/9qeCLeGOA7QEl7FcPbgmsHlXbsbRrzfeJ9UI6eZAET_0KWogt9-MfICAc7YzQvQE5K4DrIM5CVToMtCrvg3YZkyWo0qz8URZkcTRMMsCKGlBobRb5xmlEQR-O1ZycZyOL-rUBm4nk5D_FnqmOLOljwCltsgLu-_B4FGPIid24DaYA3_5Lj0qXYKOB9JdM4LpsmTOIsQPRjAN06x9n1cw_cQSs_9wWDCtiz7rRa_48wXzdPS8QnbnpnJKX-qIl46kZyIZSc98fvVnXfJ-uPygArIS1hVvgNQ27b5P_-dATtkUlj2wTram_cdcynI28QlxdZDjhoERhcXY_Xs50y8QMk5CFc6Wj-GkH1UEwCMLWl__NIyRWZLSnmsBi_bQcEoivp-jx1gR3pWKH-T6_yeOl9lzD4XW5L-U3IB0A5BvWn-0iLFXcnONL_ELbAiaah71pe2w_H4hUnONieHCFsaRouz_BSxu3r0Z7Iwva35Pw2ntrfMHuSvxo9kV7XD1PJKR-O1gQOCkK8MD_3JSPxp_9WVV0_J_mULFwz7EngibqXTRvH3b5oPrXsWdy2-P9cS2sDIbLEqqAXITShmIEZlZ3TOJSCmwp1fJSCNY4hM=w174-h94-no" alt="enter image description here" title="adminhapus"></p>
@@ -382,7 +383,7 @@ Diagram:</p>
 </ol>
 Xref: Bagian 3.2.9, Admin mengelola kegiatan<p></p>
 
-<p><strong>2.2.10 Admin Mengelola Pengaduan</strong><br></p>
+<h4><strong>2.2.10 Admin Mengelola Pengaduan</strong><br></h4>
 <p>Use case: mengelola pengaduan<br>
 Diagram:</p>
 <p><img src="https://lh3.googleusercontent.com/u7H0T2YsqO9p9TIoz1cMo0x-5UKLvE79iNkzOvieNoU_GNzHYGyZM0NiTz_-C6UsP-KZzpvaPYwFcgel8-fL3HhFROZNE8o4y8Jc_M6p5An_sS8AqhcAajCVYgYJ4SNckJnFGCv6t6SOIFPlz9T0IOj5r2uKLgpRsYc3V-KxtY1vRZ1pNioAHF2oGi0v-6dZPTzkVtZB2_1v4lzK1VwV6mdt2rFHwVkhTpol-3RdcE1z1F-2h_3k7QTRwBLXmLX5rWRZJR_62GY4nYLtMAc25sK7Vp3Uqiy9YzWiilDadFHRqTn2WqYdclm1bWYBkkCogB73gdBO9rK0nxwGN94we57O0vMZLjjQZ632aj7T6pgev-oYP6qa3LoGhmEsjV9UgxwGYd-_f7HSQ3Ci1Trn7bWpSrjoW2-_7MGgnhBlSB6A5z73N_II2D6bkaAd_Z-A4FBWdH9KjCDeopJBeEXKTXxRmKZEUd0pn2MlVKgQppWdtgXBypEMuubERz6rI8X6Q3NcKffvuHY9Jt5Rvhw8X_oq3jwLwlQ90YfDK9gnjjQH1OlHh65on40MEJIx_DF5FLlCl3c5GK2YPuX1nOt1Z_ZztyRBbIWN4MHMV0w=w173-h98-no" alt="enter image description here" title="adminpengaduan"></p>
@@ -395,7 +396,7 @@ Diagram:</p>
 </ol>
 Xref: Bagian 3.2.10, Admin mengelola pengaduan<p></p>
 
-<p><strong>2.2.11 Admin Mengelola user</strong><br></p>
+<h4><strong>2.2.11 Admin Mengelola user</strong><br></h4>
 <p>Use case: mengelola user<br>
 Diagram:</p>
 <p><img src="https://lh3.googleusercontent.com/Jce_-au0vBFu-iMwrQjD2DHAuepDksWesLzKQ95BW7nwae_etvKHbwRwi_Ayp52wVjyupUxLbYCQ8LYUrrVsP5QX4C-tvmwFnJWemGE3_9LG19tkaV6kWxjeD7-ivYOWa3l8uTuDwa9xUj2fm4fnijwjIJZP37f_anF-VyXEtKw6SFkcOIwqmznRE3aIJLEIorQB0Dt2-sI9UkbTgiNfp226K3Fi2-xrSwYjTYSAJNUqXC1uD5BNBFPBZ12AnxHVpx7qIhjwiSh7buA4WizADphRTOrNNONieajsLyO-KlT0iz702iqUkJ-gGYm_NNdZUPKXRFCHK2pUx25Q-o_6Ae1ZTNELJ8bLitD5_yEC22komnmVUa7M-5EjMgyE0iZlxae5GPfjCeKjcyJkxAxzegdrU29UoIKsu2ViVo6Hp9ifKgFW8B2N7B1aQwdpdk_T-Y1leaAYDTqj6xRxX76t6Rn2TuhcD4g3uGIIU-KY14qF8vD5m9NCbR4enRH-eFLZDUhWKR7Xl7z4NrjK9G-OXV-toa-BnxCT2vpVBtRH4p0TmNCLr9k4tJh0uv1U1WOTXYwEWM0sJ5HrgBD_9FR_oFRoJO6vnQBOfLvN91k=w191-h104-no" title="adminmengelolauser"></p>
@@ -408,7 +409,7 @@ Diagram:</p>
 </ol>
 Xref: Bagian 3.2.11, Admin mengelola user<p></p>
 
-<p><strong>2.2.12 User Mengedit User</strong><br></p>
+<h4><strong>2.2.12 User Mengedit User</strong><br></h4>
 <p>Use case: mengedit user<br>
 Diagram:</p>
 <p><img src="https://lh3.googleusercontent.com/ZolJVxjQqbIUZIWxUglZOgRQfu6EHtApsMXX7mW4Nx6Qyrg6e_pxp7qsIBE96-db4Hkgb6DOMLWDJyxxf3dU2U-lUSl5ijrevVfEvCEgQJVpZ_TGgo92hqv4IbYHtwa0qCUNBWtqzam-KUCgI_rZzhqcVywBlMmcKnEYVcpoI3SZIweS4_U4pk537otoRZhDczRQAcmSr4wn-N-Oc8x6UthoDqb_k5hPblX7fihc3NPC6j_RP-HGRNkcO6LQ2Ypqts9ahsyN2uy42sRTV-VG1oN8j6EKrG9RKRNjF_9Nr6DgjH0L1uPfwz-G5lSLCkgdCiTEZgqM7xGVUWECK57iLk2gC_yoigpH-LCwPkoPs2wQhfp6LlhIWhVQtmeq2zoTJgav7b4g6PEP3DEimohowuwI2_E0Bzp_iXRt-iWFOXYTWx1oN_DDHPMtjSwfSwJIUxK30a5d9JSKmZKbDfJJG5p0w3T6t1ShMJM_5D2OZgypxQ1ad3NCqUngLt7vqVLajqz5cZNaHZBqFBnkxgTHcRELfMUCwCFMGQBVS-nT3QoW5BIgWU4l_WnaIG6Qadx7yfjcQspv6Pv4ovQqxUypvq09BYUZKVQIwXCgBbU=w190-h102-no" title="adminmengelolauser"></p>
@@ -424,33 +425,33 @@ Diagram:</p>
 Xref: Bagian 3.2.12, User Mengedit User<p></p>
 
 
-<p><strong>2.3. Spesifikasi Kebutuhan Non-fungsional</strong><br></p>
+<h3><strong>2.3. Spesifikasi Kebutuhan Non-fungsional</strong><br></h3>
 
-<p><strong>2.3.1 Spesifikasi User Interface</strong><br></p>  
+<h4><strong>2.3.1 Spesifikasi User Interface</strong><br></h4>  
 <p>User Interface yang ada pada aplikasi harus user-friendly, dan mudah untuk digunakan.<br></p>
 
-<p><strong>2.3.2 Spesifikasi Kinerja</strong><br></p>  
+<h4><strong>2.3.2 Spesifikasi Kinerja</strong><br></h4>  
 <p>Sistem ini diharapkan dapat di gunakan dalam jangka panjang dan sistem ini dapat berfungsi secara optimal.<br></p>  
 
-<p><strong>2.3.3 Ketersediaan dan Keandalan</strong><br></p>  
+<h4><strong>2.3.3 Ketersediaan dan Keandalan</strong><br></h4>  
 <p>Aplikasi dapat menyediakan backup pada database yang digunakan.<br></p>  
 
-<p><strong>2.3.4 Spesifikasi Keamanan</strong><br></p>  
+<h4><strong>2.3.4 Spesifikasi Keamanan</strong><br></h4>  
 <p>Keamanan data akan terjaga karena menerapkan validasi pada saat pengguna mulai login.</p>
 
-<p><strong>2.4. Karakteristik Pengguna</strong><br></p>  
+<h3><strong>2.4. Karakteristik Pengguna</strong><br></h3>  
 <p>  Dengan adanya aplikasi ini diharapkan dapat membantu admin mengolah data pariwisata, data kebudayaan, data event dan pendaftaran untuk mengikuti event. kemudian bagi pengguna sendiri diharapkan dapat mempermudah pengguna untuk mendapatkan informasi tentang pariwisata, kebudayaan dan event yang di adakan oleh dinas kebudayaan dan pariwisata kabupaten Indramayu menggunakan aplikasi mobile ini.</p>
 
-<p><strong>2.5. Batasan-batasan</strong><br></p>  
+<h3><strong>2.5. Batasan-batasan</strong><br></h3>  
 <p>Pada Aplikasi Budaya dan Pariwisata Kabupaten Indramayu harus menggunakan smartphone denga sistem operasi Android untuk dapat mengaksesnya atau menggunakannya. Pengguna dapat login dengan mendaftar terlebih dahulu.<br><br><br></p>
 
 
 <h2><strong>3. Requirement Specification</strong></h2>  
-<p><strong>3.1 Persyaratan Antarmuka Eksternal</strong><br>  
+<h3><strong>3.1 Persyaratan Antarmuka Eksternal</strong><br></h3>  
 <p>Salah satu persyaratan untuk mengakses Aplikasi ini adalah dengan mendaftarkan diri dan melengkapi kolom data diri.</p> 
 
-<p><strong>3.2 Functional Requirnment</strong><br></p>
-<p><strong>3.2.1 User Login</strong></p>  
+<h3><strong>3.2 Functional Requirnment</strong><br></h3>
+<h4><strong>3.2.1 User Login</strong></h4>  
 <table>  
 	<thead>  
 		<tr>  
@@ -499,7 +500,7 @@ Xref: Bagian 3.2.12, User Mengedit User<p></p>
 	</tbody>  
 </table>
 
-<p><strong>3.2.2 User Melihat Budaya</strong></p>  
+<h4><strong>3.2.2 User Melihat Budaya</strong></h4>  
 <table>  
 	<thead>  
 		<tr>  
@@ -547,7 +548,7 @@ Xref: Bagian 3.2.12, User Mengedit User<p></p>
 	</tbody>   
 </table>
 
-<p><strong>3.2.3 User Melihat Wisata</strong></p>  
+<h4><strong>3.2.3 User Melihat Wisata</strong></h4>  
 <table>  
 	<thead>  
 		<tr>  
@@ -595,7 +596,7 @@ Xref: Bagian 3.2.12, User Mengedit User<p></p>
 	</tbody>   
 </table>
 
-<p><strong>3.2.4 User Melihat Kegiatan</strong></p>  
+<h4><strong>3.2.4 User Melihat Kegiatan</strong></h4>  
 <table>  
 	<thead>  
 		<tr>  
@@ -643,7 +644,7 @@ Xref: Bagian 3.2.12, User Mengedit User<p></p>
 	</tbody>
 </table>
 
-<p><strong>3.2.5 User Mengajukan Pengaduan</strong></p>  
+<h4><strong>3.2.5 User Mengajukan Pengaduan</strong></h4>  
 <table>  
 	<thead>  
 		<tr>  
@@ -692,7 +693,7 @@ Xref: Bagian 3.2.12, User Mengedit User<p></p>
 	</tbody>   
 </table>
 
-<p><strong>3.2.6 Admin Login</strong></p>  
+<h4><strong>3.2.6 Admin Login</strong></h4>  
 <table>  
 	<thead>  
 		<tr>  
@@ -741,7 +742,7 @@ Xref: Bagian 3.2.12, User Mengedit User<p></p>
 	</tbody>   
 </table>
 
-<p><strong>3.2.7 Admin Mengelola Budaya</strong></p>  
+<h4><strong>3.2.7 Admin Mengelola Budaya</strong></h4>  
 <table>  
 	<thead>  
 		<tr>  
@@ -790,7 +791,7 @@ Xref: Bagian 3.2.12, User Mengedit User<p></p>
 	</tbody>   
 </table>
 
-<p><strong>3.2.8 Admin Mengelola Pariwisata</strong></p>  
+<h4><strong>3.2.8 Admin Mengelola Pariwisata</strong></h4>  
 <table>  
 	<thead>  
 		<tr>  
@@ -839,7 +840,7 @@ Xref: Bagian 3.2.12, User Mengedit User<p></p>
 	</tbody>   
 </table>
 
-<p><strong>3.2.9 Admin Mengelola Kegiatan</strong></p>  
+<h4><strong>3.2.9 Admin Mengelola Kegiatan</strong></h4>  
 <table>  
 	<thead>  
 		<tr>  
@@ -888,7 +889,7 @@ Xref: Bagian 3.2.12, User Mengedit User<p></p>
 	</tbody>   
 </table>
 
-<p><strong>3.2.10 Admin Mengelola Pengaduan</strong></p>  
+<h4><strong>3.2.10 Admin Mengelola Pengaduan</strong></h4>  
 <table>  
 	<thead>  
 		<tr>  
@@ -937,7 +938,7 @@ Xref: Bagian 3.2.12, User Mengedit User<p></p>
 	</tbody>   
 </table>
 
-<p><strong>3.2.11 Admin Mengelola User</strong></p>  
+<h4><strong>3.2.11 Admin Mengelola User</strong></h4>  
 <table>  
 	<thead>  
 		<tr>  
@@ -986,7 +987,7 @@ Xref: Bagian 3.2.12, User Mengedit User<p></p>
 	</tbody>   
 </table>
 
-<p><strong>3.2.12 User Mengedit User </strong></p>  
+<h4><strong>3.2.12 User Mengedit User </strong></h4>  
 <table>  
 	<thead>  
 		<tr>  
@@ -1037,8 +1038,8 @@ Xref: Bagian 3.2.12, User Mengedit User<p></p>
 	</tbody>   
 </table>
 
-<p><br><strong>3.3 Struktur Detail Kebutuhan Non Functional</strong><br></p>
-<p><strong>3.3.1 Logika Struktur Data</strong><br></p>
+<h3><br><strong>3.3 Struktur Detail Kebutuhan Non Functional</strong><br></h3>
+<h4><strong>3.3.1 Logika Struktur Data</strong><br></h4>
 <p>Struktur data logika pada sistem Aplikasi Budaya dan Pariwisata terdapat struktur Database yang dijelaskan menggunakan ERD.  
 </p><p>
 
