@@ -1,5 +1,5 @@
 <h1 align="center" id="software-requirements-specification">SOFTWARE PROJECT MANAGEMENT PLAN</h1>  
-<p align="center"><strong>Version 1.3<br>  
+<p align="center"><strong>Version 1.4<br>  
 14 April  2018</strong><br>  
 </p><p align="center">  
 <img src="https://lh3.googleusercontent.com/qEHYPVzo0kjd8ikhrCIF4cI_PhR8pmK5vDU14oEp9OPyVT-eA54cVp8C9iyJ8rKDfH8OR1dnT1zv=s300" alt="enter image description here" title="logo">  
@@ -17,16 +17,16 @@ Politeknik Negeri Indramayu<br>
 BUSAYU (Aplikasi Budaya dan Pariwisata Kab. Indramayu) adalah salah satu aplikasi berbasis Android yang digunakan untuk seluruh masyarakat, khususnya masyarakat yang berada di daerah Indramayu untuk mengetahui kebudayaan yang ada di Indramayu dan event atau lomba yang akan diselenggarakan oleh Dinas Kebudayaan dan Pariwisata Kabupaten Indramayu.<br>
 Pada Proyek ini dibuat sistem berbasis Android dimana pengolahan informasi dan data diakses melalui smartphone dengan sistem operasi Android.<br><br>
 <p><strong>1.2. Dokumen-dokumen dalam proyek</strong></p>
-<ol>
+<ul>
 <li>SPMP (Software Project Management Plant)</li>
 <li>SRS (Software Reqruitments Specification</li>
 <li>SDD (Software Design Document)</li>
-</ol>
+</ul>
 <p><strong>1.3. Evolusi SPMP</strong></p>
 pada proyek ini ditujukan untuk masing-masing anggota dan harus bertanggung jawab pada dokumen projek yang dibuat, setiap personal harus mampu mempertanggung jawabkan setiap job desk yang ditentukan.<br><br>
 <p><strong>1.4. Material acuan</strong></p>
 <ul>
-<li>Materi yang menjadi acuan dalam pembuatan projek ini menggunakan standarIEEE, karena menyediakan kerangka kerja  yang menggabungkan seluruh  spektrumproses siklus hidup perangkat lunak. Dan juga standar IEEE untuk membentukmodel yang diakui secara internasional dari kehidupan perangkat lunak umum,siklus proses yang dapat direferensikan oleh industri perangkat lunak diseluruhdunia, untuk mempromosikan pemahaman diantara pihak bisnis dengan aplikasiumum serta mengakui proses, kegiatan dan  tugas.IEEE adalah sebuah organisasi profesi nirlaba yang terdiri dari banyak ahlidibidang teknik yang mempromosikan pengembangan standar-standar danbertindak sebagai pihak yang mempercepat teknologi- teknologi baru dalam semuaaspek dalam industry  dan rekayasa (engineering), yang mencakup telekomunikasi, jaringan komputer, kelistrikan, antariksa, dan elektronika. Tujuan inti IEEE adalahmendorong inovasi teknologi dan kesempurnaan untuk kepentingankemanusiaan.Visi IEEE adalah akan menjadi penting untuk masyarakat teknisglobal dan professional teknis dimana-mana dan dikenal secara universal untukkontribusi teknologi dan teknis yang professional dalam meningkatkan kondisiperkembangan global. Standar dalam IEEE adalah mengatur fungsi, kemampuandan interoperabilitas dari berbagai macam  produk dan layanan yang mengubah caraorang hidup, bekerja dan  berkomunikasi.</li>
+<li>Materi yang menjadi acuan dalam pembuatan projek ini menggunakan standarIEEE, karena menyediakan kerangka kerja  yang menggabungkan seluruh  spektrumproses siklus hidup perangkat lunak. Dan juga standar IEEE untuk membentukmodel yang diakui secara internasional dari kehidupan perangkat lunak umum,siklus proses yang dapat direferensikan oleh industri perangkat lunak diseluruhdunia, untuk mempromosikan pemahaman diantara pihak bisnis dengan aplikasiumum serta mengakui proses, kegiatan dan  tugas.IEEE adalah sebuah organisasi profesi nirlaba yang terdiri dari banyak ahlidibidang teknik yang mempromosikan pengembangan standar-standar danbertindak sebagai pihak yang mempercepat teknologi- teknologi baru dalam semuaaspek dalam industry  dan rekayasa (engineering), yang mencakup telekomunikasi, jaringan komputer, kelistrikan, antariksa, dan elektronika. Tujuan inti IEEE adalahmendorong inovasi teknologi dan kesempurnaan untuk kepentingankemanusiaan.Visi IEEE adalah akan menjadi penting untuk masyarakat teknisglobal dan professional teknis dimana-mana dan dikenal secara universal untukkontribusi teknologi dan teknis yang professional dalam meningkatkan kondisiperkembangan global. Standar dalam IEEE adalah mengatur fungsi, kemampuandan interoperabilitas dari berbagai macam  produk dan layanan yang mengubah caraorang hidup, bekerja dan  berkomunikasi. diakses pada tanggal 12 April 2018 pukul 13.00</li>
 <li>https://www1.in.tum.de/stars.globalse.org/stars1/docs/SPMP/Examples/Examples.html diakese pada tanggal 12 April 2018 pukul 14.00</li>
 <li>
 https://www.slideshare.net/ttchenok/spmp-18728488 diakses pada tanggal 12 April 2018 pukul 14.30</li>
@@ -230,29 +230,41 @@ Semua dokumen pendukung proyek akan selesai dalam fase yang sesuai.<br><br>
 <td>1</td>
 <td>1603098</td>
 <td>Firsti Aulya K K</td>
-<td>Project Manager, UI/UX Designer</td>
+<td>Modul Pengaduan
+<p>Modul Profil Pengguna</p>
+<p>Modul Kuliner</p></td>
 </tr>
 <tr>
 <td>2</td>
 <td>1603094</td>
 <td>Diyanti</td>
-<td>Database Engineer, System Analysment</td>
+<td>Modul Kegiatan
+<p>Modul Otentikasi<br>
+<p>Modul Travel</p></td>
 </tr>
 <tr>
 <td>3</td>
 <td>1603097</td>
 <td>Firmansyah</td>
-<td>Android Developer</td>
+<td>
+<p>Modul Pariwisata</p>
+<p>Modul Resto & Kafe</p>
+<p>Modul Hotel</p>
+</td>
 </tr>
 <tr>
 <td>4</td>
 <td>1603111</td>
 <td>Rizky Alief S</td>
-<td>Web Developer</td>
+<td>Modul Budaya
+<p>Modul Wisata Buatan</p>
+<p>Modul Wisata Alam</p></td>
 </tr>
 </tbody>
 </table>
 <br>
+
+![enter image description here](https://2.bp.blogspot.com/-QMic5KwIrC4/WtMOkzTqMiI/AAAAAAAAAII/9l0JBQEqcsYigKsSmOHWeOImnB-9Q_j5QCLcBGAs/s1600/MOddul+FIX.png)
 
 <p><strong>5.2 Jadwal</strong></p>
 
@@ -352,45 +364,5 @@ Semua dokumen pendukung proyek akan selesai dalam fase yang sesuai.<br><br>
 </table>
 
 <strong>5.5 Budget</strong>
-<table>
-<thead>
-<tr>
-<th>No.</th>
-<th>Kebutuhan</th>
-<th>Banyak</th>
-<th>Biaya</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>1.</td>
-<td>Laptop</td>
-<td>3 x Rp.6.000.000</td>
-<td>Rp.18.000.000</td>
-</tr>
-<tr>
-<td>2.</td>
-<td>Handphone</td>
-<td>3 x Rp.3.000.000</td>
-<td>Rp.9.000.000</td>
-</tr>
-<tr>
-<td>3.</td>
-<td>Internet</td>
-<td>1</td>
-<td>Rp.1.000.000</td>
-</tr>
-<tr>
-<td>4.</td>
-<td>Konsumsi</td>
-<td>Rp.100.000 (per hari) x 120 hari</td>
-<td>Rp.12.000.000</td>
-</tr>
-<tr>
-<td>–</td>
-<td>–</td>
-<td>Total</td>
-<td>Rp.40.000.000</td>
-</tr>
-</tbody>
-</table>
+
+![enter image description here](https://3.bp.blogspot.com/-LKwklRsDb4Y/WtMQZNf-LbI/AAAAAAAAAIU/HksOVlhX5HMpNufZbIXlNkTFsrxSwCsDQCLcBGAs/s1600/BIAYA.png)
