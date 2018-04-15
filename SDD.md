@@ -1,6 +1,7 @@
 ﻿
+
 <h1 align="center" id="software-requirements-specification">SOFTWARE DESIGN DOCUMENT</h1>  
-<p align="center"><strong>Version 1.0</strong><br> 
+<p align="center"><strong>Version 1.1</strong><br> 
 <p align="center"><strong> 15 Maret 2018<br>  </strong><br>
 <p align="center"><strong>" BUSAYU (APLIKASI BUDAYA DAN PARIWISATA KABUPATEN INDRAMAYU BERRBASIS ANDROID)"<br><br></strong></p> 
 </p><p align="center">  
@@ -19,55 +20,19 @@ Politeknik Negeri Indramayu<br>
 
 <h2><br><strong>1. PENDAHULUAN</strong></br></h3>
 <h3><br><strong>1.1 Tujuan Penulisan Dokumen</strong></br></h2>
-<p>Tujuan dibuatnya dokumen SDD ini adalah untuk menjelaskan tentang  -------- apa saja yang digunakan pada Aplikasi BUSAYU (Budaya dan Pariwisata Kab. Indramayu) seperti DFD dan lain-lain.</p>  
-
+<p>Tujuan dibuatnya dokumen SDD ini adalah untuk untuk menjelaskan langkah-langkah desain dan proses-proses dalam pembuatan sistem aplikasi yang akan diterapkan pada Aplikasi BUSAYU (Budaya dan Pariwisata Kab. Indramayu) dan spesifikasi kebutuhan fungsional. Fungsi utama dari aplikasi ini yaitu dapat memudahkan pengguna dalam mengakses informasi mengenai Budaya dan Pariwisata yang ada di Indramayu.</p>  
 
 <h3><br><strong>1.2 Lingkup Masalah</strong></br></h2>
+
 <p>Sistem dari perangkat lunak ini akan menjadi Aplikasi Publik, yaitu aplikasi yang akan digunakan oleh masyarakat khusunya masyarakat Kab. Indramayu. BUSAYU (Aplikasi Budaya dan Pariwisata Kab, Indramayu) adalah aplikasi berbasis Android yang dirancang untuk mengetahui dan mempermudah pengguna untuk mencari informasi tentang kebudayaan, pariwisata, dan kegiatan yang ada di Indramayu. Dan pengguna juga bisa mengajukan pengaduan tentang kebudayaan dan pariwisata di Indramayu.<br></p>  
 
 <h3><br><strong>1.3 Definisi dan Istilah</strong></br></h3>
-<table>  
-	<thead>  
-	<tr>  
-		<th>Istilah</th>  
-		<th>Definisi</th>  
-	</tr>  
-	</thead>  
-	<tbody>  
-		<tr>  
-			<td>Android</td>  
-			<td>sistem operasi berbasis Linux yang dirancang untuk perangkat bergerak layar sentuh seperti telepon pintar dan komputer tablet</td>  
-		</tr>  
-		<tr>  
-			<td>Kegiatan</td>  
-			<td>sebuah rangkaian acara dalam rangka tujuan tertentu yang diadakan oleh pihak tertentu dalam waktu tertentu dan tempat tertentu dengan biaya tertentu</td>  
-		</tr>  
-		<tr>  
-			<td>Budaya</td>  
-			<td>Hal-hal yang berkaitan dengan budi, dan akal manusia.</td>  
-		</tr>  
-		<tr>  
-			<td>Pariwisata</td>  
-			<td>Suatu perjalanan yang dilakukan untuk rekreasi atau liburan dan juga persiapan yang dilakukan untuk aktivitas ini.</td>  
-		</tr>  
-		<tr>  
-			<td>SDD</td>  
-			<td> Software Design Document</td>  
-		</tr>  
-			<td>Pengaduan</td>  
-			<td> Berisi pengaduan dari user (Pengguna)</td>  
-		</tr>
-		<tr>  
-			<td>BUSAYU</td>  
-			<td>Aplikasi Budaya dan Pariwisata kab. Indramayu</td>  
-		</tr>
-		<tr>  
-			<td>IEEE</td>  
-			<td>(Singkatan : Institute of Electrical and Electronics Engineers) Sebuah organisasi profesi nirlaba yang terdiri dari banyak ahli di bidang teknik yang mempromosikan pengembangan standar-standar dan bertindak sebagai pihak yang mempercepat teknologi-teknologi baru dalam semua aspek dalam industri dan rekayasa (engineering), yang mencakup telekomunikasi, jaringan komputer, kelistrikan, antariksa, dan elektronika.</td>  
-		</tr>  
-	</tbody>
-</table>
 
+<ul>
+<li>SPMP (Software Project Management Plant)</li>
+<li>SRS (Software Reqruitments Specification)</li>
+<li> SDD (Software Design Description)</li>
+</ul>
 <h3><br><strong>1.4 Referensi</strong></br></h3>
 <ul>
 	<li>IEEE, IEEE Draft Standard for Software Design Descriptions. IEEE
@@ -77,23 +42,36 @@ Politeknik Negeri Indramayu<br>
 </ul>
 
 <h3><br><strong>1.5 Ikhtisar Dokumen</strong></h3></br>
-<strong>Bab I Pendahuluan, terdiri dari :</strong><br>
+<table>  
+	<thead>  
+<tr>
+<td><strong>BAB</td>
+<td><strong>ISI</td>
+</tr>
+<tr>  
+<td><strong>Bab I Pendahuluan</strong></td>
+<td><br>
 1.1 Tujuan Penulisan Dokumen<br>
 1.2 Lingkup Masalah<br>
 1.3 Definisi dan Istilah<br>
 1.4 Referensi<br>
 1.5 Ikhtisar Dokumen<br>
-
-<strong>Bab II Deskripsi Perancangan Global</strong><br>
+<strong></td>
+</tr>
+<tr>
+<td><strong>Bab II Deskripsi Perancangan Global</td>
+<td>
 2.1 Rancangan Lingkungan Implementasi<br>
 2.2 Deskripsi Data<br>
 2.2.1 Definisi Domain<br>
 2.2.2 Conceptual Data Model<br>
 2.2.3 Physical Data Model<br>
 2.2.4 Daftar Tabel Aplikasi<br><br>
-2.3 Deskripsi Modul<br>
-
-<strong>Bab III Deskripsi Perancangan Rinci</strong><br>
+2.3 Deskripsi Modul<br></td>
+</tr>
+<tr>
+<td><strong>Bab III Deskripsi Perancangan Rinci</strong></td>
+<td>
 3.1 Diagram Konteks<br>
 3.1.1 DFD Level 0<br>
 3.1.2 DFD Level 1 Proses M<br>
@@ -109,17 +87,19 @@ Politeknik Negeri Indramayu<br>
 3.3.1.4 Spesifikasi Field Data Layar<br>
 3.3.1.5 Spesifikasi Obyek Pada Layer<br>
 3.3.1.6 Spesifikasi Proses/Algoritma<br>
-3.4 Matriks Keturunan<br>
-
+3.4 Matriks Keturunan<br></td>
+</tr>
+</thead>  
+</table>  
 
 <h2><br><strong>2. DESKRIPSI PERANCANGAN GLOBAL</strong></br></h2>
 <h3><strong>2.1 Rancangan Lingkungan Implementasi</strong></h3>
-
+<strong>2.1.1 Rancangan Kebutuhan
 <table>  
 	<thead>  
 		<tr>  
 			<th>No.</th>  
-			<th>Rancangan Lingkungan Implementasi</th>  
+			<th>Rancangan Kebutuhan </th>  
 			<th>Keterangan</th>  
 		</tr>
 	</thead>  
@@ -146,7 +126,7 @@ Politeknik Negeri Indramayu<br>
 			<td>3.</td>  
 			<td>Filling System</td>
 			<td>
-				-----------
+				Dokumen-dokumen dan program disimpan dalam harddisk internal pada laptop masing-masing anggota
 			</td>
 		</tr>
 		<tr>  
@@ -163,6 +143,22 @@ Politeknik Negeri Indramayu<br>
 </table>
 <br>
 
+<strong>2.1.2 Tools yang digunakan
+
+<table>
+<tbody>
+<tr>
+<td><strong>No.</td>
+<td><strong>Tools</td>
+<td><strong>Jumlah</td>
+</tr>
+<tr>
+<td>1.</td>
+<td>Laptop</td>
+<td>4 unit</td>
+</tr>
+</tbody>
+</table>
 
 <h3><br><strong>2.2 Deskripsi Data</strong></br></h3>
 
@@ -176,38 +172,75 @@ Politeknik Negeri Indramayu<br>
 	<tr>  
 		<td><strong>Data Item</strong></td>  
 		<td><strong>Type</strong></td>  
+		<td><strong>Volume</strong></td>  
+		<td><strong>Laju</strong></td>  
+		<td><strong>Primary key</strong></td>  
+		<td><strong>Constrain Integrity</strong></td>  
 		<td><strong>Deskripsi</strong></td>
 	</tr>  
 	<tr>  
 		<td>id_user</td>  
 		<td>Integer</td>  
+		<td>5</td>  
+	   <td>Primary key</td>  	
+	   <td>Iya</td>  
+	   <td>Auto  Increment</td>  
 		<td>Nomor auto increment id_user</td>    
 	</tr>  
 	<tr>  
 		<td>username</td>  
-		<td>Varchar</td>   
+		<td>Varchar</td>  
+		<td>30</td> 
+		<td>Tidak</td> 
+		<td>Tidak</td> 
+		<td>-</td> 
 		<td>Berisi nama atau nomor untuk dapat mengakses aplikasi</td>   
 	</tr>  
 	<tr>  
 		<td>password</td>  
-		<td>Varchar</td>   
+		<td>Varchar</td>  
+		<td>10</td> 
+		<td>Tidak</td> 
+		<td>Tidak</td> 
+		<td>-</td>  
 		<td>Berisi password untuk dapat mengakses aplikasi </td>   
 	</tr>  
 	<tr>  
 		<td>nama_user</td>  
 		<td>Varchar</td>   
+		<td>30</td> 
+		<td>Tidak</td> 
+		<td>Tidak</td> 
+		<td>-</td> 
 		<td>Untuk login dan mendaftar aplikasi </td>   
 	</tr>   
 	<tr>  
 		<td>email</td>   
-		<td>Varchar</td>   
+		<td>Varchar</td>  
+		<td>20</td> 
+		<td>Tidak</td> 
+		<td>Tidak</td> 
+		<td>-/td>  
 		<td>Berisi alamat email user</td>   
 	</tr>
 	<tr>  
 		<td>gambar</td>  
-		<td>Varchar</td>   
+		<td>Varchar</td>  
+		<td>20</td> 
+		<td>Tidak</td> 
+		<td>Tidak</td> 
+		<td>-</td>  
 		<td>Berisi gambar user</td>   
 	</tr>   
+	<tr>
+<td>Kategori</td>
+<td>Varchar</td>
+<td>20</td> 
+<td>Tidak</td> 
+<td>Tidak</td> 
+<td>-</td> 
+<td>Berisi pengguna akan login sebagai siapa (sebagai admin atau sebagai user)</td>
+</tr>
 </table>
 
 <ul>
@@ -220,26 +253,46 @@ Politeknik Negeri Indramayu<br>
 	<tr>  
 		<td><strong>Data Item</strong></td>  
 		<td><strong>Type</strong></td>  
+		<td><strong>Volume</strong></td>  
+		<td><strong>Laju</strong></td>  
+		<td><strong>Primary key</strong></td>  
+		<td><strong>Constrain Integrity</strong></td>  
 		<td><strong>Deskripsi</strong></td>
 	</tr>  
 	<tr>  
 		<td>id_budaya</td>  
 		<td>Integer</td>  
+		<td>5</td>
+		<td>Primary Key</td>
+		<td>Iya</td>
+		<td>Auto Increment</td>
 		<td>Nomor auto increment id_budaya</td>    
 	</tr>    
 	<tr>  
 		<td>nama</td>   
 		<td>Varchar</td>   
+		<td>30</td>
+		<td>Tidak</td>
+		<td>Tidak</td>
+		<td>-</td>
 		<td>Berisi nama budaya </td>   
 	</tr>   
 	<tr>  
 		<td>deskripsi</td>   
-		<td>Varchar</td>   
+		<td>Teks</td>   
+		<td>100</td>
+		<td>Tidak</td>
+		<td>Tidak</td>
+		<td>-</td>
 		<td>Berisi deskripsi tentang budaya  </td>   
 	</tr>   
 	<tr>  
 		<td>gambar</td>  
 		<td>Varchar</td>   
+		<td>20</td>
+		<td>Tidak</td>
+		<td>Tidak</td>
+		<td>-</td>
 		<td>Berisi gambar kebudayaan  </td>   
 	</tr>   
 </table>
@@ -254,31 +307,55 @@ Politeknik Negeri Indramayu<br>
 	<tr>  
 		<td><strong>Data Item</strong></td>  
 		<td><strong>Type</strong></td>  
+			<td><strong>Volume</strong></td>  
+		<td><strong>Laju</strong></td>  
+		<td><strong>Primary key</strong></td>  
+		<td><strong>Constrain Integrity</strong></td> 
 		<td><strong>Deskripsi</strong></td>
 	</tr>  
 	<tr>  
 		<td>id_pariwisata</td>  
-		<td>Integer</td>  
+		<td>Integer</td> 
+		<td>5</td> 
+		<td>Primary key</td> 
+		<td>Iya</td> 
+		<td>Auto Increment</td> 
 		<td>Nomor auto increment id_pariwisata</td>    
 	</tr>    
 	<tr>  
 		<td>nama</td>  
 		<td>Varchar</td>   
+		<td>30</td> 
+		<td>Tidak</td> 
+		<td>Tidak</td> 
+		<td>-</td> 
 		<td>Berisi nama pariwisata </td>   
 	</tr>   
 	<tr>  
 		<td>deskripsi</td>  
-		<td>Varchar</td>   
+		<td>Teks</td>   
+		<td>100</td> 
+		<td>Tidak</td> 
+		<td>Tidak</td> 
+		<td>-</td> 
 		<td>Berisi deskripsi tentang pariwisata  </td>   
 	</tr>   
 	<tr>  
 		<td>gambar</td>  
 		<td>Varchar</td>   
+		<td>20</td> 
+		<td>Tidak</td> 
+		<td>Tidak</td> 
+		<td>-</td> 
 		<td>Berisi gambar pariwisata  </td>   
 	</tr>  
 	<tr>  
 		<td>id_jenis</td>  
-		<td>Integer</td>   
+		<td>Integer</td>
+		<td>5</td> 
+		<td>Foreign key</td> 
+		<td>Tidak</td> 
+		<td>-</td>    
 		<td>Sebagai foreign key pada tabel pariwisata</td>   
 	</tr>   
 </table>
@@ -294,16 +371,28 @@ Politeknik Negeri Indramayu<br>
 	<tr>  
 		<td><strong>Data Item</strong></td>  
 		<td><strong>Type</strong></td>  
+		<td><strong>Volume</strong></td>  
+		<td><strong>Laju</strong></td>  
+		<td><strong>Primary key</strong></td>  
+		<td><strong>Constrain Integrity</strong></td> 
 		<td><strong>Deskripsi</strong></td>
 	</tr>  
 	<tr>
 		<td>id_jenis</td>  
 		<td>Integer</td>   
+		<td>5</td>
+		<td>Primary Key</td>
+		<td>Iya</td>
+		<td>Auto increment</td>
 		<td> Nomor auto increment pada tabel jenis pariwisata  </td>   
 	</tr>  
 	<tr>
 		<td>nama</td>  
-		<td>Varchar</td>   
+		<td>Varchar</td> 
+		<td>30</td>
+		<td>Tidak</td>
+		<td>Tidak</td>
+		<td>-</td>  
 		<td>Sebagai foreign key pada tabel pariwisata </td>   
 	</tr>   
 </table>
@@ -318,35 +407,58 @@ Politeknik Negeri Indramayu<br>
 	<tr>  
 		<td><strong>Data Item</strong></td>  
 		<td><strong>Type</strong></td>  
+		<td><strong>Volume</strong></td>  
+		<td><strong>Laju</strong></td>  
+		<td><strong>Primary key</strong></td>  
+		<td><strong>Constrain Integrity</strong></td> 
 		<td><strong>Deskripsi</strong></td>
 	</tr>  
 	<tr>  
 		<td>id_kegiatan</td>  
 		<td>Integer</td>  
+		<td>5</td>
+		<td>Primary key</td>
+		<td>Iya</td>
+		<td>Auto Increment</td>
 		<td>Nomor auto increment id_kegiatan</td>    
 	</tr>    
 	<tr>  
 		<td>nama</td>  
-		<td>Varchar</td>   
+		<td>Varchar</td>  
+		<td>30</td> 
+		<td>Tidak</td> 
+		<td>Tidak</td> 
+		<td>-</td> 
 		<td>Berisi nama event </td>   
 	</tr>   
 	<tr>  
 		<td>deskripsi</td>  
-		<td>Varchar</td>   
+		<td>Teks</td>   
+		<td>100</td> 
+		<td>Tidak</td> 
+		<td>Tidak</td> 
+		<td>-</td> 
 		<td>Berisi deskripsi tentang event</td>   
 	</tr>   
 	<tr>  
 		<td>tanggal</td>  
-		<td>Date</td>   
+		<td>Date</td> 
+		<td>-</td> 
+		<td>Tidak</td> 
+		<td>Tidak</td> 
+		<td>-</td>   
 		<td>Berisi tanggal di adakannnya event  </td>   
 	</tr>
 	<tr>  
 		<td>tempat</td>  
 		<td>Varchar</td>   
+		<td>50</td> 
+		<td>Tidak</td> 
+		<td>Tidak</td> 
+		<td>-</td> 
 		<td>Berisi tempat di adakannnya event  </td>   
 	</tr>   
 </table>
-
 
 <ul>
 	<li>
@@ -358,31 +470,55 @@ Politeknik Negeri Indramayu<br>
 	<tr>  
 		<td><strong>Data Item</strong></td>  
 		<td><strong>Type</strong></td>  
+		<td><strong>Volume</strong></td>  
+		<td><strong>Laju</strong></td>  
+		<td><strong>Primary key</strong></td>  
+		<td><strong>Constrain Integrity</strong></td> 
 		<td><strong>Deskripsi</strong></td>
 	</tr>  
 	<tr>  
 		<td>id_pengaduan</td>  
 		<td>Integer</td>  
+		<td>5</td>
+		<td>Primary key</td>
+		<td>Iya</td>
+		<td>Auto Increment</td>
 		<td>Nomor auto increment id_pengaduan</td>    
 	</tr>    
 	<tr>  
 		<td>id_user</td>  
 		<td>Integer</td>   
+		<td>5</td>
+		<td>Foreign key</td>
+		<td>Tidak</td>
+		<td>-</td>
 		<td>nomor auto increment id_user</td>   
 	</tr>
 	<tr>  
 		<td>judul</td>  
-		<td>Varchar</td>   
+		<td>Varchar</td>  
+		<td>30</td>
+		<td>Tidak</td>
+		<td>Tidak</td>
+		<td>-</td> 
 		<td>Berisi judul tentang event</td>   
 	</tr>
 	<tr>  
 		<td>deskripsi</td>  
-		<td>Varchar</td>   
+		<td>Teks</td>   
+		<td>100</td>
+		<td>Tidak</td>
+		<td>Tidak</td>
+		<td>-</td>
 		<td>Berisi deskripsi tentang pengaduan</td>   
 	</tr>
 	<tr>  
 		<td>gambar</td>  
 		<td>Varchar</td>   
+		<td>20</td>
+		<td>Tidak</td>
+		<td>Tidak</td>
+		<td>Tidak</td>
 		<td>Berisi gambar pariwisata  </td>   
 	</tr>
 </table> 
@@ -409,7 +545,8 @@ Politeknik Negeri Indramayu<br>
 </ul>
 <p>DFD Level 1 : Merupakan penjelasan dari DFD Level 0  dan berisi tentang Data User.<br></p>
 
-![enter image description here](https://2.bp.blogspot.com/-cDJy2hE-c9U/WrHOLmYQ1LI/AAAAAAAAAE4/TinICzT4038Y0ZLbUHCVm7QpY4DJEzT3ACLcBGAs/s1600/level+1+user.png)
+![enter image description here](https://1.bp.blogspot.com/-pflsIArQh_s/WtNSv28ch2I/AAAAAAAAAI8/YWO-mPXAURgDZ-GvNjrEHzgQJL5XUKEqgCLcBGAs/s1600/111GGG.png)
+
 </p><p align="center">
 
 <h4><br><strong>3.2.2 Diagram Level 1 </strong></br></h4>
@@ -465,4 +602,238 @@ Politeknik Negeri Indramayu<br>
 
 ![enter image description here](https://1.bp.blogspot.com/-rASx0Mw4IaU/WrHRGaQUREI/AAAAAAAAAFU/4Y3x1oZYmtI_n62zZPLgMwKQHIaH-IZcQCLcBGAs/s1600/level+2+daftar+pariwisata.png)
 </p><p align="center">
+
+<<<<<<< HEAD
+<h4><br><strong>3.3 Modul </strong></br></h4>
+=======
+<h4><br><strong>3.3 Modul</strong></br></h4>
+<h4><strong>3.3.1 Modul Budaya</strong></h4>
+<h4><strong>3.3.1.1 Fungsi Modul</strong></h4>
+<table>
+<tr>
+<th>No</th>
+<th>Fungsi</th>
+<th>Jenis</th>
+<th>Tabel Terkait</th>
+<th>Kategori</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Input Data Budaya</td>
+<td>Import File</td>
+<td>Admin</td>
+<td>Web</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Delete Data Budaya</td>
+<td>Import File atau Form Modal</td>
+<td>Admin</td>
+<td>Web</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Update Data Budaya</td>
+<td>Button Warning</td>
+<td>Admin</td>
+<td>Web</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Menampilkan Data Budaya</td>
+<td>List</td>
+<td>User</td>
+<td>Android</td>
+</tr>
+</table>
+<h4><strong>3.3.1.2 Spesifikasi Layar Utama</strong></h4>
+<h4><strong>3.3.1.3 Spesifikasi Query</strong></h4>
+<table>
+<tr>
+<th>ID Query</th>
+<th>Deskripsi</th>
+<th>Ekspresi Query</th>
+<tr>
+<tr>
+<td>QRY-01</td>
+<td>Input Data Budaya</td>
+<td>INSERT INTO budaya "$id_budaya", "$judul", "$deskripsi", "$gambar";</td>
+</tr>
+<tr>
+<td>QRY-02</td>
+<td>Delete Data Budaya</td>
+<td>Delete from budaya where id_budaya="$id_budaya";</td>
+</tr>
+<tr>
+<td>QRY-03</td>
+<td>Update Data Budaya</td>
+<td>Update budaya SET;</td>
+</tr>
+<tr>
+<td>QRY-04</td>
+<td>Tampil Data Budaya</td>
+<td>Select * from budaya;</td>
+</tr>
+</table>
+<h4><strong>3.3.1.4 Spesifikasi Field Data Layar</strong></h4>
+<table>
+<tr>
+<th>Label</th>
+<th>Field</th>
+<th>Tabel/Query</th>
+<th>Validasi</th>
+<th>Keterangan</th>
+<tr>
+<tr>
+<td>id_budaya</td>
+<td>id_budaya</td>
+<td>budaya</td>
+<td>-</td>
+<td>primary key dan input otomatis sistem</td>
+</tr>
+<tr>
+<td>judul</td>
+<td>judul</td>
+<td>budaya</td>
+<td>-</td>
+<td>judul input manual admin</td>
+</tr>
+<tr>
+<td>deskripsi</td>
+<td>deskripsi</td>
+<td>budaya</td>
+<td>-</td>
+<td>deskripsi input manual admin</td>
+</tr>
+<tr>
+<td>gambar</td>
+<td>gambar</td>
+<td>budaya</td>
+<td>-</td>
+<td>gambar input manual admin</td>
+</tr>
+</table>
+<h4><strong>3.3.1.5 Spesifikasi Objek-Objek pada Layar</strong></h4>
+<h4><strong>3.3.1.6 Spesifikasi Proses/Algoritma</strong></h4>
+
+<h4><strong>3.3.2 Modul Pariwisata</strong></h4>
+<h4><strong>3.3.2.1 Fungsi Modul</strong></h4>
+<table>
+<tr>
+<th>No</th>
+<th>Fungsi</th>
+<th>Jenis</th>
+<th>Tabel Terkait</th>
+<th>Kategori</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Input Data Pariwisata</td>
+<td>Import File</td>
+<td>Admin</td>
+<td>Web</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Delete Data Pariwisata</td>
+<td>Import File atau Form Modal</td>
+<td>Admin</td>
+<td>Web</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Update Data Pariwisata</td>
+<td>Button Warning</td>
+<td>Admin</td>
+<td>Web</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Menampilkan Data Pariwisata</td>
+<td>List</td>
+<td>User</td>
+<td>Android</td>
+</tr>
+</table>
+<h4><strong>3.3.2.2 Spesifikasi Layar Utama</strong></h4>
+<h4><strong>3.3.2.3 Spesifikasi Query</strong></h4>
+<h4><strong>3.3.2.4 Spesifikasi Field Data Layar</strong></h4>
+<h4><strong>3.3.2.5 Spesifikasi Objek-Objek pada Layar</strong></h4>
+<h4><strong>3.3.2.6 Spesifikasi Proses/Algoritma</strong></h4>
+
+<h4><strong>3.3.3 Modul Kegiatan</strong></h4>
+<h4><strong>3.3.3.1 Fungsi Modul</strong></h4>
+<table>
+<tr>
+<th>No</th>
+<th>Fungsi</th>
+<th>Jenis</th>
+<th>Tabel Terkait</th>
+<th>Kategori</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Input Data Kegiatan</td>
+<td>Import File</td>
+<td>Admin</td>
+<td>Web</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Delete Data Kegiatan</td>
+<td>Import File atau Form Modal</td>
+<td>Admin</td>
+<td>Web</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Update Data Kegiatan</td>
+<td>Button Warning</td>
+<td>Admin</td>
+<td>Web</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Menampilkan Data Kegiatan</td>
+<td>List</td>
+<td>User</td>
+<td>Android</td>
+</tr>
+</table>
+<h4><strong>3.3.3.2 Spesifikasi Layar Utama</strong></h4>
+<h4><strong>3.3.3.3 Spesifikasi Query</strong></h4>
+<h4><strong>3.3.3.4 Spesifikasi Field Data Layar</strong></h4>
+<h4><strong>3.3.3.5 Spesifikasi Objek-Objek pada Layar</strong></h4>
+<h4><strong>3.3.3.6 Spesifikasi Proses/Algoritma</strong></h4>
+
+<h4><strong>3.3.4 Modul Pengaduan</strong></h4>
+<h4><strong>3.3.4.1 Fungsi Modul</strong></h4>
+<table>
+<tr>
+<th>No</th>
+<th>Fungsi</th>
+<th>Jenis</th>
+<th>Tabel Terkait</th>
+<th>Kategori</th>
+</tr>
+<td>1</td>
+<td>Delete Data Pengaduan</td>
+<td>Import File atau Form Modal</td>
+<td>Admin</td>
+<td>Web</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Mengisi Form Pengaduan</td>
+<td>Form</td>
+<td>User</td>
+<td>Android</td>
+</tr>
+</table>
+<h4><strong>3.3.4.2 Spesifikasi Layar Utama</strong></h4>
+<h4><strong>3.3.4.3 Spesifikasi Query</strong></h4>
+<h4><strong>3.3.4.4 Spesifikasi Field Data Layar</strong></h4>
+<h4><strong>3.3.4.5 Spesifikasi Objek-Objek pada Layar</strong></h4>
+<h4><strong>3.3.4.6 Spesifikasi Proses/Algoritma</strong></h4>
+>>>>>>> b77fbfe196bdded1bfc14b8f4e84c675d846d59d
 
