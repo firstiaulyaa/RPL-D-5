@@ -194,7 +194,98 @@ Politeknik Negeri Indramayu<br>
 </table>
 
 <ul><li><strong>Admin (Web)</strong></li></ul>  
-<p> Tahap revisi <p>
+<table>
+<tr>
+	<td> 
+		<img src="https://lh3.googleusercontent.com/-V5CSPnKtScY/WtNAclDqyCI/AAAAAAAAFuI/XWnLvGqlw-g_MuclX5XPTd2_ySPotN0sQCL0BGAs/w530-d-h352-n-rw/login.PNG=s100" alt="Login">
+		<p>Ini merupakan mockup dari halaman Login, dimana Admin harus menginputkan username dan password agar bisa Log in</p>
+	</td>
+	<td>
+		<img src="https://lh3.googleusercontent.com/-EKiX7NcnRcA/WtNAEvrJnFI/AAAAAAAAFsM/sCvuETFqCCM2q-z7CPwpirOzm6Wf7-mmACL0BGAs/w530-d-h399-n-rw/dashboard.PNG=s100" alt="Dashboard">
+		<p>Ini merupakan mockup dari Dashboard, dimana terdapat navigasi yang terletak di sebelah kiri. Jika ingin melihat data maka memilih menu yang ada di navigasi.</p>
+	</td>
+</tr>
+
+<tr>
+	<td>  
+		<img src="https://lh3.googleusercontent.com/-1sY_KfUhHao/WtM_9NS24OI/AAAAAAAAFr0/JvlgyB3WaNIMEC6wF0ecV8dIy_5SFBwKgCL0BGAs/w530-d-h332-n-rw/budaya.PNG=s100" alt="Budaya">
+		<p>Ini merupakan mockup dari halaman Budaya. Pada halaman ini terdapat tabel data budaya, button refresh, tambah data, edit, hapus, dan pencarian.</p>
+	</td>
+	<td>  
+		<img src="https://lh3.googleusercontent.com/-rSN5o6Yedfs/WtNBAvegvrI/AAAAAAAAFxQ/FU2vjsiHzPAUv-SHuDkoPh1MBHZE8flVwCL0BGAs/w530-d-h456-n-rw/wisata%2Balam.PNG=s100" alt="wisata alam">
+		<p>Ini merupakan mockup dari halaman Pariwisata > Wisata Alam. Pada halaman ini terdapat tabel data wisata alam, button refresh, tambah data, edit, hapus, dan pencarian.</p>
+	</td>
+</tr>
+
+<tr>
+	<td>  
+		<img src="https://lh3.googleusercontent.com/-KS91S4f42Ds/WtNBFrBHzEI/AAAAAAAAFx0/vulwYrMMJKERNc7cd2SR5_R6P_Sn76KOgCL0BGAs/w530-d-h449-n-rw/wisata%2Bbuatan.PNG=s100" alt="Wisata Buatan">
+		<p>Ini merupakan mockup dari halaman Pariwisata > Wisata Buatan. Pada halaman ini terdapat tabel data wisata buatan, button refresh, tambah data, edit, hapus, dan pencarian.</p>
+	</td>
+	<td>  
+		<img src="https://lh3.googleusercontent.com/-JwwmIeyHtW4/WtNAYafsqNI/AAAAAAAAFts/LTYNWZh7rBQlfaphv_02VY8H7DBjP99BwCL0BGAs/w530-d-h455-n-rw/kuliner.PNG=s100" alt="kuliner">
+		<p>Ini merupakan mockup dari halaman Pariwisata > Kuliner. Pada halaman ini terdapat tabel data kuliner, button refresh, tambah data, edit, hapus, dan pencarian.</p>
+	</td>
+</tr>
+
+
+<tr>
+	<td>  
+		<img src="https://lh3.googleusercontent.com/-DiZKwnSmFVk/WtNAhZFq39I/AAAAAAAAFug/VulQcbXsYzUXh7jDID3d-eBQL-KxL2VfwCL0BGAs/w530-d-h452-n-rw/restokafe.PNG=s100" alt="restokafe">
+		<p>Ini merupakan mockup dari halaman Pariwisata > Resto & Kafe. Pada halaman ini terdapat tabel data resto & kafe, button refresh, tambah data, edit, dan hapus.</p>
+	</td>
+	<td>  
+		<img src="https://lh3.googleusercontent.com/-tLJZp8_z1IM/WtNAPMx57iI/AAAAAAAAFs8/4oY1IFbdI_gXRyGRU7gjFr0_reDoOkKlQCL0BGAs/w530-d-h455-n-rw/hotel.PNG=s100" alt="hotel">
+		<p>Ini merupakan mockup dari halaman Pariwisata > Hotel. Pada halaman ini terdapat tabel data hotel, button refresh, tambah data, edit, hapus, dan pencarian.</p>
+	</td>
+</tr>
+
+<tr>
+	<td>  
+		<img src="https://lh3.googleusercontent.com/-JlQYkY2TTWs/WtNA7EfeKmI/AAAAAAAAFwo/lxcRWm0Keb8EDJEaNnCggwsVhVGXwPwwgCL0BGAs/w530-d-h446-n-rw/travel.PNG=s100" alt="Travel">
+		<p>Ini merupakan mockup dari halaman Pariwisata > Travel. Pada halaman ini terdapat tabel data travel, button refresh, tambah data, edit, hapus, dan pencarian.</p>
+	</td>
+	<td>  
+		<img src="https://lh3.googleusercontent.com/--M8_QqOVQ4c/WtNFTZ-o8jI/AAAAAAAAF1E/pfrnjLOCnk48Nbr-nSdhGD6F7njpV-pxACL0BGAs/w530-d-h327-n-rw/kegiatan.PNG=s100" alt="kegiatan">
+		<p>Ini merupakan mockup dari halaman Kegiatan. Pada halaman ini terdapat tabel data kegiatan, button refresh, tambah data, edit, hapus, dan pencarian.</p>
+	</td>
+</tr>
+
+<tr>
+	<td>  
+		<img src="https://lh3.googleusercontent.com/-NtVtv3Z5UEc/WtNGNL6hI5I/AAAAAAAAF2Y/_MQNNjizP5IRCJcDCJjww3f5yn2aM83vgCL0BGAs/w530-d-h333-n-rw/data%2Buser.PNG=s100" alt="data user">
+		<p>Ini merupakan mockup dari halaman User. Pada halaman ini terdapat tabel data user. Untuk data admin dan user dijadikan dalam satu tabel. Admin hanya bisa melihat data user dan admin.</p>
+	</td>
+	<td>  
+		<img src="https://lh3.googleusercontent.com/-hj3EoEM1Dco/WtNJtTd6lcI/AAAAAAAAF3E/qVeGj3LtbuwdwnZ_HZ2_G0R8NgEEavW4ACL0BGAs/w530-d-h327-n-rw/pengaduan.PNG=s100" alt="pengaduan">
+		<p>Ini merupakan mockup dari halaman Pengaduan. Pada halaman ini terdapat tabel data pengaduan. Data pengaduan yang dikirim User melalui aplikasi Android terkirim dan tersimpan di data pengaduan yang ada di web (Admin).</p>
+	</td>
+</tr>
+
+<tr>
+	<td>  
+		<img src="https://lh3.googleusercontent.com/-CbWNz5BGRKw/WtNAmGlSmlI/AAAAAAAAFu4/61UnLVQMRw8IF99Y-DBJDgHqkZr_BeWtQCL0BGAs/w530-d-h342-n-rw/tambah%2Badmin.PNG=s100" alt="tambah admin">
+		<p>Ini merupakan mockup dari halaman Tambah Admin. Pada halaman ini terdapat form untuk menambahkan admin. Dan juga terdapat button Simpan untuk menyimpan data dan Batal untuk kembali ke Data User</p>
+	</td>
+	<td>  
+		<img src="https://lh3.googleusercontent.com/-Y7YlxHNsT7w/WtNA18JZsRI/AAAAAAAAFwM/c8WfJAr7xrUEQ98ggLs19Xy-hBQ5xYaewCL0BGAs/w530-d-h350-n-rw/tambah%2Bpariwisata.PNG=s100" alt="tambah pariwisata">
+		<p>Ini merupakan mockup dari halaman Tambah Data Pariwisata. Pada halaman ini terdapat form untuk menambahkan pariwisata. Dan juga terdapat button Simpan untuk menyimpan data dan Batal untuk kembali ke halaman sebelumnya</p>
+	</td>
+</tr>
+
+<tr>
+	<td>  
+		<img src="https://lh3.googleusercontent.com/-P_hkx-GffVs/WtNArO9ATkI/AAAAAAAAFvU/CMyGQ_SjKI4svHlYgzbMftDd0uw7a6qJQCL0BGAs/w530-d-h349-n-rw/tambah%2Bbudaya.PNG=s100" alt="tambah budaya">
+		<p>Ini merupakan mockup dari halaman Tambah Data Budaya. Pada halaman ini terdapat form untuk menambahkan budaya. Dan juga terdapat button Simpan untuk menyimpan data dan Batal untuk kembali ke halaman sebelumnya</p>
+	</td>
+	<td>  
+		<img src="https://lh3.googleusercontent.com/-rU4MBt3qe44/WtNAwxU5w5I/AAAAAAAAFvw/NxQfp4G2RWQ1pLxMYO0HXwaKmjuJ3e0cgCL0BGAs/w530-d-h352-n-rw/tambah%2Bkegiatan.PNG=s100" alt="tambah kegiatan">
+		<p>Ini merupakan mockup dari halaman Tambah Data Kegiatan. Pada halaman ini terdapat form untuk menambahkan kegiatan. Dan juga terdapat button Simpan untuk menyimpan data dan Batal untuk kembali ke halaman sebelumnya.</p>
+	</td>
+</tr>
+</table>
+
+
 
 
 <h4><strong>2.1.3 Antarmuka perangkat keras</strong><br></h4>  
@@ -1260,11 +1351,6 @@ Xref: Bagian 3.2.12, User Mengedit User<p></p>
 		<td>deskripsi</td>  
 		<td>Varchar</td>   
 		<td>Berisi deskripsi tentang pengaduan</td>   
-	</tr>
-	<tr>  
-		<td>gambar</td>  
-		<td>Varchar</td>   
-		<td>Berisi gambar pariwisata  </td>   
 	</tr>
 </table> 
 
