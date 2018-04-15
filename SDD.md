@@ -85,7 +85,7 @@ Politeknik Negeri Indramayu<br>
 1.5 Ikhtisar Dokumen<br>
 
 <strong>Bab II Deskripsi Perancangan Global</strong><br>
-2.1 Rancangan Lingkungan Implementasi<br><br>
+2.1 Rancangan Lingkungan Implementasi<br>
 2.2 Deskripsi Data<br>
 2.2.1 Definisi Domain<br>
 2.2.2 Conceptual Data Model<br>
@@ -97,20 +97,20 @@ Politeknik Negeri Indramayu<br>
 3.1 Diagram Konteks<br>
 3.1.1 DFD Level 0<br>
 3.1.2 DFD Level 1 Proses M<br>
-3.1.3 DFD Level 1 Proses N<br><br>
+3.1.3 DFD Level 1 Proses N<br>
 
 3.2 Deskripsi Rinci Tabel<br>
 3.2.1 Table A<br>
 3.2.2 Table B<br><br>
 
-3.3 Deskripsi Rinci Modul<br><br>
+3.3 Deskripsi Rinci Modul<br>
 3.3.1 D Modul<br>
 3.3.1.1 Fungsi Modul<br>
 3.3.1.2 Spesifikasi Layar Utama<br>
 3.3.1.3 Spesifikasi Query<br>
 3.3.1.4 Spesifikasi Field Data Layar<br>
 3.3.1.5 Spesifikasi Obyek Pada Layer<br>
-3.3.1.6 Spesifikasi Proses/Algoritma<br><br>
+3.3.1.6 Spesifikasi Proses/Algoritma<br>
 3.4 Matriks Keturunan<br>
 
 
