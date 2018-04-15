@@ -1,4 +1,5 @@
 ﻿
+
 <h1 align="center" id="software-requirements-specification">SOFTWARE DESIGN DOCUMENT</h1>  
 <p align="center"><strong>Version 1.0</strong><br> 
 <p align="center"><strong> 15 Maret 2018<br>  </strong><br>
@@ -508,7 +509,71 @@ Politeknik Negeri Indramayu<br>
 </table>
 <h4><strong>3.3.1.2 Spesifikasi Layar Utama</strong></h4>
 <h4><strong>3.3.1.3 Spesifikasi Query</strong></h4>
+<table>
+<tr>
+<th>ID Query</th>
+<th>Deskripsi</th>
+<th>Ekspresi Query</th>
+<tr>
+<tr>
+<td>QRY-01</td>
+<td>Input Data Budaya</td>
+<td>INSERT INTO budaya "$id_budaya", "$judul", "$deskripsi", "$gambar";</td>
+</tr>
+<tr>
+<td>QRY-02</td>
+<td>Delete Data Budaya</td>
+<td>Delete from budaya where id_budaya="$id_budaya";</td>
+</tr>
+<tr>
+<td>QRY-03</td>
+<td>Update Data Budaya</td>
+<td>Update budaya SET;</td>
+</tr>
+<tr>
+<td>QRY-04</td>
+<td>Tampil Data Budaya</td>
+<td>Select * from budaya;</td>
+</tr>
+</table>
 <h4><strong>3.3.1.4 Spesifikasi Field Data Layar</strong></h4>
+<table>
+<tr>
+<th>Label</th>
+<th>Field</th>
+<th>Tabel/Query</th>
+<th>Validasi</th>
+<th>Keterangan</th>
+<tr>
+<tr>
+<td>id_budaya</td>
+<td>id_budaya</td>
+<td>budaya</td>
+<td>-</td>
+<td>primary key dan input otomatis sistem</td>
+</tr>
+<tr>
+<td>judul</td>
+<td>judul</td>
+<td>budaya</td>
+<td>-</td>
+<td>judul input manual admin</td>
+</tr>
+<tr>
+<td>deskripsi</td>
+<td>deskripsi</td>
+<td>budaya</td>
+<td>-</td>
+<td>deskripsi input manual admin</td>
+</tr>
+<tr>
+<td>gambar</td>
+<td>gambar</td>
+<td>budaya</td>
+<td>-</td>
+<td>gambar input manual admin</td>
+</tr>
+</table>
 <h4><strong>3.3.1.5 Spesifikasi Objek-Objek pada Layar</strong></h4>
 <h4><strong>3.3.1.6 Spesifikasi Proses/Algoritma</strong></h4>
 
