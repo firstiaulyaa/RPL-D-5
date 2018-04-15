@@ -17,12 +17,12 @@ Politeknik Negeri Indramayu<br>
 2018</strong></p>
 
 
-<h3><br><strong>1. PENDAHULUAN</strong></br></h3>
-<h2><br><strong>1.1 Tujuan Penulisan Dokumen</strong></br></h2>
+<h2><br><strong>1. PENDAHULUAN</strong></br></h3>
+<h3><br><strong>1.1 Tujuan Penulisan Dokumen</strong></br></h2>
 <p>Tujuan dibuatnya dokumen SDD ini adalah untuk menjelaskan tentang  -------- apa saja yang digunakan pada Aplikasi BUSAYU (Budaya dan Pariwisata Kab. Indramayu) seperti DFD dan lain-lain.</p>  
 
 
-<h2><br><strong>1.2 Lingkup Masalah</strong></br></h2>
+<h3><br><strong>1.2 Lingkup Masalah</strong></br></h2>
 <p>Sistem dari perangkat lunak ini akan menjadi Aplikasi Publik, yaitu aplikasi yang akan digunakan oleh masyarakat khusunya masyarakat Kab. Indramayu. BUSAYU (Aplikasi Budaya dan Pariwisata Kab, Indramayu) adalah aplikasi berbasis Android yang dirancang untuk mengetahui dan mempermudah pengguna untuk mencari informasi tentang kebudayaan, pariwisata, dan kegiatan yang ada di Indramayu. Dan pengguna juga bisa mengajukan pengaduan tentang kebudayaan dan pariwisata di Indramayu.<br></p>  
 
 <h3><br><strong>1.3 Definisi dan Istilah</strong></br></h3>
@@ -67,7 +67,6 @@ Politeknik Negeri Indramayu<br>
 		</tr>  
 	</tbody>
 </table>
-<br>
 
 <h3><br><strong>1.4 Referensi</strong></br></h3>
 <ul>
@@ -85,35 +84,34 @@ Politeknik Negeri Indramayu<br>
 1.4 Referensi<br>
 1.5 Ikhtisar Dokumen<br>
 
-<strong>Bab II Deskripsi Perancangan Global</strong>
-2.1 Rancangan Lingkungan Implementasi
+<strong>Bab II Deskripsi Perancangan Global</strong><br>
+2.1 Rancangan Lingkungan Implementasi<br><br>
+2.2 Deskripsi Data<br>
+2.2.1 Definisi Domain<br>
+2.2.2 Conceptual Data Model<br>
+2.2.3 Physical Data Model<br>
+2.2.4 Daftar Tabel Aplikasi<br><br>
+2.3 Deskripsi Modul<br>
 
-2.2 Deskripsi Data
-2.2.1 Definisi Domain/type
-2.2.2 Conceptual Data Model
-2.2.3 Physical Data Model
-2.2.4 Daftar Tabel Aplikasi
-2.3 Deskripsi Modul
+<strong>Bab III Deskripsi Perancangan Rinci</strong><br>
+3.1 Diagram Konteks<br>
+3.1.1 DFD Level 0<br>
+3.1.2 DFD Level 1 Proses M<br>
+3.1.3 DFD Level 1 Proses N<br><br>
 
-<strong>Bab III Deskripsi Perancangan Rinci</strong>
-3.1 Diagram Konteks
-3.1.1 DFD Level 0
-3.1.2 DFD Level 1 Proses M
-3.1.3 DFD Level 1 Proses N
+3.2 Deskripsi Rinci Tabel<br>
+3.2.1 Table A<br>
+3.2.2 Table B<br><br>
 
-3.2 Deskripsi Rinci Tabel
-3.2.1 Table A
-3.2.2 Table B
-
-3.3 Deskripsi Rinci Modul
-3.3.1 D Modul
-3.3.1.1 Fungsi Modul
-3.3.1.2 Spesifikasi Layar Utama
-3.3.1.3 Spesifikasi Query
-3.3.1.4 Spesifikasi Field Data Layar
-3.3.1.5 Spesifikasi Obyek Pada Layer
-3.3.1.6 Spesifikasi Proses/Algoritma
-3.4 Matriks Keturunan
+3.3 Deskripsi Rinci Modul<br><br>
+3.3.1 D Modul<br>
+3.3.1.1 Fungsi Modul<br>
+3.3.1.2 Spesifikasi Layar Utama<br>
+3.3.1.3 Spesifikasi Query<br>
+3.3.1.4 Spesifikasi Field Data Layar<br>
+3.3.1.5 Spesifikasi Obyek Pada Layer<br>
+3.3.1.6 Spesifikasi Proses/Algoritma<br><br>
+3.4 Matriks Keturunan<br>
 
 
 <h2><br><strong>2. DESKRIPSI PERANCANGAN GLOBAL</strong></br></h2>
