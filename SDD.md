@@ -1,6 +1,7 @@
 ﻿
 
 
+
 <h1 align="center" id="software-requirements-specification">SOFTWARE DESIGN DOCUMENT</h1>  
 <p align="center"><strong>Version 1.1</strong><br> 
 <p align="center"><strong> 15 Maret 2018<br>  </strong><br>
@@ -958,6 +959,67 @@ Politeknik Negeri Indramayu<br>
 </table>
 <h4><strong>3.3.4.2 Spesifikasi Layar Utama</strong></h4>
 <h4><strong>3.3.4.3 Spesifikasi Query</strong></h4>
+<table>
+<tr>
+<th>ID Query</th>
+<th>Deskripsi</th>
+<th>Ekspresi Query</th>
+<tr>
+<tr>
+<td>QRY-01</td>
+<td>Delete Data Pengaduan</td>
+<td>Delete from pengaduan where id_pengaduan="$id_pengaduan";</td>
+</tr>
+<tr>
+<td>QRY-02</td>
+<td>Mengisi Data Pengaduan</td>
+<td>INSERT INTO Pengaduan;</td>
+</tr>
+</table>
 <h4><strong>3.3.4.4 Spesifikasi Field Data Layar</strong></h4>
+<table>
+<tr>
+<th>Label</th>
+<th>Field</th>
+<th>Tabel/Query</th>
+<th>Validasi</th>
+<th>Keterangan</th>
+<tr>
+<tr>
+<td>id_pengaduan</td>
+<td>id_pengaduan</td>
+<td>pengaduan</td>
+<td>-</td>
+<td>primary key dan input otomatis sistem</td>
+</tr>
+<tr>
+<td>id_user</td>
+<td>id_user</td>
+<td>user</td>
+<td>-</td>
+<td>foreign key dari tabel user</td>
+</tr>
+<tr>
+<td>judul</td>
+<td>judul</td>
+<td>pengaduan</td>
+<td>-</td>
+<td>diinputkan oleh user</td>
+</tr>
+<tr>
+<td>deskripsi</td>
+<td>deskripsi</td>
+<td>pengaduan</td>
+<td>-</td>
+<td>diinputkan oleh user</td>
+</tr>
+<tr>
+<td>gambar</td>
+<td>gambar</td>
+<td>pengaduan</td>
+<td>-</td>
+<td>diinputkan oleh user</td>
+</tr>
+</table>
 <h4><strong>3.3.4.5 Spesifikasi Objek-Objek pada Layar</strong></h4>
 <h4><strong>3.3.4.6 Spesifikasi Proses/Algoritma</strong></h4>
