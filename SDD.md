@@ -98,11 +98,9 @@ Politeknik Negeri Indramayu<br>
 3.1.1 DFD Level 0<br>
 3.1.2 DFD Level 1 Proses M<br>
 3.1.3 DFD Level 1 Proses N<br>
-
 3.2 Deskripsi Rinci Tabel<br>
 3.2.1 Table A<br>
-3.2.2 Table B<br><br>
-
+3.2.2 Table B<br>
 3.3 Deskripsi Rinci Modul<br>
 3.3.1 D Modul<br>
 3.3.1.1 Fungsi Modul<br>
@@ -115,7 +113,7 @@ Politeknik Negeri Indramayu<br>
 
 
 <h2><br><strong>2. DESKRIPSI PERANCANGAN GLOBAL</strong></br></h2>
-<h3><br><strong>2.1 Rancangan Lingkungan Implementasi</strong></br></h3>
+<h3><strong>2.1 Rancangan Lingkungan Implementasi</strong></h3>
 
 <table>  
 	<thead>  
@@ -141,9 +139,7 @@ Politeknik Negeri Indramayu<br>
 			<td>2.</td>  
 			<td>DBMS</td>
 			<td>
-				<ul>
-				<li>MySQL</li>
-				</ul>
+				MySQL
 			</td>
 		</tr>  
 		<tr>  
@@ -393,21 +389,21 @@ Politeknik Negeri Indramayu<br>
 
 
 <h2><br><strong>3. PENJELASAN DEKOMPOSISI</strong></br></h2>
-
-<h3><br><strong>3.1 Dekomposisi Model</strong></br></h3>
-<h4><br><strong>3.1.1 Diagram Konteks</strong></br></h4>
+<h3><strong>3.1 Dekomposisi Model</strong></h3>
+<h4><strong>3.1.1 Diagram Konteks</strong></h4>
 <p>Diagram konteks merupakan tingkatan tertinggi dalam diagram aliran data dan hanya memuat satu proses, menunjukkan sistem secara keseluruhan. Berikut merupakan diagram konteks dari aplikasi ini. </p>
 <p align="center">  
 	<img src="https://lh3.googleusercontent.com/-L6CJeZHFHZQ/WqTi-IVUFZI/AAAAAAAAAKc/j44KbgZwpywg3PX7kgJXQlybxX4hodvXQCL0BGAs/w530-d-h288-n/diagram%2Bkonteks.png=s300" alt="enter image description here" title="diagram konteks"></p>
 <p align="center">
 
 <h4><br><strong>3.1.2 Diagram Level 0</strong></br></h4>
-<p>Diagram 0 adalah diagram yang menggambarkan proses dari data flow diagram. Diagram 0 memberikan pandangan secara menyeluruh mengenai sistem yang ditangani, menunjukkan tentang fungsi-fungsi utama atau proses yang ada, aliran data, dan eksternal entity. Berikut merupakan diagram 0 dari aplikasi ini.</p><p align="center">
-![enter image description here](https://3.bp.blogspot.com/-hNd4NI8q9H0/WrYO9X72pqI/AAAAAAAAAGA/vLy5oHTnjo8t5ru4H_zpE2DAsbkwbX3QACLcBGAs/s1600/nol.png)</p>
+<p>Diagram 0 adalah diagram yang menggambarkan proses dari data flow diagram. Diagram 0 memberikan pandangan secara menyeluruh mengenai sistem yang ditangani, menunjukkan tentang fungsi-fungsi utama atau proses yang ada, aliran data, dan eksternal entity. Berikut merupakan diagram 0 dari aplikasi ini.</p>
+<p align="center">
+<img src="https://3.bp.blogspot.com/-hNd4NI8q9H0/WrYO9X72pqI/AAAAAAAAAGA/vLy5oHTnjo8t5ru4H_zpE2DAsbkwbX3QACLcBGAs/s1600/nol.png=s300" alt="diagram0" title="diagram0">
 <p align="center">
 
-<h3><br><strong>3.2 Dekompoaisi Proses Konkuren</strong></br></h3>
-<h4><br><strong>3.2.1 Diagram Level 1 </strong></br></h4>
+<h3><br><strong>3.2 Dekomposisi Proses Konkuren</strong></br></h3>
+<h4><strong>3.2.1 Diagram Level 1 </strong></h4>
 <ul>
 	<li><p><strong>User</p></li>
 </ul>
