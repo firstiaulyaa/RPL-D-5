@@ -1,5 +1,5 @@
 <h1 align="center" id="software-requirements-specification">SOFTWARE PROJECT MANAGEMENT PLAN</h1>  
-<p align="center"><strong>Version 1.3<br>  
+<p align="center"><strong>Version 1.4<br>  
 14 April  2018</strong><br>  
 </p><p align="center">  
 <img src="https://lh3.googleusercontent.com/qEHYPVzo0kjd8ikhrCIF4cI_PhR8pmK5vDU14oEp9OPyVT-eA54cVp8C9iyJ8rKDfH8OR1dnT1zv=s300" alt="enter image description here" title="logo">  
@@ -230,29 +230,41 @@ Semua dokumen pendukung proyek akan selesai dalam fase yang sesuai.<br><br>
 <td>1</td>
 <td>1603098</td>
 <td>Firsti Aulya K K</td>
-<td>Project Manager, UI/UX Designer</td>
+<td>Modul Pengaduan
+<p>Modul Profil Pengguna</p>
+<p>Modul Kuliner</p></td>
 </tr>
 <tr>
 <td>2</td>
 <td>1603094</td>
 <td>Diyanti</td>
-<td>Database Engineer, System Analysment</td>
+<td>Modul Kegiatan
+<p>Modul Otentikasi<br>
+<p>Modul Travel</p></td>
 </tr>
 <tr>
 <td>3</td>
 <td>1603097</td>
 <td>Firmansyah</td>
-<td>Android Developer</td>
+<td>
+<p>Modul Pariwisata</p>
+<p>Modul Resto & Kafe</p>
+<p>Modul Hotel</p>
+</td>
 </tr>
 <tr>
 <td>4</td>
 <td>1603111</td>
 <td>Rizky Alief S</td>
-<td>Web Developer</td>
+<td>Modul Budaya
+<p>Modul Wisata Buatan</p>
+<p>Modul Wisata Alam</p></td>
 </tr>
 </tbody>
 </table>
 <br>
+
+![enter image description here](https://2.bp.blogspot.com/-QMic5KwIrC4/WtMOkzTqMiI/AAAAAAAAAII/9l0JBQEqcsYigKsSmOHWeOImnB-9Q_j5QCLcBGAs/s1600/MOddul+FIX.png)
 
 <p><strong>5.2 Jadwal</strong></p>
 
@@ -352,45 +364,5 @@ Semua dokumen pendukung proyek akan selesai dalam fase yang sesuai.<br><br>
 </table>
 
 <strong>5.5 Budget</strong>
-<table>
-<thead>
-<tr>
-<th>No.</th>
-<th>Kebutuhan</th>
-<th>Banyak</th>
-<th>Biaya</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>1.</td>
-<td>Laptop</td>
-<td>3 x Rp.6.000.000</td>
-<td>Rp.18.000.000</td>
-</tr>
-<tr>
-<td>2.</td>
-<td>Handphone</td>
-<td>3 x Rp.3.000.000</td>
-<td>Rp.9.000.000</td>
-</tr>
-<tr>
-<td>3.</td>
-<td>Internet</td>
-<td>1</td>
-<td>Rp.1.000.000</td>
-</tr>
-<tr>
-<td>4.</td>
-<td>Konsumsi</td>
-<td>Rp.100.000 (per hari) x 120 hari</td>
-<td>Rp.12.000.000</td>
-</tr>
-<tr>
-<td>–</td>
-<td>–</td>
-<td>Total</td>
-<td>Rp.40.000.000</td>
-</tr>
-</tbody>
-</table>
+
+![enter image description here](https://3.bp.blogspot.com/-LKwklRsDb4Y/WtMQZNf-LbI/AAAAAAAAAIU/HksOVlhX5HMpNufZbIXlNkTFsrxSwCsDQCLcBGAs/s1600/BIAYA.png)
