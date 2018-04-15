@@ -1,5 +1,6 @@
 
 
+
 <h1 align="center" id="software-requirements-specification">SOFTWARE REQUIREMENTS SPECIFICATION</h1>  
 <p align="center"><strong>Version 1.8<br>28 Maret 2018</strong><br></p>
 
@@ -91,31 +92,37 @@ Politeknik Negeri Indramayu<br>
 <ul><li><strong>User (Android)</strong></li></ul>
 <table>
 <tr>
-	<td> 
-		<img src="https://lh3.googleusercontent.com/-v-t8IV4jr_8/WrxeBxxT9XI/AAAAAAAAFHw/4-hoVJHvdnsy-sYFAI50M9rJBzh_xTbAACL0BGAs/w323-d-h574-n-rw/login.PNG=s100" alt="Login">
+	<td>
+		<ul><li><strong>Login</strong></li></ul> 
+		<img src="https://lh3.googleusercontent.com/-v-t8IV4jr_8/WrxeBxxT9XI/AAAAAAAAFHw/4-hoVJHvdnsy-sYFAI50M9rJBzh_xTbAACL0BGAs/w323-d-h574-n-rw/login.PNG=s50" alt="Login">
 		<p>Ini merupakan mockup dari halaman Login, dimana User harus menginputkan username dan password agar bisa Log In</p>
 	</td>
 	<td>
-		<img src="https://lh3.googleusercontent.com/-Aok2SDQOz7A/WrxeGLffE3I/AAAAAAAAFII/lPAFORL5QgoBw70FcvM6gUsTjiY3Bi3mgCL0BGAs/w321-d-h571-n-rw/register.PNG=s100" alt="Register">
+		<ul><li><strong>Register</strong></li></ul>
+		<img src="https://lh3.googleusercontent.com/-Aok2SDQOz7A/WrxeGLffE3I/AAAAAAAAFII/lPAFORL5QgoBw70FcvM6gUsTjiY3Bi3mgCL0BGAs/w321-d-h571-n-rw/register.PNG=s50" alt="Register">
 		<p>Ini merupakan mockup dari halaman Register, dimana jika User belum memiliki akun maka harus mengisi form Registrasi.</p>
 	</td>
-	<td>  
-		<img src="https://lh3.googleusercontent.com/-MC1SiWHzI_I/WrxhLHgv5iI/AAAAAAAAFJw/B8SgdKkuQVA633uc4oOXAfpCsYBSsgM9gCL0BGAs/w321-d-h571-n-rw/home.PNG=s100" alt="Home">
+	<td>
+		<ul><li><strong>Home</strong></li></ul>  
+		<img src="https://lh3.googleusercontent.com/-MC1SiWHzI_I/WrxhLHgv5iI/AAAAAAAAFJw/B8SgdKkuQVA633uc4oOXAfpCsYBSsgM9gCL0BGAs/w321-d-h571-n-rw/home.PNG=s50" alt="Home">
 		<p>Ini merupakan mockup dari halaman Home. Pada halama ini terdapat enam menu dan juga navigasi.</p>
 	</td>
 </tr>
 
 
 <tr>
-	<td>  
+	<td> 
+		<ul><li><strong>Menu Pariwisata</strong></li></ul> 
 		<img src="https://lh3.googleusercontent.com/-G3t4tU0M-vY/WrxeLkfMMlI/AAAAAAAAFIg/NtfvaM9x4BgQp9xg72zZk2tNG627BMhegCL0BGAs/w324-d-h576-n-rw/menupariwisata.PNG=s50" alt="Menu Pariwisata">
 		<p>Ini merupakan mockup dari halaman Menu Pariwisata. Pada halaman ini terdapat 6 menu dan juga navigasi.</p>
 	</td>
-	<td>  
+	<td>
+		<ul><li><strong>Wisata Buatan</strong></li></ul>  
 		<img src="https://lh3.googleusercontent.com/-P2tbYWIjrf0/WrxmS7TBTEI/AAAAAAAAFRA/9qNvn9OpF-cfmqow1hBzkZAxQV0QSBeUgCL0BGAs/w325-d-h578-n-rw/wisatabuatan.PNG=s50" alt="Wisata Buatan">
 		<p>Ini merupakan mockup dari halaman Wisata Buatan. Pada halaman ini menampilkan wisata buatan apa saja yang ada di Indramayu.</p>
 	</td>
-	<td>  
+	<td>
+		<ul><li><strong>Wisata Alam</strong></li></ul>  
 		<img src="https://lh3.googleusercontent.com/-2ngpR7mOoc4/WrxmNYgl8GI/AAAAAAAAFQg/vUdVJzR0kFELpXSNi1j-bGa1RvGGNqzYgCL0BGAs/w325-d-h578-n-rw/wisataalam.PNG=s50" alt="Wisata Alam">
 		<p>Ini merupakan mockup dari halaman Wisata Alam. Pada halaman ini menampilkan wisata alam apa saja yang ada di Indramayu.</p>
 	</td>
@@ -123,15 +130,18 @@ Politeknik Negeri Indramayu<br>
 
 
 <tr>
-	<td>  
+	<td>
+		<ul><li><strong>Kuliner</strong></li></ul>  
 		<img src="https://lh3.googleusercontent.com/-oby_ANNDw8w/WrxltglVRUI/AAAAAAAAFO0/_pqT3PkayrEP-QXLuEgNLURQE7RGskW7ACL0BGAs/w326-d-h580-n-rw/kuliner.PNG=s50" alt="Kuliner">
 		<p>Ini merupakan mockup dari halaman Kuliner. Pada halaman ini menampilkan kuliner apa saja yang ada di Indramayu.</p>
 	</td>
-	<td>  
+	<td>
+		<ul><li><strong>Resto & Kafe</strong></li></ul>  
 		<img src="https://lh3.googleusercontent.com/-lpI_4v-I_pU/Wrxl8iwBXSI/AAAAAAAAFPs/6EbnVw0Jw3AndgNA4ob0xvB0nGYHIIvZQCL0BGAs/w326-d-h580-n-rw/restodankafe.PNG=s50" alt="Resto Kafe">
 		<p>Ini merupakan mockup dari halaman Resto & Kafe. Pada halaman ini menampilkan resto dan kafe apa saja yang ada di Indramayu.</p>
 	</td>
 	<td>  
+		<ul><li><strong>Travel</strong></li></ul>
 		<img src="https://lh3.googleusercontent.com/-DJV9QCIrW9s/WrxmfRy3IBI/AAAAAAAAFRc/D_aZiy0fzQ0mwAFmt1HR_mCG2-zQVKZNwCL0BGAs/w319-d-h567-n-rw/travel.PNG=s50" alt="Travel">
 		<p>Ini merupakan mockup dari halaman Travel. Pada halaman ini menampilkan travel apa saja yang ada di Indramayu.</p>
 	</td>
@@ -139,15 +149,18 @@ Politeknik Negeri Indramayu<br>
 
 
 <tr>
-	<td>  
+	<td>
+		<ul><li><strong>Hotel</strong></li></ul>  
 		<img src="https://lh3.googleusercontent.com/-sz7Xx08oNQ0/WrxiFPC0j_I/AAAAAAAAFMI/wtOVuxiKMtoT9xQJIcjEek4UfuNnvSdLACL0BGAs/w325-d-h578-n-rw/hotel.PNG=s50" alt="Hotel">
 		<p>Ini merupakan mockup dari halaman Hotel. Pada halaman ini menampilkan hotel apa saja yang ada di Indramayu.</p>
 	</td>
-	<td>  
+	<td>
+		<ul><li><strong>Budaya</strong></li></ul>  
 		<img src="https://lh3.googleusercontent.com/-cOUIct6zf1g/WrxhYXMbvUI/AAAAAAAAFKg/N-PMpAzALIUhMZCpjNryO1h9V1pSXaFTwCL0BGAs/w325-d-h578-n-rw/budaya.PNG=s50" alt="Budaya">
 		<p>Ini merupakan mockup dari halaman Budaya. Pada halaman ini menampilkan budaya apa saja yang ada di Indramayu.</p>
 	</td>
-	<td>  
+	<td>
+		<ul><li><strong>Kegiatan</strong></li></ul>
 		<img src="https://lh3.googleusercontent.com/-D1sIPNSm-JQ/Wrxi6Zcq0aI/AAAAAAAAFN8/EEvClA8HMlQRNVq87xH1polstTeWfvTvgCL0BGAs/w327-d-h581-n-rw/kegiatan.PNG=s50" alt="Kegiatan">
 		<p>Ini merupakan mockup dari halaman Kegiatan. Pada halaman ini menampilkan kegiatan apa saja yang ada di Indramayu.</p>
 	</td>
@@ -155,31 +168,37 @@ Politeknik Negeri Indramayu<br>
 
 
 <tr>
-	<td>  
+	<td> 
+		 <ul><li><strong>Navigtion Bar</strong></li></ul>
 		<img src="https://lh3.googleusercontent.com/-fWT3tYKw-Nw/WrxlylWm78I/AAAAAAAAFPM/yfsT-UNYVpYaz7u65_TDLYYD2aBwOfgcQCL0BGAs/w318-d-h565-n-rw/navbar.PNG=s50" alt="Navbar">
 		<p>Ini merupakan mockup dari Navigtion Bar, dimana terdapat Username serta button Profil Saya untuk melihat profil user dan button Log Out untuk keluar dari akun yang sedang digunakan.</p>
 	</td>
-	<td>  
+	<td>
+		<ul><li><strong>Lihat Detail</strong></li></ul>  
 		<img src="https://lh3.googleusercontent.com/-EoUFpmLvacY/WrxhsuuVHrI/AAAAAAAAFLo/I5Xf6THB_fon0PMwuUkSdX1av-uMegn2gCL0BGAs/w325-d-h578-n-rw/lihatdetail.PNG=s50" alt="Lihat Detail">
 		<p>Ini merupakan mockup dari halaman Lihat Detail, dimana dalam halaman ini ditampilkan secara rinci tentang konten yang dipilih. Halaman ini merupakan salah satu contoh dari Lihat Detail pada Budaya.</p>
 	</td>
-	<td>  
-		<img src="https://lh3.googleusercontent.com/-v8Clqxh99Xc/Wrxoe-pMQ4I/AAAAAAAAFT8/RIvKjn6m1psm5kC4BQIY3_x3-8xbBLXegCL0BGAs/w326-d-h580-n-rw/pengaduan.PNG=s50" alt="Pengaduan">
+	<td> 
+		<ul><li><strong>Pengaduan</strong></li></ul>  
+		<img src="https://lh3.googleusercontent.com/-8xZsmNVuW0A/WtNW7XPDAaI/AAAAAAAAF4c/LnxpJS5TttAypV_iPUIodwFYHvTNDpz_QCL0BGAs/w318-d-h565-n-rw/pengaduan.PNG=s50" alt="Pengaduan">
 		<p>Ini merupakan mockup dari halaman Pengaduan, dimana dalam halaman ini User dapat mengajukan pengaduan melalui form yang harus diisi. Data pengaduan yang telah terisi lalu terkirim ke Admin (Website).</p>
 	</td>
 </tr>
 
 
 <tr>
-	<td>  
+	<td>
+		<ul><li><strong>Profil Saya</strong></li></ul>   
 		<img src="https://lh3.googleusercontent.com/-03pj6Uh6_Jg/WrxoM7jYqOI/AAAAAAAAFTM/3UoYbmZd9I02RV3hl7jKLalskjggS6M6gCL0BGAs/w324-d-h576-n-rw/profilsaya.PNG=s50" alt="Profil User">
 		<p>Ini merupakan mockup dari halaman Profil Saya, dimana dalam halaman ini ditampilkan informasi tentang User.</p>
 	</td>
-	<td>  
+	<td>
+		<ul><li><strong>Ubah Profil</strong></li></ul>   
 		<img src="https://lh3.googleusercontent.com/-QULfNIB-2FQ/WrxoVVed3TI/AAAAAAAAFTk/wMe6Wrxa9bIIOioT37w3UKM93bvOaRn9QCL0BGAs/w328-d-h583-n-rw/ubahprofil.PNG=s50" alt="Ubah Profil">
 		<p>Ini merupakan mockup dari halaman Ubah Profil, dimana dalam halaman ini User dapat mengelola data profil.</p>
 	</td>
-	<td>  
+	<td> 
+		<ul><li><strong>Tetang Disbudpar</strong></li></ul>  
 		<img src="https://lh3.googleusercontent.com/-7qe8DcuSU1o/Wrxhi6RtElI/AAAAAAAAFLQ/FeT-6TXupZsXBoaCm29vi4p6b9eCK-G-ACL0BGAs/w324-d-h576-n-rw/disbudpar.PNG=s50" alt="Disbudpar">
 		<p>Ini merupakan mockup dari halaman Tetang Disbudpar, dimana dalam halaman ini ditampilkan informasi mengenai Dinas Kebudayaan dan Pariwisata Kabupaten Indramayu.</p>
 	</td>
@@ -187,14 +206,122 @@ Politeknik Negeri Indramayu<br>
 
 <tr>
 	<td>
+		<ul><li><strong>Tetang Kami</strong></li></ul>
 		<img src="https://lh3.googleusercontent.com/-qTLl_LVRI_c/Wrxhchx9rFI/AAAAAAAAFNM/UvtrnvuQVMcTFdFoFAHtsMEhz98IFT3tACJoC/w323-h574-n-rw/busayu.PNG">
-		<p>Ini merupakan mockup dari halaman Tetang Disbudpar, dimana dalam halaman ini ditampilkan informasi mengenai profil Aplikasi Busayu</p>
+		<p>Ini merupakan mockup dari halaman Tetang Kami, dimana dalam halaman ini ditampilkan informasi mengenai profil Aplikasi Busayu</p>
 	</td>
 </tr>
 </table>
 
 <ul><li><strong>Admin (Web)</strong></li></ul>  
-<p> Tahap revisi <p>
+<table>
+<tr>
+	<td>
+		<ul><li><strong>Login</strong></li></ul> 
+		<img src="https://lh3.googleusercontent.com/-V5CSPnKtScY/WtNAclDqyCI/AAAAAAAAFuI/XWnLvGqlw-g_MuclX5XPTd2_ySPotN0sQCL0BGAs/w530-d-h352-n-rw/login.PNG=s100" alt="Login">
+		<p>Ini merupakan mockup dari halaman Login, dimana Admin harus menginputkan username dan password agar bisa Log in</p>
+	</td>
+	<td>
+		<ul><li><strong>Dashboard</strong></li></ul> 
+		<img src="https://lh3.googleusercontent.com/-EKiX7NcnRcA/WtNAEvrJnFI/AAAAAAAAFsM/sCvuETFqCCM2q-z7CPwpirOzm6Wf7-mmACL0BGAs/w530-d-h399-n-rw/dashboard.PNG=s100" alt="Dashboard">
+		<p>Ini merupakan mockup dari Dashboard, dimana terdapat navigasi yang terletak di sebelah kiri. Jika ingin melihat data maka memilih menu yang ada di navigasi. Lalu di pojok kanan atas terdapat 2 icon yaitu icon Notifikasi untuk Pengaduan yang masuk dari User dan icon user admin yang berisi menu Tambah Admin dan Logout </p>
+	</td>
+</tr>
+
+<tr>
+	<td>
+		<ul><li><strong>Data Budaya</strong></li></ul>   
+		<img src="https://lh3.googleusercontent.com/-1sY_KfUhHao/WtM_9NS24OI/AAAAAAAAFr0/JvlgyB3WaNIMEC6wF0ecV8dIy_5SFBwKgCL0BGAs/w530-d-h332-n-rw/budaya.PNG=s100" alt="Budaya">
+		<p>Ini merupakan mockup dari halaman Data Budaya. Pada halaman ini terdapat tabel data budaya, button refresh, tambah data, edit, hapus, dan pencarian.</p>
+	</td>
+	<td> 
+		<ul><li><strong>Data Wisata Alam</strong></li></ul> 
+		<img src="https://lh3.googleusercontent.com/-rSN5o6Yedfs/WtNBAvegvrI/AAAAAAAAFxQ/FU2vjsiHzPAUv-SHuDkoPh1MBHZE8flVwCL0BGAs/w530-d-h456-n-rw/wisata%2Balam.PNG=s100" alt="wisata alam">
+		<p>Ini merupakan mockup dari halaman Pariwisata > Wisata Alam. Pada halaman ini terdapat tabel data wisata alam, button refresh, tambah data, edit, hapus, dan pencarian.</p>
+	</td>
+</tr>
+
+<tr>
+	<td>
+		<ul><li><strong>Data Wisata Buatan</strong></li></ul>  
+		<img src="https://lh3.googleusercontent.com/-KS91S4f42Ds/WtNBFrBHzEI/AAAAAAAAFx0/vulwYrMMJKERNc7cd2SR5_R6P_Sn76KOgCL0BGAs/w530-d-h449-n-rw/wisata%2Bbuatan.PNG=s100" alt="Wisata Buatan">
+		<p>Ini merupakan mockup dari halaman Pariwisata > Wisata Buatan. Pada halaman ini terdapat tabel data wisata buatan, button refresh, tambah data, edit, hapus, dan pencarian.</p>
+	</td>
+	<td>
+		<ul><li><strong>Data Kuliner</strong></li></ul>   
+		<img src="https://lh3.googleusercontent.com/-JwwmIeyHtW4/WtNAYafsqNI/AAAAAAAAFts/LTYNWZh7rBQlfaphv_02VY8H7DBjP99BwCL0BGAs/w530-d-h455-n-rw/kuliner.PNG=s100" alt="kuliner">
+		<p>Ini merupakan mockup dari halaman Pariwisata > Kuliner. Pada halaman ini terdapat tabel data kuliner, button refresh, tambah data, edit, hapus, dan pencarian.</p>
+	</td>
+</tr>
+
+
+<tr>
+	<td>
+		<ul><li><strong>Data Resto & Kafe</strong></li></ul>  
+		<img src="https://lh3.googleusercontent.com/-DiZKwnSmFVk/WtNAhZFq39I/AAAAAAAAFug/VulQcbXsYzUXh7jDID3d-eBQL-KxL2VfwCL0BGAs/w530-d-h452-n-rw/restokafe.PNG=s100" alt="restokafe">
+		<p>Ini merupakan mockup dari halaman Pariwisata > Resto & Kafe. Pada halaman ini terdapat tabel data resto & kafe, button refresh, tambah data, edit, dan hapus.</p>
+	</td>
+	<td>  
+		<ul><li><strong>Data Hotel</strong></li></ul> 
+		<img src="https://lh3.googleusercontent.com/-tLJZp8_z1IM/WtNAPMx57iI/AAAAAAAAFs8/4oY1IFbdI_gXRyGRU7gjFr0_reDoOkKlQCL0BGAs/w530-d-h455-n-rw/hotel.PNG=s100" alt="hotel">
+		<p>Ini merupakan mockup dari halaman Pariwisata > Hotel. Pada halaman ini terdapat tabel data hotel, button refresh, tambah data, edit, hapus, dan pencarian.</p>
+	</td>
+</tr>
+
+<tr>
+	<td> 
+		<ul><li><strong>Data Travel</strong></li></ul> 
+		<img src="https://lh3.googleusercontent.com/-JlQYkY2TTWs/WtNA7EfeKmI/AAAAAAAAFwo/lxcRWm0Keb8EDJEaNnCggwsVhVGXwPwwgCL0BGAs/w530-d-h446-n-rw/travel.PNG=s100" alt="Travel">
+		<p>Ini merupakan mockup dari halaman Pariwisata > Travel. Pada halaman ini terdapat tabel data travel, button refresh, tambah data, edit, hapus, dan pencarian.</p>
+	</td>
+	<td>
+		<ul><li><strong>Data Travel</strong></li></ul>  
+		<img src="https://lh3.googleusercontent.com/--M8_QqOVQ4c/WtNFTZ-o8jI/AAAAAAAAF1E/pfrnjLOCnk48Nbr-nSdhGD6F7njpV-pxACL0BGAs/w530-d-h327-n-rw/kegiatan.PNG=s100" alt="kegiatan">
+		<p>Ini merupakan mockup dari halaman Kegiatan. Pada halaman ini terdapat tabel data kegiatan, button refresh, tambah data, edit, hapus, dan pencarian.</p>
+	</td>
+</tr>
+
+<tr>
+	<td>
+		<ul><li><strong>Data User</strong></li></ul>  
+		<img src="https://lh3.googleusercontent.com/-pRfDTiQRJog/WtNWhEx1YPI/AAAAAAAAF4E/Yu98fdyMqjAoYOPGmg-oynOUhTgelFZrwCL0BGAs/w530-d-h332-n-rw/data%2Buser.PNG=s100" alt="data user">
+		<p>Ini merupakan mockup dari halaman User. Pada halaman ini terdapat tabel data user. Untuk data admin dan user dijadikan dalam satu tabel. Admin hanya bisa melihat data user dan admin.</p>
+	</td>
+	<td>
+		<ul><li><strong>Data Pengaduan</strong></li></ul>   
+		<img src="https://lh3.googleusercontent.com/-hj3EoEM1Dco/WtNJtTd6lcI/AAAAAAAAF3E/qVeGj3LtbuwdwnZ_HZ2_G0R8NgEEavW4ACL0BGAs/w530-d-h327-n-rw/pengaduan.PNG=s100" alt="pengaduan">
+		<p>Ini merupakan mockup dari halaman Pengaduan. Pada halaman ini terdapat tabel data pengaduan. Data pengaduan yang dikirim User melalui aplikasi Android terkirim dan tersimpan di data pengaduan yang ada di web (Admin).</p>
+	</td>
+</tr>
+
+<tr>
+	<td>
+		<ul><li><strong>Tambah Admin</strong></li></ul>   
+		<img src="https://lh3.googleusercontent.com/-CbWNz5BGRKw/WtNAmGlSmlI/AAAAAAAAFu4/61UnLVQMRw8IF99Y-DBJDgHqkZr_BeWtQCL0BGAs/w530-d-h342-n-rw/tambah%2Badmin.PNG=s100" alt="tambah admin">
+		<p>Ini merupakan mockup dari halaman Tambah Admin. Pada halaman ini terdapat form untuk menambahkan admin. Dan juga terdapat button Simpan untuk menyimpan data dan Batal untuk kembali ke Data User</p>
+	</td>
+	<td>  
+		<ul><li><strong>Tambah Data Pariwisata</strong></li></ul>
+		<img src="https://lh3.googleusercontent.com/-Y7YlxHNsT7w/WtNA18JZsRI/AAAAAAAAFwM/c8WfJAr7xrUEQ98ggLs19Xy-hBQ5xYaewCL0BGAs/w530-d-h350-n-rw/tambah%2Bpariwisata.PNG=s100" alt="tambah pariwisata">
+		<p>Ini merupakan mockup dari halaman Tambah Data Pariwisata. Pada halaman ini terdapat form untuk menambahkan pariwisata. Dan juga terdapat button Simpan untuk menyimpan data dan Batal untuk kembali ke halaman sebelumnya</p>
+	</td>
+</tr>
+
+<tr>
+	<td> 
+		<ul><li><strong>Tambah Data Budaya</strong></li></ul> 
+		<img src="https://lh3.googleusercontent.com/-P_hkx-GffVs/WtNArO9ATkI/AAAAAAAAFvU/CMyGQ_SjKI4svHlYgzbMftDd0uw7a6qJQCL0BGAs/w530-d-h349-n-rw/tambah%2Bbudaya.PNG=s100" alt="tambah budaya">
+		<p>Ini merupakan mockup dari halaman Tambah Data Budaya. Pada halaman ini terdapat form untuk menambahkan budaya. Dan juga terdapat button Simpan untuk menyimpan data dan Batal untuk kembali ke halaman sebelumnya</p>
+	</td>
+	<td>
+		<ul><li><strong>Tambah Data Kegiatan</strong></li></ul>  
+		<img src="https://lh3.googleusercontent.com/-rU4MBt3qe44/WtNAwxU5w5I/AAAAAAAAFvw/NxQfp4G2RWQ1pLxMYO0HXwaKmjuJ3e0cgCL0BGAs/w530-d-h352-n-rw/tambah%2Bkegiatan.PNG=s100" alt="tambah kegiatan">
+		<p>Ini merupakan mockup dari halaman Tambah Data Kegiatan. Pada halaman ini terdapat form untuk menambahkan kegiatan. Dan juga terdapat button Simpan untuk menyimpan data dan Batal untuk kembali ke halaman sebelumnya.</p>
+	</td>
+</tr>
+</table>
+
+
 
 
 <h4><strong>2.1.3 Antarmuka perangkat keras</strong><br></h4>  
@@ -265,8 +392,9 @@ Politeknik Negeri Indramayu<br>
 <h4><strong>2.1.8 Kebutuhan adaptasi</strong></h4>
 <p>Tidak ada.</p>
 
-<h3><strong>2.2. Spesifikasi Kebutuhan Fungsional</strong><br></h3>  
-<p><img src="https://lh3.googleusercontent.com/ehBEvX4NdXWCtnGhlGEnP_VxTDyeZNUbVIH75Y9GSg-HNMU90e8VDJGy9wCEH2Vzhj53agFiIi_55FuT4-jV_eV8nK5O2M0A6NB7gDmm4XrjH3ujSIkk1R3z7ByJquaLrZ5WPwkTkuLcJSGrb00r1For9J9Ha0kjh2ug8HMb1spHZquslruF3r0YHco6DSvO8HhFR8hAJdvJEw3GNYPI_iz66tgx__A0hh_rmO-IDbAJm2k03PICacQ84109dqHZquiRu3HvA3xOA4UQ9l3wzcbhDEIn_n2fGA8vPEj5dsh0ZVl6zEFrT3Qdap5mZxyRV2rqTfRGakG4X-TvLkxSZCYY-5Jf5QAMZuf3D7ZDOvHzuHjs34fviX_a6kmRovCdqVETHIjlh7678H_LGtsOmyYZ8U6XRkmnoRQo7VLlMXPwaYnDtNku80w-vcrXWnYPs8tPwjDyid2vQH-Z71y61_9X7WvMPYwNwEHUuhkN5Rdb6rlrk0qiRuEx_g_F7jJ-ZjgSNgeeRs_2QMg5P-WbY0VUw1AWRPqLegZvL2oGwsvt_B9Oeg6p5IQzQZfqcFZTEHbF-EGiXfx4tgMyMD-eYqWMKinBVW_pKP0rz-k=w848-h662-no=s300" alt="usecase" title="usecase keseluruhan"><br></p>
+<h3><strong>2.2. Spesifikasi Kebutuhan Fungsional</strong><br></h3>
+
+![all](https://lh3.googleusercontent.com/wpQS-zqzpbn2W7g44oenr9h9X7NoxJqeN9T2u6DzDNg64dzquSMJJlst9Eh8GtGNRrnFfxr9DYU2 "all")
 
 <h4><strong>2.2.1 User Login</strong></h4>  
 <p>Use Case: Login<br>
@@ -308,8 +436,10 @@ Xref: Bagian 3.2.3, User lihat wisata<p></p>
 <h4><strong>2.2.4 User Melihat Kegiatan</strong><br></h4>
 <p>Use case: melihat kegiatan<br>
 Diagram:</p>
-<p><img src="https://lh3.googleusercontent.com/lyNCYrzxpvZ9qBUOtZ3yco75f11lEAJOpGd_Pjv9Vn8dB_k9dOTs-zE1xoZzhM2jXTREY0eQVwVBPnuPcfGyPwQL-0S6m7g53b2YADKt2K275vFQAktXWB6HMDVL0l51Z2CPftd2ighvId3JJM2gSYMKWg-sPjj2tp7Vzc5Wf3WLZifNjzSwfUo5_S2zZ0tCiJiX2XZR0oYJ3f89Fu_dHPSir1_9uDZWtlQ6ndKwp5xt6SDdatPon2f-ewlhgAv2uN3RyFIiEYz14bjueTfsq_E4RkUbACBBpVPqkalcq2WwN0YYXAtXic3oXvmt2ZaqcNNoxqpszSSL6SGXLnHNdc8DfZ4MFkDeyprzZZOwVhUkk2K_ZACFMvwKtHgZ6YZbaUudHG_KdC1GEndSDT2l3jg5BmNS9fyPanNQRspZHC3aSJxvD9Ha6vPt6gjR0f39NTBdRn1sD9TYOs9VyNtgq3xJw2IDgdbj-nbsVOoK4QXca-xQp4oORrxAE5TVmFXwk6M1ZVWZkLsACFa4IkA8YU-9MxOHmkrwBdTMG6afi2NMpAmPWMQ-MuMPd5H8OoEFnFUTWMoQdK4vRgH-ilJg3G41itKYI35Fdd2pyfM=w179-h105-no=s300" alt="use case kegiatan" title="userkegiatan">
-</p>
+
+
+![ukeg](https://lh3.googleusercontent.com/rSl87Vh0WZdSz34FM2nkWN-1O0qArkneKY3wBlqoEfedVW5K0e_9wVwRoiA_43j00-828Hdm1sRG "ukeg")
+
 <p>Deskripsi singkat ketika user melihat kegiatan:</p>
 <ol>
 <li>Sistem menampilkan halaman utama yang berisi button kegiatan</li>
@@ -347,7 +477,9 @@ Xref: Bagian 3.2.6, Admin login<p></p>
 <h4><strong>2.2.7 Admin Mengelola Budaya</strong><br></h4>
 <p>Use case: mengelola budaya<br>
 Diagram:</p>
-<p><img src="https://lh3.googleusercontent.com/xSS8q_wIeplS5M-OcYlWfEq271VOWEf4cHrRfzlNdmubHjA9ddjss8Znh9fbJF-t2SXqK3Jcd1TDrJn-3scsylV6ClVY3D9sebCiwPlTko_vQ14GETwd94c3mx5r-HHv3_GfUYursL4j7cpq8Q3f9YYhepnEGx8vR0Otkvc6Nt0A_kqewV9QyYxyWUBRiamm6MFUJyu-ARPg4tZYyQHJH-Rk81XFJiLZNlWYZkzlDVMqKNNO_EC0MWVOe9wi8htgYglPnh9Upu-VCW8i-Z75VhTVK8xWUbNBUJonCtkOoFaz_4N8cjQVEyOODB5BtPEYC53xKkSMUvTdnIfmccn2ud0QMghCBHehWvMf-GYVKmPkk-ic1jZbkCd5J7RWd6MBIWclMoZmYL0OAhGMRo0hORaGT9o65E1IHkAjuUvDTEy1WmLIFTtsFe7t5wXXBZLLS3moOIHFxNr6p4zpUtWahmbuZhlkiR_SgW1iQPL4o9JpdE76_aVVmBuscvpor-OyyZ63N9izyK6LCrQnDeyh1qJKzuetZK3pbup0U7xhPNK8HPev3rIILayGc9fjW141XUpv4foFy1F3lu6OdeKK4oiGGWJKjfAhSP0vt4E=w162-h94-no=s300" alt="use case admin budaya" title="adminbuat"></p>
+
+![abud](https://lh3.googleusercontent.com/LXbhmHH2PctH9yFvYL1Axx9DxdBNxkDpEe7aMzNpFji2n_GREHHjaXiQQROvj5G-KHpf3ZMlr8B6 "abud")
+
 <p>Deskripsi singkat ketika admin mengelola budaya:</p>
 <ol>
 <li>Sistem menampilkan dasboard admin</li>
@@ -360,7 +492,10 @@ Xref: Bagian 3.2.7, Admin mengelola budaya<p></p>
 <h4><strong>2.2.8 Admin Mengelola Pariwisata</strong><br></h4>
 <p>Use case: mengelola pariwisata<br>
 Diagram:</p>
-<p><img src="https://lh3.googleusercontent.com/B2XfAkVd4a5v2kGHOJ4MXapAhDcALgrCNxIcNHMk5-AG8j91rQUYhc5YDVYceK4M-CUt4bMu-K48wBvHDJeA9Ozlei-d-jJGpvLftS_wseE_yK4034IxX38iJkrJ6eleKSrDtHDpE3Q09-Bg9NtwMWn-1f0harkuaaQnnAvYV6glIpEMmMxyx4_G0mH6tgpM5J198m6yeeK9UvWc00H7cTJI18EpCCMHwPtAt_TFyGMEWc5gJNHovoO3e3DuZKoG9H7_1Kgr6RyEm1WEh6rUfvvH-zKfMb882kMfBV8RfBuFX8scaD1_Is5jN7Hh2z3vUlTnLLWTycC6D4FZKwv-MclvsCQM58SMG1Hua260U9qxI9BOplLs2cHgM-7ka1vdVrH36NMO6Kl7-JL3Mi2bdRRyPkozfIOglY-_2inbcQafUuGUE_VLxiVyfDQjYsg5ixlodpRxeZSRx_i4VUy3fKyMdjB38nGtmeDUg0Ru4Hn3F3eRr16NCNl2QWSjdblJIcU8D04UUxoz_t93JYuvEhg30MS6Fu6YIV6tRkhS8RFw-s4eplwePWUfQCPXuNGNgzCQ9oGNkdji363Q_RoTuZwZs2PzbScVqrcJv88=w169-h99-no=s300" alt="use case admin wisata" title="adminedit"></p>
+
+![apar](https://lh3.googleusercontent.com/8TmSjbZU85jYjuelTeYgMTjRu3b6k8yLXt9GNJu2J-5J2KAaDAphiuM1mW8zJOlOPJuCNfbHW2wB "apar")
+
+
 <p>Deskripsi singkat ketika admin mengelola pariwisata:
 </p><ol>
 <li>Sistem menampilkan dasboard admin</li>
@@ -373,7 +508,9 @@ Xref: Bagian 3.2.8, Admin Mengelola Pariwisata<p></p>
 <h4><strong>2.2.9 Admin Mengelola Kegiatan</strong><br></h4>
 <p>Use case: mengelola kegiatan<br>
 Diagram:</p>
-<p><img src="https://lh3.googleusercontent.com/9qeCLeGOA7QEl7FcPbgmsHlXbsbRrzfeJ9UI6eZAET_0KWogt9-MfICAc7YzQvQE5K4DrIM5CVToMtCrvg3YZkyWo0qz8URZkcTRMMsCKGlBobRb5xmlEQR-O1ZycZyOL-rUBm4nk5D_FnqmOLOljwCltsgLu-_B4FGPIid24DaYA3_5Lj0qXYKOB9JdM4LpsmTOIsQPRjAN06x9n1cw_cQSs_9wWDCtiz7rRa_48wXzdPS8QnbnpnJKX-qIl46kZyIZSc98fvVnXfJ-uPygArIS1hVvgNQ27b5P_-dATtkUlj2wTram_cdcynI28QlxdZDjhoERhcXY_Xs50y8QMk5CFc6Wj-GkH1UEwCMLWl__NIyRWZLSnmsBi_bQcEoivp-jx1gR3pWKH-T6_yeOl9lzD4XW5L-U3IB0A5BvWn-0iLFXcnONL_ELbAiaah71pe2w_H4hUnONieHCFsaRouz_BSxu3r0Z7Iwva35Pw2ntrfMHuSvxo9kV7XD1PJKR-O1gQOCkK8MD_3JSPxp_9WVV0_J_mULFwz7EngibqXTRvH3b5oPrXsWdy2-P9cS2sDIbLEqqAXITShmIEZlZ3TOJSCmwp1fJSCNY4hM=w174-h94-no=s300" alt="use case admin kegiatan" title="adminhapus"></p>
+
+![akeg](https://lh3.googleusercontent.com/zBWG8SoLz5oPrbz4nXXFqtfcLggTm2p8peYUgHt_1Cpxp7CWDA1hLawloygaPC4Ox_xVu-xjDtlE "akeg")
+
 <p>Deskripsi singkat ketika admin mengelola kegiatan:</p>
 <ol>
 <li>Sistem menampilkan dasboard admin</li>
@@ -386,7 +523,9 @@ Xref: Bagian 3.2.9, Admin mengelola kegiatan<p></p>
 <h4><strong>2.2.10 Admin Mengelola Pengaduan</strong><br></h4>
 <p>Use case: mengelola pengaduan<br>
 Diagram:</p>
-<p><img src="https://lh3.googleusercontent.com/u7H0T2YsqO9p9TIoz1cMo0x-5UKLvE79iNkzOvieNoU_GNzHYGyZM0NiTz_-C6UsP-KZzpvaPYwFcgel8-fL3HhFROZNE8o4y8Jc_M6p5An_sS8AqhcAajCVYgYJ4SNckJnFGCv6t6SOIFPlz9T0IOj5r2uKLgpRsYc3V-KxtY1vRZ1pNioAHF2oGi0v-6dZPTzkVtZB2_1v4lzK1VwV6mdt2rFHwVkhTpol-3RdcE1z1F-2h_3k7QTRwBLXmLX5rWRZJR_62GY4nYLtMAc25sK7Vp3Uqiy9YzWiilDadFHRqTn2WqYdclm1bWYBkkCogB73gdBO9rK0nxwGN94we57O0vMZLjjQZ632aj7T6pgev-oYP6qa3LoGhmEsjV9UgxwGYd-_f7HSQ3Ci1Trn7bWpSrjoW2-_7MGgnhBlSB6A5z73N_II2D6bkaAd_Z-A4FBWdH9KjCDeopJBeEXKTXxRmKZEUd0pn2MlVKgQppWdtgXBypEMuubERz6rI8X6Q3NcKffvuHY9Jt5Rvhw8X_oq3jwLwlQ90YfDK9gnjjQH1OlHh65on40MEJIx_DF5FLlCl3c5GK2YPuX1nOt1Z_ZztyRBbIWN4MHMV0w=w173-h98-no=s300" alt="use case admin pengaduan" title="adminpengaduan"></p>
+
+![apeng](https://lh3.googleusercontent.com/pB1q0wjsbT6rQq2wvnK6-7HN1vocePQaqli-OO10TtW9kJyW0mWid7IEAq0DB49klHHj3oBjYNX7 "apeng")
+
 <p>Deskripsi singkat ketika admin mengelola pengaduan:</p>
 <ol>
 <li>Sistem menampilkan dashboard admin</li>
@@ -399,7 +538,9 @@ Xref: Bagian 3.2.10, Admin mengelola pengaduan<p></p>
 <h4><strong>2.2.11 Admin Mengelola user</strong><br></h4>
 <p>Use case: mengelola user<br>
 Diagram:</p>
-<p><img src="https://lh3.googleusercontent.com/Jce_-au0vBFu-iMwrQjD2DHAuepDksWesLzKQ95BW7nwae_etvKHbwRwi_Ayp52wVjyupUxLbYCQ8LYUrrVsP5QX4C-tvmwFnJWemGE3_9LG19tkaV6kWxjeD7-ivYOWa3l8uTuDwa9xUj2fm4fnijwjIJZP37f_anF-VyXEtKw6SFkcOIwqmznRE3aIJLEIorQB0Dt2-sI9UkbTgiNfp226K3Fi2-xrSwYjTYSAJNUqXC1uD5BNBFPBZ12AnxHVpx7qIhjwiSh7buA4WizADphRTOrNNONieajsLyO-KlT0iz702iqUkJ-gGYm_NNdZUPKXRFCHK2pUx25Q-o_6Ae1ZTNELJ8bLitD5_yEC22komnmVUa7M-5EjMgyE0iZlxae5GPfjCeKjcyJkxAxzegdrU29UoIKsu2ViVo6Hp9ifKgFW8B2N7B1aQwdpdk_T-Y1leaAYDTqj6xRxX76t6Rn2TuhcD4g3uGIIU-KY14qF8vD5m9NCbR4enRH-eFLZDUhWKR7Xl7z4NrjK9G-OXV-toa-BnxCT2vpVBtRH4p0TmNCLr9k4tJh0uv1U1WOTXYwEWM0sJ5HrgBD_9FR_oFRoJO6vnQBOfLvN91k=w191-h104-no=s300" alt="use case admin user" title="adminmengelolauser"></p>
+
+![aus](https://lh3.googleusercontent.com/9DjF0AaQrCQuJUJjqHTMKbv89YPboBLN4yEbDtZ1LxWDT3NS8vymF2qf7L932GpBIfUhSLYBFbEq "aus")
+
 <p>Deskripsi singkat ketika admin mengelola user:</p>
 <ol>
 <li>Sistem menampilkan dasboard admin</li>
@@ -412,7 +553,9 @@ Xref: Bagian 3.2.11, Admin mengelola user<p></p>
 <h4><strong>2.2.12 User Mengedit User</strong><br></h4>
 <p>Use case: mengedit user<br>
 Diagram:</p>
-<p><img src="https://lh3.googleusercontent.com/ZolJVxjQqbIUZIWxUglZOgRQfu6EHtApsMXX7mW4Nx6Qyrg6e_pxp7qsIBE96-db4Hkgb6DOMLWDJyxxf3dU2U-lUSl5ijrevVfEvCEgQJVpZ_TGgo92hqv4IbYHtwa0qCUNBWtqzam-KUCgI_rZzhqcVywBlMmcKnEYVcpoI3SZIweS4_U4pk537otoRZhDczRQAcmSr4wn-N-Oc8x6UthoDqb_k5hPblX7fihc3NPC6j_RP-HGRNkcO6LQ2Ypqts9ahsyN2uy42sRTV-VG1oN8j6EKrG9RKRNjF_9Nr6DgjH0L1uPfwz-G5lSLCkgdCiTEZgqM7xGVUWECK57iLk2gC_yoigpH-LCwPkoPs2wQhfp6LlhIWhVQtmeq2zoTJgav7b4g6PEP3DEimohowuwI2_E0Bzp_iXRt-iWFOXYTWx1oN_DDHPMtjSwfSwJIUxK30a5d9JSKmZKbDfJJG5p0w3T6t1ShMJM_5D2OZgypxQ1ad3NCqUngLt7vqVLajqz5cZNaHZBqFBnkxgTHcRELfMUCwCFMGQBVS-nT3QoW5BIgWU4l_WnaIG6Qadx7yfjcQspv6Pv4ovQqxUypvq09BYUZKVQIwXCgBbU=w190-h102-no=s300" alt="use case admin edit user" title="adminmengelolauser"></p>
+
+![usus](https://lh3.googleusercontent.com/97Ljeg-5s2qLDKmSEbqkGdK7f4rvpopZUnjFVkldo_MW67EB_xL8J1Vg3cw5bsBfM1_i5u95QycT "usus")
+
 <p>Deskripsi singkat ketika user mengedit user:</p>
 <ol>
 <li>Sistem menampilkan halaman utama yang berisi button budaya</li>
@@ -480,8 +623,8 @@ Xref: Bagian 3.2.12, User Mengedit User<p></p>
 				<ol>
 				<li>User mengisi form login dengan username dan password dan mengklik button login</li>
 				<li>sistem melakukan validasi login</li>
-				<li>bila sukses sistem akan mengarahkan ke halaman utama</li>
-				<li>bila gagal sistem akan menampilkan notif peringatan</li>
+				<li>jika login cocok dengan database maka sistem akan mengarahkan ke halaman utama</li>
+				<li>jika tidak maka sistem akan menampilkan notif peringatan</li>
 				</ol>
 			</td>  
 		</tr>  
@@ -528,7 +671,7 @@ Xref: Bagian 3.2.12, User Mengedit User<p></p>
 			<td>
 				<ol>
 				<li>Sistem menampilkan halaman utama</li>
-				<li>User mengklik button budaya</li>
+				<li>User mengklik menu budaya</li>
 				<li>Sistem menampilkan data budaya</li>
 				</ol>
 			</td>  
@@ -576,8 +719,9 @@ Xref: Bagian 3.2.12, User Mengedit User<p></p>
 				<td>
 					<ol>
 					<li>Sistem menampilkan halaman utama</li>
-					<li>User mengklik button wisata</li>
-					<li>Sistem menampilkan data wisata</li>
+					<li>User mengklik menu pariwisata</li>
+					<li>Sistem menampilkan menu pariwisata</li>
+					<li>User memilih menu pariwisata</li>
 					</ol>
 				</td>  
 			</tr>  
@@ -624,7 +768,7 @@ Xref: Bagian 3.2.12, User Mengedit User<p></p>
 				<td>
 					<ol>
 					<li>Sistem menampilkan halaman utama</li>
-					<li>User mengklik button kegiatan</li>
+					<li>User mengklik menu kegiatan</li>
 					<li>Sistem menampilkan data kegiatan</li>
 					</ol>
 				</td>  
@@ -672,7 +816,7 @@ Xref: Bagian 3.2.12, User Mengedit User<p></p>
 			<td>
 				<ol>
 				<li>Sistem menampilkan halaman utama</li>
-				<li>User mengklik button pengaduan</li>
+				<li>User mengklik menu pengaduan</li>
 				<li>User mengisi form pengaduan dan mengklik button kirim</li>
 				<li>Sistem mengirim data ke admin</li>
 				</ol>
@@ -1266,12 +1410,4 @@ Xref: Bagian 3.2.12, User Mengedit User<p></p>
 		<td>Varchar</td>   
 		<td>Berisi deskripsi tentang pengaduan</td>   
 	</tr>
-	<tr>  
-		<td>gambar</td>  
-		<td>Varchar</td>   
-		<td>Berisi gambar pariwisata  </td>   
-	</tr>
 </table> 
-
-
-

@@ -602,5 +602,173 @@ Politeknik Negeri Indramayu<br>
 ![enter image description here](https://1.bp.blogspot.com/-rASx0Mw4IaU/WrHRGaQUREI/AAAAAAAAAFU/4Y3x1oZYmtI_n62zZPLgMwKQHIaH-IZcQCLcBGAs/s1600/level+2+daftar+pariwisata.png)
 </p><p align="center">
 
+<<<<<<< HEAD
 <h4><br><strong>3.3 Modul </strong></br></h4>
+=======
+<h4><br><strong>3.3 Modul</strong></br></h4>
+<h4><strong>3.3.1 Modul Budaya</strong></h4>
+<h4><strong>3.3.1.1 Fungsi Modul</strong></h4>
+<table>
+<tr>
+<th>No</th>
+<th>Fungsi</th>
+<th>Jenis</th>
+<th>Tabel Terkait</th>
+<th>Kategori</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Input Data Budaya</td>
+<td>Import File</td>
+<td>Admin</td>
+<td>Web</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Delete Data Budaya</td>
+<td>Import File atau Form Modal</td>
+<td>Admin</td>
+<td>Web</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Update Data Budaya</td>
+<td>Button Warning</td>
+<td>Admin</td>
+<td>Web</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Menampilkan Data Budaya</td>
+<td>List</td>
+<td>User</td>
+<td>Android</td>
+</tr>
+</table>
+<h4><strong>3.3.1.2 Spesifikasi Layar Utama</strong></h4>
+<h4><strong>3.3.1.3 Spesifikasi Query</strong></h4>
+<h4><strong>3.3.1.4 Spesifikasi Field Data Layar</strong></h4>
+<h4><strong>3.3.1.5 Spesifikasi Objek-Objek pada Layar</strong></h4>
+<h4><strong>3.3.1.6 Spesifikasi Proses/Algoritma</strong></h4>
+
+<h4><strong>3.3.2 Modul Pariwisata</strong></h4>
+<h4><strong>3.3.2.1 Fungsi Modul</strong></h4>
+<table>
+<tr>
+<th>No</th>
+<th>Fungsi</th>
+<th>Jenis</th>
+<th>Tabel Terkait</th>
+<th>Kategori</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Input Data Pariwisata</td>
+<td>Import File</td>
+<td>Admin</td>
+<td>Web</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Delete Data Pariwisata</td>
+<td>Import File atau Form Modal</td>
+<td>Admin</td>
+<td>Web</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Update Data Pariwisata</td>
+<td>Button Warning</td>
+<td>Admin</td>
+<td>Web</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Menampilkan Data Pariwisata</td>
+<td>List</td>
+<td>User</td>
+<td>Android</td>
+</tr>
+</table>
+<h4><strong>3.3.2.2 Spesifikasi Layar Utama</strong></h4>
+<h4><strong>3.3.2.3 Spesifikasi Query</strong></h4>
+<h4><strong>3.3.2.4 Spesifikasi Field Data Layar</strong></h4>
+<h4><strong>3.3.2.5 Spesifikasi Objek-Objek pada Layar</strong></h4>
+<h4><strong>3.3.2.6 Spesifikasi Proses/Algoritma</strong></h4>
+
+<h4><strong>3.3.3 Modul Kegiatan</strong></h4>
+<h4><strong>3.3.3.1 Fungsi Modul</strong></h4>
+<table>
+<tr>
+<th>No</th>
+<th>Fungsi</th>
+<th>Jenis</th>
+<th>Tabel Terkait</th>
+<th>Kategori</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Input Data Kegiatan</td>
+<td>Import File</td>
+<td>Admin</td>
+<td>Web</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Delete Data Kegiatan</td>
+<td>Import File atau Form Modal</td>
+<td>Admin</td>
+<td>Web</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Update Data Kegiatan</td>
+<td>Button Warning</td>
+<td>Admin</td>
+<td>Web</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Menampilkan Data Kegiatan</td>
+<td>List</td>
+<td>User</td>
+<td>Android</td>
+</tr>
+</table>
+<h4><strong>3.3.3.2 Spesifikasi Layar Utama</strong></h4>
+<h4><strong>3.3.3.3 Spesifikasi Query</strong></h4>
+<h4><strong>3.3.3.4 Spesifikasi Field Data Layar</strong></h4>
+<h4><strong>3.3.3.5 Spesifikasi Objek-Objek pada Layar</strong></h4>
+<h4><strong>3.3.3.6 Spesifikasi Proses/Algoritma</strong></h4>
+
+<h4><strong>3.3.4 Modul Pengaduan</strong></h4>
+<h4><strong>3.3.4.1 Fungsi Modul</strong></h4>
+<table>
+<tr>
+<th>No</th>
+<th>Fungsi</th>
+<th>Jenis</th>
+<th>Tabel Terkait</th>
+<th>Kategori</th>
+</tr>
+<td>1</td>
+<td>Delete Data Pengaduan</td>
+<td>Import File atau Form Modal</td>
+<td>Admin</td>
+<td>Web</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Mengisi Form Pengaduan</td>
+<td>Form</td>
+<td>User</td>
+<td>Android</td>
+</tr>
+</table>
+<h4><strong>3.3.4.2 Spesifikasi Layar Utama</strong></h4>
+<h4><strong>3.3.4.3 Spesifikasi Query</strong></h4>
+<h4><strong>3.3.4.4 Spesifikasi Field Data Layar</strong></h4>
+<h4><strong>3.3.4.5 Spesifikasi Objek-Objek pada Layar</strong></h4>
+<h4><strong>3.3.4.6 Spesifikasi Proses/Algoritma</strong></h4>
+>>>>>>> b77fbfe196bdded1bfc14b8f4e84c675d846d59d
 
