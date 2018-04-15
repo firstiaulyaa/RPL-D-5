@@ -1,7 +1,7 @@
 
 
 <h1 align="center" id="software-requirements-specification">SOFTWARE REQUIREMENTS SPECIFICATION</h1>  
-<p align="center"><strong>Version 1.7<br>28 Maret 2018</strong><br></p>
+<p align="center"><strong>Version 1.8<br>28 Maret 2018</strong><br></p>
 
 <p align="center">  
 	<img src="https://lh3.googleusercontent.com/qEHYPVzo0kjd8ikhrCIF4cI_PhR8pmK5vDU14oEp9OPyVT-eA54cVp8C9iyJ8rKDfH8OR1dnT1zv=s300" alt="enter image description here" title="logo">  
@@ -1043,9 +1043,9 @@ Xref: Bagian 3.2.12, User Mengedit User<p></p>
 <p>Struktur data logika pada sistem Aplikasi Budaya dan Pariwisata terdapat struktur Database yang dijelaskan menggunakan ERD.  
 </p><p>
 
-![enter image description here](https://2.bp.blogspot.com/-hfelCSzK5rI/Wrx6v882vbI/AAAAAAAAAGY/B5uJQnEl3QcOlqK3IpiNAGmo0CLzY0yYgCLcBGAs/s1600/ERD00000000.jpg)
-<p>Pada ERD terdapat tabel admin, tabel user, tabel pariwisata, tabel budaya, tabel event dan tabel pengaduan.  </p>
+![enter image description here](https://1.bp.blogspot.com/-hkYea_zGdL4/WtNJdhP-n5I/AAAAAAAAAIs/5_ZVWO5vu6wx8GGiDGUFr1TsOleaCP3owCLcBGAs/s1600/ERD.jpg)
 
+<p>Pada ERD terdapat tabel admin, tabel user, tabel pariwisata, tabel budaya, tabel event dan tabel pengaduan.  </p>
 
 <ul>
 	<li>
@@ -1089,6 +1089,11 @@ Xref: Bagian 3.2.12, User Mengedit User<p></p>
 		<td>Varchar</td>   
 		<td>Berisi gambar user</td>   
 	</tr>   
+	<tr>
+		<td>kategori</td>
+		<td>varchar</td>
+		<td>Berisi kategori sebagai siapa pada saat login (sebagai admin atau user)</td>
+	</tr>
 </table>
 
 <ul>
