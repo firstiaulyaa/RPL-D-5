@@ -1,5 +1,6 @@
 
 
+
 <h1 align="center" id="software-requirements-specification">SOFTWARE REQUIREMENTS SPECIFICATION</h1>  
 <p align="center"><strong>Version 1.8<br>28 Maret 2018</strong><br></p>
 
@@ -356,8 +357,9 @@ Politeknik Negeri Indramayu<br>
 <h4><strong>2.1.8 Kebutuhan adaptasi</strong></h4>
 <p>Tidak ada.</p>
 
-<h3><strong>2.2. Spesifikasi Kebutuhan Fungsional</strong><br></h3>  
-<p><img src="https://lh3.googleusercontent.com/ehBEvX4NdXWCtnGhlGEnP_VxTDyeZNUbVIH75Y9GSg-HNMU90e8VDJGy9wCEH2Vzhj53agFiIi_55FuT4-jV_eV8nK5O2M0A6NB7gDmm4XrjH3ujSIkk1R3z7ByJquaLrZ5WPwkTkuLcJSGrb00r1For9J9Ha0kjh2ug8HMb1spHZquslruF3r0YHco6DSvO8HhFR8hAJdvJEw3GNYPI_iz66tgx__A0hh_rmO-IDbAJm2k03PICacQ84109dqHZquiRu3HvA3xOA4UQ9l3wzcbhDEIn_n2fGA8vPEj5dsh0ZVl6zEFrT3Qdap5mZxyRV2rqTfRGakG4X-TvLkxSZCYY-5Jf5QAMZuf3D7ZDOvHzuHjs34fviX_a6kmRovCdqVETHIjlh7678H_LGtsOmyYZ8U6XRkmnoRQo7VLlMXPwaYnDtNku80w-vcrXWnYPs8tPwjDyid2vQH-Z71y61_9X7WvMPYwNwEHUuhkN5Rdb6rlrk0qiRuEx_g_F7jJ-ZjgSNgeeRs_2QMg5P-WbY0VUw1AWRPqLegZvL2oGwsvt_B9Oeg6p5IQzQZfqcFZTEHbF-EGiXfx4tgMyMD-eYqWMKinBVW_pKP0rz-k=w848-h662-no=s300" alt="usecase" title="usecase keseluruhan"><br></p>
+<h3><strong>2.2. Spesifikasi Kebutuhan Fungsional</strong><br></h3>
+
+![all](https://lh3.googleusercontent.com/wpQS-zqzpbn2W7g44oenr9h9X7NoxJqeN9T2u6DzDNg64dzquSMJJlst9Eh8GtGNRrnFfxr9DYU2 "all")
 
 <h4><strong>2.2.1 User Login</strong></h4>  
 <p>Use Case: Login<br>
@@ -399,8 +401,10 @@ Xref: Bagian 3.2.3, User lihat wisata<p></p>
 <h4><strong>2.2.4 User Melihat Kegiatan</strong><br></h4>
 <p>Use case: melihat kegiatan<br>
 Diagram:</p>
-<p><img src="https://lh3.googleusercontent.com/lyNCYrzxpvZ9qBUOtZ3yco75f11lEAJOpGd_Pjv9Vn8dB_k9dOTs-zE1xoZzhM2jXTREY0eQVwVBPnuPcfGyPwQL-0S6m7g53b2YADKt2K275vFQAktXWB6HMDVL0l51Z2CPftd2ighvId3JJM2gSYMKWg-sPjj2tp7Vzc5Wf3WLZifNjzSwfUo5_S2zZ0tCiJiX2XZR0oYJ3f89Fu_dHPSir1_9uDZWtlQ6ndKwp5xt6SDdatPon2f-ewlhgAv2uN3RyFIiEYz14bjueTfsq_E4RkUbACBBpVPqkalcq2WwN0YYXAtXic3oXvmt2ZaqcNNoxqpszSSL6SGXLnHNdc8DfZ4MFkDeyprzZZOwVhUkk2K_ZACFMvwKtHgZ6YZbaUudHG_KdC1GEndSDT2l3jg5BmNS9fyPanNQRspZHC3aSJxvD9Ha6vPt6gjR0f39NTBdRn1sD9TYOs9VyNtgq3xJw2IDgdbj-nbsVOoK4QXca-xQp4oORrxAE5TVmFXwk6M1ZVWZkLsACFa4IkA8YU-9MxOHmkrwBdTMG6afi2NMpAmPWMQ-MuMPd5H8OoEFnFUTWMoQdK4vRgH-ilJg3G41itKYI35Fdd2pyfM=w179-h105-no=s300" alt="use case kegiatan" title="userkegiatan">
-</p>
+
+
+![ukeg](https://lh3.googleusercontent.com/rSl87Vh0WZdSz34FM2nkWN-1O0qArkneKY3wBlqoEfedVW5K0e_9wVwRoiA_43j00-828Hdm1sRG "ukeg")
+
 <p>Deskripsi singkat ketika user melihat kegiatan:</p>
 <ol>
 <li>Sistem menampilkan halaman utama yang berisi button kegiatan</li>
@@ -438,7 +442,9 @@ Xref: Bagian 3.2.6, Admin login<p></p>
 <h4><strong>2.2.7 Admin Mengelola Budaya</strong><br></h4>
 <p>Use case: mengelola budaya<br>
 Diagram:</p>
-<p><img src="https://lh3.googleusercontent.com/xSS8q_wIeplS5M-OcYlWfEq271VOWEf4cHrRfzlNdmubHjA9ddjss8Znh9fbJF-t2SXqK3Jcd1TDrJn-3scsylV6ClVY3D9sebCiwPlTko_vQ14GETwd94c3mx5r-HHv3_GfUYursL4j7cpq8Q3f9YYhepnEGx8vR0Otkvc6Nt0A_kqewV9QyYxyWUBRiamm6MFUJyu-ARPg4tZYyQHJH-Rk81XFJiLZNlWYZkzlDVMqKNNO_EC0MWVOe9wi8htgYglPnh9Upu-VCW8i-Z75VhTVK8xWUbNBUJonCtkOoFaz_4N8cjQVEyOODB5BtPEYC53xKkSMUvTdnIfmccn2ud0QMghCBHehWvMf-GYVKmPkk-ic1jZbkCd5J7RWd6MBIWclMoZmYL0OAhGMRo0hORaGT9o65E1IHkAjuUvDTEy1WmLIFTtsFe7t5wXXBZLLS3moOIHFxNr6p4zpUtWahmbuZhlkiR_SgW1iQPL4o9JpdE76_aVVmBuscvpor-OyyZ63N9izyK6LCrQnDeyh1qJKzuetZK3pbup0U7xhPNK8HPev3rIILayGc9fjW141XUpv4foFy1F3lu6OdeKK4oiGGWJKjfAhSP0vt4E=w162-h94-no=s300" alt="use case admin budaya" title="adminbuat"></p>
+
+![abud](https://lh3.googleusercontent.com/LXbhmHH2PctH9yFvYL1Axx9DxdBNxkDpEe7aMzNpFji2n_GREHHjaXiQQROvj5G-KHpf3ZMlr8B6 "abud")
+
 <p>Deskripsi singkat ketika admin mengelola budaya:</p>
 <ol>
 <li>Sistem menampilkan dasboard admin</li>
@@ -451,7 +457,10 @@ Xref: Bagian 3.2.7, Admin mengelola budaya<p></p>
 <h4><strong>2.2.8 Admin Mengelola Pariwisata</strong><br></h4>
 <p>Use case: mengelola pariwisata<br>
 Diagram:</p>
-<p><img src="https://lh3.googleusercontent.com/B2XfAkVd4a5v2kGHOJ4MXapAhDcALgrCNxIcNHMk5-AG8j91rQUYhc5YDVYceK4M-CUt4bMu-K48wBvHDJeA9Ozlei-d-jJGpvLftS_wseE_yK4034IxX38iJkrJ6eleKSrDtHDpE3Q09-Bg9NtwMWn-1f0harkuaaQnnAvYV6glIpEMmMxyx4_G0mH6tgpM5J198m6yeeK9UvWc00H7cTJI18EpCCMHwPtAt_TFyGMEWc5gJNHovoO3e3DuZKoG9H7_1Kgr6RyEm1WEh6rUfvvH-zKfMb882kMfBV8RfBuFX8scaD1_Is5jN7Hh2z3vUlTnLLWTycC6D4FZKwv-MclvsCQM58SMG1Hua260U9qxI9BOplLs2cHgM-7ka1vdVrH36NMO6Kl7-JL3Mi2bdRRyPkozfIOglY-_2inbcQafUuGUE_VLxiVyfDQjYsg5ixlodpRxeZSRx_i4VUy3fKyMdjB38nGtmeDUg0Ru4Hn3F3eRr16NCNl2QWSjdblJIcU8D04UUxoz_t93JYuvEhg30MS6Fu6YIV6tRkhS8RFw-s4eplwePWUfQCPXuNGNgzCQ9oGNkdji363Q_RoTuZwZs2PzbScVqrcJv88=w169-h99-no=s300" alt="use case admin wisata" title="adminedit"></p>
+
+![apar](https://lh3.googleusercontent.com/8TmSjbZU85jYjuelTeYgMTjRu3b6k8yLXt9GNJu2J-5J2KAaDAphiuM1mW8zJOlOPJuCNfbHW2wB "apar")
+
+
 <p>Deskripsi singkat ketika admin mengelola pariwisata:
 </p><ol>
 <li>Sistem menampilkan dasboard admin</li>
@@ -464,7 +473,9 @@ Xref: Bagian 3.2.8, Admin Mengelola Pariwisata<p></p>
 <h4><strong>2.2.9 Admin Mengelola Kegiatan</strong><br></h4>
 <p>Use case: mengelola kegiatan<br>
 Diagram:</p>
-<p><img src="https://lh3.googleusercontent.com/9qeCLeGOA7QEl7FcPbgmsHlXbsbRrzfeJ9UI6eZAET_0KWogt9-MfICAc7YzQvQE5K4DrIM5CVToMtCrvg3YZkyWo0qz8URZkcTRMMsCKGlBobRb5xmlEQR-O1ZycZyOL-rUBm4nk5D_FnqmOLOljwCltsgLu-_B4FGPIid24DaYA3_5Lj0qXYKOB9JdM4LpsmTOIsQPRjAN06x9n1cw_cQSs_9wWDCtiz7rRa_48wXzdPS8QnbnpnJKX-qIl46kZyIZSc98fvVnXfJ-uPygArIS1hVvgNQ27b5P_-dATtkUlj2wTram_cdcynI28QlxdZDjhoERhcXY_Xs50y8QMk5CFc6Wj-GkH1UEwCMLWl__NIyRWZLSnmsBi_bQcEoivp-jx1gR3pWKH-T6_yeOl9lzD4XW5L-U3IB0A5BvWn-0iLFXcnONL_ELbAiaah71pe2w_H4hUnONieHCFsaRouz_BSxu3r0Z7Iwva35Pw2ntrfMHuSvxo9kV7XD1PJKR-O1gQOCkK8MD_3JSPxp_9WVV0_J_mULFwz7EngibqXTRvH3b5oPrXsWdy2-P9cS2sDIbLEqqAXITShmIEZlZ3TOJSCmwp1fJSCNY4hM=w174-h94-no=s300" alt="use case admin kegiatan" title="adminhapus"></p>
+
+![akeg](https://lh3.googleusercontent.com/zBWG8SoLz5oPrbz4nXXFqtfcLggTm2p8peYUgHt_1Cpxp7CWDA1hLawloygaPC4Ox_xVu-xjDtlE "akeg")
+
 <p>Deskripsi singkat ketika admin mengelola kegiatan:</p>
 <ol>
 <li>Sistem menampilkan dasboard admin</li>
@@ -477,7 +488,9 @@ Xref: Bagian 3.2.9, Admin mengelola kegiatan<p></p>
 <h4><strong>2.2.10 Admin Mengelola Pengaduan</strong><br></h4>
 <p>Use case: mengelola pengaduan<br>
 Diagram:</p>
-<p><img src="https://lh3.googleusercontent.com/u7H0T2YsqO9p9TIoz1cMo0x-5UKLvE79iNkzOvieNoU_GNzHYGyZM0NiTz_-C6UsP-KZzpvaPYwFcgel8-fL3HhFROZNE8o4y8Jc_M6p5An_sS8AqhcAajCVYgYJ4SNckJnFGCv6t6SOIFPlz9T0IOj5r2uKLgpRsYc3V-KxtY1vRZ1pNioAHF2oGi0v-6dZPTzkVtZB2_1v4lzK1VwV6mdt2rFHwVkhTpol-3RdcE1z1F-2h_3k7QTRwBLXmLX5rWRZJR_62GY4nYLtMAc25sK7Vp3Uqiy9YzWiilDadFHRqTn2WqYdclm1bWYBkkCogB73gdBO9rK0nxwGN94we57O0vMZLjjQZ632aj7T6pgev-oYP6qa3LoGhmEsjV9UgxwGYd-_f7HSQ3Ci1Trn7bWpSrjoW2-_7MGgnhBlSB6A5z73N_II2D6bkaAd_Z-A4FBWdH9KjCDeopJBeEXKTXxRmKZEUd0pn2MlVKgQppWdtgXBypEMuubERz6rI8X6Q3NcKffvuHY9Jt5Rvhw8X_oq3jwLwlQ90YfDK9gnjjQH1OlHh65on40MEJIx_DF5FLlCl3c5GK2YPuX1nOt1Z_ZztyRBbIWN4MHMV0w=w173-h98-no=s300" alt="use case admin pengaduan" title="adminpengaduan"></p>
+
+![apeng](https://lh3.googleusercontent.com/pB1q0wjsbT6rQq2wvnK6-7HN1vocePQaqli-OO10TtW9kJyW0mWid7IEAq0DB49klHHj3oBjYNX7 "apeng")
+
 <p>Deskripsi singkat ketika admin mengelola pengaduan:</p>
 <ol>
 <li>Sistem menampilkan dashboard admin</li>
@@ -490,7 +503,9 @@ Xref: Bagian 3.2.10, Admin mengelola pengaduan<p></p>
 <h4><strong>2.2.11 Admin Mengelola user</strong><br></h4>
 <p>Use case: mengelola user<br>
 Diagram:</p>
-<p><img src="https://lh3.googleusercontent.com/Jce_-au0vBFu-iMwrQjD2DHAuepDksWesLzKQ95BW7nwae_etvKHbwRwi_Ayp52wVjyupUxLbYCQ8LYUrrVsP5QX4C-tvmwFnJWemGE3_9LG19tkaV6kWxjeD7-ivYOWa3l8uTuDwa9xUj2fm4fnijwjIJZP37f_anF-VyXEtKw6SFkcOIwqmznRE3aIJLEIorQB0Dt2-sI9UkbTgiNfp226K3Fi2-xrSwYjTYSAJNUqXC1uD5BNBFPBZ12AnxHVpx7qIhjwiSh7buA4WizADphRTOrNNONieajsLyO-KlT0iz702iqUkJ-gGYm_NNdZUPKXRFCHK2pUx25Q-o_6Ae1ZTNELJ8bLitD5_yEC22komnmVUa7M-5EjMgyE0iZlxae5GPfjCeKjcyJkxAxzegdrU29UoIKsu2ViVo6Hp9ifKgFW8B2N7B1aQwdpdk_T-Y1leaAYDTqj6xRxX76t6Rn2TuhcD4g3uGIIU-KY14qF8vD5m9NCbR4enRH-eFLZDUhWKR7Xl7z4NrjK9G-OXV-toa-BnxCT2vpVBtRH4p0TmNCLr9k4tJh0uv1U1WOTXYwEWM0sJ5HrgBD_9FR_oFRoJO6vnQBOfLvN91k=w191-h104-no=s300" alt="use case admin user" title="adminmengelolauser"></p>
+
+![aus](https://lh3.googleusercontent.com/9DjF0AaQrCQuJUJjqHTMKbv89YPboBLN4yEbDtZ1LxWDT3NS8vymF2qf7L932GpBIfUhSLYBFbEq "aus")
+
 <p>Deskripsi singkat ketika admin mengelola user:</p>
 <ol>
 <li>Sistem menampilkan dasboard admin</li>
@@ -503,7 +518,9 @@ Xref: Bagian 3.2.11, Admin mengelola user<p></p>
 <h4><strong>2.2.12 User Mengedit User</strong><br></h4>
 <p>Use case: mengedit user<br>
 Diagram:</p>
-<p><img src="https://lh3.googleusercontent.com/ZolJVxjQqbIUZIWxUglZOgRQfu6EHtApsMXX7mW4Nx6Qyrg6e_pxp7qsIBE96-db4Hkgb6DOMLWDJyxxf3dU2U-lUSl5ijrevVfEvCEgQJVpZ_TGgo92hqv4IbYHtwa0qCUNBWtqzam-KUCgI_rZzhqcVywBlMmcKnEYVcpoI3SZIweS4_U4pk537otoRZhDczRQAcmSr4wn-N-Oc8x6UthoDqb_k5hPblX7fihc3NPC6j_RP-HGRNkcO6LQ2Ypqts9ahsyN2uy42sRTV-VG1oN8j6EKrG9RKRNjF_9Nr6DgjH0L1uPfwz-G5lSLCkgdCiTEZgqM7xGVUWECK57iLk2gC_yoigpH-LCwPkoPs2wQhfp6LlhIWhVQtmeq2zoTJgav7b4g6PEP3DEimohowuwI2_E0Bzp_iXRt-iWFOXYTWx1oN_DDHPMtjSwfSwJIUxK30a5d9JSKmZKbDfJJG5p0w3T6t1ShMJM_5D2OZgypxQ1ad3NCqUngLt7vqVLajqz5cZNaHZBqFBnkxgTHcRELfMUCwCFMGQBVS-nT3QoW5BIgWU4l_WnaIG6Qadx7yfjcQspv6Pv4ovQqxUypvq09BYUZKVQIwXCgBbU=w190-h102-no=s300" alt="use case admin edit user" title="adminmengelolauser"></p>
+
+![usus](https://lh3.googleusercontent.com/97Ljeg-5s2qLDKmSEbqkGdK7f4rvpopZUnjFVkldo_MW67EB_xL8J1Vg3cw5bsBfM1_i5u95QycT "usus")
+
 <p>Deskripsi singkat ketika user mengedit user:</p>
 <ol>
 <li>Sistem menampilkan halaman utama yang berisi button budaya</li>
@@ -571,8 +588,8 @@ Xref: Bagian 3.2.12, User Mengedit User<p></p>
 				<ol>
 				<li>User mengisi form login dengan username dan password dan mengklik button login</li>
 				<li>sistem melakukan validasi login</li>
-				<li>bila sukses sistem akan mengarahkan ke halaman utama</li>
-				<li>bila gagal sistem akan menampilkan notif peringatan</li>
+				<li>jika login cocok dengan database maka sistem akan mengarahkan ke halaman utama</li>
+				<li>jika tidak maka sistem akan menampilkan notif peringatan</li>
 				</ol>
 			</td>  
 		</tr>  
@@ -619,7 +636,7 @@ Xref: Bagian 3.2.12, User Mengedit User<p></p>
 			<td>
 				<ol>
 				<li>Sistem menampilkan halaman utama</li>
-				<li>User mengklik button budaya</li>
+				<li>User mengklik menu budaya</li>
 				<li>Sistem menampilkan data budaya</li>
 				</ol>
 			</td>  
@@ -667,8 +684,9 @@ Xref: Bagian 3.2.12, User Mengedit User<p></p>
 				<td>
 					<ol>
 					<li>Sistem menampilkan halaman utama</li>
-					<li>User mengklik button wisata</li>
-					<li>Sistem menampilkan data wisata</li>
+					<li>User mengklik menu pariwisata</li>
+					<li>Sistem menampilkan menu pariwisata</li>
+					<li>User memilih menu pariwisata</li>
 					</ol>
 				</td>  
 			</tr>  
@@ -715,7 +733,7 @@ Xref: Bagian 3.2.12, User Mengedit User<p></p>
 				<td>
 					<ol>
 					<li>Sistem menampilkan halaman utama</li>
-					<li>User mengklik button kegiatan</li>
+					<li>User mengklik menu kegiatan</li>
 					<li>Sistem menampilkan data kegiatan</li>
 					</ol>
 				</td>  
@@ -763,7 +781,7 @@ Xref: Bagian 3.2.12, User Mengedit User<p></p>
 			<td>
 				<ol>
 				<li>Sistem menampilkan halaman utama</li>
-				<li>User mengklik button pengaduan</li>
+				<li>User mengklik menu pengaduan</li>
 				<li>User mengisi form pengaduan dan mengklik button kirim</li>
 				<li>Sistem mengirim data ke admin</li>
 				</ol>
@@ -1358,6 +1376,3 @@ Xref: Bagian 3.2.12, User Mengedit User<p></p>
 		<td>Berisi deskripsi tentang pengaduan</td>   
 	</tr>
 </table> 
-
-
-
