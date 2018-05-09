@@ -107,3 +107,36 @@ Politeknik Negeri Indramayu<br>
 <h5><br><strong>2.5.2.3 Persiapan Perangkat Lunak </strong></br></h5>
 <h4><br><strong>2.5.3 Pelaksanaan Pelaksanaan </strong></br></h4>
 <h4><br><strong>2.5.4 Pelaporan Hasil Dokumen </strong></br></h4>
+
+
+
+<h2><br><strong>3 IDENTIFIKASI DAN RENCANA PENGUJIAN</strong></br></h2>
+<table>  
+	<thead>  
+<tr>
+<td><strong>Kelas Uji</td>
+<td><strong>Butir Uji </td>
+<td colspan="2"><strong>Identifikasi</td>
+	<td><strong>SRS/SDD</td>
+	<td><strong>SPMP</td>
+<td><strong>Jenis Pengujian</td>
+<td><strong>Teknik Pengujian</td>
+<td><strong>Penguji</td>
+</tr>
+<tr>
+<td>--</td>
+<td>
+<ul>
+<li>aaa</li>
+<li>aaa</li>
+</td>
+<td>--</td>
+<td>--</td>
+<td>--</td>
+<td>--</td>
+</thead>  
+</table>
+
+
+
+<h2><br><strong>4 DESKRIPSI DAN HASIL UJI</strong></br></h2>
