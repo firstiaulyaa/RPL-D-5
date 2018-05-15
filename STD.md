@@ -209,7 +209,7 @@ Politeknik Negeri Indramayu<br>
 			<td colspan="3">-------</td>
 		</tr>
 		<tr>
-			<td rowspan="4" align="center"><strong>Skenario</td>
+			<td colspan="4" align="center"><strong>Skenario</td>
 		</tr>
 		<tr>
 			<td colspan="4">
@@ -220,7 +220,7 @@ Politeknik Negeri Indramayu<br>
 			</td>
 		</tr>
 		<tr>
-			<td rowspan="4" align="center"><strong>Hasil</td>
+			<td colspan="4" align="center"><strong>Hasil</td>
 		</tr>
 		<tr>
 			<td colspan="4">
