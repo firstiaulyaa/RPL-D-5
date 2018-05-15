@@ -168,11 +168,14 @@ Politeknik Negeri Indramayu<br>
 <td rowspan="2" align="center"><strong>Kelas Uji</td>
 <td rowspan="2" align="center"><strong>Butir Uji </td>
 <td colspan="2" align="center"><strong>Identifikasi</td>
+</tr>
+<tr>
 	<td align="center"><strong>SRS/SDD</td>
 	<td align="center"><strong>SPMP</td>
+<tr>
 <td rowspan="2" align="center"><strong>Jenis Pengujian</td>
 <td rowspan="2" align="center"><strong>Teknik Pengujian</td>
-<td rowspan="2"align="center"><strong>Penguji</td>
+<td rowspan="2" align="center"><strong>Penguji</td>
 </tr>
 
 </thead>  
@@ -208,7 +211,9 @@ Politeknik Negeri Indramayu<br>
 		</tr>
 		<tr>
 			<td colspan="2">Skenario</td>
-			<td>
+		</tr>
+		<tr>
+			<td colspan="2">
 				<ul>
 					<li>------</li>
 					<li>------</li>
@@ -217,7 +222,9 @@ Politeknik Negeri Indramayu<br>
 		</tr>
 		<tr>
 			<td colspan="2">Hasil</td>
-			<td>
+		</tr>
+		<tr >
+			<td colspan="2">
 				<ul>
 					<li>------</li>
 					<li>------</li>
@@ -226,6 +233,8 @@ Politeknik Negeri Indramayu<br>
 		</tr>
 		<tr>
 			<td colspan="2">Catatan</td>
+		</tr>
+		<tr>
 			<td>
 				<ul>
 					<li>------</li>
