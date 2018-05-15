@@ -178,28 +178,28 @@ Politeknik Negeri Indramayu<br>
 		</tr>
 <tr>
 	<td rowspan="2" align="center"><strong>--------</td>
-	<td>--------</td>
-	<td>--------</td>
+	<td>1111</td>
+	<td>2222</td>
 </tr>
 <tr>
-	<td>--------</td>
-	<td>--------</td>
+	<td>3333</td>
+	<td>4444</td>
 </tr>
 <tr>
-	<td>--------</td>
-	<td>--------</td>
+	<td>5555</td>
+	<td>6666</td>
 </tr>
 <tr>
-	<td>--------</td>
-	<td>--------</td>
+	<td>7777</td>
+	<td>8888</td>
 </tr>
 <tr>
-	<td>--------</td>
-	<td>--------</td>
+	<td>9999</td>
+	<td>10101010</td>
 </tr>
 <tr>
-	<td>--------</td>
-	<td>--------</td>
+	<td>11111111</td>
+	<td>12121212</td>
 </tr>
 
 </thead>  
