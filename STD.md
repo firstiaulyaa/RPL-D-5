@@ -165,13 +165,14 @@ Politeknik Negeri Indramayu<br>
 <table>  
 	<thead>  
 <tr>
-<td rowspan="2" align="center"><strong>Kelas Uji</td>
-<td rowspan="2" align="center"><strong>Butir Uji </td>
-<td colspan="2" align="center"><strong>Identifikasi</td>
+	<td rowspan="2" align="center"><strong>Kelas Uji</td>
+	<td rowspan="2" align="center"><strong>Butir Uji </td>
+	<td colspan="2" align="center"><strong>Identifikasi</td>
 </tr>
-<tr>
-	<td align="center"><strong>SRS/SDD</td>
-	<td align="center"><strong>SPMP</td>
+		<tr>
+			<td align="center"><strong>SRS/SDD</td>
+			<td align="center"><strong>SPMP</td>
+		</tr>
 <tr>
 <td rowspan="2" align="center"><strong>Jenis Pengujian</td>
 <td rowspan="2" align="center"><strong>Teknik Pengujian</td>
