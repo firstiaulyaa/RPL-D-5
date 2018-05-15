@@ -223,15 +223,13 @@ Politeknik Negeri Indramayu<br>
 			<td colspan="4" align="center"><strong>Hasil</td>
 		</tr>
 		<tr>
-			<td colspan="4">
-				<ul>
-					<li>------</li>
-					<li>------</li>
-				</ul>
-			</td>
+			<td rowspan="1"><strong>Data yang Diberikan</td>
+			<td rowspan="1"><strong>Yang Diharapkan</td>
+			<td rowspan="1"><strong>Pengamatan</td>
+			<td rowspan="1"><strong>Kesimpulan</td>
 		</tr>
 		<tr>
-			<td rowspan="4">Catatan</td>
+			<td colspan="4" align="center"><strong>Catatan</td>
 		</tr>
 		<tr>
 			<td colspan="4">
