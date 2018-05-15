@@ -176,6 +176,31 @@ Politeknik Negeri Indramayu<br>
 			<td align="center"><strong>SRS/SDD</td>
 			<td align="center"><strong>SPMP</td>
 		</tr>
+<tr>
+	<td rowspan="2" align="center"><strong>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+</tr>
+<tr>
+	<td>--------</td>
+	<td>--------</td>
+</tr>
+<tr>
+	<td>--------</td>
+	<td>--------</td>
+</tr>
+<tr>
+	<td>--------</td>
+	<td>--------</td>
+</tr>
+<tr>
+	<td>--------</td>
+	<td>--------</td>
+</tr>
+<tr>
+	<td>--------</td>
+	<td>--------</td>
+</tr>
 
 </thead>  
 </table>
