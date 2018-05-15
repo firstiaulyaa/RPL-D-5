@@ -186,33 +186,33 @@ Politeknik Negeri Indramayu<br>
 	<thead> 
 		<tr>
 			<td rowspan="1"><strong>Identifikasi</td>
-			<td rowspan="3">-------</td>
+			<td colspan="3">-------</td>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Nama Butir Uji</td>
-			<td rowspan="3">-------</td>
+			<td colspan="3">-------</td>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Tujuan</td>
-			<td rowspan="3">-------</td>
+			<td colspan="3">-------</td>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Kondisi Awal</td>
-			<td rowspan="3">-------</td>
+			<td colspan="3">-------</td>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Tanggal Pengujian</td>
-			<td rowspan="3">-------</td>
+			<td colspan="3">-------</td>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Penguji</td>
-			<td rowspan="3">-------</td>
+			<td colspan="3">-------</td>
 		</tr>
 		<tr>
 			<td rowspan="4" align="center"><strong>Skenario</td>
 		</tr>
 		<tr>
-			<td rowspan="4">
+			<td colspan="4">
 				<ul>
 					<li>------</li>
 					<li>------</li>
@@ -223,7 +223,7 @@ Politeknik Negeri Indramayu<br>
 			<td rowspan="4" align="center"><strong>Hasil</td>
 		</tr>
 		<tr>
-			<td rowspan="4">
+			<td colspan="4">
 				<ul>
 					<li>------</li>
 					<li>------</li>
@@ -234,7 +234,7 @@ Politeknik Negeri Indramayu<br>
 			<td rowspan="4">Catatan</td>
 		</tr>
 		<tr>
-			<td rowspan="4">
+			<td colspan="4">
 				<ul>
 					<li>------</li>
 					<li>------</li>
