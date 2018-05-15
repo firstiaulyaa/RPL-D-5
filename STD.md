@@ -229,6 +229,32 @@ Politeknik Negeri Indramayu<br>
 			<td rowspan="1"><strong>Kesimpulan</td>
 		</tr>
 		<tr>
+			<td rowspan="1">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
 			<td colspan="4" align="center"><strong>Catatan</td>
 		</tr>
 		<tr>
