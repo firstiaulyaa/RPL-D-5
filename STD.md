@@ -869,8 +869,11 @@ Politeknik Negeri Indramayu<br>
 				</ul>
 			</td>
 		</tr>
+	</thead>
+</table>
 
-
+<table>
+	<thead>
 		<tr>
 			<td rowspan="1"><strong>Identifikasi</td>
 			<td colspan="3">STD-01</td>
@@ -957,8 +960,11 @@ Politeknik Negeri Indramayu<br>
 				</ul>
 			</td>
 		</tr>
+	</thead>
+</table>
 
-		
+<table>
+	<thead>	
 		<tr>
 			<td rowspan="1"><strong>Identifikasi</td>
 			<td colspan="3">STD-02</td>
