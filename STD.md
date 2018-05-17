@@ -783,8 +783,6 @@ Politeknik Negeri Indramayu<br>
 <h2><br><strong>4 DESKRIPSI DAN HASIL UJI</strong></br></h2>
 <table>  
 	<thead> 
-
-		<!-- Kebenaran pengisian username dan password -->
 		<tr>
 			<td rowspan="1"><strong>Identifikasi</td>
 			<td colspan="3">SRS-2.2.1</td>
@@ -872,7 +870,7 @@ Politeknik Negeri Indramayu<br>
 			</td>
 		</tr>
 
-<!-- Salah mengisi dalam username atau password -->
+
 		<tr>
 			<td rowspan="1"><strong>Identifikasi</td>
 			<td colspan="3">STD-01</td>
@@ -960,7 +958,7 @@ Politeknik Negeri Indramayu<br>
 			</td>
 		</tr>
 
-		<!-- Tidak ada koneksi internet -->
+		
 		<tr>
 			<td rowspan="1"><strong>Identifikasi</td>
 			<td colspan="3">STD-02</td>
@@ -1048,7 +1046,7 @@ Politeknik Negeri Indramayu<br>
 			</td>
 		</tr>
 
-		<!-- Kebenaran pengisian nama, username, email, dan password -->
+		
 		<tr>
 			<td rowspan="1"><strong>Identifikasi</td>
 			<td colspan="3">--------</td>
@@ -1136,7 +1134,7 @@ Politeknik Negeri Indramayu<br>
 			</td>
 		</tr>
 
-<!-- Salah dalam mengisi data register -->
+
 		<tr>
 			<td rowspan="1"><strong>Identifikasi</td>
 			<td colspan="3">--------</td>
