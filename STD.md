@@ -262,8 +262,8 @@ Politeknik Negeri Indramayu<br>
 <tr>
 	<td>Data budaya tidak muncul karena server error</td>
 	<td>--------</td>
+	<td>-</td>
 	<td>Sistem</td>
-	<td>--------</td>
 	<td>--------</td>
 	<td>--------</td>
 </tr>
@@ -272,6 +272,556 @@ Politeknik Negeri Indramayu<br>
 	<td>--------</td>
 	<td>-</td>
 	<td>Sistem</td>
+	<td>--------</td>
+	<td>--------</td>
+</tr>
+
+<tr>
+	<td rowspan="3" align="center"><strong>Pengujian melihat menu pariwisata pada Android (User)</td>
+	<td>Kebenaran dalam menampilkan menu pariwisata</td>
+	<td>--------</td>
+	<td>-</td>
+	<td>Sistem</td>
+	<td>--------</td>
+	<td>--------</td>
+<tr>
+	<td>Menu pariwisata tidak muncul karena server error</td>
+	<td>--------</td>
+	<td>-</td>
+	<td>Sistem</td>
+	<td>--------</td>
+	<td>--------</td>
+</tr>
+<tr>
+	<td>Tidak ada koneksi internet</td>
+	<td>--------</td>
+	<td>-</td>
+	<td>Sistem</td>
+	<td>--------</td>
+	<td>--------</td>
+</tr>
+
+<tr>
+	<td rowspan="3" align="center"><strong>Pengujian melihat kegiatan pada Android (User)</td>
+	<td>Kebenaran dalam menampilkan ke kegiatan</td>
+	<td>--------</td>
+	<td>-</td>
+	<td>Sistem</td>
+	<td>--------</td>
+	<td>--------</td>
+<tr>
+	<td>Data kegiatan tidak muncul karena server error</td>
+	<td>--------</td>
+	<td>-</td>
+	<td>Sistem</td>
+	<td>--------</td>
+	<td>--------</td>
+</tr>
+<tr>
+	<td>Tidak ada koneksi internet</td>
+	<td>--------</td>
+	<td>-</td>
+	<td>Sistem</td>
+	<td>--------</td>
+	<td>--------</td>
+</tr>
+
+<tr>
+	<td rowspan="3" align="center"><strong>Pengujian mengajukan pengaduan pada Android (User)</td>
+	<td>Kebenaran dalam mengisi form pengaduanan</td>
+	<td>--------</td>
+	<td>-</td>
+	<td>Sistem</td>
+	<td>--------</td>
+	<td>--------</td>
+<tr>
+	<td>Pengduan tidak muncul karena server error</td>
+	<td>--------</td>
+	<td>-</td>
+	<td>Sistem</td>
+	<td>--------</td>
+	<td>--------</td>
+</tr>
+<tr>
+	<td>Tidak ada koneksi internet</td>
+	<td>--------</td>
+	<td>-</td>
+	<td>Sistem</td>
+	<td>--------</td>
+	<td>--------</td>
+</tr>
+
+<tr>
+	<td rowspan="3" align="center"><strong>Pengujian Login pada Web (Admin)</td>
+	<td>Kebenaran pengisian username dan password</td>
+	<td>--------</td>
+	<td>-</td>
+	<td>Sistem</td>
+	<td>--------</td>
+	<td>--------</td>
+<tr>
+	<td>Salah mengisi dalam username atau password</td>
+	<td>--------</td>
+	<td>-</td>
+	<td>Sistem</td>
+	<td>--------</td>
+	<td>--------</td>
+</tr>
+<tr>
+	<td>Tidak ada koneksi internet</td>
+	<td>--------</td>
+	<td>-</td>
+	<td>Sistem</td>
+	<td>--------</td>
+	<td>--------</td>
+</tr>
+
+<tr>
+	<td rowspan="3" align="center"><strong>Pengujian tambah Admin pada Web (Admin)</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+<tr>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+</tr>
+<tr>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+</tr>
+
+<tr>
+	<td rowspan="3" align="center"><strong>Pengujian Logout pada Web (Admin)</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+<tr>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+</tr>
+<tr>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+</tr>
+
+<tr>
+	<td rowspan="3" align="center"><strong>Pengujian melihat data User pada Web (Admin)</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+<tr>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+</tr>
+<tr>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+</tr>
+
+<tr>
+	<td rowspan="3" align="center"><strong>Pengujian melihat data budaya pada web (Admin)</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+<tr>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+</tr>
+<tr>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+</tr>
+
+<tr>
+	<td rowspan="3" align="center"><strong>Pengujian mengubah data budaya pada Web (Admin)</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+<tr>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+</tr>
+<tr>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+</tr>
+
+<tr>
+	<td rowspan="3" align="center"><strong>Pengujian menghapus data budaya pada Web (Admin)</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+<tr>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+</tr>
+<tr>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+</tr>
+
+<tr>
+	<td rowspan="3" align="center"><strong>Pengujian melihat data pariwisata pada Web (Admin)</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+<tr>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+</tr>
+<tr>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+</tr>
+
+<tr>
+	<td rowspan="3" align="center"><strong>Pengujian menambah data pariwisata pada Web (Admin)</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+<tr>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+</tr>
+<tr>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+</tr>
+
+<tr>
+	<td rowspan="3" align="center"><strong>Pengujian mengubah data pariwisata pada Web (Admin)</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+<tr>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+</tr>
+<tr>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+</tr>
+
+<tr>
+	<td rowspan="3" align="center"><strong>Pengujian menghapus data pariwisata pada Web (Admin)</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+<tr>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+</tr>
+<tr>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+</tr>
+
+<tr>
+	<td rowspan="3" align="center"><strong>Pengujian melihat data kegiatan pada Web (Admin) </td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+<tr>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+</tr>
+<tr>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+</tr>
+
+<tr>
+	<td rowspan="3" align="center"><strong>Pengujian menambah data kegiatan pada Web (Admin)</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+<tr>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+</tr>
+<tr>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+</tr>
+
+<tr>
+	<td rowspan="3" align="center"><strong>Pengujian merubah data kegiatan pada Web (Admin)</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+<tr>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+</tr>
+<tr>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+</tr>
+
+<tr>
+	<td rowspan="3" align="center"><strong>Pengujian menghapus data kegiatan pada Web (Admin)</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+<tr>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+</tr>
+<tr>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+</tr>
+
+<tr>
+	<td rowspan="3" align="center"><strong>Pengujian melihat data pengaduan pada Web (Admin)</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+<tr>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+</tr>
+<tr>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+</tr>
+
+<tr>
+	<td rowspan="3" align="center"><strong>Pengujian menambah data pengaduan pada Web (Admin)</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+<tr>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+</tr>
+<tr>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+</tr>
+
+<tr>
+	<td rowspan="3" align="center"><strong>Pengujian merubah data pengaduan pada Web (Admin)</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+<tr>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+</tr>
+<tr>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+</tr>
+
+<tr>
+	<td rowspan="3" align="center"><strong>Pengujian menghapus data pengaduan pada Web (Admin)</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+<tr>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+</tr>
+<tr>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
 	<td>--------</td>
 	<td>--------</td>
 </tr>
