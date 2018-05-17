@@ -180,9 +180,8 @@ Politeknik Negeri Indramayu<br>
 	<td rowspan="3" align="center"><strong>Pengujian Login pada Android (User)</td>
 	<td>Kebenaran pengisian username dan password</td>
 	<td>SRS-2.2.1</td>
-	<td>--------</td>
+	<td>-</td>
 	<td>Sistem</td>
-	<td>--------</td>
 	<td>--------</td>
 	<td>--------</td>
 <tr>
@@ -192,14 +191,12 @@ Politeknik Negeri Indramayu<br>
 	<td>Sistem</td>
 	<td>--------</td>
 	<td>--------</td>
-	<td>--------</td>
 </tr>
 <tr>
 	<td>Tidak ada koneksi internet</td>
 	<td>STD-02</td>
 	<td>-</td>
 	<td>Sistem</td>
-	<td>--------</td>
 	<td>--------</td>
 	<td>--------</td>
 </tr>
