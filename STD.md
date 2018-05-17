@@ -186,16 +186,16 @@ Politeknik Negeri Indramayu<br>
 	<td>--------</td>
 <tr>
 	<td>Salah mengisi dalam username atau password</td>
-	<td>STD-01</td>
 	<td>-</td>
+	<td>STD-01</td>
 	<td>Sistem</td>
 	<td>--------</td>
 	<td>--------</td>
 </tr>
 <tr>
 	<td>Tidak ada koneksi internet</td>
-	<td>STD-02</td>
 	<td>-</td>
+	<td>STD-02</td>
 	<td>Sistem</td>
 	<td>--------</td>
 	<td>--------</td>
