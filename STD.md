@@ -201,6 +201,81 @@ Politeknik Negeri Indramayu<br>
 	<td>--------</td>
 </tr>
 
+<tr>
+	<td rowspan="3" align="center"><strong>Pengujian Register pada Android (User)</td>
+	<td>Kebenaran pengisian nama, username, email, dan password</td>
+	<td>--------</td>
+	<td>-</td>
+	<td>Sistem</td>
+	<td>--------</td>
+	<td>--------</td>
+<tr>
+	<td>Salah dalam mengisi data register</td>
+	<td>--------</td>
+	<td>-</td>
+	<td>Sistem</td>
+	<td>--------</td>
+	<td>--------</td>
+</tr>
+<tr>
+	<td>Tidak ada koneksi internet</td>
+	<td>--------</td>
+	<td>-</td>
+	<td>Sistem</td>
+	<td>--------</td>
+	<td>--------</td>
+</tr>
+
+<tr>
+	<td rowspan="3" align="center"><strong>Pengujian Logout pada Android (User)</td>
+	<td>Kebenaran dalam menampilkan Logout</td>
+	<td>--------</td>
+	<td>-</td>
+	<td>Sistem</td>
+	<td>--------</td>
+	<td>--------</td>
+<tr>
+	<td>--------</td>
+	<td>--------</td>
+	<td>-</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+</tr>
+<tr>
+	<td>Tidak ada koneksi internet</td>
+	<td>--------</td>
+	<td>-</td>
+	<td>Sistem</td>
+	<td>--------</td>
+	<td>--------</td>
+</tr>
+
+<tr>
+	<td rowspan="3" align="center"><strong>Pengujian melihat Budaya pada Android (User)</td>
+	<td>Kebenaran dalam menampilkan budaya</td>
+	<td>--------</td>
+	<td>-</td>
+	<td>Sistem</td>
+	<td>--------</td>
+	<td>--------</td>
+<tr>
+	<td>Data budaya tidak muncul karena server error</td>
+	<td>--------</td>
+	<td>Sistem</td>
+	<td>--------</td>
+	<td>--------</td>
+	<td>--------</td>
+</tr>
+<tr>
+	<td>Tidak ada koneksi internet</td>
+	<td>--------</td>
+	<td>-</td>
+	<td>Sistem</td>
+	<td>--------</td>
+	<td>--------</td>
+</tr>
+
 </thead>  
 </table>
 
