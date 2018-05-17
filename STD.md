@@ -176,6 +176,8 @@ Politeknik Negeri Indramayu<br>
 			<td align="center"><strong>SRS/SDD</td>
 			<td align="center"><strong>SPMP</td>
 		</tr>
+
+<!-- user melakukan login -->		
 <tr>
 	<td rowspan="3" align="center"><strong>Pengujian Login pada Android (User)</td>
 	<td>Kebenaran pengisian username dan password</td>
@@ -201,6 +203,7 @@ Politeknik Negeri Indramayu<br>
 	<td>--------</td>
 </tr>
 
+<!-- user melakukan registrasi -->
 <tr>
 	<td rowspan="3" align="center"><strong>Pengujian Register pada Android (User)</td>
 	<td>Kebenaran pengisian nama, username, email, dan password</td>
@@ -226,31 +229,8 @@ Politeknik Negeri Indramayu<br>
 	<td>--------</td>
 </tr>
 
-<tr>
-	<td rowspan="3" align="center"><strong>Pengujian Logout pada Android (User)</td>
-	<td>Kebenaran dalam menampilkan Logout</td>
-	<td>--------</td>
-	<td>-</td>
-	<td>Sistem</td>
-	<td>--------</td>
-	<td>--------</td>
-<tr>
-	<td>--------</td>
-	<td>--------</td>
-	<td>-</td>
-	<td>--------</td>
-	<td>--------</td>
-	<td>--------</td>
-</tr>
-<tr>
-	<td>Tidak ada koneksi internet</td>
-	<td>--------</td>
-	<td>-</td>
-	<td>Sistem</td>
-	<td>--------</td>
-	<td>--------</td>
-</tr>
 
+<!-- user melihat budaya -->
 <tr>
 	<td rowspan="3" align="center"><strong>Pengujian melihat Budaya pada Android (User)</td>
 	<td>Kebenaran dalam menampilkan budaya</td>
@@ -276,6 +256,7 @@ Politeknik Negeri Indramayu<br>
 	<td>--------</td>
 </tr>
 
+<!-- user melihat menu pariwisata -->
 <tr>
 	<td rowspan="3" align="center"><strong>Pengujian melihat menu pariwisata pada Android (User)</td>
 	<td>Kebenaran dalam menampilkan menu pariwisata</td>
@@ -301,6 +282,7 @@ Politeknik Negeri Indramayu<br>
 	<td>--------</td>
 </tr>
 
+<!-- user melihat kegiatan -->
 <tr>
 	<td rowspan="3" align="center"><strong>Pengujian melihat kegiatan pada Android (User)</td>
 	<td>Kebenaran dalam menampilkan ke kegiatan</td>
@@ -326,6 +308,7 @@ Politeknik Negeri Indramayu<br>
 	<td>--------</td>
 </tr>
 
+<!-- user mengajukan pengaduan -->
 <tr>
 	<td rowspan="3" align="center"><strong>Pengujian mengajukan pengaduan pada Android (User)</td>
 	<td>Kebenaran dalam mengisi form pengaduanan</td>
@@ -351,6 +334,7 @@ Politeknik Negeri Indramayu<br>
 	<td>--------</td>
 </tr>
 
+<!-- admin melakukan login  -->
 <tr>
 	<td rowspan="3" align="center"><strong>Pengujian Login pada Web (Admin)</td>
 	<td>Kebenaran pengisian username dan password</td>
@@ -376,6 +360,7 @@ Politeknik Negeri Indramayu<br>
 	<td>--------</td>
 </tr>
 
+<!-- admin menambahkan admin -->
 <tr>
 	<td rowspan="3" align="center"><strong>Pengujian tambah Admin pada Web (Admin)</td>
 	<td>--------</td>
@@ -401,31 +386,7 @@ Politeknik Negeri Indramayu<br>
 	<td>--------</td>
 </tr>
 
-<tr>
-	<td rowspan="3" align="center"><strong>Pengujian Logout pada Web (Admin)</td>
-	<td>--------</td>
-	<td>--------</td>
-	<td>--------</td>
-	<td>--------</td>
-	<td>--------</td>
-	<td>--------</td>
-<tr>
-	<td>--------</td>
-	<td>--------</td>
-	<td>--------</td>
-	<td>--------</td>
-	<td>--------</td>
-	<td>--------</td>
-</tr>
-<tr>
-	<td>--------</td>
-	<td>--------</td>
-	<td>--------</td>
-	<td>--------</td>
-	<td>--------</td>
-	<td>--------</td>
-</tr>
-
+<!-- admin melihat data user -->
 <tr>
 	<td rowspan="3" align="center"><strong>Pengujian melihat data User pada Web (Admin)</td>
 	<td>--------</td>
@@ -451,6 +412,7 @@ Politeknik Negeri Indramayu<br>
 	<td>--------</td>
 </tr>
 
+<!-- admin melihat data budaya -->
 <tr>
 	<td rowspan="3" align="center"><strong>Pengujian melihat data budaya pada web (Admin)</td>
 	<td>--------</td>
@@ -476,6 +438,7 @@ Politeknik Negeri Indramayu<br>
 	<td>--------</td>
 </tr>
 
+<!-- admin mengbah data budaya -->
 <tr>
 	<td rowspan="3" align="center"><strong>Pengujian mengubah data budaya pada Web (Admin)</td>
 	<td>--------</td>
@@ -501,6 +464,7 @@ Politeknik Negeri Indramayu<br>
 	<td>--------</td>
 </tr>
 
+<!-- admin menghapus data budaya -->
 <tr>
 	<td rowspan="3" align="center"><strong>Pengujian menghapus data budaya pada Web (Admin)</td>
 	<td>--------</td>
@@ -526,6 +490,7 @@ Politeknik Negeri Indramayu<br>
 	<td>--------</td>
 </tr>
 
+<!-- admin melihat data pariwisata -->
 <tr>
 	<td rowspan="3" align="center"><strong>Pengujian melihat data pariwisata pada Web (Admin)</td>
 	<td>--------</td>
@@ -551,6 +516,7 @@ Politeknik Negeri Indramayu<br>
 	<td>--------</td>
 </tr>
 
+<!-- admin menambah data pariwisata -->
 <tr>
 	<td rowspan="3" align="center"><strong>Pengujian menambah data pariwisata pada Web (Admin)</td>
 	<td>--------</td>
@@ -576,6 +542,7 @@ Politeknik Negeri Indramayu<br>
 	<td>--------</td>
 </tr>
 
+<!-- admin mengubah data pariwisata -->
 <tr>
 	<td rowspan="3" align="center"><strong>Pengujian mengubah data pariwisata pada Web (Admin)</td>
 	<td>--------</td>
@@ -601,6 +568,7 @@ Politeknik Negeri Indramayu<br>
 	<td>--------</td>
 </tr>
 
+<!-- admin menghapus data pariwisata -->
 <tr>
 	<td rowspan="3" align="center"><strong>Pengujian menghapus data pariwisata pada Web (Admin)</td>
 	<td>--------</td>
@@ -626,6 +594,7 @@ Politeknik Negeri Indramayu<br>
 	<td>--------</td>
 </tr>
 
+<!-- admin melihat data kegiatan -->
 <tr>
 	<td rowspan="3" align="center"><strong>Pengujian melihat data kegiatan pada Web (Admin) </td>
 	<td>--------</td>
@@ -651,6 +620,7 @@ Politeknik Negeri Indramayu<br>
 	<td>--------</td>
 </tr>
 
+<!-- admin menambah data kegiatan -->
 <tr>
 	<td rowspan="3" align="center"><strong>Pengujian menambah data kegiatan pada Web (Admin)</td>
 	<td>--------</td>
@@ -676,8 +646,9 @@ Politeknik Negeri Indramayu<br>
 	<td>--------</td>
 </tr>
 
+<!-- admin mengubah data kegiatan -->
 <tr>
-	<td rowspan="3" align="center"><strong>Pengujian merubah data kegiatan pada Web (Admin)</td>
+	<td rowspan="3" align="center"><strong>Pengujian mengubah data kegiatan pada Web (Admin)</td>
 	<td>--------</td>
 	<td>--------</td>
 	<td>--------</td>
@@ -701,6 +672,7 @@ Politeknik Negeri Indramayu<br>
 	<td>--------</td>
 </tr>
 
+<!-- admin menghapus data kegiatan -->
 <tr>
 	<td rowspan="3" align="center"><strong>Pengujian menghapus data kegiatan pada Web (Admin)</td>
 	<td>--------</td>
@@ -726,6 +698,7 @@ Politeknik Negeri Indramayu<br>
 	<td>--------</td>
 </tr>
 
+<!-- admin melihat data pengaduan -->
 <tr>
 	<td rowspan="3" align="center"><strong>Pengujian melihat data pengaduan pada Web (Admin)</td>
 	<td>--------</td>
@@ -751,33 +724,9 @@ Politeknik Negeri Indramayu<br>
 	<td>--------</td>
 </tr>
 
+<!-- admin mengubah data pengaduan -->
 <tr>
-	<td rowspan="3" align="center"><strong>Pengujian menambah data pengaduan pada Web (Admin)</td>
-	<td>--------</td>
-	<td>--------</td>
-	<td>--------</td>
-	<td>--------</td>
-	<td>--------</td>
-	<td>--------</td>
-<tr>
-	<td>--------</td>
-	<td>--------</td>
-	<td>--------</td>
-	<td>--------</td>
-	<td>--------</td>
-	<td>--------</td>
-</tr>
-<tr>
-	<td>--------</td>
-	<td>--------</td>
-	<td>--------</td>
-	<td>--------</td>
-	<td>--------</td>
-	<td>--------</td>
-</tr>
-
-<tr>
-	<td rowspan="3" align="center"><strong>Pengujian merubah data pengaduan pada Web (Admin)</td>
+	<td rowspan="3" align="center"><strong>Pengujian mengubah data pengaduan pada Web (Admin)</td>
 	<td>--------</td>
 	<td>--------</td>
 	<td>--------</td>
@@ -801,6 +750,7 @@ Politeknik Negeri Indramayu<br>
 	<td>--------</td>
 </tr>
 
+<!-- admin menghapus data pengaduan -->
 <tr>
 	<td rowspan="3" align="center"><strong>Pengujian menghapus data pengaduan pada Web (Admin)</td>
 	<td>--------</td>
@@ -833,13 +783,15 @@ Politeknik Negeri Indramayu<br>
 <h2><br><strong>4 DESKRIPSI DAN HASIL UJI</strong></br></h2>
 <table>  
 	<thead> 
+
+		<!-- Kebenaran pengisian username dan password -->
 		<tr>
 			<td rowspan="1"><strong>Identifikasi</td>
-			<td colspan="3">-------</td>
+			<td colspan="3">SRS-2.2.1</td>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Nama Butir Uji</td>
-			<td colspan="3">-------</td>
+			<td colspan="3">Kebenaran pengisian username dan password</td>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Tujuan</td>
@@ -847,7 +799,12 @@ Politeknik Negeri Indramayu<br>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Kondisi Awal</td>
-			<td colspan="3">-------</td>
+			<td colspan="3">
+				<ul>
+					<li>-------</li>
+					<li>-------</li>
+				</ul>
+			</td>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Tanggal Pengujian</td>
@@ -914,5 +871,358 @@ Politeknik Negeri Indramayu<br>
 				</ul>
 			</td>
 		</tr>
+
+<!-- Salah mengisi dalam username atau password -->
+		<tr>
+			<td rowspan="1"><strong>Identifikasi</td>
+			<td colspan="3">STD-01</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Nama Butir Uji</td>
+			<td colspan="3">Salah mengisi dalam username atau password</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tujuan</td>
+			<td colspan="3">-------</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Kondisi Awal</td>
+			<td colspan="3">
+				<ul>
+					<li>-------</li>
+					<li>-------</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tanggal Pengujian</td>
+			<td colspan="3">-------</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Penguji</td>
+			<td colspan="3">-------</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Skenario</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Hasil</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Data yang Diberikan</td>
+			<td rowspan="1"><strong>Yang Diharapkan</td>
+			<td rowspan="1"><strong>Pengamatan</td>
+			<td rowspan="1"><strong>Kesimpulan</td>
+		</tr>
+		<tr>
+			<td rowspan="1">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Catatan</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+		</tr>
+
+		<!-- Tidak ada koneksi internet -->
+		<tr>
+			<td rowspan="1"><strong>Identifikasi</td>
+			<td colspan="3">STD-02</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Nama Butir Uji</td>
+			<td colspan="3">Tidak ada koneksi internet</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tujuan</td>
+			<td colspan="3">-------</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Kondisi Awal</td>
+			<td colspan="3">
+				<ul>
+					<li>-------</li>
+					<li>-------</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tanggal Pengujian</td>
+			<td colspan="3">-------</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Penguji</td>
+			<td colspan="3">-------</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Skenario</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Hasil</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Data yang Diberikan</td>
+			<td rowspan="1"><strong>Yang Diharapkan</td>
+			<td rowspan="1"><strong>Pengamatan</td>
+			<td rowspan="1"><strong>Kesimpulan</td>
+		</tr>
+		<tr>
+			<td rowspan="1">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Catatan</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+		</tr>
+
+		<!-- Kebenaran pengisian nama, username, email, dan password -->
+		<tr>
+			<td rowspan="1"><strong>Identifikasi</td>
+			<td colspan="3">--------</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Nama Butir Uji</td>
+			<td colspan="3">Kebenaran pengisian nama, username, email, dan password</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tujuan</td>
+			<td colspan="3">-------</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Kondisi Awal</td>
+			<td colspan="3">
+				<ul>
+					<li>-------</li>
+					<li>-------</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tanggal Pengujian</td>
+			<td colspan="3">-------</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Penguji</td>
+			<td colspan="3">-------</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Skenario</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Hasil</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Data yang Diberikan</td>
+			<td rowspan="1"><strong>Yang Diharapkan</td>
+			<td rowspan="1"><strong>Pengamatan</td>
+			<td rowspan="1"><strong>Kesimpulan</td>
+		</tr>
+		<tr>
+			<td rowspan="1">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Catatan</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+		</tr>
+
+<!-- Salah dalam mengisi data register -->
+		<tr>
+			<td rowspan="1"><strong>Identifikasi</td>
+			<td colspan="3">--------</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Nama Butir Uji</td>
+			<td colspan="3">Salah dalam mengisi data register</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tujuan</td>
+			<td colspan="3">-------</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Kondisi Awal</td>
+			<td colspan="3">
+				<ul>
+					<li>-------</li>
+					<li>-------</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tanggal Pengujian</td>
+			<td colspan="3">-------</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Penguji</td>
+			<td colspan="3">-------</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Skenario</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Hasil</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Data yang Diberikan</td>
+			<td rowspan="1"><strong>Yang Diharapkan</td>
+			<td rowspan="1"><strong>Pengamatan</td>
+			<td rowspan="1"><strong>Kesimpulan</td>
+		</tr>
+		<tr>
+			<td rowspan="1">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Catatan</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+		</tr>
+
 	</thead>
 </table>
