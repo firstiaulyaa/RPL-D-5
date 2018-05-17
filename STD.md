@@ -177,9 +177,10 @@ Politeknik Negeri Indramayu<br>
 			<td align="center"><strong>SPMP</td>
 		</tr>
 <tr>
-	<td rowspan="2" align="center"><strong>Pengujian Login pada Android (User)</td>
+	<td rowspan="3" align="center"><strong>Pengujian Login pada Android (User)</td>
 	<td>Kebenaran pengisian username dan password</td>
 	<td>SRS-2.2.1</td>
+	<td>--------</td>
 	<td>Sistem</td>
 	<td>--------</td>
 	<td>--------</td>
@@ -187,6 +188,7 @@ Politeknik Negeri Indramayu<br>
 <tr>
 	<td>Salah mengisi dalam username atau password</td>
 	<td>STD-01</td>
+	<td>-</td>
 	<td>Sistem</td>
 	<td>--------</td>
 	<td>--------</td>
@@ -195,6 +197,7 @@ Politeknik Negeri Indramayu<br>
 <tr>
 	<td>Tidak ada koneksi internet</td>
 	<td>STD-02</td>
+	<td>-</td>
 	<td>Sistem</td>
 	<td>--------</td>
 	<td>--------</td>
