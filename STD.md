@@ -348,18 +348,18 @@ Politeknik Negeri Indramayu<br>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Nama Butir Uji</td>
-			<td colspan="3">Kebenaran pengisian username dan password</td>
+			<td colspan="3">Pengisian Username atau password benar</td>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Tujuan</td>
-			<td colspan="3">-------</td>
+			<td colspan="3">Memeriksa apakah User bisa Login dengan mengisi Username dan Password yang sesuai (benar)</td>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Kondisi Awal</td>
 			<td colspan="3">
 				<ul>
-					<li>-------</li>
-					<li>-------</li>
+					<li>Data User sudah terekam pada database (Tabel User)</li>
+					<li>User sudah membuka aplikasi dan berada pada halaman Login</li>
 				</ul>
 			</td>
 		</tr>
@@ -377,8 +377,8 @@ Politeknik Negeri Indramayu<br>
 		<tr>
 			<td colspan="4">
 				<ul>
-					<li>------</li>
-					<li>------</li>
+					<li>Isi Username dan Password sesuai dengan data (benar)</li>
+					<li>Klik tombol Masuk jika Username dan Password sudah diisi</li>
 				</ul>
 			</td>
 		</tr>
@@ -394,14 +394,14 @@ Politeknik Negeri Indramayu<br>
 		<tr>
 			<td rowspan="1">
 				<ul>
-					<li>------</li>
-					<li>------</li>
+					<li>Username : </li>
+					<li>Password : </li>
 				</ul>
 			</td>
 			<td rowspan="1">
 				<ul>
-					<li>------</li>
-					<li>------</li>
+					<li>User bisa masuk ke Halaman Utama</li>
+					<li>Data yang diisi benar</li>
 				</ul>
 			</td>
 			<td rowspan="1">
@@ -431,6 +431,8 @@ Politeknik Negeri Indramayu<br>
 	</thead>
 </table>
 
+<br></br>
+
 <table>
 	<thead>
 		<tr>
@@ -439,18 +441,18 @@ Politeknik Negeri Indramayu<br>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Nama Butir Uji</td>
-			<td colspan="3">Salah mengisi dalam username atau password</td>
+			<td colspan="3">Pengisian Username atau Password salah</td>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Tujuan</td>
-			<td colspan="3">-------</td>
+			<td colspan="3">Memeriksa apakah User bisa Login dengan mengisi Username dan Password yang tidak sesuai (salah)</td>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Kondisi Awal</td>
 			<td colspan="3">
 				<ul>
-					<li>-------</li>
-					<li>-------</li>
+					<li>Data User sudah terekam pada database (Tabel User)</li>
+					<li>User sudah membuka aplikasi dan berada pada halaman Login</li>
 				</ul>
 			</td>
 		</tr>
@@ -468,8 +470,8 @@ Politeknik Negeri Indramayu<br>
 		<tr>
 			<td colspan="4">
 				<ul>
-					<li>------</li>
-					<li>------</li>
+					<li>Isi Username dan Password tidak sesuai dengan data (salah)</li>
+					<li>Klik tombol Masuk jika Username dan Password sudah diisi</li>
 				</ul>
 			</td>
 		</tr>
@@ -485,13 +487,13 @@ Politeknik Negeri Indramayu<br>
 		<tr>
 			<td rowspan="1">
 				<ul>
-					<li>------</li>
-					<li>------</li>
+					<li>Username : </li>
+					<li>Password : </li>
 				</ul>
 			</td>
 			<td rowspan="1">
 				<ul>
-					<li>------</li>
+					<li>User tidak bisa masuk ke Halaman Utama</li>
 					<li>------</li>
 				</ul>
 			</td>
@@ -531,6 +533,564 @@ Politeknik Negeri Indramayu<br>
 		<tr>
 			<td rowspan="1"><strong>Nama Butir Uji</td>
 			<td colspan="3">Tidak ada koneksi internet</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tujuan</td>
+			<td colspan="3">-------</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Kondisi Awal</td>
+			<td colspan="3">
+				<ul>
+					<li>-------</li>
+					<li>-------</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tanggal Pengujian</td>
+			<td colspan="3">-------</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Penguji</td>
+			<td colspan="3">-------</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Skenario</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Hasil</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Data yang Diberikan</td>
+			<td rowspan="1"><strong>Yang Diharapkan</td>
+			<td rowspan="1"><strong>Pengamatan</td>
+			<td rowspan="1"><strong>Kesimpulan</td>
+		</tr>
+		<tr>
+			<td rowspan="1">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Catatan</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+		</tr>
+	</thead>
+</table>
+
+<br></br>
+
+<table>
+	<thead>	
+		<tr>
+			<td rowspan="1"><strong>Identifikasi</td>
+			<td colspan="3">---------</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Nama Butir Uji</td>
+			<td colspan="3">Pengisian Nama User, Username, Email, dan Password benar</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tujuan</td>
+			<td colspan="3">-------</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Kondisi Awal</td>
+			<td colspan="3">
+				<ul>
+					<li>-------</li>
+					<li>-------</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tanggal Pengujian</td>
+			<td colspan="3">-------</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Penguji</td>
+			<td colspan="3">-------</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Skenario</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Hasil</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Data yang Diberikan</td>
+			<td rowspan="1"><strong>Yang Diharapkan</td>
+			<td rowspan="1"><strong>Pengamatan</td>
+			<td rowspan="1"><strong>Kesimpulan</td>
+		</tr>
+		<tr>
+			<td rowspan="1">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Catatan</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+		</tr>
+	</thead>
+</table>
+
+<br></br>
+
+<table>
+	<thead>	
+		<tr>
+			<td rowspan="1"><strong>Identifikasi</td>
+			<td colspan="3">STD-03</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Nama Butir Uji</td>
+			<td colspan="3">Pengisian Nama User, Username, Email, dan Password salah</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tujuan</td>
+			<td colspan="3">-------</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Kondisi Awal</td>
+			<td colspan="3">
+				<ul>
+					<li>-------</li>
+					<li>-------</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tanggal Pengujian</td>
+			<td colspan="3">-------</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Penguji</td>
+			<td colspan="3">-------</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Skenario</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Hasil</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Data yang Diberikan</td>
+			<td rowspan="1"><strong>Yang Diharapkan</td>
+			<td rowspan="1"><strong>Pengamatan</td>
+			<td rowspan="1"><strong>Kesimpulan</td>
+		</tr>
+		<tr>
+			<td rowspan="1">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Catatan</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+		</tr>
+	</thead>
+</table>
+
+<br></br>
+
+<table>
+	<thead>	
+		<tr>
+			<td rowspan="1"><strong>Identifikasi</td>
+			<td colspan="3">STD-04</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Nama Butir Uji</td>
+			<td colspan="3">Tidak ada koneksi internet</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tujuan</td>
+			<td colspan="3">-------</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Kondisi Awal</td>
+			<td colspan="3">
+				<ul>
+					<li>-------</li>
+					<li>-------</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tanggal Pengujian</td>
+			<td colspan="3">-------</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Penguji</td>
+			<td colspan="3">-------</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Skenario</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Hasil</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Data yang Diberikan</td>
+			<td rowspan="1"><strong>Yang Diharapkan</td>
+			<td rowspan="1"><strong>Pengamatan</td>
+			<td rowspan="1"><strong>Kesimpulan</td>
+		</tr>
+		<tr>
+			<td rowspan="1">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Catatan</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+		</tr>
+	</thead>
+</table>
+
+<br></br>
+
+<table>
+	<thead>	
+		<tr>
+			<td rowspan="1"><strong>Identifikasi</td>
+			<td colspan="3">SRS-2.2.2</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Nama Butir Uji</td>
+			<td colspan="3">Kebenaran dalam menampilkan Budaya dengan meng-klik Ikon Budaya</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tujuan</td>
+			<td colspan="3">-------</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Kondisi Awal</td>
+			<td colspan="3">
+				<ul>
+					<li>-------</li>
+					<li>-------</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tanggal Pengujian</td>
+			<td colspan="3">-------</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Penguji</td>
+			<td colspan="3">-------</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Skenario</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Hasil</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Data yang Diberikan</td>
+			<td rowspan="1"><strong>Yang Diharapkan</td>
+			<td rowspan="1"><strong>Pengamatan</td>
+			<td rowspan="1"><strong>Kesimpulan</td>
+		</tr>
+		<tr>
+			<td rowspan="1">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Catatan</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+		</tr>
+	</thead>
+</table>
+
+<br></br>
+
+<table>
+	<thead>	
+		<tr>
+			<td rowspan="1"><strong>Identifikasi</td>
+			<td colspan="3">STD-05</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Nama Butir Uji</td>
+			<td colspan="3">Tidak ada koneksi internet</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tujuan</td>
+			<td colspan="3">-------</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Kondisi Awal</td>
+			<td colspan="3">
+				<ul>
+					<li>-------</li>
+					<li>-------</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tanggal Pengujian</td>
+			<td colspan="3">-------</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Penguji</td>
+			<td colspan="3">-------</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Skenario</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Hasil</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Data yang Diberikan</td>
+			<td rowspan="1"><strong>Yang Diharapkan</td>
+			<td rowspan="1"><strong>Pengamatan</td>
+			<td rowspan="1"><strong>Kesimpulan</td>
+		</tr>
+		<tr>
+			<td rowspan="1">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Catatan</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+		</tr>
+	</thead>
+</table>
+
+<br></br>
+
+<table>
+	<thead>	
+		<tr>
+			<td rowspan="1"><strong>Identifikasi</td>
+			<td colspan="3">STD-06</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Nama Butir Uji</td>
+			<td colspan="3">Halaman Budaya tidak muncul karena server error</td>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Tujuan</td>
