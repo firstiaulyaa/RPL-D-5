@@ -179,15 +179,15 @@ Politeknik Negeri Indramayu<br>
 
 <!-- user melakukan login -->		
 <tr>
-	<td rowspan="3" align="center"><strong>Pengujian Login pada Android (User)</td>
-	<td>Kebenaran pengisian username dan password</td>
+	<td rowspan="3" align="center"><strong>Pengujian Login User</td>
+	<td>Pengisian Username atau password benar</td>
 	<td>SRS-2.2.1</td>
 	<td>-</td>
 	<td>Sistem</td>
 	<td>--------</td>
 	<td>--------</td>
 <tr>
-	<td>Salah mengisi dalam username atau password</td>
+	<td>Pengisian Username atau Password salah</td>
 	<td>-</td>
 	<td>STD-01</td>
 	<td>Sistem</td>
@@ -205,25 +205,25 @@ Politeknik Negeri Indramayu<br>
 
 <!-- user melakukan registrasi -->
 <tr>
-	<td rowspan="3" align="center"><strong>Pengujian Register pada Android (User)</td>
-	<td>Kebenaran pengisian nama, username, email, dan password</td>
+	<td rowspan="3" align="center"><strong>Pengujian Register User</td>
+	<td>Pengisian Nama User, Username, Email, dan Password benar</td>
 	<td>--------</td>
 	<td>-</td>
 	<td>Sistem</td>
 	<td>--------</td>
 	<td>--------</td>
 <tr>
-	<td>Salah dalam mengisi data register</td>
-	<td>--------</td>
+	<td>Pengisian Nama User, Username, Email, dan Password salah (tidak terisi)</td>
 	<td>-</td>
+	<td>STD-03</td>
 	<td>Sistem</td>
 	<td>--------</td>
 	<td>--------</td>
 </tr>
 <tr>
 	<td>Tidak ada koneksi internet</td>
-	<td>--------</td>
 	<td>-</td>
+	<td>STD-04</td>
 	<td>Sistem</td>
 	<td>--------</td>
 	<td>--------</td>
@@ -233,31 +233,106 @@ Politeknik Negeri Indramayu<br>
 <!-- user melihat budaya -->
 <tr>
 	<td rowspan="3" align="center"><strong>Pengujian melihat Budaya pada Android (User)</td>
-	<td>Kebenaran dalam menampilkan budaya</td>
-	<td>--------</td>
+	<td>Kebenaran dalam menampilkan Budaya dengan meng-klik Ikon Budaya</td>
+	<td>SRS-2.2.2</td>
 	<td>-</td>
 	<td>Sistem</td>
 	<td>--------</td>
 	<td>--------</td>
 <tr>
-	<td>Data budaya tidak muncul karena server error</td>
-	<td>--------</td>
+	<td>Halaman Budaya tidak muncul karena server error</td>
 	<td>-</td>
+	<td>STD-05</td>
 	<td>Sistem</td>
 	<td>--------</td>
 	<td>--------</td>
 </tr>
 <tr>
 	<td>Tidak ada koneksi internet</td>
-	<td>--------</td>
 	<td>-</td>
+	<td>STD-06</td>
 	<td>Sistem</td>
 	<td>--------</td>
 	<td>--------</td>
 </tr>
 
+<!-- user melihat menu pariwisata -->
+<tr>
+	<td rowspan="3" align="center"><strong>Pengujian melihat menu pariwisata pada Android (User)</td>
+	<td>Kebenaran dalam menampilkan Menu Pariwisata dengan meng-klik Ikon Pariwisata</td>
+	<td>SRS-2.2.3</td>
+	<td>-</td>
+	<td>Sistem</td>
+	<td>--------</td>
+	<td>--------</td>
+<tr>
+	<td>Menu pariwisata tidak muncul karena server error</td>
+	<td>-</td>
+	<td>STD-07</td>
+	<td>Sistem</td>
+	<td>--------</td>
+	<td>--------</td>
+</tr>
+<tr>
+	<td>Tidak ada koneksi internet</td>
+	<td>-</td>
+	<td>STD-08</td>
+	<td>Sistem</td>
+	<td>--------</td>
+	<td>--------</td>
+</tr>
 
+<!-- user melihat kegiatan -->
+<tr>
+	<td rowspan="3" align="center"><strong>Pengujian melihat Kegiatan pada Android (User)</td>
+	<td>Kebenaran dalam menampilkan Halaman Kegiatan dengan meng-klik Ikon Kegiatan</td>
+	<td>SRS-2.2.4</td>
+	<td>-</td>
+	<td>Sistem</td>
+	<td>--------</td>
+	<td>--------</td>
+<tr>
+	<td>Menu pariwisata tidak muncul karena server error</td>
+	<td>-</td>
+	<td>STD-09</td>
+	<td>Sistem</td>
+	<td>--------</td>
+	<td>--------</td>
+</tr>
+<tr>
+	<td>Tidak ada koneksi internet</td>
+	<td>-</td>
+	<td>STD-10</td>
+	<td>Sistem</td>
+	<td>--------</td>
+	<td>--------</td>
+</tr>
 
+<!-- user mengisi form pengaduan -->
+<tr>
+	<td rowspan="3" align="center"><strong>Pengujian mengajukan pengaduan pada Android (User)</td>
+	<td>Pengisian form Pengaduan benar</td>
+	<td>SRS-2.2.5</td>
+	<td>-</td>
+	<td>Sistem</td>
+	<td>--------</td>
+	<td>--------</td>
+<tr>
+	<td>Pengisian form Pengaduan salah</td>
+	<td>-</td>
+	<td>STD-11</td>
+	<td>Sistem</td>
+	<td>--------</td>
+	<td>--------</td>
+</tr>
+<tr>
+	<td>Tidak ada koneksi internet</td>
+	<td>-</td>
+	<td>STD-12</td>
+	<td>Sistem</td>
+	<td>--------</td>
+	<td>--------</td>
+</tr>
 
 
 </thead>  
