@@ -1,7 +1,8 @@
 
 
 
-<h1 align="center" id="software-requirements-specification">SOFTWARE TESTING DOCUMENT</h1>  
+<h1 align="center" id="software-requirements-specification">SOFTWARE TESTING DOCUMENT</h1>
+<p align="center"><strong>Version 1.0</strong><br>   
 <p align="center"><strong> 09 Mei 2018<br>  </strong><br>
 <p align="center"><strong>" BUSAYU (APLIKASI BUDAYA DAN PARIWISATA KABUPATEN INDRAMAYU BERRBASIS ANDROID)"<br><br></strong></p> 
 </p><p align="center">  
