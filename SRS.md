@@ -37,31 +37,31 @@ Politeknik Negeri Indramayu<br>
 </thead>  
 <tbody>  
 <tr>  
-<td>Android</td>  
+<td><strong>Android</td>  
 <td>Sistem operasi berbasis Linux yang dirancang untuk perangkat bergerak layar sentuh seperti telepon pintar dan komputer tablet</td>  
 </tr>  
 <tr>  
-<td>Kegiatan</td>  
+<td><strong>Kegiatan</td>  
 <td>Sebuah rangkaian acara dalam rangka tujuan tertentu yang diadakan oleh pihak tertentu dalam waktu tertentu dan tempat tertentu dengan biaya tertentu</td>  
 </tr>  
 <tr>  
-<td>Budaya</td>  
+<td><strong>Budaya</td>  
 <td>Hal-hal yang berkaitan dengan budi, dan akal manusia.</td>  
 </tr>  
 <tr>  
-<td>Pariwisata</td>  
+<td><strong>Pariwisata</td>  
 <td>Suatu perjalanan yang dilakukan untuk rekreasi atau liburan dan juga persiapan yang dilakukan untuk aktivitas ini.</td>  
 </tr>  
 <tr>  
-<td>SRS</td>  
+<td><strong>SRS</td>  
 <td>Software Requirements Specification</td>  
 </tr> 
 <tr>  
-<td>BUSAYU</td>  
+<td><strong>BUSAYU</td>  
 <td>Aplikasi Budaya dan Pariwisata kab. Indramayu</td>  
 </tr>
 <tr>  
-<td>IEEE</td>  
+<td><strong>IEEE</td>  
 <td>(Singkatan : Institute of Electrical and Electronics Engineers) Sebuah organisasi profesi nirlaba yang terdiri dari banyak ahli di bidang teknik yang mempromosikan pengembangan standar-standar dan bertindak sebagai pihak yang mempercepat teknologi-teknologi baru dalam semua aspek dalam industri dan rekayasa (engineering), yang mencakup telekomunikasi, jaringan komputer, kelistrikan, antariksa, dan elektronika.</td>  
 </tr>    
 </tbody>  
@@ -69,14 +69,14 @@ Politeknik Negeri Indramayu<br>
 
 <h3><strong>1.4 Referensi</strong><br></h3>
 <ul>
-	<li>IEEE. IEEE Std 830-1998 IEEE Recommended Practice for Software Requirements Specifications. IEEE Computer Society, 1998. 1.5 Overview
+	<li>IEEE. IEEE Std 830-1998 IEEE Recommended Practice for Software Requirements Specifications. IEEE Computer Society, 1998.
 	</li>
 </ul>
 
 <h3><strong>1.5 Overview</strong><br></h3>  
 <p>Dokumen ini dibagi menjadi tiga bagian utama. Bagian pertama berisi penjelasan tentang dokumen SRS yang mencakup tujuan pembuatan dokumen ini, lingkup masalah yang diselesaikan yang dikembangkan oleh kami yaitu definisi, referensi, dan deskripsi umum. Bagian kedua berisi penjelasan secara umum mengenai aplikasi yang akan di kembangkan meliputi fungsi, karakteristik pengguna, batasan dan asumsi yang diambil dalam pengembangan aplikasi.Bagian ke tiga berisi uraian aplikasi secara lebih rinci.<br><br></p>
 
-<h2><strong>2. GAMBARAN UMUM</strong><br></h2>
+<h2><br><strong>2. GAMBARAN UMUM</strong><br></h2>
 <p>BUSAYU (Aplikasi Budaya dan Pariwisata Kab. Indramayu) Berbasis Android adalah aplikasi yang digunakan untuk mempermudah pengguna dalam pencarian informasi seputar kebudayaan, pariwisata, dan kegiatan di Kabupaten Indramayu.</p>
 
 <h3><strong>2.1. Perspektif Produk</strong><br></h3>  
@@ -213,6 +213,7 @@ Politeknik Negeri Indramayu<br>
 </tr>
 </table>
 
+<br><br>
 <ul><li><strong>Admin (Web)</strong></li></ul>  
 <table>
 <tr>
@@ -351,39 +352,39 @@ Politeknik Negeri Indramayu<br>
 			<td><strong>Fungsi</strong></td>  
 		</tr>  
 		<tr>  
-			<td>Daftar</td>  
+			<td><strong>Daftar</td>  
 			<td>Digunakan bagi user untuk mendaftar </td>  
 		</tr>  
 		<tr>  
-			<td>Login</td>  
+			<td><strong>Login</td>  
 			<td>Digunakan untuk mengakses aplikasi </td>  
 		</tr>  
 		<tr>  
-			<td>Input Data</td>  
+			<td><strong>Input Data</td>  
 			<td>Digunakan untuk memasukkan data</td>  
 		</tr>  
 		<tr>  
-			<td>Edit</td>  
+			<td><strong>Edit</td>  
 			<td>Digunakan untuk mengubah data</td>  
 		</tr>  
 		<tr>  
-			<td>Hapus</td>  
+			<td><strong>Hapus</td>  
 			<td>Digunakan untuk menghapus data</td>  
 		</tr>  
 		<tr>  
-			<td>View</td>  
+			<td><strong>View</td>  
 			<td>Digunakan untuk menampilkan data</td>  
 		</tr>  
 		<tr>  
-			<td>Simpan</td>  
+			<td><strong>Simpan</td>  
 			<td>Digunakan untuk menyimpan data</td>  
 		</tr>  
 		<tr>  
-			<td>Kembali</td>  
+			<td><strong>Kembali</td>  
 			<td>Digunakan untuk kembali ke halaman sebelumnya</td>  
 		</tr>  
 		<tr>
-			<td>Pengaduan</td>  
+			<td><strong>Pengaduan</td>  
 			<td>Digunakan untuk pengaduan pengguna</td>  
   		</tr>
   	</tbody>
@@ -397,8 +398,8 @@ Politeknik Negeri Indramayu<br>
 ![all](https://lh3.googleusercontent.com/wpQS-zqzpbn2W7g44oenr9h9X7NoxJqeN9T2u6DzDNg64dzquSMJJlst9Eh8GtGNRrnFfxr9DYU2 "all")
 
 <h4><strong>2.2.1 User Login</strong></h4>  
-<p>Use Case: Login<br>
-Diagram:</p>
+<p>Use Case : Login</p><br>
+Diagram :</p>
 <p><img src="https://lh3.googleusercontent.com/i-F1NFPY-xV7ejGrqxV7QLFH83dROOfA2xJqVtyiXEPTgO2c0V6Gz1Co9XBAEHNUzIm7t0Yf7NGR=s300" alt="use case login"></p>
 <p>Deskripsi singkat user melakukan login sebelum masuk ke halaman utama:</p>
 <ol>
@@ -409,9 +410,9 @@ Diagram:</p>
 </ol>
 Xref: Bagian 3.2.1, User login</p></p>
 
-<h4><strong>2.2.2 User Melihat Budaya</strong><br></h4>
-<p>Use case: melihat budaya<br>
-Diagram:</p>
+<h4><br><strong>2.2.2 User Melihat Budaya</strong><br></h4>
+<p>Use case : melihat budaya</p><br>
+<p>Diagram :</p>
 <p><img src="https://lh3.googleusercontent.com/aJvMtPpo98MB3LB-uN9TY421p30GDaX0DbHimOQdhrf--_M6iH8vhxwdiRbT5rThn4ZtLHXggco7=s300" alt="use case budaya" title="userbudaya"></p>
 <p>Deskripsi singkat ketika user melihat budaya:</p>
 <ol>
@@ -421,9 +422,9 @@ Diagram:</p>
 </ol>
 Xref: Bagian 3.2.2, User lihat budaya<p></p>
 
-<h4><strong>2.2.3 User Melihat Wisata</strong><br></h4>
-<p>Use case: melihat wisata<br>
-Diagram:</p>
+<h4><br><strong>2.2.3 User Melihat Wisata</strong><br></h4>
+<p>Use case : melihat wisata<br>
+<p>Diagram :</p>
 <p><img src="https://lh3.googleusercontent.com/kDGYT_tryNcLBWRvT2ahCJJGpUWXkjcivLp50wzawgjyPO4ZWHJoSjIt1RXTwFyuZEmyqNgnCXan=s300" alt="use case wisata" title="userlihatwisata"></p>
 <p>Deskripsi singkat ketika user melihat wisata:</p>
 <ol>
@@ -433,9 +434,9 @@ Diagram:</p>
 </ol>
 Xref: Bagian 3.2.3, User lihat wisata<p></p>
 
-<h4><strong>2.2.4 User Melihat Kegiatan</strong><br></h4>
-<p>Use case: melihat kegiatan<br>
-Diagram:</p>
+<h4><br><strong>2.2.4 User Melihat Kegiatan</strong><br></h4>
+<p>Use case : melihat kegiatan</p><br>
+<p>Diagram : </p>
 
 
 ![ukeg](https://lh3.googleusercontent.com/rSl87Vh0WZdSz34FM2nkWN-1O0qArkneKY3wBlqoEfedVW5K0e_9wVwRoiA_43j00-828Hdm1sRG "ukeg")
@@ -448,9 +449,9 @@ Diagram:</p>
 </ol>
 Xref: Bagian 3.2.4, User lihat kegiatan<p></p>
 
-<h4><strong>2.2.5 User Mengajukan Pengaduan</strong><br></h4>
-<p>Use case: mengajukan pengaduan<br>
-Diagram:</p>
+<h4><br><strong>2.2.5 User Mengajukan Pengaduan</strong><br></h4>
+<p>Use case : mengajukan pengaduan</p><br>
+<p>Diagram:</p>
 <p><img src="https://lh3.googleusercontent.com/9fkLEPEU73UZRVCxTIV5mGCjmx48yOGGocaACpASJA6sDRdbDfSdAauKa9abyHyiQd2T98XXJB-5=s300" alt="use case pengaduan" title="userpengaduan"></p>
 <p>Deskripsi singkat ketika user mengajukan pengaduan:</p>
 <ol>
@@ -461,9 +462,9 @@ Diagram:</p>
 </ol>
 Xref: Bagian 3.2.5, User mengajukan pengaduan<p></p>
 
-<h4><strong>2.2.6 Admin Login</strong><br></h4>
-<p>Use case: login<br>
-Diagram:</p>
+<h4><br><strong>2.2.6 Admin Login</strong><br></h4>
+<p>Use case : login admin</p><br>
+<p>Diagram:</p>
 <p><img src="https://lh3.googleusercontent.com/hySM59sWo0DwaotyC5t4Zqr3lyXxRaGe6CwzzNccqkQ5Si8n612LfM22MnORBzA7sXNlqHVCHFNE=s300" alt="use case login admin"></p>
 <p>Deskripsi singkat ketika admin login:</p>
 <ol>
@@ -474,9 +475,9 @@ Diagram:</p>
 </ol>
 Xref: Bagian 3.2.6, Admin login<p></p>
 
-<h4><strong>2.2.7 Admin Mengelola Budaya</strong><br></h4>
-<p>Use case: mengelola budaya<br>
-Diagram:</p>
+<h4><br><strong>2.2.7 Admin Mengelola Budaya</strong><br></h4>
+<p>Use case : mengelola budaya</p><br>
+<p>Diagram :</p>
 
 ![abud](https://lh3.googleusercontent.com/LXbhmHH2PctH9yFvYL1Axx9DxdBNxkDpEe7aMzNpFji2n_GREHHjaXiQQROvj5G-KHpf3ZMlr8B6 "abud")
 
@@ -489,9 +490,9 @@ Diagram:</p>
 </ol>
 Xref: Bagian 3.2.7, Admin mengelola budaya<p></p>
 
-<h4><strong>2.2.8 Admin Mengelola Pariwisata</strong><br></h4>
-<p>Use case: mengelola pariwisata<br>
-Diagram:</p>
+<h4><br><strong>2.2.8 Admin Mengelola Pariwisata</strong><br></h4>
+<p>Use case : mengelola pariwisata</p><br>
+<p>Diagram:</p>
 
 ![apar](https://lh3.googleusercontent.com/8TmSjbZU85jYjuelTeYgMTjRu3b6k8yLXt9GNJu2J-5J2KAaDAphiuM1mW8zJOlOPJuCNfbHW2wB "apar")
 
@@ -505,9 +506,9 @@ Diagram:</p>
 </ol>
 Xref: Bagian 3.2.8, Admin Mengelola Pariwisata<p></p>
 
-<h4><strong>2.2.9 Admin Mengelola Kegiatan</strong><br></h4>
-<p>Use case: mengelola kegiatan<br>
-Diagram:</p>
+<h4><br><strong>2.2.9 Admin Mengelola Kegiatan</strong><br></h4>
+<p>Use case : mengelola kegiatan</p><br>
+<p>Diagram:</p>
 
 ![akeg](https://lh3.googleusercontent.com/zBWG8SoLz5oPrbz4nXXFqtfcLggTm2p8peYUgHt_1Cpxp7CWDA1hLawloygaPC4Ox_xVu-xjDtlE "akeg")
 
@@ -520,9 +521,9 @@ Diagram:</p>
 </ol>
 Xref: Bagian 3.2.9, Admin mengelola kegiatan<p></p>
 
-<h4><strong>2.2.10 Admin Mengelola Pengaduan</strong><br></h4>
-<p>Use case: mengelola pengaduan<br>
-Diagram:</p>
+<h4><br><strong>2.2.10 Admin Mengelola Pengaduan</strong><br></h4>
+<p>Use case : mengelola pengaduan</p><br>
+<p>Diagram:</p>
 
 ![apeng](https://lh3.googleusercontent.com/pB1q0wjsbT6rQq2wvnK6-7HN1vocePQaqli-OO10TtW9kJyW0mWid7IEAq0DB49klHHj3oBjYNX7 "apeng")
 
@@ -535,9 +536,9 @@ Diagram:</p>
 </ol>
 Xref: Bagian 3.2.10, Admin mengelola pengaduan<p></p>
 
-<h4><strong>2.2.11 Admin Mengelola user</strong><br></h4>
-<p>Use case: mengelola user<br>
-Diagram:</p>
+<h4><br><strong>2.2.11 Admin Mengelola user</strong><br></h4>
+<p>Use case : mengelola user</p><br>
+<p>Diagram:</p>
 
 ![aus](https://lh3.googleusercontent.com/9DjF0AaQrCQuJUJjqHTMKbv89YPboBLN4yEbDtZ1LxWDT3NS8vymF2qf7L932GpBIfUhSLYBFbEq "aus")
 
@@ -550,9 +551,9 @@ Diagram:</p>
 </ol>
 Xref: Bagian 3.2.11, Admin mengelola user<p></p>
 
-<h4><strong>2.2.12 User Mengedit User</strong><br></h4>
-<p>Use case: mengedit user<br>
-Diagram:</p>
+<h4><br><strong>2.2.12 User Mengedit User</strong><br></h4>
+<p>Use case : mengedit user<br>
+<p>Diagram:</p>
 
 ![usus](https://lh3.googleusercontent.com/97Ljeg-5s2qLDKmSEbqkGdK7f4rvpopZUnjFVkldo_MW67EB_xL8J1Vg3cw5bsBfM1_i5u95QycT "usus")
 
@@ -567,8 +568,8 @@ Diagram:</p>
 </ol>
 Xref: Bagian 3.2.12, User Mengedit User<p></p>
 
-
-<h3><strong>2.3. Spesifikasi Kebutuhan Non-fungsional</strong><br></h3>
+<br>
+<h3><br><strong>2.3. Spesifikasi Kebutuhan Non-fungsional</strong><br></h3>
 
 <h4><strong>2.3.1 Spesifikasi User Interface</strong><br></h4>  
 <p>User Interface yang ada pada aplikasi harus user-friendly, dan mudah untuk digunakan.<br></p>
@@ -582,9 +583,11 @@ Xref: Bagian 3.2.12, User Mengedit User<p></p>
 <h4><strong>2.3.4 Spesifikasi Keamanan</strong><br></h4>  
 <p>Keamanan data akan terjaga karena menerapkan validasi pada saat pengguna mulai login.</p>
 
+<br>
 <h3><strong>2.4. Karakteristik Pengguna</strong><br></h3>  
 <p>  Dengan adanya aplikasi ini diharapkan dapat membantu admin mengolah data pariwisata, data kebudayaan, data event dan pendaftaran untuk mengikuti event. kemudian bagi pengguna sendiri diharapkan dapat mempermudah pengguna untuk mendapatkan informasi tentang pariwisata, kebudayaan dan event yang di adakan oleh dinas kebudayaan dan pariwisata kabupaten Indramayu menggunakan aplikasi mobile ini.</p>
 
+<br>
 <h3><strong>2.5. Batasan-batasan</strong><br></h3>  
 <p>Pada Aplikasi Budaya dan Pariwisata Kabupaten Indramayu harus menggunakan smartphone denga sistem operasi Android untuk dapat mengaksesnya atau menggunakannya. Pengguna dapat login dengan mendaftar terlebih dahulu.<br><br><br></p>
 
@@ -602,42 +605,42 @@ Xref: Bagian 3.2.12, User Mengedit User<p></p>
 	</thead>  
 	<tbody>  
 	<tr>  
-		<td>Nama Fungsi</td>  
+		<td><strong>Nama Fungsi</td>  
 		<td>User Login</td>  
 	</tr>  
 	<tr>  
-		<td>Ref</td>  
+		<td><strong>Ref</td>  
 		<td>Bag 2.2.1 User Login</td>  
 	</tr>  
 		<tr>  
-			<td>Trigger</td>  
+			<td><strong>Trigger</td>  
 			<td>Membuka Aplikasi Budaya dan Pariwisata </td>  
 		</tr>  
 		<tr>  
-			<td>Precondision</td>  
+			<td><strong>Precondision</td>  
 			<td>Halaman Utama Login</td>  
 		</tr>  
 		<tr>  
-			<td>Basic Path</td>  
+			<td><strong>Basic Path</td>  
 			<td>
 				<ol>
 				<li>User mengisi form login dengan username dan password dan mengklik button login</li>
-				<li>sistem melakukan validasi login</li>
-				<li>jika login cocok dengan database maka sistem akan mengarahkan ke halaman utama</li>
-				<li>jika tidak maka sistem akan menampilkan notif peringatan</li>
+				<li>Sistem melakukan validasi login</li>
+				<li>Jika login cocok dengan database maka sistem akan mengarahkan ke halaman utama</li>
+				<li>Jika tidak maka sistem akan menampilkan notif peringatan</li>
 				</ol>
 			</td>  
 		</tr>  
 		<tr>  
-			<td>Alternative</td>  
+			<td><strong>Alternative</td>  
 			<td> Tidak ada</td>  
 		</tr>  
 		<tr>  
-			<td>Post Condition</td>  
+			<td><strong>Post Condition</td>  
 			<td>User dapat login dan dapat mengakses aplikasi budaya dan pariwisata </td>  
 		</tr>  
 		<tr>  
-			<td>Exception Push</td>  
+			<td><strong>Exception Push</td>  
 			<td>Username dan password salah</td>  
 		</tr>  
 	</tbody>  
@@ -651,23 +654,23 @@ Xref: Bagian 3.2.12, User Mengedit User<p></p>
 	</thead>  
 	<tbody>  
 	<tr>  
-		<td>Nama Fungsi</td>  
+		<td><strong>Nama Fungsi</td>  
 		<td>User Melihat Budaya</td>  
 	</tr>  
 	<tr>  
-			<td>Ref</td>  
+			<td><strong>Ref</td>  
 			<td>Bag 2.2.2 User Melihat Budaya</td>  
 	</tr>  
 		<tr>  
-			<td>Trigger</td>  
+			<td><strong>Trigger</td>  
 			<td>Membuka Aplikasi Budaya dan Pariwisata </td>  
 		</tr>  
 		<tr>  
-			<td>Precondision</td>  
+			<td><strong>Precondision</td>  
 			<td>Halaman Utama Login</td>  
 		</tr>  
 		<tr>  
-			<td>Basic Path</td>  
+			<td><strong>Basic Path</td>  
 			<td>
 				<ol>
 				<li>Sistem menampilkan halaman utama</li>
@@ -677,15 +680,15 @@ Xref: Bagian 3.2.12, User Mengedit User<p></p>
 			</td>  
 		</tr>  
 		<tr>  
-			<td>Alternative</td>  
+			<td><strong>Alternative</td>  
 			<td> Tidak ada</td>  
 		</tr>  
 		<tr>  
-			<td>Post Condition</td>  
+			<td><strong>Post Condition</td>  
 			<td>User melihat budaya</td>  
 		</tr>  
 		<tr>  
-			<td>Exception Push</td>  
+			<td><strong>Exception Push</td>  
 			<td> Tidak ada koneksi</td>  
 		</tr>  
 	</tbody>   
@@ -699,7 +702,7 @@ Xref: Bagian 3.2.12, User Mengedit User<p></p>
 	</thead>  
 	<tbody>  
 		<tr>  
-			<td>Nama Fungsi</td>  
+			<td><strong>Nama Fungsi</td>  
 			<td>User Melihat Wisata</td>  
 		</tr>  
 		<tr>  
@@ -707,15 +710,15 @@ Xref: Bagian 3.2.12, User Mengedit User<p></p>
 			<td>Bag 2.2.3 User Melihat Wisata</td>  
 		</tr>  
 			<tr>  
-				<td>Trigger</td>  
+				<td><strong>Trigger</td>  
 				<td>Membuka Aplikasi Budaya dan Pariwisata </td>  
 			</tr>  
 			<tr>  
-				<td>Precondision</td>  
+				<td><strong>Precondision</td>  
 				<td>Halaman Utama Login</td>  
 			</tr>  
 			<tr>  
-				<td>Basic Path</td>  
+				<td><strong>Basic Path</td>  
 				<td>
 					<ol>
 					<li>Sistem menampilkan halaman utama</li>
@@ -726,16 +729,16 @@ Xref: Bagian 3.2.12, User Mengedit User<p></p>
 				</td>  
 			</tr>  
 			<tr>  
-				<td>Alternative</td>  
+				<td><strong>Alternative</td>  
 				<td> Tidak ada</td>  
 			</tr>  
 		<tr>  
-			<td>Post Condition</td>  
+			<td><strong>Post Condition</td>  
 			<td>User melihat wisata</td>  
 		</tr>  
 		<tr>  
-			<td>Exception Push</td>  
-			<td> Tidak ada koneksi</td>  
+			<td><strong>Exception Push</td>  
+			<td>Tidak ada koneksi</td>  
 		</tr>  
 	</tbody>   
 </table>
@@ -748,23 +751,23 @@ Xref: Bagian 3.2.12, User Mengedit User<p></p>
 	</thead>  
 	<tbody>  
 		<tr>  
-			<td>Nama Fungsi</td>  
+			<td><strong>Nama Fungsi</td>  
 			<td>User Melihat Kegiatan</td>  
 		</tr>  
 		<tr>  
-			<td>Ref</td>  
+			<td><strong>Ref</td>  
 			<td>Bag 2.2.4 User Melihat Kegiatan</td>  
 		</tr>  
 			<tr>  
-				<td>Trigger</td>  
+				<td><strong>Trigger</td>  
 				<td>Membuka Aplikasi Budaya dan Pariwisata </td>  
 			</tr>  
 			<tr>  
-				<td>Precondision</td>  
+				<td><strong>Precondision</td>  
 				<td>Halaman Utama Login</td>  
 			</tr>  
 			<tr>  
-				<td>Basic Path</td>  
+				<td><strong>Basic Path</td>  
 				<td>
 					<ol>
 					<li>Sistem menampilkan halaman utama</li>
@@ -774,16 +777,16 @@ Xref: Bagian 3.2.12, User Mengedit User<p></p>
 				</td>  
 			</tr>  
 			<tr>  
-				<td>Alternative</td>  
-				<td> Tidak ada</td>  
+				<td><strong>Alternative</td>  
+				<td>Tidak ada</td>  
 			</tr>  
 			<tr>  
-				<td>Post Condition</td>  
+				<td><strong>Post Condition</td>  
 				<td>User melihat kegiatan</td>  
 			</tr>  
 			<tr>  
-				<td>Exception Push</td>  
-				<td> Tidak ada koneksi</td>  
+				<td><strong>Exception Push</td>  
+				<td>Tidak ada koneksi</td>  
 			</tr>
 	</tbody>
 </table>
@@ -796,23 +799,23 @@ Xref: Bagian 3.2.12, User Mengedit User<p></p>
 	</thead>  
 	<tbody>  
 		<tr>  
-			<td>Nama Fungsi</td>  
+			<td><strong>Nama Fungsi</td>  
 			<td>User Mengajukan Pengaduan</td>  
 		</tr>  
 		<tr>  
-			<td>Ref</td>  
+			<td><strong>Ref</td>  
 			<td>Bag 2.2.5 User Mengajukan Pengaduan</td>  
 		</tr>  
 		<tr>  
-			<td>Trigger</td>  
+			<td><strong>Trigger</td>  
 			<td>Membuka Aplikasi Budaya dan Pariwisata </td>  
 		</tr>  
 		<tr>  
-			<td>Precondision</td>  
+			<td><strong>Precondision</td>  
 			<td>Halaman Utama Login</td>  
 		</tr>  
 		<tr>  
-			<td>Basic Path</td>  
+			<td><strong>Basic Path</td>  
 			<td>
 				<ol>
 				<li>Sistem menampilkan halaman utama</li>
@@ -823,16 +826,16 @@ Xref: Bagian 3.2.12, User Mengedit User<p></p>
 			</td>  
 		</tr>  
 		<tr>  
-			<td>Alternative</td>  
-			<td> Tidak ada</td>  
+			<td><strong>Alternative</td>  
+			<td>Tidak ada</td>  
 		</tr>  
 		<tr>  
-			<td>Post Condition</td>  
+			<td><strong>Post Condition</td>  
 			<td>Halaman pengaduan</td>  
 		</tr>  
 		<tr>  
-			<td>Exception Push</td>  
-			<td> Tidak ada koneksi</td>  
+			<td><strong>Exception Push</td>  
+			<td>Tidak ada koneksi</td>  
 		</tr>  
 	</tbody>   
 </table>
@@ -845,23 +848,23 @@ Xref: Bagian 3.2.12, User Mengedit User<p></p>
 	</thead>  
 	<tbody>  
 		<tr>  
-			<td>Nama Fungsi</td>  
+			<td><strong>Nama Fungsi</td>  
 			<td>Admin Login</td>  
 		</tr>  
 		<tr>  
-			<td>Ref</td>  
+			<td><strong>Ref</td>  
 			<td>Bag 2.2.6 Admin Login</td>  
 		</tr>  
 			<tr>  
-				<td>Trigger</td>  
+				<td><strong>Trigger</td>  
 				<td>Membuka Aplikasi Budaya dan Pariwisata </td>  
 			</tr>  
 			<tr>  
-				<td>Precondision</td>  
+				<td><strong>Precondision</td>  
 				<td>Halaman Utama Login</td>  
 			</tr>  
 			<tr>  
-				<td>Basic Path</td>  
+				<td><strong>Basic Path</td>  
 				<td>
 					<ol>
 					<li>Sistem menampilkan dasboard admin</li>
@@ -872,16 +875,16 @@ Xref: Bagian 3.2.12, User Mengedit User<p></p>
 				</td>  
 			</tr>  
 			<tr>  
-				<td>Alternative</td>  
-				<td> Tidak ada</td>  
+				<td><strong>Alternative</td>  
+				<td>Tidak ada</td>  
 			</tr>  
 			<tr>  
-				<td>Post Condition</td>  
+				<td><strong>Post Condition</td>  
 				<td>Halaman Dashboard Admin</td>  
 			</tr>  
 			<tr>  
-				<td>Exception Push</td>  
-				<td> Tidak ada koneksi</td>  
+				<td><strong>Exception Push</td>  
+				<td>Tidak ada koneksi</td>  
 			</tr>  
 	</tbody>   
 </table>
@@ -894,23 +897,23 @@ Xref: Bagian 3.2.12, User Mengedit User<p></p>
 	</thead>  
 	<tbody>  
 		<tr>  
-			<td>Nama Fungsi</td>  
+			<td><strong>Nama Fungsi</td>  
 			<td>Admin Mengelola Budaya</td>  
 		</tr>  
 		<tr>  
-			<td>Ref</td>  
+			<td><strong>Ref</td>  
 			<td>Bag 2.2.7 Admin Mengelola Budaya</td>  
 		</tr>  
 			<tr>  
-				<td>Trigger</td>  
+				<td><strong>Trigger</td>  
 				<td>Admin masuk Aplikasi Budaya dan Pariwisata </td>  
 			</tr>  
 			<tr>  
-				<td>Precondision</td>  
+				<td><strong>Precondision</td>  
 				<td>Halaman Dashboard Admin</td>  
 			</tr>  
 			<tr>  
-				<td>Basic Path</td>  
+				<td><strong>Basic Path</td>  
 				<td>
 					<ol>
 					<li>Sistem menampilkan dasboard admin</li>
@@ -921,16 +924,16 @@ Xref: Bagian 3.2.12, User Mengedit User<p></p>
 				</td>  
 			</tr>  
 			<tr>  
-				<td>Alternative</td>  
-				<td> Tidak ada</td>  
+				<td><strong>Alternative</td>  
+				<td>Tidak ada</td>  
 			</tr>  
 			<tr>  
-				<td>Post Condition</td>  
+				<td><strong>Post Condition</td>  
 				<td>Mengklik menu Budaya</td>  
 			</tr>  
 			<tr>  
-				<td>Exception Push</td>  
-				<td> Tidak ada koneksi</td>  
+				<td><strong>Exception Push</td>  
+				<td>Tidak ada koneksi</td>  
 			</tr>  
 	</tbody>   
 </table>
@@ -943,23 +946,23 @@ Xref: Bagian 3.2.12, User Mengedit User<p></p>
 	</thead>  
 	<tbody>  
 		<tr>  
-			<td>Nama Fungsi</td>  
+			<td><strong>Nama Fungsi</td>  
 			<td>Admin Mengelola Pariwisata</td>  
 		</tr>  
 		<tr>  
-			<td>Ref</td>  
+			<td><strong>Ref</td>  
 			<td>Bag 2.2.8 Admin Mengelola Pariwisata</td>  
 		</tr>  
 		<tr>  
-			<td>Trigger</td>  
+			<td><strong>Trigger</td>  
 			<td>Admin masuk Aplikasi Budaya dan Pariwisata </td>  
 		</tr>  
 		<tr>  
-			<td>Precondision</td>  
+			<td><strong>Precondision</td>  
 			<td>Halaman Dashboard Admin</td>  
 		</tr>  
 		<tr>  
-			<td>Basic Path</td>  
+			<td><strong>Basic Path</td>  
 			<td>
 				<ol>
 				<li>Sistem menampilkan dasboard admin</li>
@@ -970,16 +973,16 @@ Xref: Bagian 3.2.12, User Mengedit User<p></p>
 			</td>  
 		</tr>  
 		<tr>  
-			<td>Alternative</td>  
-			<td> Tidak ada</td>  
+			<td><strong>Alternative</td>  
+			<td>Tidak ada</td>  
 		</tr>  
 		<tr>  
-			<td>Post Condition</td>  
+			<td><strong>Post Condition</td>  
 			<td>Mengklik menu Pariwisata</td>  
 		</tr>  
 		<tr>  
-			<td>Exception Push</td>  
-			<td> Tidak ada koneksi</td>  
+			<td><strong>Exception Push</td>  
+			<td>Tidak ada koneksi</td>  
 		</tr>  
 	</tbody>   
 </table>
@@ -992,23 +995,23 @@ Xref: Bagian 3.2.12, User Mengedit User<p></p>
 	</thead>  
 	<tbody>  
 		<tr>  
-			<td>Nama Fungsi</td>  
+			<td><strong>Nama Fungsi</td>  
 			<td>Admin Mengelola Kegiatan</td>  
 		</tr>  
 		<tr>  
-			<td>Ref</td>  
+			<td><strong>Ref</td>  
 			<td>Bag 2.2.9 Admin Mengelola Kegiatan</td>  
 		</tr>  
 		<tr>  
-			<td>Trigger</td>  
+			<td><strong>Trigger</td>  
 			<td>Admin masuk Aplikasi Budaya dan Pariwisata </td>  
 		</tr>  
 		<tr>  
-			<td>Precondision</td>  
+			<td><strong>Precondision</td>  
 			<td>Halaman Dashboard Admin</td>  
 		</tr>  
 		<tr>  
-			<td>Basic Path</td>  
+			<td><strong>Basic Path</td>  
 			<td>
 				<ol>
 				<li>Sistem menampilkan dasboard admin</li>
@@ -1019,16 +1022,16 @@ Xref: Bagian 3.2.12, User Mengedit User<p></p>
 			</td>  
 		</tr>  
 		<tr>  
-			<td>Alternative</td>  
-			<td> Tidak ada</td>  
+			<td><strong>Alternative</td>  
+			<td>Tidak ada</td>  
 		</tr>  
 		<tr>  
-			<td>Post Condition</td>  
+			<td><strong>Post Condition</td>  
 			<td>Mengklik menu Kegiatan</td>  
 		</tr>  
 		<tr>  
-			<td>Exception Push</td>  
-			<td> Tidak ada koneksi</td>  
+			<td><strong>Exception Push</td>  
+			<td>Tidak ada koneksi</td>  
 		</tr>  
 	</tbody>   
 </table>
@@ -1041,23 +1044,23 @@ Xref: Bagian 3.2.12, User Mengedit User<p></p>
 	</thead>  
 	<tbody>  
 		<tr>  
-			<td>Nama Fungsi</td>  
+			<td><strong>Nama Fungsi</td>  
 			<td>Admin Mengelola Pengaduan</td>  
 		</tr>  
 		<tr>  
-			<td>Ref</td>  
+			<td><strong>Ref</td>  
 			<td>Bag 2.2.10 Admin Mengelola Pengaduan</td>  
 		</tr>  
 		<tr>  
-			<td>Trigger</td>  
+			<td><strong>Trigger</td>  
 			<td>Admin masuk Aplikasi Budaya dan Pariwisata </td>  
 		</tr>  
 		<tr>  
-			<td>Precondision</td>  
+			<td><strong>Precondision</td>  
 			<td>Halaman Dashboard Admin</td>  
 		</tr>  
 		<tr>  
-		<td>Basic Path</td>  
+		<td><strong>Basic Path</td>  
 			<td>
 				<ol>
 				<li>Sistem menampilkan dasboard admin</li>
@@ -1068,16 +1071,16 @@ Xref: Bagian 3.2.12, User Mengedit User<p></p>
 			</td>  
 		</tr>  
 		<tr>  
-			<td>Alternative</td>  
-			<td> Tidak ada</td>  
+			<td><strong>Alternative</td>  
+			<td>Tidak ada</td>  
 		</tr>  
 		<tr>  
-			<td>Post Condition</td>  
+			<td><strong><strong>Post Condition</td>  
 			<td>Mengklik menu Pengaduan</td>  
 		</tr>  
 		<tr>  
-			<td>Exception Push</td>  
-			<td> Tidak ada koneksi</td>  
+			<td><strong>Exception Push</td>  
+			<td>Tidak ada koneksi</td>  
 		</tr>  
 	</tbody>   
 </table>
@@ -1090,23 +1093,23 @@ Xref: Bagian 3.2.12, User Mengedit User<p></p>
 	</thead>  
 	<tbody>  
 		<tr>  
-			<td>Nama Fungsi</td>  
+			<td><strong>Nama Fungsi</td>  
 			<td>Admin Mengelola User</td>  
 		</tr>  
 		<tr>  
-			<td>Ref</td>  
+			<td><strong>Ref</td>  
 			<td>Bag 2.2.11 Admin Mengelola User</td>  
 		</tr>  
 		<tr>  
-			<td>Trigger</td>  
+			<td><strong>Trigger</td>  
 			<td>Admin masuk Aplikasi Budaya dan Pariwisata </td>  
 		</tr>  
 		<tr>  
-			<td>Precondision</td>  
+			<td><strong>Precondision</td>  
 			<td>Halaman Dashboard Admin</td>  
 		</tr>  
 		<tr>  
-			<td>Basic Path</td>  
+			<td><strong>Basic Path</td>  
 			<td>
 				<ol>
 				<li>Sistem menampilkan dasboard admin</li>
@@ -1117,16 +1120,16 @@ Xref: Bagian 3.2.12, User Mengedit User<p></p>
 			</td>  
 		</tr>  
 		<tr>  
-			<td>Alternative</td>  
-			<td> Tidak ada</td>  
+			<td><strong>Alternative</td>  
+			<td>Tidak ada</td>  
 		</tr>  
 		<tr>  
-			<td>Post Condition</td>  
+			<td><strong>Post Condition</td>  
 			<td>Mengklik menu User</td>  
 		</tr>  
 		<tr>  
-			<td>Exception Push</td>  
-			<td> Tidak ada koneksi</td>  
+			<td><strong>Exception Push</td>  
+			<td>Tidak ada koneksi</td>  
 		</tr>  
 	</tbody>   
 </table>
@@ -1139,27 +1142,27 @@ Xref: Bagian 3.2.12, User Mengedit User<p></p>
 	</thead>  
 	<tbody>  
 		<tr>  
-			<td>Nama Fungsi</td>  
+			<td><strong>Nama Fungsi</td>  
 			<td>User Mengedit User</td>  
 		</tr>  
 		<tr>  
-			<td>Ref</td>  
+			<td><strong>Ref</td>  
 			<td>Bag 2.2.12 User Mengedit User</td>  
 		</tr>  
 		<tr>  
-			<td>Trigger</td>  
+			<td><strong>Trigger</td>  
 			<td>Admin masuk Aplikasi Budaya dan Pariwisata </td>  
 		</tr>  
 		<tr>  
-			<td>Precondision</td>  
+			<td><strong>Precondision</td>  
 			<td>Halaman Dashboard</td>  
 		</tr>  
 		<tr>  
-			<td>Basic Path</td>  
+			<td><strong>Basic Path</td>  
 			<td>
 				<ol>
 				<li>Sistem menampilkan halaman utama yang berisi button budaya</li>
-				<li>user menekan tombol navigasi</li>
+				<li>User menekan tombol navigasi</li>
 				<li>User memilih profil saya</li>
 				<li>User memilih ubah profil</li>
 				<li>User mengedit dat profil</li>
@@ -1168,16 +1171,16 @@ Xref: Bagian 3.2.12, User Mengedit User<p></p>
 			</td>  
 		</tr>  
 		<tr>  
-			<td>Alternative</td>  
-			<td> Tidak ada</td>  
+			<td><strong>Alternative</td>  
+			<td>Tidak ada</td>  
 		</tr>  
 		<tr>  
-			<td>Post Condition</td>  
+			<td><strong>Post Condition</td>  
 			<td>Mengklik menu User</td>  
 		</tr>  
 		<tr>  
-			<td>Exception Push</td>  
-			<td> Tidak ada koneksi</td>  
+			<td><strong>Exception Push</td>  
+			<td>Tidak ada koneksi</td>  
 		</tr>  
 	</tbody>   
 </table>
