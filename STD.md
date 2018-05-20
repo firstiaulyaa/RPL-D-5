@@ -245,6 +245,7 @@ Politeknik Negeri Indramayu<br>
 	<td>-</td>
 	<td>Sistem</td>
 	<td>Black Box</td>
+	<td rowspan="3" align="center">Firmansyah</td>
 <tr>
 	<td>Pengisian Username atau Password salah</td>
 	<td>-</td>
@@ -259,9 +260,6 @@ Politeknik Negeri Indramayu<br>
 	<td>Sistem</td>
 	<td>Black Box</td>
 </tr>
-<tr>
-	<td rowspan="3">Firmansyah</td>
-</tr>
 
 <!-- user melakukan registrasi -->
 <tr>
@@ -271,7 +269,7 @@ Politeknik Negeri Indramayu<br>
 	<td>-</td>
 	<td>Sistem</td>
 	<td>Black Box</td>
-	<td rowspan="3">Firmansyah</td>
+	<td rowspan="3" align="center">Firmansyah</td>
 <tr>
 	<td>Pengisian Nama User, Username, Email, dan Password salah (tidak terisi)</td>
 	<td>-</td>
@@ -297,7 +295,7 @@ Politeknik Negeri Indramayu<br>
 	<td>-</td>
 	<td>Sistem</td>
 	<td>Black Box</td>
-	<td rowspan="3">Firmansyah</td>
+	<td rowspan="3" align="center">Firmansyah</td>
 <tr>
 	<td>Halaman Budaya tidak muncul karena server error</td>
 	<td>-</td>
@@ -314,31 +312,6 @@ Politeknik Negeri Indramayu<br>
 </tr>
 
 
-<!-- user melihat menu pariwisata -->
-<tr>
-	<td rowspan="3" align="center"><strong>Pengujian melihat menu pariwisata pada Android (User)</td>
-	<td>Kebenaran dalam menampilkan Menu Pariwisata dengan meng-klik Ikon Pariwisata</td>
-	<td>SRS-2.2.3</td>
-	<td>-</td>
-	<td>Sistem</td>
-	<td>Black Box</td>
-	<td rowspan="3">Firmansyah</td>
-<tr>
-	<td>Menu pariwisata tidak muncul karena server error</td>
-	<td>-</td>
-	<td>STD-4.1</td>
-	<td>Sistem</td>
-	<td>Black Box</td>
-</tr>
-<tr>
-	<td>Tidak ada koneksi internet</td>
-	<td>-</td>
-	<td>STD-4.2</td>
-	<td>Sistem</td>
-	<td>Black Box</td>
-</tr>
-
-
 <!-- user melihat kegiatan -->
 <tr>
 	<td rowspan="3" align="center"><strong>Pengujian melihat Kegiatan pada Android (User)</td>
@@ -347,9 +320,9 @@ Politeknik Negeri Indramayu<br>
 	<td>-</td>
 	<td>Sistem</td>
 	<td>Black Box</td>
-	<td rowspan="3">Firmansyah</td>
+	<td rowspan="3" align="center">Firmansyah</td>
 <tr>
-	<td>Menu pariwisata tidak muncul karena server error</td>
+	<td>Menu kegiatan tidak muncul karena server error</td>
 	<td>-</td>
 	<td>STD-5.1</td>
 	<td>Sistem</td>
@@ -362,32 +335,6 @@ Politeknik Negeri Indramayu<br>
 	<td>Sistem</td>
 	<td>Black Box</td>
 </tr>
-
-
-<!-- user mengisi form pengaduan -->
-<tr>
-	<td rowspan="3" align="center"><strong>Pengujian mengajukan pengaduan pada Android (User)</td>
-	<td>Pengisian form Pengaduan benar</td>
-	<td>SRS-2.2.5</td>
-	<td>-</td>
-	<td>Sistem</td>
-	<td>Black Box</td>
-	<td rowspan="3">Firmansyah</td>
-<tr>
-	<td>Pengisian form Pengaduan salah</td>
-	<td>-</td>
-	<td>STD-6.1</td>
-	<td>Sistem</td>
-	<td>Black Box</td>
-</tr>
-<tr>
-	<td>Tidak ada koneksi internet</td>
-	<td>-</td>
-	<td>STD-6.2</td>
-	<td>Sistem</td>
-	<td>Black Box</td>
-</tr>
-
 </thead>  
 </table>
 
