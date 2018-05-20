@@ -271,6 +271,7 @@ Politeknik Negeri Indramayu<br>
 	<td>-</td>
 	<td>Sistem</td>
 	<td>Black Box</td>
+	<td rowspan="3">Firmansyah</td>
 <tr>
 	<td>Pengisian Nama User, Username, Email, dan Password salah (tidak terisi)</td>
 	<td>-</td>
@@ -285,9 +286,7 @@ Politeknik Negeri Indramayu<br>
 	<td>Sistem</td>
 	<td>Black Box</td>
 </tr>
-<tr>
-	<td rowspan="3">Firmansyah</td>
-</tr>
+
 
 
 <!-- user melihat budaya -->
@@ -298,6 +297,7 @@ Politeknik Negeri Indramayu<br>
 	<td>-</td>
 	<td>Sistem</td>
 	<td>Black Box</td>
+	<td rowspan="3">Firmansyah</td>
 <tr>
 	<td>Halaman Budaya tidak muncul karena server error</td>
 	<td>-</td>
@@ -312,9 +312,7 @@ Politeknik Negeri Indramayu<br>
 	<td>Sistem</td>
 	<td>Black Box</td>
 </tr>
-<tr>
-	<td rowspan="3">Firmansyah</td>
-</tr>
+
 
 <!-- user melihat menu pariwisata -->
 <tr>
@@ -324,6 +322,7 @@ Politeknik Negeri Indramayu<br>
 	<td>-</td>
 	<td>Sistem</td>
 	<td>Black Box</td>
+	<td rowspan="3">Firmansyah</td>
 <tr>
 	<td>Menu pariwisata tidak muncul karena server error</td>
 	<td>-</td>
@@ -338,9 +337,7 @@ Politeknik Negeri Indramayu<br>
 	<td>Sistem</td>
 	<td>Black Box</td>
 </tr>
-<tr>
-	<td rowspan="3">Firmansyah</td>
-</tr>
+
 
 <!-- user melihat kegiatan -->
 <tr>
@@ -350,6 +347,7 @@ Politeknik Negeri Indramayu<br>
 	<td>-</td>
 	<td>Sistem</td>
 	<td>Black Box</td>
+	<td rowspan="3">Firmansyah</td>
 <tr>
 	<td>Menu pariwisata tidak muncul karena server error</td>
 	<td>-</td>
@@ -364,9 +362,7 @@ Politeknik Negeri Indramayu<br>
 	<td>Sistem</td>
 	<td>Black Box</td>
 </tr>
-<tr>
-	<td rowspan="3">Firmansyah</td>
-</tr>
+
 
 <!-- user mengisi form pengaduan -->
 <tr>
@@ -376,6 +372,7 @@ Politeknik Negeri Indramayu<br>
 	<td>-</td>
 	<td>Sistem</td>
 	<td>Black Box</td>
+	<td rowspan="3">Firmansyah</td>
 <tr>
 	<td>Pengisian form Pengaduan salah</td>
 	<td>-</td>
@@ -390,9 +387,7 @@ Politeknik Negeri Indramayu<br>
 	<td>Sistem</td>
 	<td>Black Box</td>
 </tr>
-<tr>
-	<td rowspan="3">Firmansyah</td>
-</tr>
+
 </thead>  
 </table>
 
