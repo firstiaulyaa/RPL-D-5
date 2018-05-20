@@ -244,23 +244,23 @@ Politeknik Negeri Indramayu<br>
 	<td>SRS-2.2.1</td>
 	<td>-</td>
 	<td>Sistem</td>
-	<td>--------</td>
-	<td>--------</td>
+	<td>Black Box</td>
 <tr>
 	<td>Pengisian Username atau Password salah</td>
 	<td>-</td>
 	<td>STD-1.1</td>
 	<td>Sistem</td>
-	<td>--------</td>
-	<td>--------</td>
+	<td>Black Box</td>
 </tr>
 <tr>
 	<td>Tidak ada koneksi internet</td>
 	<td>-</td>
 	<td>STD-1.2</td>
 	<td>Sistem</td>
-	<td>--------</td>
-	<td>--------</td>
+	<td>Black Box</td>
+</tr>
+<tr>
+	<td rowspan="3">Firmansyah</td>
 </tr>
 
 <!-- user melakukan registrasi -->
@@ -270,23 +270,23 @@ Politeknik Negeri Indramayu<br>
 	<td>--------</td>
 	<td>-</td>
 	<td>Sistem</td>
-	<td>--------</td>
-	<td>--------</td>
+	<td>Black Box</td>
 <tr>
 	<td>Pengisian Nama User, Username, Email, dan Password salah (tidak terisi)</td>
 	<td>-</td>
 	<td>STD-2.1</td>
 	<td>Sistem</td>
-	<td>--------</td>
-	<td>--------</td>
+	<td>Black Box</td>
 </tr>
 <tr>
 	<td>Tidak ada koneksi internet</td>
 	<td>-</td>
 	<td>STD-2.2</td>
 	<td>Sistem</td>
-	<td>--------</td>
-	<td>--------</td>
+	<td>Black Box</td>
+</tr>
+<tr>
+	<td rowspan="3">Firmansyah</td>
 </tr>
 
 
@@ -297,23 +297,23 @@ Politeknik Negeri Indramayu<br>
 	<td>SRS-2.2.2</td>
 	<td>-</td>
 	<td>Sistem</td>
-	<td>--------</td>
-	<td>--------</td>
+	<td>Black Box</td>
 <tr>
 	<td>Halaman Budaya tidak muncul karena server error</td>
 	<td>-</td>
 	<td>STD-3.1</td>
 	<td>Sistem</td>
-	<td>--------</td>
-	<td>--------</td>
+	<td>Black Box</td>
 </tr>
 <tr>
 	<td>Tidak ada koneksi internet</td>
 	<td>-</td>
 	<td>STD-3.2</td>
 	<td>Sistem</td>
-	<td>--------</td>
-	<td>--------</td>
+	<td>Black Box</td>
+</tr>
+<tr>
+	<td rowspan="3">Firmansyah</td>
 </tr>
 
 <!-- user melihat menu pariwisata -->
@@ -323,23 +323,23 @@ Politeknik Negeri Indramayu<br>
 	<td>SRS-2.2.3</td>
 	<td>-</td>
 	<td>Sistem</td>
-	<td>--------</td>
-	<td>--------</td>
+	<td>Black Box</td>
 <tr>
 	<td>Menu pariwisata tidak muncul karena server error</td>
 	<td>-</td>
 	<td>STD-4.1</td>
 	<td>Sistem</td>
-	<td>--------</td>
-	<td>--------</td>
+	<td>Black Box</td>
 </tr>
 <tr>
 	<td>Tidak ada koneksi internet</td>
 	<td>-</td>
 	<td>STD-4.2</td>
 	<td>Sistem</td>
-	<td>--------</td>
-	<td>--------</td>
+	<td>Black Box</td>
+</tr>
+<tr>
+	<td rowspan="3">Firmansyah</td>
 </tr>
 
 <!-- user melihat kegiatan -->
@@ -349,23 +349,23 @@ Politeknik Negeri Indramayu<br>
 	<td>SRS-2.2.4</td>
 	<td>-</td>
 	<td>Sistem</td>
-	<td>--------</td>
-	<td>--------</td>
+	<td>Black Box</td>
 <tr>
 	<td>Menu pariwisata tidak muncul karena server error</td>
 	<td>-</td>
 	<td>STD-5.1</td>
 	<td>Sistem</td>
-	<td>--------</td>
-	<td>--------</td>
+	<td>Black Box</td>
 </tr>
 <tr>
 	<td>Tidak ada koneksi internet</td>
 	<td>-</td>
 	<td>STD-5.2</td>
 	<td>Sistem</td>
-	<td>--------</td>
-	<td>--------</td>
+	<td>Black Box</td>
+</tr>
+<tr>
+	<td rowspan="3">Firmansyah</td>
 </tr>
 
 <!-- user mengisi form pengaduan -->
@@ -375,26 +375,24 @@ Politeknik Negeri Indramayu<br>
 	<td>SRS-2.2.5</td>
 	<td>-</td>
 	<td>Sistem</td>
-	<td>--------</td>
-	<td>--------</td>
+	<td>Black Box</td>
 <tr>
 	<td>Pengisian form Pengaduan salah</td>
 	<td>-</td>
 	<td>STD-6.1</td>
 	<td>Sistem</td>
-	<td>--------</td>
-	<td>--------</td>
+	<td>Black Box</td>
 </tr>
 <tr>
 	<td>Tidak ada koneksi internet</td>
 	<td>-</td>
 	<td>STD-6.2</td>
 	<td>Sistem</td>
-	<td>--------</td>
-	<td>--------</td>
+	<td>Black Box</td>
 </tr>
-
-
+<tr>
+	<td rowspan="3">Firmansyah</td>
+</tr>
 </thead>  
 </table>
 
