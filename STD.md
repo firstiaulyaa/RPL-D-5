@@ -171,7 +171,9 @@ Politeknik Negeri Indramayu<br>
 </thead>  
 </table>
 
-<br><ul><li>Android (User)</li></ul>
+<br>
+
+<ul><li>Android (User)</li></ul>
 <table>  
 	<thead>  
 <tr>
@@ -200,6 +202,8 @@ Politeknik Negeri Indramayu<br>
 		<li>Jalankan server Apache dan MySQL yang ada di XAMPP Control Panel</li>
 		<li>Buka Mozzila Firefox dan ketik http://localhost/busayu.</li>
 	</ol> 
+
+<br>
 
 	<ul><li>Android</li></ul>
 	<ol>
