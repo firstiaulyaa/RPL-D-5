@@ -644,6 +644,84 @@ Politeknik Negeri Indramayu<br>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Nama Butir Uji</td>
+			<td colspan="3">Halaman Budaya tidak muncul karena server error</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tujuan</td>
+			<td colspan="3">Memeriksa apakah bisa menampilkan Halaman Budaya dengan server error</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Kondisi Awal</td>
+			<td colspan="3">
+				<ul>
+					<li>User sudah melakukan Login</li>
+					<li>User sedang berada pada Halaman Utama</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tanggal Pengujian</td>
+			<td colspan="3">20 Mei 2018</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Penguji</td>
+			<td colspan="3">Firmansyah</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Skenario</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				<ul>
+					<li>Pada Halaman Utama, klik ikon Budaya </li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Hasil</td>
+		</tr>
+		<tr>
+			<td rowspan="1" align="center"><strong>Data yang Diberikan</td>
+			<td rowspan="1" align="center"><strong>Yang Diharapkan</td>
+			<td rowspan="1" align="center"><strong>Pengamatan</td>
+			<td rowspan="1" align="center"><strong>Kesimpulan</td>
+		</tr>
+		<tr>
+			<td rowspan="1"> - </td>
+			<td rowspan="1">
+				<ul>
+					<li>Aplikasi tidak bisa menampilkan Halaman Budaya</li>
+					<li>Muncul pesan error</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>Halaman Budaya tidak bisa ditampilkan jika server error</li>
+					<li>muncul pesan error</li>
+				</ul>
+			</td>
+			<td rowspan="1">OK</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Catatan</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"> - </td>
+		</tr>
+	</thead>
+</table>
+
+
+<br></br>
+
+<table>
+	<thead>	
+		<tr>
+			<td rowspan="1"><strong>Identifikasi</td>
+			<td colspan="3">STD-2.2</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Nama Butir Uji</td>
 			<td colspan="3">Tidak ada koneksi internet</td>
 		</tr>
 		<tr>
