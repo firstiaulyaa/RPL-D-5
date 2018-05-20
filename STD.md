@@ -189,7 +189,7 @@ Politeknik Negeri Indramayu<br>
 <tr>
 	<td>Pengisian Username atau Password salah</td>
 	<td>-</td>
-	<td>STD-01</td>
+	<td>STD-1.1</td>
 	<td>Sistem</td>
 	<td>--------</td>
 	<td>--------</td>
@@ -197,7 +197,7 @@ Politeknik Negeri Indramayu<br>
 <tr>
 	<td>Tidak ada koneksi internet</td>
 	<td>-</td>
-	<td>STD-02</td>
+	<td>STD-1.2</td>
 	<td>Sistem</td>
 	<td>--------</td>
 	<td>--------</td>
@@ -215,7 +215,7 @@ Politeknik Negeri Indramayu<br>
 <tr>
 	<td>Pengisian Nama User, Username, Email, dan Password salah (tidak terisi)</td>
 	<td>-</td>
-	<td>STD-03</td>
+	<td>STD-2.1</td>
 	<td>Sistem</td>
 	<td>--------</td>
 	<td>--------</td>
@@ -223,7 +223,7 @@ Politeknik Negeri Indramayu<br>
 <tr>
 	<td>Tidak ada koneksi internet</td>
 	<td>-</td>
-	<td>STD-04</td>
+	<td>STD-2.2</td>
 	<td>Sistem</td>
 	<td>--------</td>
 	<td>--------</td>
@@ -242,7 +242,7 @@ Politeknik Negeri Indramayu<br>
 <tr>
 	<td>Halaman Budaya tidak muncul karena server error</td>
 	<td>-</td>
-	<td>STD-05</td>
+	<td>STD-3.1</td>
 	<td>Sistem</td>
 	<td>--------</td>
 	<td>--------</td>
@@ -250,7 +250,7 @@ Politeknik Negeri Indramayu<br>
 <tr>
 	<td>Tidak ada koneksi internet</td>
 	<td>-</td>
-	<td>STD-06</td>
+	<td>STD-3.2</td>
 	<td>Sistem</td>
 	<td>--------</td>
 	<td>--------</td>
@@ -268,7 +268,7 @@ Politeknik Negeri Indramayu<br>
 <tr>
 	<td>Menu pariwisata tidak muncul karena server error</td>
 	<td>-</td>
-	<td>STD-07</td>
+	<td>STD-4.1</td>
 	<td>Sistem</td>
 	<td>--------</td>
 	<td>--------</td>
@@ -276,7 +276,7 @@ Politeknik Negeri Indramayu<br>
 <tr>
 	<td>Tidak ada koneksi internet</td>
 	<td>-</td>
-	<td>STD-08</td>
+	<td>STD-4.2</td>
 	<td>Sistem</td>
 	<td>--------</td>
 	<td>--------</td>
@@ -294,7 +294,7 @@ Politeknik Negeri Indramayu<br>
 <tr>
 	<td>Menu pariwisata tidak muncul karena server error</td>
 	<td>-</td>
-	<td>STD-09</td>
+	<td>STD-5.1</td>
 	<td>Sistem</td>
 	<td>--------</td>
 	<td>--------</td>
@@ -302,7 +302,7 @@ Politeknik Negeri Indramayu<br>
 <tr>
 	<td>Tidak ada koneksi internet</td>
 	<td>-</td>
-	<td>STD-10</td>
+	<td>STD-5.2</td>
 	<td>Sistem</td>
 	<td>--------</td>
 	<td>--------</td>
@@ -320,7 +320,7 @@ Politeknik Negeri Indramayu<br>
 <tr>
 	<td>Pengisian form Pengaduan salah</td>
 	<td>-</td>
-	<td>STD-11</td>
+	<td>STD-6.1</td>
 	<td>Sistem</td>
 	<td>--------</td>
 	<td>--------</td>
@@ -328,7 +328,7 @@ Politeknik Negeri Indramayu<br>
 <tr>
 	<td>Tidak ada koneksi internet</td>
 	<td>-</td>
-	<td>STD-12</td>
+	<td>STD-6.2</td>
 	<td>Sistem</td>
 	<td>--------</td>
 	<td>--------</td>
@@ -437,7 +437,7 @@ Politeknik Negeri Indramayu<br>
 	<thead>
 		<tr>
 			<td rowspan="1"><strong>Identifikasi</td>
-			<td colspan="3">STD-01</td>
+			<td colspan="3">STD-1.1</td>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Nama Butir Uji</td>
@@ -479,10 +479,10 @@ Politeknik Negeri Indramayu<br>
 			<td colspan="4" align="center"><strong>Hasil</td>
 		</tr>
 		<tr>
-			<td rowspan="1"><strong>Data yang Diberikan</td>
-			<td rowspan="1"><strong>Yang Diharapkan</td>
-			<td rowspan="1"><strong>Pengamatan</td>
-			<td rowspan="1"><strong>Kesimpulan</td>
+			<td rowspan="1" align="center"><strong>Data yang Diberikan</td>
+			<td rowspan="1" align="center"><strong>Yang Diharapkan</td>
+			<td rowspan="1" align="center"><strong>Pengamatan</td>
+			<td rowspan="1" align="center"><strong>Kesimpulan</td>
 		</tr>
 		<tr>
 			<td rowspan="1">
@@ -524,11 +524,13 @@ Politeknik Negeri Indramayu<br>
 	</thead>
 </table>
 
+<br></br>
+
 <table>
 	<thead>	
 		<tr>
 			<td rowspan="1"><strong>Identifikasi</td>
-			<td colspan="3">STD-02</td>
+			<td colspan="3">STD-1.2</td>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Nama Butir Uji</td>
@@ -570,10 +572,10 @@ Politeknik Negeri Indramayu<br>
 			<td colspan="4" align="center"><strong>Hasil</td>
 		</tr>
 		<tr>
-			<td rowspan="1"><strong>Data yang Diberikan</td>
-			<td rowspan="1"><strong>Yang Diharapkan</td>
-			<td rowspan="1"><strong>Pengamatan</td>
-			<td rowspan="1"><strong>Kesimpulan</td>
+			<td rowspan="1" align="center"><strong>Data yang Diberikan</td>
+			<td rowspan="1" align="center"><strong>Yang Diharapkan</td>
+			<td rowspan="1" align="center"><strong>Pengamatan</td>
+			<td rowspan="1" align="center"><strong>Kesimpulan</td>
 		</tr>
 		<tr>
 			<td rowspan="1">
@@ -663,10 +665,10 @@ Politeknik Negeri Indramayu<br>
 			<td colspan="4" align="center"><strong>Hasil</td>
 		</tr>
 		<tr>
-			<td rowspan="1"><strong>Data yang Diberikan</td>
-			<td rowspan="1"><strong>Yang Diharapkan</td>
-			<td rowspan="1"><strong>Pengamatan</td>
-			<td rowspan="1"><strong>Kesimpulan</td>
+			<td rowspan="1" align="center"><strong>Data yang Diberikan</td>
+			<td rowspan="1" align="center"><strong>Yang Diharapkan</td>
+			<td rowspan="1" align="center"><strong>Pengamatan</td>
+			<td rowspan="1" align="center"><strong>Kesimpulan</td>
 		</tr>
 		<tr>
 			<td rowspan="1">
@@ -714,7 +716,7 @@ Politeknik Negeri Indramayu<br>
 	<thead>	
 		<tr>
 			<td rowspan="1"><strong>Identifikasi</td>
-			<td colspan="3">STD-03</td>
+			<td colspan="3">STD-2.1</td>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Nama Butir Uji</td>
@@ -756,10 +758,10 @@ Politeknik Negeri Indramayu<br>
 			<td colspan="4" align="center"><strong>Hasil</td>
 		</tr>
 		<tr>
-			<td rowspan="1"><strong>Data yang Diberikan</td>
-			<td rowspan="1"><strong>Yang Diharapkan</td>
-			<td rowspan="1"><strong>Pengamatan</td>
-			<td rowspan="1"><strong>Kesimpulan</td>
+			<td rowspan="1" align="center"><strong>Data yang Diberikan</td>
+			<td rowspan="1" align="center"><strong>Yang Diharapkan</td>
+			<td rowspan="1" align="center"><strong>Pengamatan</td>
+			<td rowspan="1" align="center"><strong>Kesimpulan</td>
 		</tr>
 		<tr>
 			<td rowspan="1">
@@ -807,7 +809,7 @@ Politeknik Negeri Indramayu<br>
 	<thead>	
 		<tr>
 			<td rowspan="1"><strong>Identifikasi</td>
-			<td colspan="3">STD-04</td>
+			<td colspan="3">STD-2.2</td>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Nama Butir Uji</td>
@@ -849,10 +851,10 @@ Politeknik Negeri Indramayu<br>
 			<td colspan="4" align="center"><strong>Hasil</td>
 		</tr>
 		<tr>
-			<td rowspan="1"><strong>Data yang Diberikan</td>
-			<td rowspan="1"><strong>Yang Diharapkan</td>
-			<td rowspan="1"><strong>Pengamatan</td>
-			<td rowspan="1"><strong>Kesimpulan</td>
+			<td rowspan="1" align="center"><strong>Data yang Diberikan</td>
+			<td rowspan="1" align="center"><strong>Yang Diharapkan</td>
+			<td rowspan="1" align="center"><strong>Pengamatan</td>
+			<td rowspan="1" align="center"><strong>Kesimpulan</td>
 		</tr>
 		<tr>
 			<td rowspan="1">
@@ -942,10 +944,10 @@ Politeknik Negeri Indramayu<br>
 			<td colspan="4" align="center"><strong>Hasil</td>
 		</tr>
 		<tr>
-			<td rowspan="1"><strong>Data yang Diberikan</td>
-			<td rowspan="1"><strong>Yang Diharapkan</td>
-			<td rowspan="1"><strong>Pengamatan</td>
-			<td rowspan="1"><strong>Kesimpulan</td>
+			<td rowspan="1" align="center"><strong>Data yang Diberikan</td>
+			<td rowspan="1" align="center"><strong>Yang Diharapkan</td>
+			<td rowspan="1" align="center"><strong>Pengamatan</td>
+			<td rowspan="1" align="center"><strong>Kesimpulan</td>
 		</tr>
 		<tr>
 			<td rowspan="1">
@@ -993,7 +995,7 @@ Politeknik Negeri Indramayu<br>
 	<thead>	
 		<tr>
 			<td rowspan="1"><strong>Identifikasi</td>
-			<td colspan="3">STD-05</td>
+			<td colspan="3">STD-3.1</td>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Nama Butir Uji</td>
@@ -1035,10 +1037,10 @@ Politeknik Negeri Indramayu<br>
 			<td colspan="4" align="center"><strong>Hasil</td>
 		</tr>
 		<tr>
-			<td rowspan="1"><strong>Data yang Diberikan</td>
-			<td rowspan="1"><strong>Yang Diharapkan</td>
-			<td rowspan="1"><strong>Pengamatan</td>
-			<td rowspan="1"><strong>Kesimpulan</td>
+			<td rowspan="1" align="center"><strong>Data yang Diberikan</td>
+			<td rowspan="1" align="center"><strong>Yang Diharapkan</td>
+			<td rowspan="1" align="center"><strong>Pengamatan</td>
+			<td rowspan="1" align="center"><strong>Kesimpulan</td>
 		</tr>
 		<tr>
 			<td rowspan="1">
@@ -1086,7 +1088,7 @@ Politeknik Negeri Indramayu<br>
 	<thead>	
 		<tr>
 			<td rowspan="1"><strong>Identifikasi</td>
-			<td colspan="3">STD-06</td>
+			<td colspan="3">STD-3.2</td>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Nama Butir Uji</td>
@@ -1128,10 +1130,10 @@ Politeknik Negeri Indramayu<br>
 			<td colspan="4" align="center"><strong>Hasil</td>
 		</tr>
 		<tr>
-			<td rowspan="1"><strong>Data yang Diberikan</td>
-			<td rowspan="1"><strong>Yang Diharapkan</td>
-			<td rowspan="1"><strong>Pengamatan</td>
-			<td rowspan="1"><strong>Kesimpulan</td>
+			<td rowspan="1" align="center"><strong>Data yang Diberikan</td>
+			<td rowspan="1" align="center"><strong>Yang Diharapkan</td>
+			<td rowspan="1" align="center"><strong>Pengamatan</td>
+			<td rowspan="1" align="center"><strong>Kesimpulan</td>
 		</tr>
 		<tr>
 			<td rowspan="1">
