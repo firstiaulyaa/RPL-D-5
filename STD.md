@@ -25,7 +25,7 @@ Politeknik Negeri Indramayu<br>
 <p>Perangkat lunak yang akan diuji adalah Aplikasi BUSAYU. Aplikasi ini merupakan aplikasi berbasis Android yang digunakan untuk seluruh masyarakat, khususnya masyarakat yang berada di daerah Indramayu untuk mengetahui kebudayaan yang ada di Indramayu dan event atau lomba yang akan diselenggarakan oleh Dinas Kebudayaan dan Pariwisata Kabupaten Indramayu.</p>
 
 <h3><br><strong>1.3	Deskripsi Dokumen (Ikhtisar) </strong></br></h3>
-<p>Dalam dokumen ini berisi 3 bagian utama yaitu Pendahuluan, Identifikasi dan Rencana Pengujian, Deskripsi dan Uji Hasil. </p>
+<p>Dalam dokumen ini berisi 4 bagian yaitu Pendahuluan, Lingkungan Pengujian Perangkat Lunak, Identifikasi dan Rencana Pengujian, Deskripsi dan Uji Hasil. </p>
 
 <h3><br><strong>1.4	Definisi dan Singkatan </strong></br></h3>
 <table>  
@@ -35,6 +35,10 @@ Politeknik Negeri Indramayu<br>
 <td>(Software Requirements Spesification) merupakan dokumen yang dibuat untuk menjelaskan tentang spesifikasi kebutuhan apa saja yang digunakan dalam aplikasi</td>
 </tr>
 <tr>
+<td><strong>SDD</strong></td>
+<td>(Software Design Document) merupakan dokumen yang dibuat untuk menjelaskan langkah-langkah desain, spesifikasi kebutuhan fungsional, dan proses-proses dalam pembuatan sistem aplikasi yang akan diterapkan pada aplikasi.</td>
+</tr>
+<tr>
 <td><strong>DFD</strong></td>
 <td>(Data Flow Diagram) adalah diagram dan notasi yang digunakan untuk menunjukkan aliran data pada perangkat lunak. </td>
 </tr>
@@ -42,14 +46,18 @@ Politeknik Negeri Indramayu<br>
 <td><strong>ERD</strong></td>
 <td>(Entity Relationship Diagram) adalah diagram dan notasi yang digunakan untuk merepresentasikan struktur data statis pada perangkat lunak. </td>
 </tr>
+<tr>
+<td><strong>BUSAYU</strong></td>
+<td>Aplikasi Budaya dan Pariwisata Kab. Indramayu</td>
+</tr>
 </thead>  
 </table> 
 
 <h3><br><strong>1.5	Dokumen Referensi </strong></br></h3>
 <ul>
 	<li>Sistem Pentiketan Elektronik Konser.2013. Perencanaan, Deskripsi, Dan Hasil Uji Perangkat Lunak. Bogor.</li>
-	<li>SPMP</li>
-	<li>SDD</li>
+	<li>Aplikasi BUSAYU.2018.SRS.Indramayu</li>
+	<li>Aplikasi BUSAYU.2018.SDD.Indramayu</li>
 </ul>
 
 
@@ -62,25 +70,29 @@ Politeknik Negeri Indramayu<br>
 	<thead>  
 <tr>
 <td><strong>Sistem Operasi</strong></td>
-<td>
-	<ul>
-	<li>Web : Windows 10 </li>
-	<li>Android : </li></td>
+<td>Windows 10 </td>
 </tr>
 <tr>
 <td><strong>Bahasa Pemrograman</strong></td>
-<td>Java, PHP</td>
+<td>PHP</td>
 </tr>
 <tr>
-<td><strong>Database</strong></td>
+<td><strong>DBMS</strong></td>
 <td>MySQL</td>
+</tr>
+<tr>
+<td><strong>Web Browser</strong></td>
+<td>Mozzila Firefox</td>
+</tr>
+<td><strong>Web Server</strong></td>
+<td>XAMPP</td>
 </tr>
 </thead>  
 </table>
 
 
 <h3><br><strong>2.2	Perangkat Keras Pengujian </strong></br></h3>
-<p>Perangkat keras yang diperlukan untuk menguji aplikasi BUSAYU ini adalah satu set komputer dengan spesifikasi : </p>
+<p>Perangkat keras yang diperlukan untuk menguji aplikasi BUSAYU ini adalah satu set komputer dan smartphone dengan spesifikasi : </p>
 
 <ul><li>Web (Admin)</li></ul>
 <table>  
@@ -104,16 +116,16 @@ Politeknik Negeri Indramayu<br>
 <table>  
 	<thead>  
 <tr>
-<td><strong>Devices</strong></td>
-<td>--------</td>
+<td><strong>Processor</strong></td>
+<td>Processor Octa-core 1.4 GHz Cortex-A53</td>
 </tr>
 <tr>
-<td><strong>RAM</strong></td>
-<td>-------</td>
+<td><strong>Memory</strong></td>
+<td>2GB</td>
 </tr>
 <tr>
-<td><strong>Internal Memory</strong></td>
-<td>------</td>
+<td><strong>API</strong></td>
+<td>25</td>
 </tr>
 </thead>  
 </table>  
@@ -125,39 +137,83 @@ Politeknik Negeri Indramayu<br>
 <h3><br><strong>2.4	Sumber Daya Manusia</strong></br></h3>
 <p>Persyaratan sumber daya manusia yang akan terlibat dalam proses pengujian aplikasi ini adalah :</p>
 <ul>
-	<li>Memahami konsep pemrograman berorientasi objek dalam bahasa Java dan PHP</li>
+	<li>Memahami konsep pemrograman berorientasi objek dalam bahasa Java, HTML, CSS, dan PHP</li>
 	<li>Memahami konsep database MySQL</li>
 </ul>
 
 <h3><br><strong>2.5	Prosedur Umum Pengujian </strong></br></h3>
 <h4><br><strong>2.5.1	Pengenalan dan Latihan </strong></br></h4>
-<p>Penguji aplikasi ini hanya diberikan latihan kembali tentang MySQL dan PHP, dan pengenalan lebih lanjut tentang Java. Pada dasarnya penguji telah memiliki pengetahuan tentang hal yang sudah disebutkan sebelumnya tetapi latihan yang diberikan hanya bersifat penyegaran kembali.</p>
+<p>Penguji aplikasi ini hanya diberikan latihan kembali tentang Java dan PHP. Pada dasarnya penguji telah memiliki pengetahuan tentang hal yang sudah disebutkan sebelumnya tetapi latihan yang diberikan hanya bersifat penyegaran kembali.</p>
 
 <h4><br><strong>2.5.2 Persiapan Awal </strong></br></h4>
+<p>Persiapan awal untuk menguji aplikasi adalah mempersiapkan perangkat keras dan perangkat lunak yang akan dignakan.</p>
 <h5><br><strong>2.5.2.1 Persiapan Prosedural</strong></br></h5>
-<p>Pengujian ini dilakukan diluar jam perkuliahan. </p>
+<p>Pengujian ini dilakukan diluar jam perkuliahan dan diluar lingkungan kampus.</p>
 
 <h5><br><strong>2.5.2.2 Persiapan Perangkat Keras </strong></br></h5>
-<p>Perangkat keras yang perlu dipersiapkan adalah sebuah laptop yang dilengkapi dengan :</p>
-<ul>
-	<li>Processor : Intel® Core i3-4005U @1.70Ghz</li>
-	<li>Memory : 6 GB DDR3</li>
-	<li>Harddisk : 500 GB</li>
-</ul>
+<p>Perangkat keras yang perlu dipersiapkan adalah satu set laptop dan sebuah smartphone dengan spesifikasi :</p>
+
+<ul><li>Web (Admin)</li></ul>
+<table>  
+	<thead>  
+<tr>
+<td><strong>Processor</strong></td>
+<td>Intel® Core i3-4005U @1.70Ghz</td>
+</tr>
+<tr>
+<td><strong>Memory</strong></td>
+<td>6 GB DDR3</td>
+</tr>
+<tr>
+<td><strong>Harddisk</strong></td>
+<td>500 GB</td>
+</tr>
+</thead>  
+</table>
+
+<br><ul><li>Android (User)</li></ul>
+<table>  
+	<thead>  
+<tr>
+<td><strong>Processor</strong></td>
+<td>Processor Octa-core 1.4 GHz Cortex-A53</td>
+</tr>
+<tr>
+<td><strong>Memory</strong></td>
+<td>2GB</td>
+</tr>
+<tr>
+<td><strong>API</strong></td>
+<td>25</td>
+</tr>
+</thead>  
+</table> 
+
+
 
 <h5><br><strong>2.5.2.3 Persiapan Perangkat Lunak </strong></br></h5>
-<p>Persiapan yang harus dilakukan untuk menyiapkan aplikasi yang diuji di lingkungan sistem operasi Microsoft Windows 10 dan Android adalah sebagai berikut :<p>
-	<ul>
-		<li>Persiapkan sistem operasi Microsoft Windows dan Android .</li>
-		<li>Aplikasi yang akan di uji untuk Web disimpan di dalam C:\XAMPP\htdocs\busayu. Sedangkan untuk Android disimpan di smarthphone.</li>
-		<li>Browser Google Chrome.</li>
-		<li>Database di import ke phpMyAdmin di database busayu.sql.</li>
-		<li>Sublime Text untuk melihat source code pada website dan Android Studio untuk melihat source code pada aplikasi.</li>
-	</ul> 
+<p>Persiapan yang harus dilakukan adalah :<p>
+	<ul><li>Web</li></ul>
+	<ol>
+		<li>Aplikasi disimpan di C:\XAMPP\htdocs\busayu</li>
+		<li>Database diimport ke phpMyAdmin</li>
+		<li>Jalankan server Apache dan MySQL yang ada di XAMPP Control Panel</li>
+		<li>Buka Mozzila Firefox dan ketik http://localhost/busayu.</li>
+	</ol> 
+
+	<ul><li>Android</li></ul>
+	<ol>
+		<li>Aplikasi diinstall dan disimpan pada Smartphone</li>
+		<li>Koneksi internet diaktifkan</li>
+		<li>Buka aplikasi yang sudah terinstall</li>
+	</ol> 
 
 
-<h4><br><strong>2.5.3 Pelaksanaan Pelaksanaan </strong></br></h4>
+<h4><br><strong>2.5.3 Pelaksanaan</strong></br></h4>
+<p>Pelaksanaan pengujian dilakukan sesuai dengan persiapan sebelumnya. Dan pengujian dilaksanakan berdasarkan skenario yang telah disediakan.</p>
+
 <h4><br><strong>2.5.4 Pelaporan Hasil Dokumen </strong></br></h4>
+<p>Setelah aplikasi diuji, laporan hasil dari pengujian tersebut akan diberikan kepada dosen pengampu Rekayasa Perangkat Lunak (RPL)</p>
 
 
 
