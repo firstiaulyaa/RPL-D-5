@@ -1,8 +1,8 @@
 <h1 align="center" id="software-requirements-specification">SOFTWARE PROJECT MANAGEMENT PLAN</h1>  
-<p align="center"><strong>Version 1.9<br>  
+<p align="center"><strong>Version 1.9<br><br>  
 15 April 2018</strong><br>  
 </p><p align="center">  
-<img src="https://lh3.googleusercontent.com/qEHYPVzo0kjd8ikhrCIF4cI_PhR8pmK5vDU14oEp9OPyVT-eA54cVp8C9iyJ8rKDfH8OR1dnT1zv=s300" alt="enter image description here" title="logo">  
+<img src="https://lh3.googleusercontent.com/qEHYPVzo0kjd8ikhrCIF4cI_PhR8pmK5vDU14oEp9OPyVT-eA54cVp8C9iyJ8rKDfH8OR1dnT1zv=s300" alt="enter image description here" title="logo"><br>  
 </p><p align="center"><strong>Kelompok 5 D3TI2D</strong></p>  
 <p align="center"><strong>Firsti Aulya K. K. (1603098)<br>  
 Firmansyah (1603097) <br>  
@@ -18,7 +18,7 @@ Politeknik Negeri Indramayu<br>
 <p>BUSAYU (Aplikasi Budaya dan Pariwisata Kab. Indramayu) adalah salah satu aplikasi berbasis Android yang digunakan untuk seluruh masyarakat, khususnya masyarakat yang berada di daerah Indramayu untuk mengetahui kebudayaan yang ada di Indramayu dan event atau lomba yang akan diselenggarakan oleh Dinas Kebudayaan dan Pariwisata Kabupaten Indramayu.<br>
 Pada Proyek ini dibuat sistem berbasis Android dimana pengolahan informasi dan data diakses melalui smartphone dengan sistem operasi Android.</p>
 
-<h3><br><strong>1.2. Dokumen-dokumen dalam proyek</strong></h3>
+<h3><br><strong>1.2. Dokumen-dokumen Dalam Proyek</strong></h3>
 <ul>
 <li>SPMP (Software Project Management Plant)</li>
 <li>SRS (Software Reqruitments Specification</li>
@@ -29,16 +29,38 @@ Pada Proyek ini dibuat sistem berbasis Android dimana pengolahan informasi dan d
 <h3><br><strong>1.3. Evolusi SPMP</strong></h3>
 <p>Pada proyek ini ditujukan untuk masing-masing anggota dan harus bertanggung jawab pada dokumen projek yang dibuat, setiap personal harus mampu mempertanggung jawabkan setiap job desk yang ditentukan.</p>
 
-<h3><br><strong>1.4. Material acuan</strong></h3>
+<h3><br><strong>1.4. Material Acuan</strong></h3>
 <ul>
-<li>Materi yang menjadi acuan dalam pembuatan projek ini menggunakan standarIEEE, karena menyediakan kerangka kerja  yang menggabungkan seluruh  spektrumproses siklus hidup perangkat lunak. Dan juga standar IEEE untuk membentuk model yang diakui secara internasional dari kehidupan perangkat lunak umum,siklus proses yang dapat direferensikan oleh industri perangkat lunak diseluruhdunia, untuk mempromosikan pemahaman diantara pihak bisnis dengan aplikasiumum serta mengakui proses, kegiatan dan  tugas.IEEE adalah sebuah organisasi profesi nirlaba yang terdiri dari banyak ahlidibidang teknik yang mempromosikan pengembangan standar-standar danbertindak sebagai pihak yang mempercepat teknologi- teknologi baru dalam semuaaspek dalam industry  dan rekayasa (engineering), yang mencakup telekomunikasi, jaringan komputer, kelistrikan, antariksa, dan elektronika. Tujuan inti IEEE adalah mendorong inovasi teknologi dan kesempurnaan untuk kepentingankemanusiaan.Visi IEEE adalah akan menjadi penting untuk masyarakat teknis global dan professional teknis dimana-mana dan dikenal secara universal untukkontribusi teknologi dan teknis yang professional dalam meningkatkan kondisi perkembangan global. Standar dalam IEEE adalah mengatur fungsi, kemampuandan interoperabilitas dari berbagai macam  produk dan layanan yang mengubah caraorang hidup, bekerja dan  berkomunikasi. diakses pada tanggal 12 April 2018 pukul 13.00</li>
+<li>IEEE</li>
 <li>https://www1.in.tum.de/stars.globalse.org/stars1/docs/SPMP/Examples/Examples.html diakese pada tanggal 12 April 2018 pukul 14.00</li>
 <li>
 https://www.slideshare.net/ttchenok/spmp-18728488 diakses pada tanggal 12 April 2018 pukul 14.30</li>
 </ul>
 
+<h3><br><strong>1.5. Definisi, Akronim, dan Singkatan</strong></h3>
+<table>
+	<tbody>
+		<tr>  
+<td><strong>Android</td>  
+<td>Sistem operasi berbasis Linux yang dirancang untuk perangkat bergerak layar sentuh seperti telepon pintar dan komputer tablet</td>  
+</tr>
+<tr>  
+<td><strong>SPMP</td>  
+<td>Software Project Management Plan</td>  
+</tr> 
+<tr>  
+<td>BUSAYU</td>  
+<td>Aplikasi Budaya dan Pariwisata kab. Indramayu</td>  
+</tr>
+<tr>  
+<td>IEEE</td>  
+<td>(Singkatan : Institute of Electrical and Electronics Engineers) Sebuah organisasi profesi nirlaba yang terdiri dari banyak ahli di bidang teknik yang mempromosikan pengembangan standar-standar dan bertindak sebagai pihak yang mempercepat teknologi-teknologi baru dalam semua aspek dalam industri dan rekayasa (engineering), yang mencakup telekomunikasi, jaringan komputer, kelistrikan, antariksa, dan elektronika.</td>  
+</tr>
+	</tbody>
+</table>
+
 <h2><br><strong>2. Organisasi Proyek</strong></h2>
-<h3><br><strong>2.1. Model proses</strong></h3>
+<h3><br><strong>2.1. Model Proses</strong></h3>
 <p>Model proses yang digunakan adalah V-Model, karena metode V-model bisa dikerjakan sebagai Multitask Developer, dimana setiap personal bisa mengerjakan tahap selanjut nya apabila tahap awal masih dalam proses pengerjaan. Kami menggunakan Android Studio untuk menunjang requirement perangkat lunak.</p>
 
 <h4><br><strong>2.1.1. Definisi</strong></h4>
@@ -57,11 +79,11 @@ https://www.slideshare.net/ttchenok/spmp-18728488 diakses pada tanggal 12 April 
 	<li>V Model sangat fleksibel. V Model mendukung project tailoring dan penambahan dan pengurangan method dan tool secara dinamik. Akibatnya sangat mudah untuk melakukan tailoring pada V Model agar sesuai dengan suatu proyek tertentu dan sangat mudah untuk menambahkan method dan tool baru atau menghilangkan method dan tool yang dianggap sudah obsolete.</li>
 
 
-<h3><br><strong>2.2. Struktur organisasi</strong></h3>
+<h3><br><strong>2.2. Struktur Organisasi</strong></h3>
 
 ![enter image description here](https://3.bp.blogspot.com/-pao8NZzzRe4/WtGlvvivoEI/AAAAAAAAAH4/83A1g9mUqjo7zhC12A6j2Moj-9KfNUfFgCLcBGAs/s1600/BAGAN.png)
 
-<h3><br><strong>2.3. Lingkup dan Tanggung jawab</strong></h3>
+<h3><br><strong>2.3. Lingkup dan Tanggung Jawab</strong></h3>
 <table>
 <thead>
 <tr>
@@ -106,10 +128,10 @@ https://www.slideshare.net/ttchenok/spmp-18728488 diakses pada tanggal 12 April 
 
 
 <h2><br><strong>3. Proses Manajerial</strong></h2>
-<h3><br><strong>3.1 Tujuan dan prioritas manajemen</strong></h3>
+<h3><br><strong>3.1 Tujuan dan Prioritas Manajemen</strong></h3>
 <p>Tujuan dari proyek ini adalah untuk mengenalkan kebudayaan dan pariwisata yang ada di Indramayu, serta pengguna bisa mengajukan pengaduan tentang kebudayaan dan pariwisata yang ada di Indramayu.</p>
 
-<h3><br><strong>3.2 Asumsi, keterkaitan, dan batasan</strong></h3>
+<h3><br><strong>3.2 Asumsi, Keterkaitan, dan Batasan</strong></h3>
  <p>Asumsi proyek adalah sebagai berikut :</p>
 <ul>
 <li>Tim terdiri dari 4 orang</li>
@@ -141,53 +163,78 @@ https://www.slideshare.net/ttchenok/spmp-18728488 diakses pada tanggal 12 April 
 </thead>
 <tbody>
 <tr>
-<td>Estimasi Biaya dan waktu</td>
-<td>Menganalisa proyek yang akan dibuat
-Membuat spesifikasi yang formal<br>
-Mengembangkan software yang salah<br>
-Survei pengguna<br>
-Membuat Prototype<br>
+<td><strong>Estimasi Biaya dan waktu</td>
+<td>
+	<ul>
+		<li>Menganalisa proyek yang akan dibuat</li>
+		<li>Membuat spesifikasi yang formal</li>
+		<li>Mengembangkan software yang salah</li>
+		<li>Survei pengguna</li>
+		<li>Membuat Prototype</li>
+	</ul>
 </td>
 </tr>
+
 <tr>
-<td>Terlambat membangun kebutuhan software</td>
-<td>Mengubah prosedur kendali<br>
-Membatasi perubahan yang terlalu banyak<br>
-Meningkatkan pengembangan
+<td><strong>Terlambat membangun kebutuhan software</td>
+<td>
+	<ul>
+		<li>Mengubah prosedur kendali</li>
+		<li>Membatasi perubahan yang terlalu banyak</li>
+		<li>Meningkatkan pengembangan</li>
+	</ul>
 </td>
 </tr>
+
 <tr>
-<td>Kegagalan pada komponen-komponen</td>
-<td>Analisis project yang akan dibuat<br>
-Keterbatasan alat dan bahan
+<td><strong>Kegagalan pada komponen-komponen</td>
+<td>
+	<ul>
+		<li>Analisis project yang akan dibuat</li>
+		<li>Keterbatasan alat dan bahan</li>
+	</ul>
 </td>
 </tr>
+
 <tr>
-<td>Kegagalan kinerja real time</td>
-<td>Prosedur jaminan kualitas<br>
-Desain yang kompetitif<br>
-Membangun tim<br>
-Kesungguhan dalam tim
+<td><strong>Kegagalan kinerja real time</td>
+<td>
+	<ul>
+		<li>Prosedur jaminan kualitas</li>
+		<li>Desain yang kompetitif</li>
+		<li>Membangun tim</li>
+		<li>Kesungguhan dalam tim</li>
+	</ul>
 </td>
 </tr>
-<tr><td>Pengembangan yang terlalu sulit karena teknis</td>
-<td>Analisa Teknis<br>
-Analisa biaya<br>
-Analisa manfaat<br>
-Analisa Software<br>
-Simulasi Software
+
+<tr>
+	<td><strong>Pengembangan yang terlalu sulit karena teknis</td>
+	<td>
+		<ul>
+			<li>Analisa Teknis</li>
+			<li>Analisa biaya</li>
+			<li>Analisa manfaat</li>
+			<li>Analisa Software</li>
+			<li>Simulasi Software</li>
+		</ul>
 </td>
 </tr>
-<tr><td>Kegagalan menjalankan tugas ekstenal</td>
-<td>Benchmarking<br>
-Simulation<br>
-Tuning<br>
-</td>
+
+<tr>
+	<td><strong>Kegagalan menjalankan tugas ekstenal</td>
+	<td>
+		<ul>
+			<li>Benchmarking</li>
+			<li>Simulation</li>
+			<li>Tuning</li>
+		</ul>
+	</td>
 </tr>
 </tbody>
 </table>
 
-<h3><br><strong>3.4 Mekanisme pemantauan dan pengendalian</strong></h3>
+<h3><br><strong>3.4 Mekanisme Pemantauan dan Pengendalian</strong></h3>
 <ul>
 <li>Rapat proyek mingguan</li>
 <li>Penyimpanan dokumen bersama</li>
@@ -226,18 +273,18 @@ System Analysment</td>
 
 
 <h2><br><strong>4. Proses Teknis</strong></h2>
-<h3><br><strong>4.1 Metode, alat, dan teknik </strong></h3>
+<h3><br><strong>4.1 Metode, Alat, dan Teknik </strong></h3>
 <p>Proyek ini akan diimplementasikan dengan memanfaatkan metodologi V Model. Teknik analisis berorientasi objek akan di gunakan untuk menyelesaikan proyek.</p>
 
-<h3><br><strong>4.2 Dokumentasi perangkat lunak</strong></h3>
+<h3><br><strong>4.2 Dokumentasi Perangkat Lunak</strong></h3>
 <p>Dokumentasi seperti Piagam Proyek, Dokumentasi Kebutuhan Bisnis, Dokumentasi Spesifikasi Fungsional, Analisis Manfaat Biaya, dokumen Spesifikasi Teknis, Detail Design Dokumen, Rencana Pelaksanaan, dan Dokumen Realisasi Manfaat.</p>
 
-<h3><br><strong>4.3 Fungsi pendukung proyek</strong></h3>
+<h3><br><strong>4.3 Fungsi Pendukung Proyek</strong></h3>
 <p>Semua dokumen pendukung proyek akan selesai dalam fase yang sesuai.</p>
 
 
 <h2><br><strong>5. Paket Pekerjaan, Jadwal, dan Budget</strong></h2>
-<h3><br><strong>5.1 Paket pekerjaan</strong></h3>
+<h3><br><strong>5.1 Paket Pekerjaan</strong></h3>
 
 <br>
 
@@ -360,17 +407,17 @@ System Analysment</td>
 </thead>
 <tbody>
 <tr>
-	<td>Sumber daya manusia</td>
+	<td><strong>Sumber Daya Manusia</td>
 	<td>4 Orang anggota pekerja projek</td>
 	<td>Dengan jumlah tersebut untuk keseimbangan antara pengerjaan projek, dokumen-dokumen dan pencarian masukan dari pasar, dengan demikian kita dapat mempercepat proses pekerjaan projek</td>
 </tr>
 <tr>
-<td rowspan="3">Sumber daya software</td>
-	<td>Sublime text 3</td>
+<td rowspan="3"><strong>Sumber Daya Perangkat Lunak</td>
+	<td>Sublime Text 3</td>
 	<td>Digunakan untuk membuat web pada admin</td>
 </tr>
 <tr>
-	<td>Mysql</td>
+	<td>MySQL</td>
 	<td>Software ini digunakan untuk pembuatan database</td>
 </tr>
 <tr>
@@ -382,7 +429,7 @@ System Analysment</td>
 	<td>Digunakan untuk pembuatan sistem capturing images</td>
 </tr>
 <tr>
-<td rowspan="2">Sumber daya Hardware</td>
+<td rowspan="2"><strong>Sumber Daya Perangkat Keras</td>
 <td>Perangkat komputer</td>
 <td>Perangkat induk yang digunakan dalam pengerjaan projek</td>
 </tr>
