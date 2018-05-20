@@ -201,17 +201,15 @@ Politeknik Negeri Indramayu<br>
 		<li>Database diimport ke phpMyAdmin</li>
 		<li>Jalankan server Apache dan MySQL yang ada di XAMPP Control Panel</li>
 		<li>Buka Mozzila Firefox dan ketik http://localhost/busayu.</li>
-	</ol> 
-
+	</ol>
+</p> 
 <br>
-
 	<ul><li>Android</li></ul>
 	<ol>
 		<li>Aplikasi diinstall dan disimpan pada Smartphone</li>
 		<li>Koneksi internet diaktifkan</li>
 		<li>Buka aplikasi yang sudah terinstall</li>
 	</ol> 
-</p>
 
 
 <h4><br><strong>2.5.3 Pelaksanaan</strong></br></h4>
