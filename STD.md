@@ -240,38 +240,38 @@ Politeknik Negeri Indramayu<br>
 <!-- user melakukan login -->		
 <tr>
 	<td rowspan="3" align="center"><strong>Pengujian Login User</td>
-	<td>Pengisian Username atau password benar</td>
+	<td>Pengisian Username dan Password benar (User)</td>
 	<td>SRS-2.2.1</td>
 	<td>-</td>
 	<td>Sistem</td>
 	<td>Black Box</td>
 	<td rowspan="3" align="center">Firmansyah</td>
 <tr>
-	<td>Pengisian Username atau Password salah</td>
+	<td>Pengisian Username atau Password salah (User)</td>
 	<td>-</td>
 	<td>STD-1.1</td>
 	<td>Sistem</td>
 	<td>Black Box</td>
 </tr>
 <tr>
-	<td>Tidak ada koneksi internet</td>
+	<td>Tidak mengisi Username dan Password (User)</td>
 	<td>-</td>
 	<td>STD-1.2</td>
 	<td>Sistem</td>
 	<td>Black Box</td>
 </tr>
 
-<!-- user melakukan registrasi -->
+<!-- user melihat budaya -->
 <tr>
-	<td rowspan="3" align="center"><strong>Pengujian Register User</td>
-	<td>Pengisian Nama User, Username, Email, dan Password benar</td>
-	<td>--------</td>
+	<td rowspan="3" align="center"><strong>Pengujian melihat Budaya pada Android (User)</td>
+	<td>Kebenaran dalam menampilkan Budaya dengan meng-klik Ikon Budaya</td>
+	<td>SRS-2.2.2</td>
 	<td>-</td>
 	<td>Sistem</td>
 	<td>Black Box</td>
 	<td rowspan="3" align="center">Firmansyah</td>
 <tr>
-	<td>Pengisian Nama User, Username, Email, dan Password salah (tidak terisi)</td>
+	<td>Halaman Budaya tidak muncul karena server error</td>
 	<td>-</td>
 	<td>STD-2.1</td>
 	<td>Sistem</td>
@@ -286,52 +286,26 @@ Politeknik Negeri Indramayu<br>
 </tr>
 
 
-
-<!-- user melihat budaya -->
+<!-- admin melakukan login -->
 <tr>
-	<td rowspan="3" align="center"><strong>Pengujian melihat Budaya pada Android (User)</td>
-	<td>Kebenaran dalam menampilkan Budaya dengan meng-klik Ikon Budaya</td>
-	<td>SRS-2.2.2</td>
+	<td rowspan="3" align="center"><strong>Pengujian Login Admin</td>
+	<td>Pengisian Username dan Password benar (Admin)</td>
+	<td>SRS-2.2.6</td>
 	<td>-</td>
 	<td>Sistem</td>
 	<td>Black Box</td>
-	<td rowspan="3" align="center">Firmansyah</td>
+	<td rowspan="3" align="center">Diyanti</td>
 <tr>
-	<td>Halaman Budaya tidak muncul karena server error</td>
+	<td>Pengisian Username atau Password salah (Admin)</td>
 	<td>-</td>
 	<td>STD-3.1</td>
 	<td>Sistem</td>
 	<td>Black Box</td>
 </tr>
 <tr>
-	<td>Tidak ada koneksi internet</td>
+	<td>Tidak mengisi Username dan Password (Admin)</td>
 	<td>-</td>
 	<td>STD-3.2</td>
-	<td>Sistem</td>
-	<td>Black Box</td>
-</tr>
-
-
-<!-- user melihat kegiatan -->
-<tr>
-	<td rowspan="3" align="center"><strong>Pengujian melihat Kegiatan pada Android (User)</td>
-	<td>Kebenaran dalam menampilkan Halaman Kegiatan dengan meng-klik Ikon Kegiatan</td>
-	<td>SRS-2.2.4</td>
-	<td>-</td>
-	<td>Sistem</td>
-	<td>Black Box</td>
-	<td rowspan="3" align="center">Firmansyah</td>
-<tr>
-	<td>Menu kegiatan tidak muncul karena server error</td>
-	<td>-</td>
-	<td>STD-5.1</td>
-	<td>Sistem</td>
-	<td>Black Box</td>
-</tr>
-<tr>
-	<td>Tidak ada koneksi internet</td>
-	<td>-</td>
-	<td>STD-5.2</td>
 	<td>Sistem</td>
 	<td>Black Box</td>
 </tr>
@@ -365,11 +339,11 @@ Politeknik Negeri Indramayu<br>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Tanggal Pengujian</td>
-			<td colspan="3">-------</td>
+			<td colspan="3">20 Mei 2018</td>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Penguji</td>
-			<td colspan="3">-------</td>
+			<td colspan="3">Firmansyah</td>
 		</tr>
 		<tr>
 			<td colspan="4" align="center"><strong>Skenario</td>
@@ -394,8 +368,8 @@ Politeknik Negeri Indramayu<br>
 		<tr>
 			<td rowspan="1">
 				<ul>
-					<li>Username : </li>
-					<li>Password : </li>
+					<li>Username : Firman</li>
+					<li>Password : Firman</li>
 				</ul>
 			</td>
 			<td rowspan="1">
@@ -406,27 +380,16 @@ Politeknik Negeri Indramayu<br>
 			</td>
 			<td rowspan="1">
 				<ul>
-					<li>------</li>
-					<li>------</li>
+					<li>User bisa masuk ke Halaman Utama jika Login dengan mengisi Username dan Password secara benar dan sesuai data</li>
 				</ul>
 			</td>
-			<td rowspan="1">
-				<ul>
-					<li>------</li>
-					<li>------</li>
-				</ul>
-			</td>
+			<td rowspan="1">OK</td>
 		</tr>
 		<tr>
 			<td colspan="4" align="center"><strong>Catatan</td>
 		</tr>
 		<tr>
-			<td colspan="4">
-				<ul>
-					<li>------</li>
-					<li>------</li>
-				</ul>
-			</td>
+			<td colspan="4" align="center"> - </td>
 		</tr>
 	</thead>
 </table>
@@ -458,11 +421,11 @@ Politeknik Negeri Indramayu<br>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Tanggal Pengujian</td>
-			<td colspan="3">-------</td>
+			<td colspan="3">20 Mei 2018</td>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Penguji</td>
-			<td colspan="3">-------</td>
+			<td colspan="3">Firmansyah</td>
 		</tr>
 		<tr>
 			<td colspan="4" align="center"><strong>Skenario</td>
@@ -470,8 +433,89 @@ Politeknik Negeri Indramayu<br>
 		<tr>
 			<td colspan="4">
 				<ul>
-					<li>Isi Username dan Password tidak sesuai dengan data (salah)</li>
+					<li>Isi Username dan Password. Untuk password diisi dengan data yang salah</li>
 					<li>Klik tombol Masuk jika Username dan Password sudah diisi</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Hasil</td>
+		</tr>
+		<tr>
+			<td rowspan="1" align="center"><strong>Data yang Diberikan</td>
+			<td rowspan="1" align="center"><strong>Yang Diharapkan</td>
+			<td rowspan="1" align="center"><strong>Pengamatan</td>
+			<td rowspan="1" align="center"><strong>Kesimpulan</td>
+		</tr>
+		<tr>
+			<td rowspan="1">
+				<ul>
+					<li>Username : Firman</li>
+					<li>Password : 123</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>User tidak bisa masuk ke Halaman Utama</li>
+					<li>Muncul Pesan Error</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>User tidak bisa masuk ke Halaman Utama karena salah dalam mengisi password</li>
+					<li>Muncul Toast yang berisi "Username atau Password Salah"</li>
+				</ul>
+			</td>
+			<td rowspan="1">OK</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Catatan</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"> - </td>
+		</tr>
+	</thead>
+</table>
+
+<br></br>
+
+<table>
+	<thead>	
+		<tr>
+			<td rowspan="1"><strong>Identifikasi</td>
+			<td colspan="3">STD-1.2</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Nama Butir Uji</td>
+			<td colspan="3">Tidak mengisi Username dan Password</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tujuan</td>
+			<td colspan="3">Memeriksa apakah User bisa Login dengan tidak mengisi Username dan Password</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Kondisi Awal</td>
+			<td colspan="3">
+				<ul>
+					<li>User sudah membuka aplikasi dan berada pada halaman Login</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tanggal Pengujian</td>
+			<td colspan="3">20 Mei 2018</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Penguji</td>
+			<td colspan="3">Firmansyah</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Skenario</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				<ul>
+					<li>Langsung klik tombol Masuk tanpa mengisi Username dan Password</li>
 				</ul>
 			</td>
 		</tr>
@@ -494,404 +538,22 @@ Politeknik Negeri Indramayu<br>
 			<td rowspan="1">
 				<ul>
 					<li>User tidak bisa masuk ke Halaman Utama</li>
-					<li>------</li>
+					<li>Muncul Pesan Error</li>
 				</ul>
 			</td>
 			<td rowspan="1">
 				<ul>
-					<li>------</li>
-					<li>------</li>
+					<li>User tidak bisa masuk ke Halaman Utama karena tidak mengisi Username dan Password</li>
+					<li>Muncul Toast yang berisi "Username atau Password Harus Diisi"</li>
 				</ul>
 			</td>
-			<td rowspan="1">
-				<ul>
-					<li>------</li>
-					<li>------</li>
-				</ul>
-			</td>
+			<td rowspan="1">OK</td>
 		</tr>
 		<tr>
 			<td colspan="4" align="center"><strong>Catatan</td>
 		</tr>
 		<tr>
-			<td colspan="4">
-				<ul>
-					<li>------</li>
-					<li>------</li>
-				</ul>
-			</td>
-		</tr>
-	</thead>
-</table>
-
-<br></br>
-
-<table>
-	<thead>	
-		<tr>
-			<td rowspan="1"><strong>Identifikasi</td>
-			<td colspan="3">STD-1.2</td>
-		</tr>
-		<tr>
-			<td rowspan="1"><strong>Nama Butir Uji</td>
-			<td colspan="3">Tidak ada koneksi internet</td>
-		</tr>
-		<tr>
-			<td rowspan="1"><strong>Tujuan</td>
-			<td colspan="3">-------</td>
-		</tr>
-		<tr>
-			<td rowspan="1"><strong>Kondisi Awal</td>
-			<td colspan="3">
-				<ul>
-					<li>-------</li>
-					<li>-------</li>
-				</ul>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="1"><strong>Tanggal Pengujian</td>
-			<td colspan="3">-------</td>
-		</tr>
-		<tr>
-			<td rowspan="1"><strong>Penguji</td>
-			<td colspan="3">-------</td>
-		</tr>
-		<tr>
-			<td colspan="4" align="center"><strong>Skenario</td>
-		</tr>
-		<tr>
-			<td colspan="4">
-				<ul>
-					<li>------</li>
-					<li>------</li>
-				</ul>
-			</td>
-		</tr>
-		<tr>
-			<td colspan="4" align="center"><strong>Hasil</td>
-		</tr>
-		<tr>
-			<td rowspan="1" align="center"><strong>Data yang Diberikan</td>
-			<td rowspan="1" align="center"><strong>Yang Diharapkan</td>
-			<td rowspan="1" align="center"><strong>Pengamatan</td>
-			<td rowspan="1" align="center"><strong>Kesimpulan</td>
-		</tr>
-		<tr>
-			<td rowspan="1">
-				<ul>
-					<li>------</li>
-					<li>------</li>
-				</ul>
-			</td>
-			<td rowspan="1">
-				<ul>
-					<li>------</li>
-					<li>------</li>
-				</ul>
-			</td>
-			<td rowspan="1">
-				<ul>
-					<li>------</li>
-					<li>------</li>
-				</ul>
-			</td>
-			<td rowspan="1">
-				<ul>
-					<li>------</li>
-					<li>------</li>
-				</ul>
-			</td>
-		</tr>
-		<tr>
-			<td colspan="4" align="center"><strong>Catatan</td>
-		</tr>
-		<tr>
-			<td colspan="4">
-				<ul>
-					<li>------</li>
-					<li>------</li>
-				</ul>
-			</td>
-		</tr>
-	</thead>
-</table>
-
-<br></br>
-
-<table>
-	<thead>	
-		<tr>
-			<td rowspan="1"><strong>Identifikasi</td>
-			<td colspan="3">---------</td>
-		</tr>
-		<tr>
-			<td rowspan="1"><strong>Nama Butir Uji</td>
-			<td colspan="3">Pengisian Nama User, Username, Email, dan Password benar</td>
-		</tr>
-		<tr>
-			<td rowspan="1"><strong>Tujuan</td>
-			<td colspan="3">-------</td>
-		</tr>
-		<tr>
-			<td rowspan="1"><strong>Kondisi Awal</td>
-			<td colspan="3">
-				<ul>
-					<li>-------</li>
-					<li>-------</li>
-				</ul>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="1"><strong>Tanggal Pengujian</td>
-			<td colspan="3">-------</td>
-		</tr>
-		<tr>
-			<td rowspan="1"><strong>Penguji</td>
-			<td colspan="3">-------</td>
-		</tr>
-		<tr>
-			<td colspan="4" align="center"><strong>Skenario</td>
-		</tr>
-		<tr>
-			<td colspan="4">
-				<ul>
-					<li>------</li>
-					<li>------</li>
-				</ul>
-			</td>
-		</tr>
-		<tr>
-			<td colspan="4" align="center"><strong>Hasil</td>
-		</tr>
-		<tr>
-			<td rowspan="1" align="center"><strong>Data yang Diberikan</td>
-			<td rowspan="1" align="center"><strong>Yang Diharapkan</td>
-			<td rowspan="1" align="center"><strong>Pengamatan</td>
-			<td rowspan="1" align="center"><strong>Kesimpulan</td>
-		</tr>
-		<tr>
-			<td rowspan="1">
-				<ul>
-					<li>------</li>
-					<li>------</li>
-				</ul>
-			</td>
-			<td rowspan="1">
-				<ul>
-					<li>------</li>
-					<li>------</li>
-				</ul>
-			</td>
-			<td rowspan="1">
-				<ul>
-					<li>------</li>
-					<li>------</li>
-				</ul>
-			</td>
-			<td rowspan="1">
-				<ul>
-					<li>------</li>
-					<li>------</li>
-				</ul>
-			</td>
-		</tr>
-		<tr>
-			<td colspan="4" align="center"><strong>Catatan</td>
-		</tr>
-		<tr>
-			<td colspan="4">
-				<ul>
-					<li>------</li>
-					<li>------</li>
-				</ul>
-			</td>
-		</tr>
-	</thead>
-</table>
-
-<br></br>
-
-<table>
-	<thead>	
-		<tr>
-			<td rowspan="1"><strong>Identifikasi</td>
-			<td colspan="3">STD-2.1</td>
-		</tr>
-		<tr>
-			<td rowspan="1"><strong>Nama Butir Uji</td>
-			<td colspan="3">Pengisian Nama User, Username, Email, dan Password salah</td>
-		</tr>
-		<tr>
-			<td rowspan="1"><strong>Tujuan</td>
-			<td colspan="3">-------</td>
-		</tr>
-		<tr>
-			<td rowspan="1"><strong>Kondisi Awal</td>
-			<td colspan="3">
-				<ul>
-					<li>-------</li>
-					<li>-------</li>
-				</ul>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="1"><strong>Tanggal Pengujian</td>
-			<td colspan="3">-------</td>
-		</tr>
-		<tr>
-			<td rowspan="1"><strong>Penguji</td>
-			<td colspan="3">-------</td>
-		</tr>
-		<tr>
-			<td colspan="4" align="center"><strong>Skenario</td>
-		</tr>
-		<tr>
-			<td colspan="4">
-				<ul>
-					<li>------</li>
-					<li>------</li>
-				</ul>
-			</td>
-		</tr>
-		<tr>
-			<td colspan="4" align="center"><strong>Hasil</td>
-		</tr>
-		<tr>
-			<td rowspan="1" align="center"><strong>Data yang Diberikan</td>
-			<td rowspan="1" align="center"><strong>Yang Diharapkan</td>
-			<td rowspan="1" align="center"><strong>Pengamatan</td>
-			<td rowspan="1" align="center"><strong>Kesimpulan</td>
-		</tr>
-		<tr>
-			<td rowspan="1">
-				<ul>
-					<li>------</li>
-					<li>------</li>
-				</ul>
-			</td>
-			<td rowspan="1">
-				<ul>
-					<li>------</li>
-					<li>------</li>
-				</ul>
-			</td>
-			<td rowspan="1">
-				<ul>
-					<li>------</li>
-					<li>------</li>
-				</ul>
-			</td>
-			<td rowspan="1">
-				<ul>
-					<li>------</li>
-					<li>------</li>
-				</ul>
-			</td>
-		</tr>
-		<tr>
-			<td colspan="4" align="center"><strong>Catatan</td>
-		</tr>
-		<tr>
-			<td colspan="4">
-				<ul>
-					<li>------</li>
-					<li>------</li>
-				</ul>
-			</td>
-		</tr>
-	</thead>
-</table>
-
-<br></br>
-
-<table>
-	<thead>	
-		<tr>
-			<td rowspan="1"><strong>Identifikasi</td>
-			<td colspan="3">STD-2.2</td>
-		</tr>
-		<tr>
-			<td rowspan="1"><strong>Nama Butir Uji</td>
-			<td colspan="3">Tidak ada koneksi internet</td>
-		</tr>
-		<tr>
-			<td rowspan="1"><strong>Tujuan</td>
-			<td colspan="3">-------</td>
-		</tr>
-		<tr>
-			<td rowspan="1"><strong>Kondisi Awal</td>
-			<td colspan="3">
-				<ul>
-					<li>-------</li>
-					<li>-------</li>
-				</ul>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="1"><strong>Tanggal Pengujian</td>
-			<td colspan="3">-------</td>
-		</tr>
-		<tr>
-			<td rowspan="1"><strong>Penguji</td>
-			<td colspan="3">-------</td>
-		</tr>
-		<tr>
-			<td colspan="4" align="center"><strong>Skenario</td>
-		</tr>
-		<tr>
-			<td colspan="4">
-				<ul>
-					<li>------</li>
-					<li>------</li>
-				</ul>
-			</td>
-		</tr>
-		<tr>
-			<td colspan="4" align="center"><strong>Hasil</td>
-		</tr>
-		<tr>
-			<td rowspan="1" align="center"><strong>Data yang Diberikan</td>
-			<td rowspan="1" align="center"><strong>Yang Diharapkan</td>
-			<td rowspan="1" align="center"><strong>Pengamatan</td>
-			<td rowspan="1" align="center"><strong>Kesimpulan</td>
-		</tr>
-		<tr>
-			<td rowspan="1">
-				<ul>
-					<li>------</li>
-					<li>------</li>
-				</ul>
-			</td>
-			<td rowspan="1">
-				<ul>
-					<li>------</li>
-					<li>------</li>
-				</ul>
-			</td>
-			<td rowspan="1">
-				<ul>
-					<li>------</li>
-					<li>------</li>
-				</ul>
-			</td>
-			<td rowspan="1">
-				<ul>
-					<li>------</li>
-					<li>------</li>
-				</ul>
-			</td>
-		</tr>
-		<tr>
-			<td colspan="4" align="center"><strong>Catatan</td>
-		</tr>
-		<tr>
-			<td colspan="4">
-				<ul>
-					<li>------</li>
-					<li>------</li>
-				</ul>
-			</td>
+			<td colspan="4" align="center">-</td>
 		</tr>
 	</thead>
 </table>
@@ -910,7 +572,161 @@ Politeknik Negeri Indramayu<br>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Tujuan</td>
-			<td colspan="3">-------</td>
+			<td colspan="3">Memeriksa apakah bisa menampilkan Halaman Budaya</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Kondisi Awal</td>
+			<td colspan="3">
+				<ul>
+					<li>User sudah melakukan Login</li>
+					<li>User sedang berada pada Halaman Utama</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tanggal Pengujian</td>
+			<td colspan="3">20 Mei 2018</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Penguji</td>
+			<td colspan="3">Firmansyah</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Skenario</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				<ul>
+					<li>Pada Halaman Utama, klik ikon Budaya </li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Hasil</td>
+		</tr>
+		<tr>
+			<td rowspan="1" align="center"><strong>Data yang Diberikan</td>
+			<td rowspan="1" align="center"><strong>Yang Diharapkan</td>
+			<td rowspan="1" align="center"><strong>Pengamatan</td>
+			<td rowspan="1" align="center"><strong>Kesimpulan</td>
+		</tr>
+		<tr>
+			<td rowspan="1"></td>
+			<td rowspan="1">
+				<ul>
+					<li>Aplikasi bisa menampilkan Halaman Budaya</li>
+					<li>Data Budaya muncul pada Halaman Budaya</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>Halaman Budaya bisa ditampilkan jika meng-klik ikon Budaya</li>
+				</ul>
+			</td>
+			<td rowspan="1">OK</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Catatan</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"> - </td>
+		</tr>
+	</thead>
+</table>
+
+<br></br>
+
+<table>
+	<thead>	
+		<tr>
+			<td rowspan="1"><strong>Identifikasi</td>
+			<td colspan="3">STD-2.1</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Nama Butir Uji</td>
+			<td colspan="3">Tidak ada koneksi internet</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tujuan</td>
+			<td colspan="3">Memeriksa apakah bisa menampilkan Halaman Budaya dengan internet tidak terkoneksi</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Kondisi Awal</td>
+			<td colspan="3">
+				<ul>
+					<li>User sudah melakukan Login</li>
+					<li>User sedang berada pada Halaman Utama</li>
+					<li>Data seluler dimatikan</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tanggal Pengujian</td>
+			<td colspan="3">20 Mei 2018</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Penguji</td>
+			<td colspan="3">Firmansyah</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Skenario</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				<ul>
+					<li>Pada Halaman Utama, klik ikon Budaya </li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Hasil</td>
+		</tr>
+		<tr>
+			<td rowspan="1" align="center"><strong>Data yang Diberikan</td>
+			<td rowspan="1" align="center"><strong>Yang Diharapkan</td>
+			<td rowspan="1" align="center"><strong>Pengamatan</td>
+			<td rowspan="1" align="center"><strong>Kesimpulan</td>
+		</tr>
+		<tr>
+			<td rowspan="1"> - </td>
+			<td rowspan="1">
+				<ul>
+					<li>Aplikasi tidak bisa menampilkan Halaman Budaya</li>
+					<li>Muncul pesan error "Tidak Ada Koneksi"</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>Halaman Budaya tidak bisa ditampilkan jika koneksi internet dimatikan</li>
+					<li>Jika tidak ada koneksi internet, maka akan muncul pesan error</li>
+				</ul>
+			</td>
+			<td rowspan="1">OK</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Catatan</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"> - </td>
+		</tr>
+	</thead>
+</table>
+
+<br></br>internet tidak terkoneksi
+
+<table>
+	<thead>	
+		<tr>
+			<td rowspan="1"><strong>Identifikasi</td>
+			<td colspan="3">STD-2.2</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Nama Butir Uji</td>
+			<td colspan="3">Halaman Budaya tidak muncul karena server error</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tujuan</td>
+			<td colspan="3">---------</td>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Kondisi Awal</td>
@@ -991,36 +807,36 @@ Politeknik Negeri Indramayu<br>
 
 <br></br>
 
-<table>
-	<thead>	
+<table>  
+	<thead> 
 		<tr>
 			<td rowspan="1"><strong>Identifikasi</td>
-			<td colspan="3">STD-3.1</td>
+			<td colspan="3">SRS-2.2.6</td>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Nama Butir Uji</td>
-			<td colspan="3">Tidak ada koneksi internet</td>
+			<td colspan="3">Pengisian Username atau password benar (Admin)</td>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Tujuan</td>
-			<td colspan="3">-------</td>
+			<td colspan="3">Memeriksa apakah Admin bisa Login dengan mengisi Username dan Password yang sesuai (benar)</td>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Kondisi Awal</td>
 			<td colspan="3">
 				<ul>
-					<li>-------</li>
-					<li>-------</li>
+					<li>Data Admin sudah terekam pada database (Tabel User)</li>
+					<li>Admin sudah membuka website dan berada pada Halaman Login</li>
 				</ul>
 			</td>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Tanggal Pengujian</td>
-			<td colspan="3">-------</td>
+			<td colspan="3">20 Mei 2018</td>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Penguji</td>
-			<td colspan="3">-------</td>
+			<td colspan="3">Diyanti</td>
 		</tr>
 		<tr>
 			<td colspan="4" align="center"><strong>Skenario</td>
@@ -1028,8 +844,90 @@ Politeknik Negeri Indramayu<br>
 		<tr>
 			<td colspan="4">
 				<ul>
-					<li>------</li>
-					<li>------</li>
+					<li>Isi Username dan Password sesuai dengan data (benar)</li>
+					<li>Klik tombol Masuk jika Username dan Password sudah diisi</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Hasil</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Data yang Diberikan</td>
+			<td rowspan="1"><strong>Yang Diharapkan</td>
+			<td rowspan="1"><strong>Pengamatan</td>
+			<td rowspan="1"><strong>Kesimpulan</td>
+		</tr>
+		<tr>
+			<td rowspan="1">
+				<ul>
+					<li>Username : Admin</li>
+					<li>Password : admin</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>User bisa masuk ke Halaman Utama</li>
+					<li>Data yang diisi benar</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>Admin bisa masuk ke Halaman Dashboard jika Login dengan mengisi Username dan Password secara benar dan sesuai data</li>
+				</ul>
+			</td>
+			<td rowspan="1">OK</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Catatan</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"> - </td>
+		</tr>
+	</thead>
+</table>
+
+<br></br>
+
+<table>
+	<thead>
+		<tr>
+			<td rowspan="1"><strong>Identifikasi</td>
+			<td colspan="3">STD-3.1</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Nama Butir Uji</td>
+			<td colspan="3">Pengisian Username atau Password salah (Admin)</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tujuan</td>
+			<td colspan="3">Memeriksa apakah Admin bisa Login dengan mengisi Username dan Password yang tidak sesuai (salah)</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Kondisi Awal</td>
+			<td colspan="3">
+				<ul>
+					<li>Data Admin sudah terekam pada database (Tabel User)</li>
+					<li>Admin sudah membuka website dan berada pada Halaman Login</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tanggal Pengujian</td>
+			<td colspan="3">20 Mei 2018</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Penguji</td>
+			<td colspan="3">Diyanti</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Skenario</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				<ul>
+					<li>Isi Username dan Password. Untuk password diisi dengan data yang salah</li>
+					<li>Klik tombol Masuk jika Username dan Password sudah diisi</li>
 				</ul>
 			</td>
 		</tr>
@@ -1045,39 +943,29 @@ Politeknik Negeri Indramayu<br>
 		<tr>
 			<td rowspan="1">
 				<ul>
-					<li>------</li>
-					<li>------</li>
+					<li>Username : Admin</li>
+					<li>Password : 123</li>
 				</ul>
 			</td>
 			<td rowspan="1">
 				<ul>
-					<li>------</li>
-					<li>------</li>
+					<li>Admin tidak bisa masuk ke Halaman Dashboard</li>
+					<li>Muncul Pesan Error</li>
 				</ul>
 			</td>
 			<td rowspan="1">
 				<ul>
-					<li>------</li>
-					<li>------</li>
+					<li>Admin tidak bisa masuk ke Halaman Dashboard karena salah dalam mengisi password</li>
+					<li>Muncul Pesan yang berisi "Username atau Password Salah"</li>
 				</ul>
 			</td>
-			<td rowspan="1">
-				<ul>
-					<li>------</li>
-					<li>------</li>
-				</ul>
-			</td>
+			<td rowspan="1">OK</td>
 		</tr>
 		<tr>
 			<td colspan="4" align="center"><strong>Catatan</td>
 		</tr>
 		<tr>
-			<td colspan="4">
-				<ul>
-					<li>------</li>
-					<li>------</li>
-				</ul>
-			</td>
+			<td colspan="4" align="center"> - </td>
 		</tr>
 	</thead>
 </table>
@@ -1092,28 +980,27 @@ Politeknik Negeri Indramayu<br>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Nama Butir Uji</td>
-			<td colspan="3">Halaman Budaya tidak muncul karena server error</td>
+			<td colspan="3">Tidak mengisi Username dan Password (Admin)</td>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Tujuan</td>
-			<td colspan="3">-------</td>
+			<td colspan="3">Memeriksa apakah Admin bisa Login dengan tidak mengisi Username dan Password</td>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Kondisi Awal</td>
 			<td colspan="3">
 				<ul>
-					<li>-------</li>
-					<li>-------</li>
+					<li>Admin sudah membuka website dan berada pada Halaman Login</li>
 				</ul>
 			</td>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Tanggal Pengujian</td>
-			<td colspan="3">-------</td>
+			<td colspan="3">20 Mei 2018</td>
 		</tr>
 		<tr>
 			<td rowspan="1"><strong>Penguji</td>
-			<td colspan="3">-------</td>
+			<td colspan="3">Diyanti</td>
 		</tr>
 		<tr>
 			<td colspan="4" align="center"><strong>Skenario</td>
@@ -1121,8 +1008,7 @@ Politeknik Negeri Indramayu<br>
 		<tr>
 			<td colspan="4">
 				<ul>
-					<li>------</li>
-					<li>------</li>
+					<li>Langsung klik tombol Masuk tanpa mengisi Username dan Password</li>
 				</ul>
 			</td>
 		</tr>
@@ -1138,39 +1024,31 @@ Politeknik Negeri Indramayu<br>
 		<tr>
 			<td rowspan="1">
 				<ul>
-					<li>------</li>
-					<li>------</li>
+					<li>Username : </li>
+					<li>Password : </li>
 				</ul>
 			</td>
 			<td rowspan="1">
 				<ul>
-					<li>------</li>
-					<li>------</li>
+					<li>Admin tidak bisa masuk ke Halaman Utama</li>
+					<li>Muncul Pesan Error</li>
 				</ul>
 			</td>
 			<td rowspan="1">
 				<ul>
-					<li>------</li>
-					<li>------</li>
+					<li>Admin tidak bisa masuk ke Halaman Dashboard karena tidak mengisi Username dan Password</li>
+					<li>Muncul pesan yang berisi "Username atau Password Harus Diisi"</li>
 				</ul>
 			</td>
-			<td rowspan="1">
-				<ul>
-					<li>------</li>
-					<li>------</li>
-				</ul>
-			</td>
+			<td rowspan="1">OK</td>
 		</tr>
 		<tr>
 			<td colspan="4" align="center"><strong>Catatan</td>
 		</tr>
 		<tr>
-			<td colspan="4">
-				<ul>
-					<li>------</li>
-					<li>------</li>
-				</ul>
-			</td>
+			<td colspan="4" align="center">-</td>
 		</tr>
 	</thead>
 </table>
+
+<br></br>
