@@ -49,11 +49,11 @@ https://www.slideshare.net/ttchenok/spmp-18728488 diakses pada tanggal 12 April 
 <td>Software Project Management Plan</td>  
 </tr> 
 <tr>  
-<td>BUSAYU</td>  
+<td><strong>BUSAYU</td>  
 <td>Aplikasi Budaya dan Pariwisata kab. Indramayu</td>  
 </tr>
 <tr>  
-<td>IEEE</td>  
+<td><strong>IEEE</td>  
 <td>(Singkatan : Institute of Electrical and Electronics Engineers) Sebuah organisasi profesi nirlaba yang terdiri dari banyak ahli di bidang teknik yang mempromosikan pengembangan standar-standar dan bertindak sebagai pihak yang mempercepat teknologi-teknologi baru dalam semua aspek dalam industri dan rekayasa (engineering), yang mencakup telekomunikasi, jaringan komputer, kelistrikan, antariksa, dan elektronika.</td>  
 </tr>
 	</tbody>
@@ -412,7 +412,7 @@ System Analysment</td>
 	<td>Dengan jumlah tersebut untuk keseimbangan antara pengerjaan projek, dokumen-dokumen dan pencarian masukan dari pasar, dengan demikian kita dapat mempercepat proses pekerjaan projek</td>
 </tr>
 <tr>
-<td rowspan="3"><strong>Sumber Daya Perangkat Lunak</td>
+<td rowspan="4"><strong>Sumber Daya Perangkat Lunak</td>
 	<td>Sublime Text 3</td>
 	<td>Digunakan untuk membuat web pada admin</td>
 </tr>
@@ -434,7 +434,7 @@ System Analysment</td>
 <td>Perangkat induk yang digunakan dalam pengerjaan projek</td>
 </tr>
 <tr>
-<td>Mobile</td>
+<td>Smartphone</td>
 <td>Perangkat yang digunakan untuk uji coba aplikasi</td>
 </tr>
 </tbody>
